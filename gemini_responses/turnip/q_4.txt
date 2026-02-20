@@ -1,0 +1,31 @@
+Wilt, caused by various soil-borne fungal pathogens such as *Fusarium oxysporum* and *Verticillium dahliae*, is a known problem in Turnip (Brassica rapa subsp. rapa) in Haryana. While 'Parawilt' is a term more commonly associated with other crops like cotton, the wilting symptoms it describes can certainly manifest in Turnip due to similar vascular infections. Effective management requires an integrated approach.
+
+**Control Measures:**
+
+**1. Cultural and Agronomic Practices:**
+*   **Crop Rotation:** Avoid planting Turnip or other susceptible Brassica crops in the same field for at least 3-4 years. Rotate with non-host crops like cereals (wheat, maize).
+*   **Resistant Varieties:** Where available, choose Turnip varieties known to have resistance or tolerance to wilt pathogens.
+*   **Soil Solarization:** During the hot summer months (May-June), cover the prepared field with transparent polyethylene sheets for 4-6 weeks. This helps in reducing soil-borne pathogen inoculum.
+*   **Improved Drainage:** Ensure proper field drainage to prevent waterlogging, which can stress plants and favor pathogen development.
+*   **Field Sanitation:** Remove and destroy infected plant debris immediately to reduce the source of inoculum.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can make plants more susceptible.
+*   **Deep Ploughing:** Summer deep ploughing helps expose soil-borne pathogens to sunlight, reducing their population.
+
+**2. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-control agents like *Trichoderma viride* or *Pseudomonas fluorescens* at 5-10 g/kg seed.
+*   **Soil Application:** Apply *Trichoderma viride* or *Pseudomonas fluorescens* enriched farmyard manure (FYM) at 2.5 kg/acre mixed with 50 kg FYM, before planting.
+
+**3. Chemical Control (CIBRC Approved):**
+
+*   **Seed Treatment (Preventive):** This is the most critical step for managing soil-borne wilt.
+    *   **Carbendazim 50% WP**: 2-3 g/kg seed.
+    *   **Thiophanate Methyl 70% WP**: 2-3 g/kg seed.
+    *   **Thiram 75% WS**: 2.5-3 g/kg seed.
+    *   *Note:* Choose one of these or use in rotation.
+
+*   **Soil Drench (Curative, for early symptoms):**
+    *   If symptoms appear in standing crops, drenching around the base of affected plants can help, though effectiveness is limited once the disease is established.
+    *   **Carbendazim 50% WP**: 1-2 g/L water (apply 200-250 ml solution per plant).
+    *   **Thiophanate Methyl 70% WP**: 1-1.5 g/L water (apply 200-250 ml solution per plant).
+
+Always follow label instructions for safe and effective use of chemicals. Integrated management combining these practices offers the best chance for controlling wilt in Turnip.

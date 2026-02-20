@@ -1,0 +1,70 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Peas (Matar) relevant to Haryana conditions.
+
+First, let's address the specific rot types you mentioned:
+
+*   **Black Rot:** This is not known to affect Peas as a specific disease. Black rot is primarily a disease of cruciferous crops (e.g., cauliflower, cabbage) or grapes.
+
+For the other rot types – Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, Fruit Rot (Pod Rot), Seed Rot, and Seedling Rot – these are common and often interconnected disease complexes in peas, caused by various fungal and oomycete pathogens. These pathogens include *Pythium spp.*, *Fusarium solani f. sp. pisi*, *Rhizoctonia solani*, *Aphanomyces euteiches*, and *Sclerotinia sclerotiorum*.
+
+Effective control requires an integrated approach combining cultural, biological, and chemical methods.
+
+### Integrated Management for Rot Diseases in Peas
+
+**I. Cultural Practices (Preventive Measures):**
+
+1.  **Crop Rotation:** Practice a long crop rotation (at least 3-4 years) with non-leguminous crops to reduce soil-borne inoculum of pathogens. Avoid planting peas in fields where peas or other susceptible legumes were grown recently.
+2.  **Field Selection and Drainage:** Choose well-drained fields for pea cultivation. Improve soil drainage by incorporating organic matter or creating raised beds, especially in areas prone to waterlogging, as excessive moisture favors most rot pathogens.
+3.  **Soil Preparation:** Deep ploughing can help bury infected plant debris and reduce pathogen survival.
+4.  **Certified, Disease-Free Seeds:** Always use high-quality, certified seeds that are free from pathogens.
+5.  **Timely Sowing:** Sow seeds at the recommended time to ensure optimal soil temperature and moisture for rapid germination and seedling establishment, making them less susceptible to seed and seedling rots. Avoid sowing in very cold and wet soil conditions.
+6.  **Balanced Nutrition:** Provide balanced fertilization. Avoid excessive nitrogen, which can lead to lush, tender growth more susceptible to certain diseases.
+7.  **Weed Management:** Control weeds, as they can act as alternate hosts for pathogens and impede air circulation.
+8.  **Sanitation:** Remove and destroy infected plant debris after harvest to reduce the primary inoculum for the next season.
+
+**II. Biological Control:**
+
+1.  **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   **Trichoderma viride** (1-2% WP): 5-10 g per kg of seed.
+    *   **Pseudomonas fluorescens** (1% WP): 10 g per kg of seed.
+    These bio-agents colonize the root zone, suppress pathogen growth, and enhance plant vigor.
+
+**III. Chemical Control:**
+
+Chemical control primarily focuses on seed treatment to protect seeds and young seedlings from seed rot, seedling rot, and early-stage root/collar rots. In severe cases, soil drenching or foliar sprays may be considered for established plants.
+
+**A. Seed Treatment (Crucial for Seed, Seedling, Root, Collar, Foot, Crown, and Neck Rots):**
+
+Treating seeds before sowing is the most effective way to prevent early-stage rot diseases.
+
+*   For broad-spectrum protection against *Pythium*, *Fusarium*, and *Rhizoctonia*:
+    *   **Thiram** (75% WS): 2.5-3.0 g per kg of seed.
+    *   **Captan** (50% WP): 2.5-3.0 g per kg of seed.
+    *   **Carbendazim** (50% WP): 1.0-2.0 g per kg of seed.
+    *   A combination of fungicides can provide broader protection, e.g., **Thiram** (2 g/kg seed) + **Carbendazim** (1 g/kg seed).
+*   For specific protection against Oomycetes like *Pythium* and *Aphanomyces*:
+    *   **Metalaxyl** (35% WS): 1.0-2.0 g per kg of seed.
+    *   **Metalaxyl-M** (35% WS): 1.0-2.0 g per kg of seed.
+    *   Often, **Metalaxyl-M** is available in combination with other fungicides like **Fludioxonil** (e.g., **Metalaxyl-M 2.5% FS + Fludioxonil 2.5% FS** at 2-3 ml per kg of seed) for broader spectrum control.
+
+**B. Soil Drenching / Foliar Spray (For established plants, if severe):**
+
+If rot symptoms appear in the field on established plants (Root, Stem, Foot, Collar, Crown, Neck Rots, or Pod Rot), targeted applications may be necessary.
+
+*   For Root/Collar/Stem Rots caused by *Pythium spp.*:
+    *   **Propamocarb hydrochloride** (72.2% SL): 2-3 ml per litre of water as a soil drench around the base of affected plants.
+    *   **Metalaxyl 8% + Mancozeb 64% WP**: 2.0-2.5 g per litre of water as a soil drench.
+*   For Rots caused by *Fusarium* or *Rhizoctonia*:
+    *   **Carbendazim** (50% WP): 0.5-1.0 g per litre of water as a soil drench.
+    *   **Pencycuron** (25% SC): 1.0-1.5 ml per litre of water as a soil drench for *Rhizoctonia*.
+*   For Pod Rot (Fruit Rot) or Stem Rot caused by *Sclerotinia sclerotiorum* (White Mold):
+    *   **Tebuconazole** (25.9% EC): 1.0 ml per litre of water, sprayed at the onset of symptoms.
+    *   **Azoxystrobin** (23% SC): 0.5-1.0 ml per litre of water, sprayed at the onset of symptoms.
+    *   **Boscalid** (50% WG): 0.75-1.0 g per litre of water, sprayed at the onset of symptoms.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the product label for dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with your local agricultural extension specialist for specific recommendations tailored to your field conditions and prevailing disease pressure.
+
+By implementing these integrated strategies, you can effectively manage and control various rot diseases in your pea crop.

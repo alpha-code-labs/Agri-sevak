@@ -1,0 +1,53 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for managing these conditions in Snap Melon (Cucumis melo var. momordica) in Haryana.
+
+It is crucial to adopt an Integrated Disease Management (IDM) approach, combining cultural practices, resistant varieties (if available), and judicious use of chemical controls.
+
+Here's how to control the mentioned conditions:
+
+### 1. Scab (Cucurbit Scab - *Cladosporium cucumerinum*)
+
+Scab is a fungal disease that can affect Snap Melon.
+
+*   **Symptoms:** Characterized by small, water-soaked spots on leaves, stems, and fruits. On fruits, these spots enlarge, become sunken, and develop a dark, velvety growth, often exuding gum.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Use disease-free seeds.
+        *   Practice crop rotation with non-cucurbit crops for at least 2-3 years.
+        *   Ensure proper field sanitation by removing and destroying infected plant debris immediately after harvest.
+        *   Avoid overhead irrigation to reduce leaf wetness, which favors fungal growth.
+        *   Ensure adequate spacing between plants for good air circulation.
+    *   **Chemical Control (Apply preventively or at early symptom onset, typically 2-3 sprays at 7-10 day intervals):**
+        *   Foliar spray of **Mancozeb** at 2.5 g/L water (or 2.5 kg/acre).
+        *   Foliar spray of **Chlorothalonil** at 2 g/L water (or 2 kg/acre).
+        *   Foliar spray of **Azoxystrobin** at 0.5 ml/L water (or 200 ml/acre).
+        *   Foliar spray of **Tebuconazole** at 1 ml/L water (or 400 ml/acre).
+
+### 2. Canker
+
+"Canker" is a general term for localized necrotic lesions on stems. Bacterial canker (*Clavibacter michiganensis* subsp. *michiganensis*) is **not known to affect Snap Melon**. If you are observing stem lesions or canker-like symptoms on Snap Melon, these are most commonly associated with Gummy Stem Blight, which is addressed under "Gummosis" below.
+
+### 3. Gummosis (Gummy Stem Blight - *Didymella bryoniae* / *Stagonosporopsis cucurbitacearum*)
+
+Gummy Stem Blight is a significant fungal disease in cucurbits, including Snap Melon, and is the primary cause of gummosis.
+
+*   **Symptoms:** This disease causes water-soaked spots on leaves, stems, and fruits. Stem lesions often girdle the stem, leading to wilting, and are characterized by the exudation of amber-colored gum.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Use disease-free seeds or treat seeds with hot water (55°C for 20 minutes) or a recommended fungicide.
+        *   Practice strict crop rotation (at least 2-3 years) with non-cucurbit crops.
+        *   Remove and destroy infected plant residues immediately after harvest.
+        *   Ensure good air circulation within the canopy and avoid excessive humidity.
+        *   Avoid wounding plants during cultivation, as wounds can be entry points for the pathogen.
+    *   **Chemical Control (Apply preventively or at early symptom onset, typically 2-3 sprays at 7-10 day intervals):**
+        *   Foliar spray of **Mancozeb** at 2.5 g/L water (or 2.5 kg/acre).
+        *   Foliar spray of **Chlorothalonil** at 2 g/L water (or 2 kg/acre).
+        *   Foliar spray of **Azoxystrobin** at 0.5 ml/L water (or 200 ml/acre).
+        *   Foliar spray of **Tebuconazole** at 1 ml/L water (or 400 ml/acre).
+        *   Foliar spray of **Difenoconazole** at 0.5 ml/L water (or 200 ml/acre).
+        *   Foliar spray of **Pyraclostrobin + Metiram** (combination product) at 1.5-2 g/L water (or 600-800 g/acre).
+
+### 4. Lichen
+
+Lichens are symbiotic organisms (a fungus and an alga living together) that grow on the surface of plants, rocks, or other substrates. They are epiphytic and **do not parasitize or cause any harm to Snap Melon plants**. They are not a disease or pest and therefore, no control measures are required or recommended. Their presence often indicates good air quality and a healthy, undisturbed environment.
+
+Always read and follow the instructions on the pesticide label carefully, including dosage, application method, and safety precautions. Consult with your local agricultural extension officer for specific recommendations tailored to your farm's conditions.

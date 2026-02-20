@@ -1,0 +1,41 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), here is scientifically verified advice for controlling beetles, weevils, and sawflies in tobacco in Haryana:
+
+**1. Beetles in Tobacco:**
+
+*   **Flea Beetles (e.g., *Epitrix* spp.):** These are significant pests, especially in tobacco nurseries and young transplanted crops. They cause characteristic "shot-hole" damage on leaves, which can severely impact plant growth and yield.
+    *   **Control Measures:**
+        *   **Cultural Practices:** Regular monitoring of nurseries and young plants is crucial. Destroying alternate weed hosts (e.g., Solanaceous weeds) can reduce pest populations. Ensure proper field sanitation.
+        *   **Chemical Control (Foliar Spray):**
+            *   **Imidacloprid 17.8% SL:** 125-150 ml per acre.
+            *   **Thiamethoxam 25% WG:** 40-50 g per acre.
+            *   **Lambda-cyhalothrin 5% EC:** 100-125 ml per acre.
+            *   **Spinosad 45% SC:** 60-75 ml per acre.
+            *   **Chlorantraniliprole 18.5% SC:** 60 ml per acre.
+
+*   **Tobacco Beetle (*Lasioderma serricorne*):** This beetle is primarily a stored product pest, causing significant damage to cured tobacco leaves and products. While it can infest tobacco in the field, especially drying leaves or in curing barns, its major impact is post-harvest.
+    *   **Control in the field (incidental):** The insecticides listed for flea beetles may offer some incidental control if the beetles are present on the growing crop.
+    *   **Control in storage:** This involves specific fumigation protocols and strict hygiene, which are beyond the scope of field pest control.
+
+**2. Weevils in Tobacco:**
+
+*   **Tobacco Weevil (*Trigonocolus brunneus*):** This is not known to be a significant field pest of growing tobacco plants in Haryana. It is primarily a stored product pest, similar to the Tobacco Beetle, causing damage to cured tobacco.
+    *   **Control:** For field conditions, this is not a primary concern. For stored tobacco, specific storage management and fumigation practices are employed.
+
+**3. Sawflies in Tobacco:**
+
+*   **Tobacco Sawfly (*Athalia proxima*):** This is a common and damaging pest, particularly in tobacco nurseries and young plants. The larvae are voracious feeders, skeletonizing leaves and causing significant defoliation.
+    *   **Control Measures:**
+        *   **Cultural Practices:** Regular inspection of nurseries and young plants. Hand-picking of larvae can be effective in small areas. Destroying crop residues and alternate hosts (e.g., mustard, radish) can reduce carry-over populations.
+        *   **Chemical Control (Foliar Spray):**
+            *   **Chlorpyrifos 20% EC:** 1000-1250 ml per acre.
+            *   **Lambda-cyhalothrin 5% EC:** 100-125 ml per acre.
+            *   **Spinosad 45% SC:** 60-75 ml per acre.
+            *   **Chlorantraniliprole 18.5% SC:** 60 ml per acre.
+            *   **Imidacloprid 17.8% SL:** 125-150 ml per acre (effective against young larvae).
+
+**Important Considerations:**
+*   Always read and strictly follow the label instructions of any pesticide product, including dosage, application method, and safety precautions.
+*   Ensure proper spray coverage for effective control, especially on the underside of leaves where pests often reside.
+*   Rotate insecticides with different modes of action to prevent the development of pest resistance.
+*   Observe pre-harvest intervals (PHI) for all chemical applications to ensure the safety of the harvested product.
+*   Consult with local agricultural extension specialists at HAU for the most current recommendations specific to your region and crop stage.

@@ -1,0 +1,26 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fruit flies and addressing the query about Ber fly in Grapes in Haryana:
+
+### Control of Fruit fly (e.g., *Bactrocera dorsalis*, *Bactrocera zonata*) in Grape
+
+Fruit flies can cause significant damage to grape berries, leading to premature fruit drop, fruit rot, and substantial yield losses. An Integrated Pest Management (IPM) approach is recommended for effective and sustainable control.
+
+1.  **Cultural Practices:**
+    *   **Sanitation:** Regularly collect and destroy all fallen, damaged, and infested grape berries by burying them deep in the soil (at least 60 cm) or burning them. This helps to break the pest's life cycle by eliminating larvae and pupae.
+    *   **Orchard Hygiene:** Keep the vineyard clean and free of weeds, which can harbor pests.
+    *   **Deep Ploughing:** After harvest, deep ploughing can expose fruit fly pupae in the soil to predators and adverse environmental conditions, reducing the population for the next season.
+
+2.  **Monitoring and Mass Trapping:**
+    *   **Pheromone Traps:** Install specific pheromone traps (e.g., Methyl Eugenol traps for *Bactrocera dorsalis*) at a density of 10-12 traps per acre (25-30 traps per hectare) to monitor adult fruit fly activity and for mass trapping. Replace the lures every 2-3 weeks for sustained effectiveness.
+
+3.  **Chemical Control (Apply only when pest incidence crosses the economic threshold level):**
+    *   **Bait Sprays:** These are highly effective as they attract and kill adult fruit flies.
+        *   Prepare a bait spray by mixing **Malathion** 50% EC at 2 ml/L of water with 10 g/L of jaggery (gur) or a protein hydrolysate. Apply this mixture as spot sprays on the foliage, particularly on the underside of leaves, rather than a full cover spray. Target a few spots per plant. Repeat applications at 7-10 day intervals, especially during fruit development.
+    *   **Foliar Sprays (if infestation is high and bait sprays are insufficient):**
+        *   **Spinosad** 45% SC at 0.25 ml/L of water.
+        *   **Deltamethrin** 2.8% EC at 0.5 ml/L of water.
+        *   **Cypermethrin** 25% EC at 0.5 ml/L of water.
+    *   Ensure thorough coverage of the fruit bunches and surrounding foliage. Always adhere to the recommended pre-harvest interval (PHI) for the chosen chemical to ensure fruit safety.
+
+### Control of Ber fly (*Carpomyia vesuviana*) in Grape
+
+This is not known to affect Grape. Ber fly (*Carpomyia vesuviana*) is a highly host-specific pest that primarily infests Ber (*Ziziphus mauritiana*) fruits and does not infest grapes.

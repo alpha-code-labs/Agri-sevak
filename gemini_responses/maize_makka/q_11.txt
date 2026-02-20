@@ -1,0 +1,58 @@
+Namaste Kisan Bhaiyon,
+
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide scientifically verified advice for controlling beetles, weevils, and sawflies in Maize (Makka) in Haryana.
+
+---
+
+### Sawflies
+
+This is not known to affect Maize (Makka). Sawflies are generally not considered a pest of maize.
+
+### Beetles
+
+Several beetle species can affect maize, primarily as larvae (grubs) feeding on roots or as adults feeding on leaves or silks. The most significant beetle pest in maize in Haryana is often the **White Grub**.
+
+**1. White Grubs (Larvae of Scarab Beetles)**
+*   **Damage:** White grubs are C-shaped, creamy-white larvae that feed on the roots of maize plants, leading to wilting, stunted growth, and sometimes plant death. Damage is often patchy in the field.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Deep ploughing during summer exposes grubs to predators and sunlight, reducing their population.
+        *   Crop rotation with non-host crops can help break their life cycle.
+        *   Timely sowing and maintaining good field sanitation.
+    *   **Chemical Control:**
+        *   **Seed Treatment (for early season protection):**
+            *   Treat seeds with **Thiamethoxam** 70% WS at 3-4 g per kg of seed.
+            *   Alternatively, **Imidacloprid** 600 FS at 4-6 ml per kg of seed.
+        *   **Soil Application (at sowing or early growth stage if infestation is observed):**
+            *   Apply **Fipronil** 0.3% GR at 6-10 kg per acre by broadcasting and mixing into the soil before sowing or at the time of sowing.
+            *   Alternatively, apply **Chlorpyrifos** 10% GR at 10-15 kg per acre in the soil at sowing.
+            *   For standing crops, drenching with **Chlorpyrifos** 20% EC at 2.5 L per acre mixed in sufficient water can be done around the root zone.
+
+**2. Other Beetles (e.g., Flea Beetles, Blister Beetles)**
+*   **Damage:** Flea beetles can cause small 'shot-hole' damage on young leaves. Blister beetles may feed on silks and pollen, especially during the tasseling and silking stages. However, these are generally not major economic pests in maize in Haryana and usually do not require specific chemical intervention unless populations are very high.
+*   **Control Measures (if severe infestation occurs):**
+    *   **Foliar Spray:**
+        *   If significant damage is observed, especially on young plants, a foliar spray of **Lambda-cyhalothrin** 5% EC at 100-125 ml per acre can be effective.
+
+### Weevils
+
+**1. Field Weevils**
+*   **Damage:** Weevils are generally not considered a significant pest of standing maize crops in the field in Haryana. Damage by weevils to growing maize plants is rare and typically does not warrant specific control measures.
+
+**2. Storage Weevils (e.g., Maize Weevil - *Sitophilus zeamais*)**
+*   **Damage:** While not a field pest, the maize weevil is a major pest of stored maize grains. It infests grains in storage, causing significant weight loss and quality deterioration.
+*   **Control Measures (for stored grain, not field):**
+    *   **Preventive Measures:** Ensure proper drying of grains before storage (moisture content below 12%), clean storage structures, and use airtight containers.
+    *   **Chemical Control (for stored grain):**
+        *   Fumigation with **Aluminium Phosphide** tablets (as per recommended dosage and safety guidelines) in airtight storage structures. This should only be done by trained personnel due to its highly toxic nature.
+        *   Mixing of approved contact insecticides like **Malathion** 5% dust (at 250 g per quintal of grain) with the grain before storage.
+
+---
+
+**Important Considerations:**
+*   Always read and follow the instructions on the pesticide label carefully, including dosage, application method, and safety precautions.
+*   Ensure proper protective gear (gloves, mask, eye protection) is used during pesticide application.
+*   Observe the pre-harvest interval (PHI) for any applied pesticide to ensure food safety.
+*   Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods, is always recommended for sustainable pest control.
+
+For any specific concerns or severe infestations, please contact your local agricultural extension officer or HAU experts for further guidance.

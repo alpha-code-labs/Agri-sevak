@@ -1,0 +1,105 @@
+Namaste Kisan Bhaiyon,
+
+The symptom of "Drying up" in Lentil (Masur), which includes drying branches, leaves, fruits, and flowers, is a serious concern and can be indicative of several underlying issues, both biotic (diseases, pests) and abiotic (environmental stress). As a Senior Agronomist at HAU, Hisar, I will provide scientifically verified advice for managing these conditions in Haryana.
+
+It is crucial to accurately diagnose the specific cause, as management strategies vary. Here are the most common causes of drying up in Lentil and their recommended management:
+
+### 1. Lentil Wilt (Fusarium oxysporum f. sp. lentis)
+
+This is one of the most devastating diseases causing sudden drying and wilting of plants, often in patches. Affected plants show yellowing and drooping of leaves, followed by complete drying. If you split the stem, you might see discolouration in the vascular tissue.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Use resistant or tolerant varieties recommended for Haryana.
+    *   Practice long crop rotations (3-4 years) with non-host crops.
+    *   Timely sowing (mid-October to early November) helps plants escape severe wilt incidence.
+    *   Maintain proper field sanitation and remove infected plant debris.
+*   **Chemical Management (Seed Treatment is crucial):**
+    *   Treat seeds before sowing with a combination fungicide:
+        *   **Carbendazim 12% + Mancozeb 63% WP** at 2.5-3 g/kg seed.
+        *   **Thiophanate Methyl 70% WP** at 2-2.5 g/kg seed.
+    *   Alternatively, for soil-borne pathogens, biological control agents like *Trichoderma viride* or *Trichoderma harzianum* can be used as seed treatment (4-5 g/kg seed) or soil application (2.5 kg/acre mixed with 50 kg FYM).
+
+### 2. Collar Rot / Root Rot (Sclerotium rolfsii, Rhizoctonia solani)
+
+These are soil-borne fungal diseases that attack the plant at the soil line or roots, leading to wilting and drying of the entire plant. A white, cottony fungal growth might be visible at the base of the stem, sometimes with small, mustard-seed-like sclerotia.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Ensure good drainage to avoid waterlogging.
+    *   Deep ploughing during summer can expose sclerotia to sunlight, reducing their viability.
+    *   Practice crop rotation.
+*   **Chemical Management (Seed Treatment and Soil Drench):**
+    *   **Seed Treatment:** Same as for Lentil Wilt:
+        *   **Carbendazim 12% + Mancozeb 63% WP** at 2.5-3 g/kg seed.
+        *   **Thiophanate Methyl 70% WP** at 2-2.5 g/kg seed.
+    *   **Soil Drench (for localized infection):**
+        *   **Carbendazim 50% WP** at 1-2 g/L water, drenched around the base of affected plants.
+        *   **Thiophanate Methyl 70% WP** at 1-1.5 g/L water, drenched around the base of affected plants.
+
+### 3. Stemphylium Blight / Ascochyta Blight
+
+These blights cause lesions on leaves, stems, and pods. Severe infection can lead to defoliation, drying of affected plant parts, and premature drying of the entire plant, especially under humid conditions.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Use disease-free seeds.
+    *   Avoid dense planting to ensure good air circulation.
+    *   Remove and destroy infected plant debris.
+*   **Chemical Management (Foliar Spray):**
+    *   At the first appearance of symptoms, spray with:
+        *   **Mancozeb 75% WP** at 600-800 g/acre (mixed in 200-300 L water).
+        *   **Chlorothalonil 75% WP** at 500-600 g/acre (mixed in 200-300 L water).
+        *   **Propiconazole 25% EC** at 200-250 ml/acre (mixed in 200-300 L water).
+        *   **Azoxystrobin 23% SC** at 200 ml/acre (mixed in 200-300 L water).
+    *   Repeat spray after 10-15 days if the disease persists.
+
+### 4. Lentil Rust (Uromyces viciae-fabae)
+
+Rust appears as reddish-brown pustules on leaves, stems, and pods. Severe infection can lead to premature yellowing, drying, and defoliation of leaves, significantly impacting yield.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Sow rust-resistant varieties.
+    *   Avoid late sowing, as late-sown crops are more susceptible.
+*   **Chemical Management (Foliar Spray):**
+    *   When rust pustules appear, spray with:
+        *   **Mancozeb 75% WP** at 600-800 g/acre (mixed in 200-300 L water).
+        *   **Propiconazole 25% EC** at 200-250 ml/acre (mixed in 200-300 L water).
+        *   **Tebuconazole 250 EC** at 200-250 ml/acre (mixed in 200-300 L water).
+    *   Repeat spray after 10-15 days if necessary.
+
+### 5. Aphids
+
+Aphids are small, soft-bodied insects that suck sap from tender shoots, leaves, and flowers. Heavy infestations can cause curling, yellowing, wilting, and drying of affected parts, especially young growth. They also excrete honeydew, leading to sooty mould.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Monitor crops regularly for aphid presence.
+    *   Encourage natural enemies like ladybird beetles and syrphid flies.
+*   **Chemical Management (Foliar Spray):**
+    *   If aphid population is high, spray with:
+        *   **Imidacloprid 17.8% SL** at 50-70 ml/acre (mixed in 200-300 L water).
+        *   **Thiamethoxam 25% WG** at 50 g/acre (mixed in 200-300 L water).
+        *   **Acetamiprid 20% SP** at 50-80 g/acre (mixed in 200-300 L water).
+
+### 6. Termites
+
+Termites can damage the roots and stem base of lentil plants, leading to wilting, yellowing, and eventual drying of the entire plant. This damage is often more prevalent in light-textured soils.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Remove crop residues and weeds that can serve as termite food sources.
+    *   Deep ploughing can disrupt termite colonies.
+*   **Chemical Management (Soil Treatment):**
+    *   **Pre-sowing/At Sowing:**
+        *   **Fipronil 0.3% GR** at 6-8 kg/acre, broadcast and incorporated into the soil.
+        *   **Fipronil 5% SC** at 400-600 ml/acre, mixed with irrigation water or applied as a drench.
+
+### 7. Physiological Stress (Abiotic Factors)
+
+*   **Water Stress:** Both drought (lack of water) and waterlogging (excess water) can cause wilting and drying of plants. Ensure optimal irrigation practices.
+*   **Nutrient Deficiencies:** Severe deficiencies of certain nutrients can lead to yellowing, stunted growth, and premature drying. Conduct soil testing to identify and correct deficiencies.
+*   **Temperature Extremes:** Sudden changes or prolonged periods of very high or very low temperatures can cause stress, leading to drying of plant parts.
+
+**Important Note:** Always read the label of the chemical product carefully before use and follow the manufacturer's instructions regarding dosage, application method, and safety precautions. Proper diagnosis is key to effective management. If you are unsure about the specific cause, it is advisable to consult with a local agricultural expert or HAU extension scientist.

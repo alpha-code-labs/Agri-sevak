@@ -1,0 +1,31 @@
+Wilt in Green Gram (Mungbean) can manifest as Fusarium Wilt (caused by *Fusarium oxysporum*) or Parawilt (often a complex of environmental stress, particularly waterlogging, and root rot pathogens). Effective management requires an integrated approach combining cultural, biological, and chemical strategies.
+
+Here's how to control Wilt (including Parawilt) in Green Gram:
+
+**1. Cultural Practices:**
+*   **Resistant Varieties:** Select Green Gram varieties known to be resistant or tolerant to wilt prevalent in Haryana. Consult HAU recommendations for suitable varieties.
+*   **Crop Rotation:** Implement a 2-3 year crop rotation with non-host crops like cereals (e.g., maize, sorghum, pearl millet) to reduce the build-up of soil-borne pathogens.
+*   **Soil Health and Drainage:**
+    *   Improve soil structure and drainage by deep ploughing and incorporating well-decomposed farmyard manure (FYM) or compost (5-10 tonnes/acre). This is crucial to prevent waterlogging, which is a major trigger for Parawilt.
+    *   Avoid planting Green Gram in fields with a history of severe wilt problems.
+*   **Irrigation Management:** Practice judicious irrigation. Avoid over-irrigation, especially during critical growth stages and hot periods, as excessive moisture can exacerbate Parawilt and root rot.
+*   **Timely Sowing:** Sow Green Gram at the recommended time for your region in Haryana to avoid periods of extreme environmental stress (e.g., high temperatures, heavy rainfall) during sensitive growth stages.
+*   **Field Sanitation:** Remove and destroy infected plant debris and uprooted wilted plants from the field to reduce the inoculum source.
+
+**2. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-control agents before sowing for early protection against soil-borne pathogens.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply at 4-6 g/kg of seed.
+*   **Soil Application:**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Mix 2.5 kg of the formulation with 50-100 kg of well-decomposed farmyard manure/compost and apply uniformly in one acre before sowing or at the time of the last ploughing.
+
+**3. Chemical Control:**
+*   **Seed Treatment (Preventive):**
+    *   Treat seeds with a systemic fungicide to protect against early seedling wilt.
+    *   **Carbendazim** 12% + **Mancozeb** 63% WP: 2.5 g/kg of seed.
+    *   Alternatively, **Carbendazim** 50% WP: 2 g/kg of seed.
+    *   Alternatively, **Thiram** 75% WS: 2.5-3 g/kg of seed.
+    *   *Note: If using both chemical and biological seed treatments, apply the chemical treatment first, allow the seeds to dry, and then apply the biological treatment.*
+*   **Soil Drenching (Curative for localized patches):**
+    *   For localized patches showing wilt symptoms, especially if root rot is suspected, drenching can be done around the base of affected plants. This is more practical for small areas or hot spots.
+    *   **Carbendazim** 50% WP: 1-2 g/L of water.
+    *   Alternatively, **Propiconazole** 25% EC: 1 ml/L of water, if *Rhizoctonia* or other specific root rot pathogens are suspected.

@@ -1,0 +1,74 @@
+Namaste Kisan Bhaiyon,
+
+Wilt, including Parawilt, is a serious concern in cucumber cultivation in Haryana, leading to significant yield losses. As a Senior Agronomist at HAU, Hisar, I advise an integrated approach for effective management, as wilt can be caused by various factors – fungal, bacterial, or abiotic stresses.
+
+**I. General Management Principles (Integrated Pest Management - IPM):**
+
+1.  **Accurate Diagnosis:** Before applying any control measure, it is crucial to identify the specific cause of wilting. Observe symptoms (leaf yellowing, vascular discoloration, presence of insects), and if possible, get a laboratory diagnosis.
+2.  **Resistant Varieties:** Whenever available, choose cucumber varieties known to be resistant or tolerant to common wilt diseases in your region.
+3.  **Crop Rotation:** Practice a strict 3-4 year crop rotation with non-cucurbit crops (e.g., cereals, maize) to break the disease cycle and reduce pathogen build-up in the soil.
+4.  **Field Sanitation:** Remove and destroy infected plant debris immediately to prevent the spread of pathogens.
+5.  **Soil Health:** Improve soil drainage, aeration, and organic matter content. Avoid waterlogging, which can predispose plants to root rot and wilting.
+6.  **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can make plants more susceptible to certain diseases.
+7.  **Weed Control:** Manage weeds, as they can harbor pests and diseases.
+
+**II. Specific Causes and Control Measures:**
+
+**A. Fungal Wilts (e.g., Fusarium Wilt, Verticillium Wilt):**
+These are caused by soil-borne fungi that block the plant's vascular system.
+
+*   **Cultural Practices:**
+    *   Use disease-free seeds.
+    *   Practice soil solarization during hot summer months to reduce pathogen load.
+    *   Avoid planting in fields with a history of severe wilt.
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-fungicides.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: 5-10 g/kg seed.
+        *   **Pseudomonas fluorescens**: 10 g/kg seed.
+    *   **Soil Application:** Mix bio-fungicides with Farm Yard Manure (FYM) and apply to the soil before planting or as a drench.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: 2.5 kg/acre mixed with 50 kg FYM.
+        *   **Pseudomonas fluorescens**: 2.5 kg/acre mixed with 50 kg FYM.
+*   **Chemical Control (CIBRC Approved):**
+    *   **Seed Treatment:**
+        *   **Carbendazim** 1 g/kg seed + **Thiram** 2 g/kg seed (as a combination or sequential treatment).
+        *   **Thiophanate Methyl** 2 g/kg seed.
+    *   **Soil Drench (at early signs of wilting or as a preventive measure in high-risk areas):**
+        *   **Carbendazim** 1 g/L water (apply 200-300 ml solution per plant around the root zone).
+        *   **Thiophanate Methyl** 1 g/L water (apply 200-300 ml solution per plant).
+        *   **Propamocarb Hydrochloride** 2-3 ml/L water (effective against root rot complex, which can lead to wilting).
+        *   **Metalaxyl 8% + Mancozeb 64% WP** 2.5 g/L water (for root rot complex).
+
+**B. Bacterial Wilt (e.g., caused by *Erwinia tracheiphila*):**
+This wilt is primarily transmitted by cucumber beetles (striped and spotted cucumber beetles).
+
+*   **Cultural Practices:**
+    *   Control cucumber beetle populations, especially during seedling and early growth stages.
+    *   Remove and destroy infected plants immediately to prevent further spread.
+    *   Practice crop rotation.
+*   **Chemical Control (CIBRC Approved):**
+    *   **Vector Control (Cucumber Beetles):**
+        *   **Imidacloprid** 0.3 ml/L water (foliar spray) or 5-7 ml/kg seed (seed treatment).
+        *   **Thiamethoxam** 0.2 g/L water (foliar spray) or 3-4 g/kg seed (seed treatment).
+        *   **Acetamiprid** 0.2 g/L water (foliar spray).
+        *   **Lambda-cyhalothrin** 0.5 ml/L water (foliar spray).
+    *   **Direct Bacterial Control (limited efficacy once wilt is established, best as preventive or early intervention):**
+        *   **Streptomycin Sulphate 9% + Tetracycline Hydrochloride 1% SP** 0.6 g/L water (as a drench or foliar spray).
+        *   **Copper Oxychloride** 2.5 g/L water (as a drench or foliar spray).
+
+**C. Parawilt / Other Wilting Causes (including Root Rot, Nematodes, Abiotic Stress):**
+"Parawilt" is often a general term for wilting not directly attributed to a specific vascular pathogen, and can be due to a combination of factors like severe root damage, nutrient deficiencies, water stress, or nematode infestation.
+
+*   **Cultural Practices:**
+    *   **Nematode Management:** Incorporate neem cake at 200 kg/acre into the soil before planting.
+    *   Ensure proper irrigation – avoid both water scarcity and waterlogging.
+    *   Provide balanced nutrition based on soil test reports.
+    *   Avoid mechanical damage to roots during intercultural operations.
+*   **Biological Control (for Nematodes and Root Health):**
+    *   **Paecilomyces lilacinus**: 2.5 kg/acre (soil application mixed with 50 kg FYM) for nematode control.
+    *   **Trichoderma viride** / **Trichoderma harzianum**: 2.5 kg/acre (soil application mixed with 50 kg FYM) to enhance root health and suppress root rot pathogens.
+*   **Chemical Control (CIBRC Approved - for associated root rot):**
+    *   **Soil Drench (if root rot is suspected):**
+        *   **Propamocarb Hydrochloride** 2-3 ml/L water.
+        *   **Metalaxyl 8% + Mancozeb 64% WP** 2.5 g/L water.
+
+Always read the label instructions carefully before using any chemical and follow recommended safety precautions. For specific advice tailored to your field conditions, please consult with your local agricultural extension officer or HAU experts.

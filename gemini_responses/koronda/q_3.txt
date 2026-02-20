@@ -1,0 +1,53 @@
+As a Senior Agronomist at HAU, Hisar, I can confirm that while Koronda (Carissa carandas) is generally a hardy plant, it can be susceptible to various fungal rot diseases, especially under conditions of excessive moisture, poor drainage, or high humidity. The types of rot you've mentioned (Root, Stem, Foot, Collar, Crown, Neck, Black, Fruit, Seed, and Seedling rot) are often caused by a range of fungal pathogens such as *Phytophthora*, *Pythium*, *Rhizoctonia*, *Fusarium*, *Sclerotium*, *Colletotrichum*, and *Alternaria*.
+
+Effective control involves an integrated approach combining cultural practices, biological methods, and judicious use of CIBRC-approved fungicides.
+
+**I. Cultural and Preventive Measures (Most Important):**
+
+1.  **Site Selection and Drainage:** Plant Koronda in well-drained soils. Avoid low-lying areas where water can accumulate. Improve soil drainage by incorporating organic matter or creating raised beds.
+2.  **Proper Irrigation:** Avoid overwatering. Irrigate deeply but infrequently, allowing the soil to dry out between irrigations. Drip irrigation is preferable to overhead irrigation to keep foliage and stems dry.
+3.  **Sanitation:** Regularly remove and destroy infected plant parts (leaves, stems, fruits) and fallen debris to reduce inoculum sources.
+4.  **Air Circulation:** Ensure adequate spacing between plants to promote good air circulation, which helps in drying foliage and reducing humidity around the plants.
+5.  **Healthy Planting Material:** Use disease-free seeds or seedlings from reputable sources.
+6.  **Soil Solarization:** For nursery beds or small planting areas, soil solarization during hot summer months (May-June) can significantly reduce soil-borne pathogen populations.
+7.  **Nutrient Management:** Maintain balanced plant nutrition. Avoid excessive nitrogen, which can lead to lush, susceptible growth.
+
+**II. Biological Control:**
+
+1.  **Soil Application:** Apply beneficial microbial antagonists to the soil, especially in nursery beds or around young plants.
+    *   **Trichoderma viride** (2.5 kg/acre mixed with 50 kg farmyard manure)
+    *   **Pseudomonas fluorescens** (2.5 kg/acre mixed with 50 kg farmyard manure)
+    *   These should be applied at planting or as a drench around the base of existing plants.
+
+**III. Chemical Control (CIBRC Approved Fungicides):**
+
+**A. For Root, Stem, Foot, Collar, Crown, Neck, and Seedling Rots (Soil-borne diseases):**
+
+1.  **Seed Treatment (for Seed Rot and Seedling Rot prevention):**
+    *   Treat seeds before sowing with:
+        *   **Thiram** (2-3 g/kg seed)
+        *   **Captan** (2-3 g/kg seed)
+        *   **Carbendazim** (1-2 g/kg seed)
+2.  **Soil Drenching (for existing plants):**
+    *   At the first sign of disease, drench the soil around the base of the affected plants with one of the following:
+        *   **Propamocarb hydrochloride** (2-3 ml/L of water)
+        *   **Metalaxyl** + **Mancozeb** (e.g., 2.5 g/L of water)
+        *   **Carbendazim** (1-2 g/L of water)
+        *   **Copper oxychloride** (3 g/L of water)
+    *   Repeat drenching if necessary, following label instructions, especially during periods conducive to disease development.
+
+**B. For Fruit Rot and Black Rot (Foliar/Fruit diseases):**
+
+1.  **Foliar Spray:**
+    *   Apply protective sprays during fruit development, especially if conditions are humid or if previous incidence was high.
+        *   **Mancozeb** (2.5 g/L of water)
+        *   **Copper oxychloride** (3 g/L of water)
+        *   **Azoxystrobin** (0.5-1 ml/L of water)
+        *   **Difenoconazole** (0.5 ml/L of water)
+    *   Ensure thorough coverage of fruits and foliage. Repeat sprays at 10-15 day intervals if disease pressure persists, adhering to pre-harvest intervals (PHI).
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the fungicide label regarding dosage, application method, safety precautions, and pre-harvest interval (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Early detection and intervention are key to effective disease management.

@@ -1,0 +1,87 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Paddy (Dhan) in Haryana. Please note that these are general recommendations for high-yielding varieties, and precise doses should always be based on a recent soil test report from your specific field.
+
+**Importance of Soil Testing:**
+A soil test is crucial for determining the exact nutrient status of your soil and tailoring fertilizer recommendations, leading to optimal yield and nutrient use efficiency while minimizing environmental impact.
+
+**General NPK Recommendation for Paddy (Dhan) in Haryana:**
+For high-yielding varieties, a common recommendation is **120 kg Nitrogen (N), 60 kg Phosphorus (P2O5), and 40 kg Potassium (K2O) per acre.**
+
+Based on this, here are the recommended doses of specific fertilizers:
+
+### Fertilizer Recommendations
+
+**1. Nitrogen (N)**
+*   **Total N required:** 120 kg/acre
+*   **If Diammonium Phosphate (DAP) is used for P:** DAP provides 18% N. If 130 kg DAP is applied (for 60 kg P2O5), it supplies approximately 23.4 kg N.
+*   **Remaining N to be supplied by Urea:** 120 kg N - 23.4 kg N = 96.6 kg N.
+*   **Urea (46% N) required:** 96.6 kg N / 0.46 = **210 kg per acre**.
+
+    *   **Application Timing for Urea:**
+        *   **Basal (at transplanting/sowing):** 70 kg/acre
+        *   **First Top Dressing (20-25 days after transplanting/sowing, at maximum tillering):** 70 kg/acre
+        *   **Second Top Dressing (45-50 days after transplanting/sowing, at panicle initiation):** 70 kg/acre
+
+*   **Nano Urea (liquid):**
+    *   **Role:** Nano Urea is a supplementary source of nitrogen and should not replace basal granular urea application. It is effective as a foliar spray to enhance nitrogen use efficiency.
+    *   **Dose:** Apply **2-4 ml of Nano Urea (liquid) per litre of water** (typically 500 ml per acre in 200-250 litres of water).
+    *   **Application Timing:** Two foliar sprays are recommended:
+        *   First spray at active tillering stage.
+        *   Second spray at panicle initiation stage.
+
+**2. Phosphorus (P2O5)**
+*   **Total P2O5 required:** 60 kg/acre
+*   **Application Timing:** Entire quantity should be applied as basal at the time of transplanting/sowing.
+
+    *   **Option 1: Using Diammonium Phosphate (DAP)**
+        *   **Diammonium Phosphate (DAP) (46% P2O5, 18% N):** **130 kg per acre**.
+            *   This will supply 60 kg P2O5 and approximately 23.4 kg N.
+
+    *   **Option 2: Using Single Superphosphate (SSP)**
+        *   **Single Superphosphate (SSP) (16% P2O5, 11% Sulphur):** **375 kg per acre**.
+            *   This will supply 60 kg P2O5 and approximately 41 kg Sulphur. If SSP is used, separate Sulphur application may not be required.
+            *   If SSP is used, the entire 120 kg N will need to be supplied by Urea (120 kg N / 0.46 = 260-265 kg Urea per acre, split as above).
+
+*   **Nano DAP (liquid):**
+    *   **Role:** Nano DAP is a supplementary source of phosphorus and should not replace basal granular DAP/SSP application. It is effective as a foliar spray to enhance phosphorus use efficiency.
+    *   **Dose:** Apply **2-4 ml of Nano DAP (liquid) per litre of water** (typically 500 ml per acre in 200-250 litres of water).
+    *   **Application Timing:** Two foliar sprays are recommended:
+        *   First spray at active tillering stage.
+        *   Second spray at panicle initiation stage.
+
+**3. Potassium (K2O)**
+*   **Total K2O required:** 40 kg/acre
+
+    *   **Muriate of Potash (MOP) (60% K2O):** **65-70 kg per acre**.
+    *   **Application Timing:**
+        *   **Basal (at transplanting/sowing):** 32.5-35 kg/acre
+        *   **Top Dressing (45-50 days after transplanting/sowing, at panicle initiation):** 32.5-35 kg/acre
+
+**4. Sulphur (S)**
+*   **Total Sulphur required:** 20-30 kg/acre (if not supplied by SSP)
+*   **Role:** Sulphur is an essential micronutrient for protein synthesis and chlorophyll formation.
+*   **If DAP is used for Phosphorus:**
+    *   **Bentonite Sulphur (90% S):** **25-30 kg per acre**.
+    *   **Application Timing:** Apply entire quantity as basal at the time of transplanting/sowing.
+
+**Summary of Application Timing:**
+
+*   **Basal (at transplanting/sowing):**
+    *   **Diammonium Phosphate (DAP):** 130 kg/acre (or **Single Superphosphate (SSP):** 375 kg/acre)
+    *   **Urea:** 70 kg/acre
+    *   **Muriate of Potash (MOP):** 32.5-35 kg/acre
+    *   **Bentonite Sulphur (90% S):** 25-30 kg/acre (if DAP is used)
+*   **First Top Dressing (20-25 DAT/DAS):**
+    *   **Urea:** 70 kg/acre
+    *   **Nano Urea (liquid):** Foliar spray (2-4 ml/L water)
+    *   **Nano DAP (liquid):** Foliar spray (2-4 ml/L water)
+*   **Second Top Dressing (45-50 DAT/DAS, Panicle Initiation):**
+    *   **Urea:** 70 kg/acre
+    *   **Muriate of Potash (MOP):** 32.5-35 kg/acre
+    *   **Nano Urea (liquid):** Foliar spray (2-4 ml/L water)
+    *   **Nano DAP (liquid):** Foliar spray (2-4 ml/L water)
+
+**Additional Considerations:**
+
+*   **Micronutrients:** In addition to NPK and Sulphur, zinc deficiency is common in paddy. Apply **Zinc Sulphate (21% Zn)** at 25 kg/acre as basal or **Zinc Sulphate (33% Zn)** at 15 kg/acre as basal.
+*   **Organic Manures:** Incorporating well-decomposed Farm Yard Manure (FYM) or compost at 8-10 tonnes per acre can significantly improve soil health and nutrient availability, reducing the need for chemical fertilizers.
+*   **Water Management:** Proper water management is crucial for efficient nutrient uptake. Avoid waterlogging immediately after fertilizer application.

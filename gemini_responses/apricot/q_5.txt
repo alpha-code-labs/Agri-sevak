@@ -1,0 +1,72 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Apricot trees in Haryana.
+
+---
+
+### Control of Scab in Apricot
+
+Apricot Scab, caused by the fungus *Venturia carpophila*, affects leaves, twigs, and fruits, leading to dark spots and reduced fruit quality.
+
+**Cultural Practices:**
+*   Prune out infected twigs and branches during dormancy to reduce inoculum.
+*   Collect and destroy fallen leaves and mummified fruits.
+*   Ensure good air circulation within the canopy through proper pruning.
+
+**Chemical Control:**
+Apply fungicides preventively, starting from the pink bud stage, through petal fall, and into cover sprays, especially during wet periods.
+*   **Captan** at 2.5 g/L of water.
+*   **Myclobutanil** at 0.4-0.5 ml/L of water.
+*   **Difenoconazole** at 0.5 ml/L of water.
+
+---
+
+### Control of Canker in Apricot
+
+Apricot trees are susceptible to various cankers, including Bacterial Canker (*Pseudomonas syringae*) and Fungal Cankers (*Leucostoma spp.*, *Botryosphaeria spp.*). Cankers cause sunken, discolored areas on branches and trunks, often accompanied by gumming.
+
+**Cultural Practices:**
+*   **Pruning:** Remove infected branches well below the cankered area during dry periods (late summer or early autumn) to minimize disease spread. Disinfect pruning tools with a 10% bleach solution or methylated spirit between cuts.
+*   **Wound Protection:** Avoid mechanical injuries to trees. Protect fresh pruning wounds or accidental injuries with a wound dressing containing a fungicide.
+*   **Tree Vigor:** Maintain tree health through proper nutrition, irrigation, and drainage to enhance natural resistance.
+*   **Variety Selection:** Where possible, choose less susceptible varieties.
+
+**Chemical Control:**
+*   **Dormant Spray:** Apply a copper-based fungicide during leaf fall and again before bud break to reduce bacterial inoculum.
+    *   **Copper oxychloride** at 3-4 g/L of water.
+    *   **Bordeaux mixture** (10:10:100, i.e., 1 kg copper sulphate + 1 kg lime in 100 L water).
+*   **Wound Dressing:** After pruning out cankers, apply a paste made from a fungicide mixed with paint to the cut surface.
+    *   **Carbendazim** at 1 g/L of water, mixed with a suitable tree wound sealant or paint.
+
+---
+
+### Control of Gummosis in Apricot
+
+Gummosis is the oozing of amber-colored gum from the bark of apricot trees. It is a symptom, not a disease itself, indicating stress or injury. Common causes include borers, cankers, root rot, mechanical injury, or environmental stress.
+
+**Cultural Practices (Addressing the Root Cause):**
+*   **Identify Cause:** Carefully inspect the tree for signs of borers (holes, frass), cankers, or root rot.
+*   **Borers:** If borers are present, remove them manually if accessible, or consider targeted insecticide application.
+    *   **Chlorpyrifos** at 2.5 ml/L of water, applied as a drench around the base of the tree or painted on the affected trunk area, if borers are confirmed. (Ensure label instructions for fruit trees are followed).
+*   **Canker/Root Rot:** Follow the control measures for Canker (above) or improve soil drainage and aeration for root rot.
+*   **Environmental Stress:** Ensure proper irrigation (avoid waterlogging or drought stress), balanced nutrition, and protection from mechanical injuries.
+*   **Wound Care:** Gently scrape away the gum and any dead bark. Disinfect the wound with a dilute copper solution and apply a wound dressing.
+
+**Chemical Control (If Fungal Pathogen is Suspected):**
+If gummosis is linked to specific fungal pathogens like *Phytophthora* root rot, soil drenching may be considered.
+*   **Metalaxyl-M + Mancozeb** at 2.5 g/L of water, as a soil drench around the base of the tree.
+*   **Propamocarb hydrochloride** at 2.5 ml/L of water, as a soil drench.
+
+---
+
+### Control of Lichen in Apricot
+
+Lichens are symbiotic organisms (fungus and alga) that grow on the bark of trees. They are epiphytes, meaning they grow on the surface of the tree but do not parasitize it or draw nutrients from it. They are generally harmless to the apricot tree.
+
+**Cultural Practices:**
+*   **No Direct Harm:** Lichens do not cause disease or damage to the tree. Their presence often indicates good air quality and can be more prevalent on older, slower-growing, or less vigorous trees.
+*   **Improve Tree Vigor:** If desired, improving overall tree vigor through proper pruning, fertilization, and irrigation can sometimes reduce lichen growth by promoting bark shedding.
+*   **Air Circulation:** Pruning to improve air circulation can also make the environment less favorable for lichen growth.
+
+**Chemical Control:**
+*   **Generally Not Recommended:** Chemical control is usually unnecessary as lichens do not harm the tree.
+*   **Aesthetic Removal (Optional):** If removal is desired for aesthetic reasons, a dormant spray of a copper-based fungicide can help detach them.
+    *   **Copper oxychloride** at 3-4 g/L of water, applied during dormancy. This will not kill the tree but may cause the lichens to loosen and fall off over time.

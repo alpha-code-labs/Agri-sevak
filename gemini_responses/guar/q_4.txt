@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Wilt (including Parawilt) in Guar in Haryana:
+
+It is crucial to understand that "Wilt" and "Parawilt" are distinct conditions requiring different management strategies.
+
+### 1. Control of Wilt (Fusarium Wilt) in Guar
+
+Wilt in Guar is primarily caused by the soil-borne fungus *Fusarium oxysporum f. sp. cyamopsidis*. Management focuses on an integrated approach.
+
+**A. Cultural and Agronomic Practices:**
+
+*   **Resistant Varieties:** The most effective long-term solution is to cultivate wilt-resistant or tolerant varieties. HAU recommends varieties such as HG 365, HG 563, HG 870, HG 2-20, RGC 1066, RGC 1038, and RGC 1017, which show varying degrees of resistance.
+*   **Crop Rotation:** Practice a long crop rotation (at least 2-3 years) with non-host crops (e.g., cereals like wheat, pearl millet) to reduce the pathogen load in the soil.
+*   **Deep Summer Ploughing:** Expose the soil to high summer temperatures by deep ploughing, which helps in reducing the inoculum of soil-borne pathogens.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can make plants more susceptible. Ensure adequate phosphorus and potassium, as they contribute to plant vigor and disease resistance.
+*   **Timely Sowing:** Sow guar at the recommended time to avoid periods of high disease pressure.
+*   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent the build-up and spread of inoculum.
+
+**B. Biological Control:**
+
+*   **Seed Treatment:** Treat seeds with bio-fungicides before sowing.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: 4-5 g/kg seed.
+
+**C. Chemical Control (Seed Treatment):**
+
+*   Seed treatment with CIBRC approved fungicides is highly effective in protecting seedlings from early infection.
+    *   **Carbendazim** 50% WP: 2 g/kg seed.
+    *   **Thiram** 75% WS: 2.5 g/kg seed.
+    *   **Carboxin** 37.5% + **Thiram** 37.5% DS: 2.5 g/kg seed.
+    *   **Thiophanate Methyl** 70% WP: 2 g/kg seed.
+
+### 2. Control of Parawilt in Guar
+
+Parawilt is a physiological disorder, not a disease caused by a pathogen. It is often triggered by sudden environmental stresses, particularly related to water and temperature fluctuations. There are no chemical controls for Parawilt.
+
+**A. Water Management:**
+
+*   **Avoid Sudden Irrigation:** Do not apply heavy irrigation immediately after a prolonged dry spell, especially during high temperatures. This sudden change in soil moisture can shock the plants.
+*   **Proper Drainage:** Ensure fields have good drainage to prevent waterlogging, which can also induce parawilt symptoms.
+*   **Light and Frequent Irrigation:** If irrigation is necessary during hot periods, provide light and frequent irrigations rather than heavy, infrequent ones, to maintain consistent soil moisture.
+
+**B. Soil and Nutrient Management:**
+
+*   **Improve Soil Structure:** Enhance soil aeration and drainage by incorporating organic matter and practicing appropriate tillage.
+*   **Balanced Fertilization:** Ensure a balanced supply of essential nutrients. Potassium plays a role in plant stress tolerance and can help mitigate parawilt.
+
+**C. Heat Stress Mitigation:**
+
+*   **Mulching:** Applying organic mulch can help regulate soil temperature and conserve moisture, reducing stress on plants.
+*   **Variety Selection:** While there are no specific "Parawilt resistant" varieties, selecting varieties that are generally more robust and tolerant to environmental stresses can be beneficial.
+
+By implementing these integrated management strategies, farmers can effectively control both Fusarium Wilt and Parawilt in Guar, ensuring healthier crops and better yields.

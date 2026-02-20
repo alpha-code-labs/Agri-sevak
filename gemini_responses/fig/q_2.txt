@@ -1,0 +1,34 @@
+This is not known to affect Fig.
+
+The rust diseases you have listed (Black Rust, Brown Rust, Yellow Rust, White Rust, and Red Rust) are primarily known to affect other crops, particularly cereals (like wheat for Black, Brown, and Yellow rusts) or crucifers (like mustard for White rust). "Red rust" is often an algal disease (*Cephaleuros virescens*) rather than a true fungal rust, and while it can affect some fruit trees, it's not typically a major issue on Fig in Haryana.
+
+However, Fig plants are susceptible to a specific fungal rust disease known as **Fig Rust**, caused by *Cerotelium fici*. If you are observing rust-like symptoms on your Fig plants, it is highly probable that you are dealing with Fig Rust.
+
+Here is scientifically verified advice for controlling Fig Rust (*Cerotelium fici*) in Haryana:
+
+**Symptoms of Fig Rust:**
+*   Small, yellowish spots appear on the upper surface of older leaves.
+*   On the corresponding lower surface, reddish-brown, powdery pustules develop.
+*   In severe infections, these pustules merge, leading to premature defoliation, reduced fruit quality, and overall plant vigor.
+
+**Control Measures for Fig Rust (*Cerotelium fici*):**
+
+**1. Cultural Practices:**
+*   **Sanitation:** Collect and destroy all fallen infected leaves, as they serve as a source of inoculum for the next season.
+*   **Pruning:** Prune trees to improve air circulation within the canopy, which helps reduce humidity and disease development.
+*   **Irrigation:** Avoid overhead irrigation, especially late in the day, as prolonged leaf wetness promotes rust spore germination and infection. If overhead irrigation is unavoidable, do it in the morning to allow leaves to dry quickly.
+*   **Nutrient Management:** Ensure balanced fertilization to maintain plant health and vigor, making them more resilient to diseases.
+
+**2. Chemical Control (Fungicides):**
+Apply fungicides preventively or at the first sign of disease symptoms. Repeat applications may be necessary, especially during periods favorable for disease development (warm and humid conditions). Always follow the manufacturer's instructions and pre-harvest intervals (PHI).
+
+*   **Propiconazole:** Apply at a concentration of 0.5 - 1.0 ml per litre of water.
+*   **Difenoconazole:** Apply at a concentration of 0.5 ml per litre of water.
+*   **Azoxystrobin:** Apply at a concentration of 0.5 - 1.0 ml per litre of water.
+*   **Mancozeb:** Apply at a concentration of 2.0 - 2.5 g per litre of water. This can be used as a protective spray.
+
+**Application:**
+*   Ensure thorough coverage of both upper and lower leaf surfaces.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+
+For accurate diagnosis and specific recommendations tailored to your farm, it is always advisable to consult with the plant pathology department at HAU, Hisar, or your local agricultural extension officer.

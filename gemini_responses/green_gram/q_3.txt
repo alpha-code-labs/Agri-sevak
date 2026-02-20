@@ -1,0 +1,59 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Green Gram (Moong) in Haryana. Effective management of rot diseases requires an integrated approach, combining cultural practices with judicious use of CIBRC-approved fungicides.
+
+Many of the rot types you've listed are caused by a complex of soil-borne fungi, and their management strategies often overlap.
+
+### General Principles for Rot Management in Green Gram:
+
+1.  **Crop Rotation:** Implement a strict crop rotation schedule, avoiding continuous cultivation of Green Gram or other susceptible legumes. Rotate with non-host crops like cereals (e.g., wheat, maize) for at least 2-3 years.
+2.  **Field Sanitation:** Remove and destroy all infected plant debris from the field after harvest to reduce the primary inoculum source.
+3.  **Good Drainage:** Ensure proper field drainage to prevent waterlogging, as excessive soil moisture favors the development and spread of most rot pathogens.
+4.  **Optimum Sowing Time:** Sow Green Gram at the recommended time for your region to avoid periods that are highly conducive to disease development.
+5.  **Balanced Nutrition:** Provide balanced nutrients to the crop. Avoid excessive nitrogen, which can lead to lush, susceptible growth.
+6.  **Proper Spacing:** Maintain recommended plant spacing to ensure good air circulation within the canopy and reduce humidity, which can discourage fungal growth.
+7.  **Use Certified Seeds:** Always use healthy, certified seeds from a reputable source.
+
+### Specific Rot Types and Their Control:
+
+#### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Seed Rot, and Seedling Rot
+
+These rots are primarily caused by soil-borne fungi such as *Rhizoctonia solani*, *Fusarium spp.*, *Macrophomina phaseolina*, *Sclerotium rolfsii*, and *Pythium spp.*. They manifest as rotting of roots, stem base (at or below the soil line), or failure of seeds to germinate and young seedlings to establish (damping-off).
+
+**Control Measures:**
+
+*   **Seed Treatment (Crucial for prevention):**
+    *   Treat seeds before sowing with a systemic fungicide to protect against seed-borne and soil-borne pathogens.
+    *   **Carbendazim** 50% WP at 2 g/kg seed.
+    *   **Thiram** 75% WS at 2.5 g/kg seed.
+    *   **Carboxin** 37.5% WS + **Thiram** 37.5% WS (combination product) at 2.5 g/kg seed.
+    *   **Tebuconazole** 2% DS at 1-1.5 g/kg seed.
+    *   For fields with a history of damping-off or *Pythium* issues: **Metalaxyl** 35% WS at 2 g/kg seed.
+
+*   **Soil Drenching (for established plants showing symptoms):**
+    *   If symptoms appear on established plants, drenching the soil around the base of affected plants can help.
+    *   **Carbendazim** 50% WP at 1-2 g/L of water.
+    *   **Copper Oxychloride** 50% WP at 2-3 g/L of water.
+
+#### 2. Fruit Rot (Pod Rot)
+
+This can occur due to various fungi, including *Colletotrichum truncatum* (anthracnose) or secondary infections following damage, especially under humid conditions. Symptoms include lesions on pods that can lead to rotting.
+
+**Control Measures:**
+
+*   **Foliar Spray (if symptoms appear on pods):**
+    *   **Carbendazim** 50% WP at 1 g/L of water.
+    *   **Mancozeb** 75% WP at 2.5 g/L of water.
+    *   **Propiconazole** 25% EC at 1 ml/L of water.
+    *   **Tebuconazole** 25.9% EC at 0.75 ml/L of water.
+*   **Cultural:** Avoid overhead irrigation late in the day, ensure good air circulation within the crop canopy.
+
+### Rots Not Known to Affect Green Gram (as specific diseases):
+
+*   **Black Rot:** This is not known to affect Green Gram as a specific disease. Black rot is primarily associated with bacterial diseases in cruciferous crops.
+*   **Neck Rot:** This is not known to affect Green Gram as a specific disease. Symptoms affecting the neck region would typically be classified under Collar Rot or Stem Rot, which are addressed above.
+
+### Important Considerations:
+
+*   Always read and strictly follow the instructions on the fungicide label regarding dosage, application method, pre-harvest interval (PHI), and safety precautions.
+*   Wear appropriate personal protective equipment (PPE) during handling and application of chemicals.
+*   Monitor your fields regularly for early detection of disease symptoms to allow for timely intervention.
+*   For specific recommendations tailored to your local conditions and current disease pressure, it is always advisable to consult with the agricultural extension services of HAU or your local Krishi Vigyan Kendra (KVK).

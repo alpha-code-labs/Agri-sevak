@@ -1,0 +1,91 @@
+Drying up of various parts of the paddy plant (leaves, tillers, panicles) is a general symptom that can be caused by a range of factors, including environmental stress, nutrient deficiencies, insect pests, and diseases. Accurate diagnosis is crucial for effective management.
+
+Here are the potential causes and their management strategies for paddy in Haryana:
+
+**I. Non-Pest and Disease Related Causes:**
+
+1.  **Water Stress (Drought):**
+    *   **Symptoms:** General wilting, rolling of leaves, yellowing, and eventual drying of the entire plant or parts.
+    *   **Management:**
+        *   Ensure adequate irrigation, especially during critical growth stages (tillering, panicle initiation, flowering, grain filling).
+        *   Maintain 2-5 cm standing water in the field where feasible, or ensure soil moisture is consistently high.
+
+2.  **Nutrient Deficiencies:**
+    *   **Symptoms:**
+        *   **Potassium (K) deficiency:** Yellowing and drying of leaf tips and margins, starting from older leaves.
+        *   **Zinc (Zn) deficiency:** Brownish spots on older leaves, stunted growth, and drying of leaf tips.
+        *   **Iron (Fe) deficiency:** Yellowing of younger leaves (interveinal chlorosis), especially in alkaline soils.
+    *   **Management:**
+        *   Conduct soil testing to determine nutrient status.
+        *   Apply balanced fertilizers based on soil test recommendations.
+        *   For Potassium deficiency: Apply **Muriate of Potash (Potassium chloride)** as per recommendations (e.g., 20-25 kg/acre as basal or top dressing).
+        *   For Zinc deficiency: Apply **Zinc sulphate heptahydrate** (20-25 kg/acre as basal) or foliar spray (0.5% solution, 5 g/L).
+        *   For Iron deficiency: Foliar spray of **Ferrous sulphate** (0.5-1% solution, 5-10 g/L) with a wetting agent.
+
+3.  **Salinity/Alkalinity Stress:**
+    *   **Symptoms:** Stunted growth, leaf tip burn, yellowing, and drying of leaves, especially in patches.
+    *   **Management:**
+        *   Use salt-tolerant paddy varieties.
+        *   Improve soil drainage.
+        *   Apply gypsum for alkaline soils as per soil test recommendations.
+        *   Leaching salts by flushing with good quality water.
+
+**II. Insect Pests:**
+
+1.  **Stem Borer (e.g., Yellow Stem Borer - *Scirpophaga incertulas*):**
+    *   **Symptoms:**
+        *   **Dead Heart:** In the vegetative stage, the central shoot dries up and can be easily pulled out.
+        *   **White Earhead:** In the reproductive stage, the panicle emerges but remains white and chaffy (no grain filling), drying prematurely.
+    *   **Management:**
+        *   **Cultural:** Remove stubbles after harvest, use light traps to monitor adult moths, synchronize planting.
+        *   **Chemical (if infestation is severe):**
+            *   **Cartap hydrochloride** (granular: 4 kg/acre; spray: 500 g/acre)
+            *   **Chlorantraniliprole** (60 ml/acre)
+            *   **Fipronil** (granular: 8 kg/acre; spray: 400-500 ml/acre)
+            *   **Thiamethoxam + Chlorantraniliprole** (125 ml/acre)
+
+2.  **Plant Hoppers (e.g., Brown Plant Hopper - *Nilaparvata lugens*, White-backed Plant Hopper - *Sogatella furcifera*):**
+    *   **Symptoms:** Cause "hopper burn," where plants in patches turn yellow, then brown, and eventually dry up due to sap sucking and toxin injection.
+    *   **Management:**
+        *   **Cultural:** Avoid dense planting, maintain proper spacing, drain water from the field temporarily to reduce humidity.
+        *   **Chemical (if population is high):** Target the base of the plants.
+            *   **Buprofezin** (200-250 ml/acre)
+            *   **Pymetrozine** (120 g/acre)
+            *   **Dinotefuran** (80 g/acre)
+            *   **Imidacloprid** (100-125 ml/acre)
+
+**III. Diseases:**
+
+1.  **Bacterial Blight (*Xanthomonas oryzae pv. oryzae*):**
+    *   **Symptoms:** Water-soaked streaks on leaf margins, turning yellow and then white/grey, leading to drying of the affected leaf area (blight). Can cause seedling blight (Kresek) leading to drying of entire seedlings.
+    *   **Management:**
+        *   **Cultural:** Use resistant varieties, avoid excessive nitrogen fertilization, drain water from the field, remove infected plant debris.
+        *   **Chemical:** Copper-based fungicides like **Copper oxychloride** (500 g/acre) can help reduce secondary spread, but primarily cultural and varietal resistance are key.
+
+2.  **Sheath Blight (*Rhizoctonia solani*):**
+    *   **Symptoms:** Oval or elliptical lesions on the leaf sheath near the water line, which enlarge and spread upwards to the leaves, causing drying of the leaves above the lesion.
+    *   **Management:**
+        *   **Cultural:** Avoid dense planting, proper spacing, drain water from the field temporarily.
+        *   **Chemical:**
+            *   **Validamycin** (400-500 ml/acre)
+            *   **Propiconazole** (200 ml/acre)
+            *   **Azoxystrobin** (200 ml/acre)
+
+3.  **Blast (*Magnaporthe oryzae*):**
+    *   **Symptoms:** Diamond-shaped lesions on leaves, nodes, and panicles. Neck blast (lesion at the base of the panicle) causes the panicle to dry prematurely and turn white (similar to white earhead from stem borer, but without the easy pull-out symptom).
+    *   **Management:**
+        *   **Cultural:** Use resistant varieties, avoid excessive nitrogen, remove infected plant debris.
+        *   **Chemical:**
+            *   **Tricyclazole** (120-160 g/acre)
+            *   **Isoprothiolane** (400 ml/acre)
+            *   **Azoxystrobin** (200 ml/acre)
+            *   **Carbendazim** (200 g/acre)
+
+4.  **Root Rot (various fungal pathogens):**
+    *   **Symptoms:** General wilting, yellowing, and drying of plants, often in patches, due to damaged root systems.
+    *   **Management:**
+        *   **Cultural:** Improve soil drainage, avoid waterlogging, practice crop rotation.
+        *   **Chemical:** Seed treatment with fungicides like **Carbendazim** (2 g/kg seed) or **Thiram** (2.5 g/kg seed) can help prevent early infection. For established plants, management is difficult.
+
+**Important Note:**
+It is crucial to accurately diagnose the specific cause of drying up in your paddy field. Observe the symptoms carefully, check for insect presence, and consider environmental conditions. If unsure, it is highly recommended to consult with your local agricultural extension officer or visit the nearest Krishi Vigyan Kendra (KVK) for a precise diagnosis and tailored recommendations.

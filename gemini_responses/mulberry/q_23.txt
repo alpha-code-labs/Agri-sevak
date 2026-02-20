@@ -1,0 +1,48 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified processes for Mulberry, keeping in mind the specific conditions and CIBRC approved inputs for Haryana, India.
+
+---
+
+### I. Seed Treatment for Mulberry
+
+It is important to note that commercial mulberry cultivation primarily relies on vegetative propagation through cuttings, not seeds. Seed propagation is generally reserved for breeding programs or rootstock development.
+
+**A. For Mulberry Seeds (if used for breeding or rootstock):**
+To protect against seed-borne diseases and improve germination, the following fungicide treatment is recommended:
+*   Treat seeds with **Carbendazim** 50% WP at 2-3 g per kg of seeds.
+*   Alternatively, use **Thiram** 75% WS at 2.5 g per kg of seeds.
+*   Mix the chemical thoroughly with the seeds just before sowing.
+
+**B. For Mulberry Cuttings (the primary propagation method):**
+Treating cuttings is crucial for successful establishment and root development.
+*   **Rooting Hormone Treatment:** Dip the basal end (lower 2-3 cm) of the cuttings in a solution of Indole-3-butyric acid (IBA) at 1000-2000 ppm (1-2 g of IBA per litre of water) for 10-15 minutes. This promotes rapid and robust root formation.
+*   **Fungicide Treatment (Optional but Recommended):** To prevent fungal infections at the cut ends, which can lead to rotting, dip the basal end of the cuttings in a solution of **Carbendazim** 50% WP at 1 g per litre of water for 10-15 minutes. This can be done either before or after the rooting hormone treatment, or as a combined dip if compatible.
+
+---
+
+### II. Soil Treatment Process for Mulberry
+
+Effective soil treatment is vital for establishing a healthy mulberry plantation and ensuring long-term productivity.
+
+**A. Pre-planting Soil Preparation:**
+*   **Deep Ploughing:** Plough the field to a depth of 30-45 cm during summer to expose soil-borne pests and pathogens to sunlight and air, which helps in their desiccation and destruction.
+*   **Solarization:** In areas with high incidence of soil-borne diseases or nematodes, moisten the soil and cover it with transparent polyethylene sheets (100-150 micron thickness) for 4-6 weeks during the hot summer months. This raises soil temperature, effectively killing many pathogens, nematodes, and weed seeds.
+*   **Organic Matter Incorporation:** Incorporate well-decomposed farmyard manure (FYM) or compost at 20-30 tonnes per acre during land preparation. This improves soil structure, water retention, nutrient availability, and promotes beneficial microbial activity.
+
+**B. Management of Soil-borne Pests (Nematodes):**
+Mulberry is susceptible to various nematodes, which can significantly reduce yield.
+*   **Bio-nematicides:** Apply **Paecilomyces lilacinus** (1% WP) at 2.5-5 kg per acre. Mix it with 100 kg of FYM or compost and broadcast evenly, then incorporate into the soil before planting. For established plantations, apply as a ring application around the plants and lightly incorporate.
+*   **Chemical Nematicides (Use with caution and only if severe infestation is confirmed by soil testing):**
+    *   **Carbofuran** 3% G at 10-15 kg per acre can be applied at the time of planting in the planting pit or as a ring application around established plants. Ensure proper safety measures and follow label instructions strictly.
+
+**C. Management of Soil-borne Diseases (e.g., Root Rot, Wilt):**
+*   **Bio-fungicides:** Apply **Trichoderma viride** (1% WP) at 2.5-5 kg per acre. Mix it with 100 kg of FYM or compost and broadcast evenly, then incorporate into the soil before planting. For established plants, apply as a drench or ring application.
+*   **Chemical Fungicides (for severe cases or specific disease outbreaks):**
+    *   For root rot or wilt, drench the soil around affected plants with **Carbendazim** 50% WP at 1-2 g per litre of water. Repeat if necessary, based on disease severity.
+    *   For general soil drenching or pre-planting treatment in areas with known fungal issues, **Copper Oxychloride** 50% WP at 2-3 kg per acre can be mixed with soil or applied as a drench.
+
+**D. Soil pH Correction:**
+*   Mulberry thrives in slightly acidic to neutral soil (pH 6.2-6.8). Conduct a soil test to determine the pH.
+*   If the soil is acidic (pH below 6.0), apply agricultural lime as per soil test recommendations to raise the pH.
+*   If the soil is alkaline (pH above 7.5), apply gypsum or elemental sulphur as per soil test recommendations to lower the pH.
+
+**Important Note:** Always conduct a soil test before planting and periodically thereafter to determine specific nutrient deficiencies, pH imbalances, and the presence of pests or pathogens. This allows for precise and targeted treatment recommendations.

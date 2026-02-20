@@ -1,0 +1,30 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling these pests in Apple orchards in Haryana:
+
+**Ber fly (*Carpomyia vesuviana*)**
+This is not known to affect Apple. Ber fly is a specific pest of Ber (*Ziziphus mauritiana*) and other *Ziziphus* species.
+
+**Fruit fly (e.g., *Bactrocera dorsalis*, *Bactrocera zonata*) in Apple**
+Fruit flies are polyphagous pests that can cause significant damage to apple fruits. An Integrated Pest Management (IPM) approach is recommended for effective control:
+
+1.  **Cultural Practices:**
+    *   **Orchard Sanitation:** Regularly collect and destroy all fallen and infested fruits by burying them deep in the soil (at least 60 cm) or by burning. This breaks the life cycle of the pest.
+    *   **Deep Ploughing:** After harvest, deep ploughing around the trees can expose pupae to predators and adverse weather conditions, reducing the pest population for the next season.
+
+2.  **Mechanical/Physical Methods:**
+    *   **Pheromone Traps:** Install Methyl Eugenol traps (for male fruit flies) at a density of 10-15 traps per acre, starting from fruit development stage. Replace the lure every 2-3 weeks. These traps help in monitoring the pest population and mass trapping.
+    *   **Protein Bait Traps:** Use commercial protein bait traps or prepare homemade bait.
+
+3.  **Chemical Control (as a last resort or when pest incidence is high):**
+    *   **Protein Bait Sprays:** This is a highly effective and targeted method.
+        *   Mix 100 g of jaggery/molasses or commercial protein hydrolysate with 10 ml of **Malathion 50 EC** in 1 litre of water.
+        *   Apply this mixture as spot sprays on the leaves or non-bearing branches (not directly on fruits) at 7-10 day intervals, starting from fruit colour break. This attracts and kills adult fruit flies.
+    *   **Foliar Sprays (if necessary, ensure proper timing and pre-harvest interval):**
+        *   **Malathion 50 EC**: Apply at 2 ml/L of water.
+        *   **Deltamethrin 2.8 EC**: Apply at 0.5 ml/L of water.
+        *   **Spinosad 45 SC**: Apply at 0.25 ml/L of water. (Note: Spinosad is a biological insecticide and is effective against fruit flies with a relatively safer profile).
+
+**Important Considerations:**
+*   Always rotate insecticides with different modes of action to prevent the development of resistance.
+*   Strictly follow the manufacturer's instructions regarding dosage, application method, and pre-harvest interval (PHI) to ensure food safety.
+*   Wear appropriate personal protective equipment (PPE) during handling and application of chemicals.
+*   Consult with local agricultural extension services for the most current recommendations and pest surveillance data specific to your area.

@@ -1,0 +1,63 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for managing Scab, Canker, Gummosis, and Lichen in Guava in Haryana:
+
+---
+
+### 1. Guava Scab (Caused by *Elsinoë psidii*)
+
+**Symptoms:** This fungal disease causes small, raised, corky lesions on fruits, leaves, and young twigs. On fruits, these lesions can merge, leading to cracking and deformation, making them unmarketable.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Prune and destroy all infected plant parts (leaves, twigs, fruits) to reduce inoculum sources.
+    *   Ensure proper air circulation within the canopy through judicious pruning.
+*   **Chemical Control:**
+    *   Initiate spraying at fruit set and repeat at 15-20 day intervals, especially during periods conducive to disease development (high humidity, moderate temperatures).
+    *   Spray with:
+        *   **Mancozeb** at 2.5 g/L of water.
+        *   **Copper oxychloride** at 3 g/L of water.
+        *   **Carbendazim** at 1 g/L of water.
+
+### 2. Guava Canker (Primarily Bacterial Canker, Caused by *Xanthomonas axonopodis pv. psidii*)
+
+**Symptoms:** This bacterial disease manifests as water-soaked spots on leaves, twigs, and fruits, which later turn dark brown to black, sunken, and necrotic. Cankers on twigs can girdle them, leading to dieback. Gummy exudation may also be observed.
+
+**Management:**
+*   **Cultural Practices:**
+    *   Prune and destroy all infected branches and twigs immediately upon noticing symptoms. Sterilize pruning tools with a 10% bleach solution between cuts.
+    *   Avoid mechanical injuries to the trees, as these can serve as entry points for bacteria.
+    *   Ensure proper sanitation in the orchard.
+*   **Chemical Control:**
+    *   Apply sprays at the first sign of symptoms and repeat every 10-15 days if disease pressure persists.
+    *   Spray with:
+        *   A combination of **Streptomycin sulphate** (1 g/L of water) and **Tetracycline hydrochloride** (0.1 g/L of water).
+        *   **Copper oxychloride** at 3 g/L of water.
+
+### 3. Gummosis
+
+**Symptoms:** Gummosis is a symptom, not a disease itself, characterized by the exudation of gum from the bark of the trunk or branches. It can be triggered by various factors including fungal infections (e.g., *Phytophthora* spp., *Botryodiplodia theobromae*), bacterial infections, insect damage, mechanical injury, or environmental stress (e.g., waterlogging, nutrient deficiencies).
+
+**Management:**
+*   **Cultural Practices:**
+    *   Improve soil drainage to prevent waterlogging, which is a common predisposing factor.
+    *   Ensure balanced nutrition and proper irrigation to maintain tree vigor.
+    *   Protect trees from mechanical injuries.
+    *   Inspect roots for signs of damage or rot.
+*   **Chemical Control (if fungal infection is suspected):**
+    *   For systemic protection against root and collar rot pathogens:
+        *   Drench the soil around the base of the tree with **Phosphorous acid** at 2.5 ml/L of water.
+        *   Drench the soil around the base of the tree with **Metalaxyl + Mancozeb** at 2.5 g/L of water.
+    *   For localized trunk cankers with gummosis:
+        *   Carefully scrape away the affected bark until healthy tissue is exposed.
+        *   Apply a paste made from **Copper oxychloride** (30 g mixed in 100 ml of water) to the scraped area.
+
+### 4. Lichen
+
+**Symptoms:** Lichens appear as crusty, leafy, or bushy growths on the bark of tree trunks and branches. They come in various colours like grey, green, yellow, or orange.
+
+**Management:**
+*   **This is not a disease or pest that directly harms the Guava tree.** Lichens are symbiotic organisms (a fungus and an alga) that grow superficially on the bark. They do not parasitize the tree or draw nutrients from it. Their presence often indicates good air quality and can sometimes be more prevalent on trees with reduced vigor or in humid environments.
+*   **Cultural Practices:**
+    *   Focus on improving overall tree health and vigor through proper fertilization, irrigation, and pruning to enhance air circulation within the canopy. A healthy, vigorous tree will naturally shed bark more frequently, reducing lichen accumulation.
+*   **If removal is desired for aesthetic reasons or to facilitate bark inspection:**
+    *   Gently scrub the bark with a soft brush and water.
+    *   A dilute spray of **Copper oxychloride** at 1 g/L of water can help reduce their growth, but it is rarely necessary for tree health.

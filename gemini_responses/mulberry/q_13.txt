@@ -1,0 +1,30 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fruit flies and Ber fly in Mulberry, keeping in mind the specific context of Haryana.
+
+### Control of Fruit Fly in Mulberry
+
+While mulberry is not typically considered a primary host for economically significant fruit fly damage in the same way as some other fruit crops, certain polyphagous fruit fly species (e.g., *Bactrocera* species) can infest ripe mulberry fruits. It is crucial to note that **chemical application on mulberry plants intended for sericulture (silkworm rearing) is highly discouraged due to potential harm to silkworms.** The following recommendations prioritize Integrated Pest Management (IPM) strategies.
+
+**Integrated Pest Management (IPM) for Fruit Fly:**
+
+1.  **Cultural Practices:**
+    *   **Field Sanitation:** Regularly collect and destroy all fallen, damaged, and infested fruits by burying them deep (at least 60 cm) or burning them. This prevents the completion of the fruit fly life cycle.
+    *   **Deep Ploughing:** After fruit harvest, deep ploughing around the trees can expose pupae in the soil to predators, birds, and adverse weather conditions, reducing the next generation.
+
+2.  **Mechanical/Physical Methods:**
+    *   **Fruit Fly Traps:**
+        *   **Pheromone Traps:** Use specific pheromone traps (e.g., methyl eugenol traps for male *Bactrocera dorsalis*) to monitor and mass-trap adult male fruit flies. Install 10-15 traps per acre, starting from fruit development stage. Replace lures every 2-3 weeks.
+        *   **Protein Bait Traps:** Prepare traps using protein hydrolysate or jaggery solution mixed with a small amount of insecticide (e.g., **Malathion** 50% EC @ 1 ml/L) in plastic bottles with holes. Hang these traps in the orchard.
+
+3.  **Chemical Control (Use with extreme caution and only if fruits are for human consumption, not near silkworms):**
+    *   **Strict Warning:** Chemical application on mulberry plants intended for sericulture is highly discouraged due to potential harm to silkworms. These recommendations are primarily for mulberry grown solely for fruit production, with strict adherence to pre-harvest intervals (PHI).
+    *   **Bait Sprays:** These are targeted applications to minimize overall chemical use. Mix an insecticide with a protein source (e.g., jaggery or protein hydrolysate) and spray on tree trunks or non-fruiting parts of the canopy.
+        *   **Malathion** 50% EC @ 2 ml/L of water + 10 g jaggery/L.
+        *   **Spinosad** 45% SC @ 0.3 ml/L of water + 10 g jaggery/L.
+    *   **Direct Sprays (Only if absolutely necessary and not for sericulture):**
+        *   **Deltamethrin** 2.8% EC @ 0.5 ml/L of water.
+        *   **Dimethoate** 30% EC @ 1.7 ml/L of water.
+    *   Always observe the specified pre-harvest interval (PHI) before consuming fruits to ensure safety.
+
+### Control of Ber Fly in Mulberry
+
+This is not known to affect Mulberry. The Ber fly (*Carpomyia vesuviana*) is a highly host-specific pest primarily affecting Ber (*Ziziphus mauritiana*) and other *Ziziphus* species.

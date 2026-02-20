@@ -1,0 +1,27 @@
+While rust diseases can affect Snap Melon (*Cucumis melo var. momordica*), the specific categorization into 'Black, Brown, Yellow, White, and Red rust' as distinct diseases is not typically applied to Snap Melon in the way it is for crops like cereals. The primary rust disease affecting cucurbits, including Snap Melon, is generally referred to as rust and is caused by *Puccinia melonis*.
+
+Regarding 'White rust,' this is a different disease caused by *Albugo* species (an oomycete) and **This is not known to affect Snap Melon.**
+
+If you observe symptoms of rust (small, raised, reddish-brown pustules, often on the undersides of leaves) caused by *Puccinia melonis* on your Snap Melon crop, the following integrated management strategies are recommended:
+
+**Integrated Management for Rust (*Puccinia melonis*) in Snap Melon:**
+
+**1. Cultural Practices:**
+*   **Resistant Varieties:** Where available, choose rust-resistant Snap Melon varieties.
+*   **Field Sanitation:** Remove and destroy infected plant debris after harvest to reduce inoculum for the next season.
+*   **Crop Rotation:** Practice crop rotation with non-cucurbit crops for at least 2-3 years to break the disease cycle.
+*   **Proper Spacing:** Ensure adequate plant spacing to improve air circulation and reduce leaf wetness, which is conducive to fungal growth.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can promote lush growth susceptible to disease. Ensure adequate potassium.
+
+**2. Chemical Control (if necessary, upon early symptom appearance):**
+*   **Preventive/Early Curative:**
+    *   **Mancozeb** 75% WP at 2.5 kg/acre (or 2.5 g/L of water).
+    *   **Chlorothalonil** 75% WP at 2.0 kg/acre (or 2.0 g/L of water).
+*   **Systemic/Curative (for established infections):**
+    *   **Azoxystrobin** 23% SC at 200 ml/acre (or 0.5 ml/L of water).
+    *   **Difenoconazole** 25% EC at 100 ml/acre (or 0.25 ml/L of water).
+    *   **Propiconazole** 25% EC at 200 ml/acre (or 0.5 ml/L of water).
+
+*   **Application:** Ensure thorough coverage of both upper and lower leaf surfaces. Repeat sprays at 7-10 day intervals, depending on disease severity and weather conditions. Always alternate fungicides with different modes of action to prevent resistance development.
+
+Always consult with your local agricultural extension officer for specific recommendations tailored to your farm's conditions and the latest CIBRC guidelines.

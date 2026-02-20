@@ -1,0 +1,67 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Git
+.git/
+.gitignore
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test / build artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# RAG source corpus (build-time only, not needed at runtime)
+gemini_responses/
+
+# Local data folders (runtime data comes from Azure File Share mount)
+data/
+chroma_db/
+generated_images/
+*.sqlite3
+
+# Node or frontend
+node_modules/
+
+# Deployment YAML (has secrets)
+kissan-fast-api.yaml
+
+# PDF
+*.pdf
+
+# Old files
+old_freeze.txt
+
+# GitHub Actions
+.github/

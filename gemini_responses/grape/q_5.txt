@@ -1,0 +1,95 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Grape cultivation in Haryana:
+
+---
+
+### Control of Scab in Grape
+
+Grape Scab, caused by the fungus *Elsinoë ampelina*, is a known disease affecting grapes.
+
+**Symptoms:** Small, circular, dark spots with a reddish-brown margin appear on leaves, shoots, tendrils, and berries. Lesions on berries can be sunken and crack, making them susceptible to secondary infections.
+
+**Control Measures:**
+
+1.  **Cultural Practices:**
+    *   Prune and destroy infected plant parts during dormancy to reduce inoculum.
+    *   Ensure good air circulation within the canopy through proper training and pruning.
+    *   Remove fallen leaves and plant debris from the vineyard floor.
+
+2.  **Chemical Control:** Apply fungicides preventively, especially during periods of high humidity and rainfall, starting from bud break.
+    *   **Mancozeb**: Apply at 2.5 kg per acre (or 2.5 g/L of water) as a protective spray.
+    *   **Captan**: Apply at 2 kg per acre (or 2 g/L of water) as a protective spray.
+    *   **Difenoconazole**: Apply at 0.5 ml per litre of water for systemic and curative action.
+    *   **Myclobutanil**: Apply at 0.4 g per litre of water for systemic and curative action.
+    *   Repeat applications at 10-14 day intervals, depending on disease pressure and weather conditions.
+
+---
+
+### Control of Canker in Grape
+
+Canker diseases in grape are caused by various fungal or bacterial pathogens (e.g., *Phomopsis viticola*, *Eutypa lata*, *Botryosphaeria* species, *Xylophilus ampelinus*). These often enter through pruning wounds.
+
+**Symptoms:** Sunken, discolored lesions on woody parts (canes, cordons, trunks), often leading to dieback of shoots, reduced vigor, and eventual death of affected parts.
+
+**Control Measures:**
+
+1.  **Cultural Practices:**
+    *   Prune during dry periods to allow wounds to heal quickly.
+    *   Make clean, smooth cuts to minimize wound surface area.
+    *   Disinfect pruning tools regularly with a 10% bleach solution or methylated spirit, especially when moving between vines or after pruning diseased wood.
+    *   Remove and destroy all infected wood from the vineyard.
+    *   Avoid large pruning cuts where possible.
+
+2.  **Chemical Control (Wound Protection and Preventive Sprays):**
+    *   **Wound Protectants:** Immediately after pruning, especially for larger cuts, apply a wound protectant paste or spray.
+        *   **Copper Oxychloride**: Mix 3 g per litre of water with a suitable sticker/paint and apply to pruning wounds.
+        *   **Carbendazim**: Mix 1 g per litre of water with a suitable sticker/paint and apply to pruning wounds.
+        *   **Thiophanate-methyl**: Mix 1 g per litre of water with a suitable sticker/paint and apply to pruning wounds.
+    *   **Preventive Sprays:**
+        *   **Copper Hydroxide**: Apply at 2.5 kg per acre (or 2.5 g/L of water) during the dormant season or early growth stages to reduce inoculum.
+        *   **Copper Oxychloride**: Apply at 3 kg per acre (or 3 g/L of water) during the dormant season or early growth stages.
+
+---
+
+### Control of Gummosis in Grape
+
+Gummosis is a symptom, not a specific disease, characterized by the exudation of gum from the bark of the vine. It indicates stress, injury, or infection by various pathogens (fungal or bacterial).
+
+**Symptoms:** Sticky, amber-colored gum oozing from cracks or wounds on the trunk, cordons, or canes.
+
+**Control Measures:**
+
+1.  **Identify and Address the Underlying Cause:**
+    *   **Bacterial Canker (e.g., *Xylophilus ampelinus*):** If bacterial infection is suspected, apply preventive sprays.
+        *   **Copper Hydroxide**: Apply at 2.5 kg per acre (or 2.5 g/L of water).
+        *   **Copper Oxychloride**: Apply at 3 kg per acre (or 3 g/L of water).
+    *   **Fungal Infections:** If fungal pathogens are identified as the cause, specific fungicides may be required.
+        *   **Thiophanate-methyl**: Apply at 1 g per litre of water.
+        *   **Carbendazim**: Apply at 1 g per litre of water.
+    *   **Physiological Stress:** Improve cultural practices such as:
+        *   Ensuring proper irrigation and drainage to avoid water stress.
+        *   Providing balanced nutrition.
+        *   Protecting vines from mechanical injuries.
+        *   Managing soil compaction.
+    *   **Pruning:** Remove severely affected parts, ensuring clean cuts and applying wound protectants as described under Canker control.
+
+---
+
+### Control of Lichen in Grape
+
+Lichens are symbiotic organisms (a fungus and an alga) that grow on the surface of bark. They are epiphytes, meaning they grow on plants but do not derive nutrients from them.
+
+**This is not known to affect Grape in a detrimental way.** Lichens are generally harmless to grapevines and do not cause disease or direct damage. Their presence often indicates good air quality and a healthy, undisturbed environment.
+
+**Control Measures:**
+
+1.  **Generally Not Required:** Since lichens do not harm the vine, specific control measures are usually unnecessary.
+2.  **Cultural Practices (if removal is desired for aesthetic reasons or to improve air circulation):**
+    *   Improve air circulation within the vine canopy through proper pruning. This can create a less favorable environment for lichen growth.
+    *   Maintain overall vine vigor, as lichens are often more prevalent on older, less vigorous wood.
+3.  **Chemical Application (rarely recommended solely for lichen control):**
+    *   Dormant season application of copper-based fungicides, primarily used for disease control, can also help reduce lichen populations as a secondary effect.
+        *   **Copper Oxychloride**: Apply at 3 kg per acre (or 3 g/L of water) during dormancy.
+        *   **Copper Hydroxide**: Apply at 2.5 kg per acre (or 2.5 g/L of water) during dormancy.
+    *   Dormant oil sprays can also help dislodge lichens.
+
+---

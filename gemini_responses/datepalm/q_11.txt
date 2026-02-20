@@ -1,0 +1,46 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling beetles, weevils, and sawflies in Date Palm in Haryana:
+
+### Sawflies
+
+This is not known to affect DatePalm. Sawflies are generally not considered pests of Date Palm (Phoenix dactylifera).
+
+### Beetles and Weevils
+
+Beetles and weevils can be significant pests of Date Palm, with the Red Palm Weevil (Rhynchophorus ferrugineus) and Rhinoceros Beetle (Oryctes rhinoceros) being the most destructive. Integrated Pest Management (IPM) strategies are crucial for effective control.
+
+#### 1. Red Palm Weevil (Rhynchophorus ferrugineus)
+
+This weevil is a devastating internal borer. Early detection and prompt action are critical.
+
+*   **Cultural and Mechanical Control:**
+    *   **Sanitation:** Remove and destroy severely infested or dead palms to prevent further spread.
+    *   **Pruning:** Avoid unnecessary pruning. If pruning is essential, treat the cut surfaces immediately with a fungicidal paste or an insecticide to deter weevil entry.
+    *   **Trapping:** Use pheromone traps (e.g., aggregation pheromone lures combined with food baits like date fruit or sugarcane) for monitoring and mass trapping. Place traps at a density of 4-5 traps per acre, 1.5-2 meters above ground.
+
+*   **Chemical Control (Targeted Application):**
+    *   **Trunk Injection:** For infested palms showing early symptoms, inject systemic insecticides directly into the trunk.
+        *   **Emamectin benzoate** 5% SG at 10 g per palm, dissolved in 100 ml water and injected into the trunk.
+        *   **Imidacloprid** 17.8% SL at 10 ml per palm, dissolved in 100 ml water and injected into the trunk.
+    *   **Crown Drenching/Soil Application (for preventive/early stage):**
+        *   **Chlorpyrifos** 20% EC at 2.5 ml/L of water, drench the crown and leaf axils.
+        *   **Thiamethoxam** 25% WG at 0.5 g/L of water, drench the crown and leaf axils.
+
+#### 2. Rhinoceros Beetle (Oryctes rhinoceros)
+
+This beetle damages the growing point and young fronds, leading to characteristic V-shaped cuts.
+
+*   **Cultural and Mechanical Control:**
+    *   **Sanitation:** Eliminate breeding sites such as decaying organic matter, compost pits, and dead palm trunks in and around the date palm plantation.
+    *   **Mechanical Removal:** Use a long barbed iron hook to extract beetles from the damaged spear leaves or crown.
+    *   **Biological Control:** Apply the entomopathogenic fungus *Metarhizium anisopliae* (strain P-10) at 5 x 10^11 spores/g, mixed with organic manure in breeding sites or directly into the leaf axils at 100 g per palm.
+
+*   **Chemical Control:**
+    *   **Leaf Axil Application:** Apply insecticides in the innermost 3-4 leaf axils and the central spindle leaf.
+        *   **Fipronil** 0.3% GR at 20-25 g per palm.
+        *   **Carbaryl** 50% WP at 20-25 g per palm, mixed with equal quantity of sand, applied in the leaf axils.
+        *   **Chlorantraniliprole** 18.5% SC at 0.3 ml/L of water, drench the crown and leaf axils.
+
+**Important Considerations:**
+*   Always follow the manufacturer's instructions and safety precautions when handling and applying pesticides.
+*   Rotate insecticides with different modes of action to prevent the development of resistance.
+*   Consult with local agricultural extension services for specific recommendations tailored to your farm's conditions and for the latest CIBRC approved products and dosages.

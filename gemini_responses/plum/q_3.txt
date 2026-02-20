@@ -1,0 +1,80 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Plum, keeping in mind the conditions and approved chemicals for Haryana, India.
+
+Effective management of rots in plum requires an integrated approach combining cultural practices and judicious use of CIBRC-approved fungicides.
+
+### General Cultural Practices for Rot Management:
+*   **Site Selection & Drainage:** Plant plums in well-drained soils. Avoid areas prone to waterlogging.
+*   **Sanitation:** Regularly remove and destroy infected plant parts (leaves, branches, mummified fruits) from the orchard floor and trees.
+*   **Pruning:** Prune trees to improve air circulation within the canopy, which helps reduce humidity and disease pressure.
+*   **Irrigation Management:** Avoid overhead irrigation where possible, or irrigate early in the day to allow foliage to dry. Prevent water from pooling around the tree base.
+*   **Nutrition:** Maintain balanced tree nutrition to enhance natural resistance.
+*   **Avoid Injury:** Protect trunks and roots from mechanical injuries during cultivation, as wounds can be entry points for pathogens.
+
+### Specific Control Measures for Rot Types:
+
+#### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, and Crown Rot
+These rots often affect the tree at or below the soil line and are commonly caused by soil-borne pathogens such as *Phytophthora* species, *Rhizoctonia solani*, and *Fusarium* species.
+
+*   **Cultural Control:**
+    *   Ensure excellent soil drainage.
+    *   Plant on raised beds in heavy soils.
+    *   Avoid planting too deep; the graft union should be well above the soil line.
+    *   Inspect tree bases regularly for symptoms.
+*   **Chemical Control (Soil Drench):** Apply fungicides as a drench around the base of the affected trees.
+    *   For *Phytophthora* and other Oomycetes:
+        *   **Fosetyl-Al** 80% WP @ 2.5-3 g/L water.
+        *   **Propamocarb Hydrochloride** 72.2% SL @ 2-3 ml/L water.
+        *   **Metalaxyl-M** 31.8% ES @ 1-1.5 ml/L water.
+        *   **Copper Oxychloride** 50% WP @ 3 g/L water (as a protective drench).
+    *   For *Rhizoctonia* and *Fusarium*:
+        *   **Carbendazim** 50% WP @ 1-2 g/L water.
+
+#### 2. Neck Rot
+This is not commonly recognized as a distinct disease affecting plum in the same way as, for example, onion neck rot. Symptoms at the 'neck' of the tree are typically covered under Collar Rot or Crown Rot. Therefore, the control measures for Collar/Crown Rot (as listed above) would apply.
+
+#### 3. Black Rot
+While Black Rot is a significant disease in other fruit crops (e.g., grapes, apples), it is not a primary, well-defined disease for plum fruit. Darkening or blackening of plum fruit can be symptoms of other common fruit rots like *Alternaria* rot or advanced stages of Brown Rot.
+*   **If *Alternaria* is suspected (causing dark, sunken lesions):**
+    *   **Foliar Spray:**
+        *   **Mancozeb** 75% WP @ 2-2.5 g/L water.
+        *   **Azoxystrobin** 23% SC @ 0.5-1 ml/L water.
+        *   **Difenoconazole** 25% EC @ 0.5 ml/L water.
+
+#### 4. Fruit Rot (including Brown Rot, *Alternaria* Rot, *Botrytis* Rot)
+These are major issues for plum, especially Brown Rot (*Monilinia* species), which can cause significant pre- and post-harvest losses. *Alternaria* and *Botrytis* (grey mould) can also cause fruit decay.
+
+*   **Cultural Control:**
+    *   Remove all mummified fruits from trees and the orchard floor, as they serve as inoculum sources.
+    *   Prune to ensure good air circulation within the canopy.
+    *   Avoid fruit injury during harvesting and handling.
+*   **Chemical Control (Pre-harvest sprays):** Start sprays from bloom through fruit ripening, following label instructions for pre-harvest intervals (PHI).
+    *   For Brown Rot (*Monilinia* spp.):
+        *   **Tebuconazole** 25% WG @ 0.75-1 g/L water.
+        *   **Difenoconazole** 25% EC @ 0.5 ml/L water.
+        *   **Myclobutanil** 10% WP @ 0.4-0.5 g/L water.
+        *   **Fludioxonil + Cyprodinil** (e.g., 25% + 37.5% WG) @ 0.6-0.8 g/L water.
+    *   For broad-spectrum fruit rot control (including *Alternaria*, *Botrytis*):
+        *   **Captan** 50% WP @ 2-2.5 g/L water.
+        *   **Mancozeb** 75% WP @ 2-2.5 g/L water (protective).
+        *   **Azoxystrobin** 23% SC @ 0.5-1 ml/L water.
+        *   **Boscalid + Pyraclostrobin** (e.g., 25.2% + 12.8% WG) @ 1-1.5 g/L water.
+
+#### 5. Seed Rot and Seedling Rot (Damping-off)
+These are primarily concerns in nursery settings where plum seeds are germinated or young seedlings are grown. They are caused by various soil-borne pathogens like *Pythium*, *Phytophthora*, *Rhizoctonia*, and *Fusarium*.
+
+*   **Cultural Control:**
+    *   Use sterilized potting mix or nursery soil.
+    *   Ensure good drainage in seed trays/beds.
+    *   Avoid overwatering.
+    *   Maintain proper spacing between seedlings for good air circulation.
+*   **Chemical Control (Seed Treatment or Soil Drench in nursery beds):**
+    *   **Seed Treatment:**
+        *   **Thiram** 75% WS @ 2-3 g/kg seed.
+        *   **Captan** 75% WS @ 2-3 g/kg seed.
+        *   **Carbendazim** 50% WP @ 1-2 g/kg seed.
+        *   **Metalaxyl** 35% WS @ 1-2 g/kg seed (for Oomycetes).
+    *   **Soil Drench (for seedlings):**
+        *   **Propamocarb Hydrochloride** 72.2% SL @ 2-3 ml/L water.
+        *   **Carbendazim** 50% WP @ 1-2 g/L water.
+
+Always read and follow the label instructions for any pesticide product, including dosage, application timing, and safety precautions. Rotate fungicides with different modes of action to prevent the development of resistance.

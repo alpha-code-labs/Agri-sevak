@@ -1,0 +1,72 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Gladiolus cultivation in Haryana. Please note that these are general recommendations, and a soil test report is crucial for precise nutrient management tailored to your specific field conditions.
+
+**General Nutrient Requirement for Gladiolus (per acre):**
+*   **Nitrogen (N):** 100-120 kg
+*   **Phosphorus (P2O5):** 60-80 kg
+*   **Potassium (K2O):** 60-80 kg
+*   **Sulphur (S):** 20-30 kg
+
+Based on these requirements, here are the recommended doses for specific fertilizers:
+
+### Conventional Fertilizers
+
+1.  **Urea (46% N)**
+    *   **Dose:** 150-160 kg per acre.
+    *   **Application:** Split into three equal doses:
+        *   1/3 (approx. 50-53 kg) as basal at the time of planting.
+        *   1/3 (approx. 50-53 kg) as top dressing at the 4-6 leaf stage.
+        *   1/3 (approx. 50-53 kg) as top dressing at the spike emergence stage.
+
+2.  **DAP (Di-Ammonium Phosphate - 18% N, 46% P2O5)**
+    *   **Dose:** 150-160 kg per acre.
+    *   **Application:** Entire quantity as basal at the time of planting.
+    *   *(This dose will provide approximately 27-29 kg N and 69-74 kg P2O5, covering most of the phosphorus requirement and a part of the nitrogen requirement.)*
+
+3.  **SSP (Single Super Phosphate - 16% P2O5, 11% S)**
+    *   **Dose:** If using **SSP** instead of **DAP** for phosphorus, apply 440-450 kg per acre.
+    *   **Application:** Entire quantity as basal at the time of planting.
+    *   *(This dose will provide approximately 70-72 kg P2O5 and 48-50 kg S, covering both phosphorus and sulphur requirements. If using SSP, the **Urea** dose would need to be adjusted upwards to provide the full nitrogen requirement, as SSP does not contain nitrogen.)*
+
+4.  **Potash (Muriate of Potash - MOP, 60% K2O)**
+    *   **Dose:** 115-120 kg per acre.
+    *   **Application:** Split into two equal doses:
+        *   1/2 (approx. 58-60 kg) as basal at the time of planting.
+        *   1/2 (approx. 58-60 kg) as top dressing at the 4-6 leaf stage.
+
+5.  **Sulphur (Bentonite Sulphur 90%)**
+    *   **Dose:** 25-30 kg per acre.
+    *   **Application:** Entire quantity as basal at the time of planting.
+    *   *(This is recommended if you are using **DAP** and not **SSP**, as **DAP** does not provide sufficient sulphur.)*
+
+6.  **NPK (Complex Fertilizers)**
+    *   **Dose:** The dose varies significantly depending on the specific NPK grade (e.g., 12:32:16, 19:19:19, 10:26:26).
+    *   **Application:** If using a complex **NPK** fertilizer as a basal dose, calculate the amount needed to meet the P2O5 requirement first, then supplement the remaining N and K with **Urea** and **Potash** respectively, as split applications. For example, if using **NPK (12:32:16)**, approximately 220-250 kg per acre can be applied as basal, and then adjust **Urea** and **Potash** accordingly.
+
+### Nano Fertilizers
+
+Nano fertilizers are advanced nutrient delivery systems designed for foliar application, offering high nutrient use efficiency. They are generally used to supplement or partially replace conventional fertilizers.
+
+1.  **Nano-Urea (Liquid)**
+    *   **Dose:** 500 ml per acre per spray.
+    *   **Application:** Mix 2-4 ml of **Nano-Urea** per litre of water and spray.
+    *   **Timing:** Apply 2-3 foliar sprays:
+        *   First spray at the active tillering/vegetative growth stage (e.g., 4-6 leaf stage).
+        *   Second spray 20-25 days after the first spray (e.g., pre-flowering/spike emergence).
+        *   (A third spray can be given if needed, depending on plant vigour).
+    *   **Role:** Can reduce the requirement of conventional **Urea** by up to 50%.
+
+2.  **Nano-DAP (Liquid)**
+    *   **Dose:** 500 ml per acre per spray.
+    *   **Application:** Mix 2-4 ml of **Nano-DAP** per litre of water and spray.
+    *   **Timing:** Apply 2 foliar sprays:
+        *   First spray at the active vegetative growth stage (e.g., 4-6 leaf stage).
+        *   Second spray 20-25 days after the first spray (e.g., pre-flowering/spike emergence).
+    *   **Role:** Can reduce the requirement of conventional **DAP** by up to 50%.
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test to determine the exact nutrient status of your field. This will help in fine-tuning the fertilizer doses and avoiding over or under-application.
+*   **Organic Manures:** Supplementing chemical fertilizers with well-decomposed Farm Yard Manure (FYM) or compost (20-25 tonnes per acre) significantly improves soil health, nutrient availability, and water retention.
+*   **Micronutrients:** Gladiolus may also require micronutrients like Boron, Zinc, and Manganese, especially in alkaline soils of Haryana. A soil test will indicate if these are deficient.
+
+By following these recommendations, you can ensure healthy growth and good flower production in your Gladiolus crop.

@@ -1,0 +1,77 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling various rot types in Cotton (Kapas) relevant to Haryana.
+
+Rot diseases in cotton can significantly impact yield and quality. Many of the rot types you've listed are caused by a complex of soil-borne fungal pathogens, especially during the early growth stages.
+
+---
+
+### **1. Seed Rot, Seedling Rot, Root Rot, Stem Rot, Foot Rot, Collar Rot, and Crown Rot**
+
+These early-season and soil-borne rots are often caused by a group of common pathogens including *Rhizoctonia solani*, *Pythium spp.*, *Fusarium spp.*, *Macrophomina phaseolina* (causing charcoal rot), and *Sclerotium rolfsii*. They affect the seed, hypocotyl, roots, and stem base, leading to poor germination, damping-off, wilting, and plant death.
+
+**Integrated Management Strategies:**
+
+*   **Cultural Practices:**
+    *   **Resistant Varieties:** Choose cotton varieties known to have tolerance or resistance to common soil-borne diseases prevalent in your area.
+    *   **Crop Rotation:** Practice rotation with non-host crops (e.g., cereals like wheat, maize) for at least 2-3 years to reduce pathogen inoculum in the soil.
+    *   **Deep Summer Ploughing:** Expose soil-borne pathogens to scorching summer sun, which helps in their reduction.
+    *   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can promote lush growth susceptible to disease. Ensure adequate phosphorus and potassium.
+    *   **Proper Irrigation:** Avoid waterlogging, especially during germination and early seedling stages. Irrigate judiciously based on soil moisture.
+    *   **Timely Sowing:** Sow seeds at the optimal time when soil temperatures are favorable for rapid germination and seedling establishment.
+    *   **Field Sanitation:** Remove and destroy infected plant debris from previous crops.
+
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-agents like *Trichoderma viride* or *Trichoderma harzianum* at 4-5 g/kg seed. These fungi colonize the root zone and suppress pathogenic fungi.
+    *   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* (2.5 kg/acre mixed with 50 kg farmyard manure) at the time of sowing or transplanting.
+
+*   **Chemical Control:**
+    *   **Seed Treatment (Crucial for early-season rots):**
+        *   **Carbendazim** (1 g/kg seed) + **Thiram** (2 g/kg seed)
+        *   **Pyraclostrobin** + **Fluxapyroxad** (e.g., 1-2 ml/kg seed, as per product label)
+        *   **Metalaxyl-M** + **Difenoconazole** (e.g., 1-2 ml/kg seed, as per product label)
+        *   **Tebuconazole** (e.g., 1-2 ml/kg seed)
+    *   **Soil Drench (for localized outbreaks or early symptoms):**
+        *   **Carbendazim** at 1-2 g/L water, applied around the base of affected plants.
+        *   **Propiconazole** at 1 ml/L water, applied around the base of affected plants.
+        *   **Hexaconazole** at 1 ml/L water, applied around the base of affected plants.
+
+---
+
+### **2. Fruit Rot (Boll Rot)**
+
+Boll rot in cotton is a complex disease caused by various fungi (*Colletotrichum gossypii*, *Fusarium spp.*, *Alternaria spp.*, *Rhizopus spp.*, *Aspergillus spp.*) and bacteria (*Xanthomonas axonopodis pv. malvacearum* - bacterial blight). It leads to rotting of bolls, lint discoloration, and significant yield losses.
+
+**Integrated Management Strategies:**
+
+*   **Cultural Practices:**
+    *   **Proper Plant Spacing:** Maintain recommended plant spacing to ensure good air circulation within the canopy, which reduces humidity and fungal growth.
+    *   **Avoid Excessive Nitrogen:** High nitrogen levels lead to dense foliage, creating a humid microclimate favorable for boll rot.
+    *   **Timely Irrigation:** Avoid overhead irrigation late in the day, which keeps foliage wet for prolonged periods.
+    *   **Removal of Diseased Bolls:** Regularly scout the field and remove and destroy any bolls showing symptoms of rot to reduce inoculum.
+    *   **Pruning:** In some systems, light pruning of lower leaves can improve air circulation, but this should be done carefully and based on local recommendations for your variety.
+
+*   **Chemical Control (Foliar Sprays):**
+    *   **For Fungal Boll Rot:**
+        *   **Propiconazole** at 1 ml/L water (200 L spray volume per acre).
+        *   **Difenoconazole** at 0.5 ml/L water (200 L spray volume per acre).
+        *   **Azoxystrobin** at 0.5 ml/L water (200 L spray volume per acre).
+        *   **Pyraclostrobin** at 0.5 ml/L water (200 L spray volume per acre).
+        *   **Mancozeb** at 2 g/L water (200 L spray volume per acre).
+        *   Apply sprays preventively during boll development, especially if humid conditions prevail or after heavy rains. Repeat at 10-15 day intervals if necessary.
+    *   **For Bacterial Boll Rot (Bacterial Blight):**
+        *   **Streptomycin sulfate** (6 g) + **Tetracycline hydrochloride** (1.5 g) per 10 L water.
+        *   **Copper oxychloride** at 2.5 g/L water.
+        *   These can be used if bacterial blight is a significant component of the boll rot complex.
+
+---
+
+### **3. Black Rot**
+
+This is not known to affect Cotton (Kapas). Black rot is primarily a disease of cruciferous crops (e.g., cabbage, cauliflower) caused by *Xanthomonas campestris pv. campestris*, or grapes caused by *Guignardia bidwellii*.
+
+---
+
+**General Recommendations:**
+
+*   **Integrated Disease Management (IDM):** Always combine cultural, biological, and chemical methods for sustainable and effective disease control.
+*   **Field Monitoring:** Regularly scout your fields to detect disease symptoms early, allowing for timely intervention.
+*   **Consult Experts:** For specific recommendations tailored to your farm's conditions and the latest CIBRC approved products, always consult with local agricultural extension officers or HAU experts.

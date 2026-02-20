@@ -1,0 +1,42 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling viral diseases in Peas in Haryana:
+
+Firstly, regarding your list:
+
+*   **Tristeza:** This is not known to affect Peas. Citrus Tristeza Virus (CTV) primarily affects citrus species.
+
+For the other viral diseases mentioned (Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus), it is important to understand that there is no direct chemical cure for viral infections once a plant is infected. The primary strategy is prevention and managing the vectors (insects like aphids, thrips, and whiteflies) that transmit these viruses, along with adopting robust cultural practices.
+
+Here are the recommended control measures:
+
+**I. Integrated Pest Management (IPM) for Viral Diseases in Peas:**
+
+1.  **Use of Resistant/Tolerant Varieties:**
+    *   The most effective and sustainable approach is to select and cultivate pea varieties that are known to be resistant or tolerant to common pea viruses prevalent in Haryana, such as Pea Leaf Curl Virus (PLCV) and Pea Mosaic Virus (PMV). Consult HAU or local agricultural extension for recommended varieties.
+
+2.  **Vector Control (Aphids, Thrips, Whiteflies):**
+    *   **Seed Treatment:** Treating seeds with systemic insecticides provides early protection against sucking pests that transmit viruses.
+        *   **Imidacloprid** (e.g., 70% WS) at 5-7 g/kg seed.
+        *   **Thiamethoxam** (e.g., 70% WS) at 3-5 g/kg seed.
+    *   **Monitoring:** Regularly scout fields for the presence of aphid colonies, thrips, or whiteflies, especially during the early growth stages.
+    *   **Foliar Sprays (if vector population is high):** Apply insecticides only when necessary, based on economic threshold levels, to control vector populations.
+        *   For Aphids:
+            *   **Imidacloprid** (17.8% SL) at 125-150 ml/acre in 200-400 L of water.
+            *   **Thiamethoxam** (25% WG) at 50-100 g/acre in 200-400 L of water.
+            *   **Acetamiprid** (20% SP) at 50-100 g/acre in 200-400 L of water.
+            *   **Flonicamid** (50% WG) at 60 g/acre in 200-400 L of water.
+        *   For Thrips (if present):
+            *   **Fipronil** (5% SC) at 400-600 ml/acre in 200-400 L of water.
+        *   For Whiteflies (if present):
+            *   **Buprofezin** (25% SC) at 500-600 ml/acre in 200-400 L of water.
+
+3.  **Cultural Practices:**
+    *   **Rogueing:** Promptly remove and destroy (bury or burn) any plants showing symptoms of viral infection to prevent further spread within the field.
+    *   **Weed Management:** Control weeds in and around pea fields, as many weeds can serve as alternate hosts for viruses and their insect vectors.
+    *   **Crop Rotation:** Practice crop rotation with non-host crops to break the disease cycle and reduce inoculum build-up.
+    *   **Optimum Sowing Time:** Adjust sowing dates to avoid periods of high vector activity, if possible.
+    *   **Nutrient Management:** Ensure balanced fertilization to promote vigorous plant growth, which can enhance tolerance to viral infections.
+    *   **Field Sanitation:** Maintain good field hygiene by removing crop residues after harvest.
+    *   **Barrier/Trap Crops:** In some cases, planting non-host crops or trap crops around the pea field can help in diverting vectors.
+    *   **Reflective Mulches:** Using silver-colored reflective mulches can deter aphids from landing on young pea plants.
+
+Always consult with your local agricultural extension officer or HAU experts for the most current recommendations and specific product availability in your region.

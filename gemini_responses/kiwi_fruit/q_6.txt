@@ -1,0 +1,37 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling viral diseases in Kiwi Fruit (Actinidia deliciosa) in Haryana.
+
+It is crucial to understand that once a plant is infected with a virus, there is no direct chemical cure. Therefore, the primary focus of viral disease management is on prevention, vector control, and sanitation.
+
+**Regarding Tristeza:**
+This is not known to affect Kiwi Fruit. Citrus Tristeza Virus (CTV) primarily affects citrus species and related plants in the Rutaceae family.
+
+**Control Measures for other Viral Diseases (Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus) in Kiwi Fruit:**
+
+These symptoms are indicative of various viral infections that can affect Kiwi Fruit. The general control strategies are as follows:
+
+1.  **Use Healthy Planting Material:**
+    *   Always source certified virus-free saplings from reputable and government-approved nurseries. This is the most critical step in preventing the introduction of viral diseases into your orchard.
+
+2.  **Vector Control:**
+    *   Many plant viruses are transmitted by insect vectors such as aphids, whiteflies, thrips, and mites, or by nematodes. Effective management of these vectors is paramount to prevent the spread of viruses.
+    *   **Monitoring:** Regularly inspect your kiwi plants for the presence of these insect pests. Early detection allows for timely intervention.
+    *   **Chemical Control (CIBRC Approved Insecticides/Acaricides):**
+        *   For sucking pests (aphids, whiteflies, thrips) that commonly transmit viruses:
+            *   **Imidacloprid** (17.8% SL) @ 0.5-1.0 ml/L of water.
+            *   **Thiamethoxam** (25% WG) @ 0.2-0.4 g/L of water.
+            *   **Acetamiprid** (20% SP) @ 0.2-0.4 g/L of water.
+        *   For mites (if identified as vectors for specific viruses):
+            *   **Spiromesifen** (22.9% SC) @ 0.5-1.0 ml/L of water.
+            *   **Fenpyroximate** (5% SC) @ 1.0-1.5 ml/L of water.
+        *   *Note: Always rotate insecticides with different modes of action to prevent the development of resistance. Strictly follow the manufacturer's instructions for dosage, application timing, and safety precautions.*
+
+3.  **Sanitation and Cultural Practices:**
+    *   **Rogueing:** Immediately remove and destroy (preferably by burning or deep burying away from the orchard) any plants showing symptoms of viral infection. This prevents the virus from spreading to healthy plants.
+    *   **Weed Management:** Keep the orchard and surrounding areas free of weeds, as many weeds can act as alternative hosts for viruses and their insect vectors.
+    *   **Tool Disinfection:** Disinfect pruning tools, knives, and other equipment with a 10% bleach solution or 70% alcohol between pruning each plant to prevent mechanical transmission of viruses.
+    *   **Good Agronomic Practices:** Ensure proper nutrition, irrigation, and overall plant health to improve the plant's natural resilience to stress, although this does not prevent viral infection.
+
+4.  **Resistant Varieties:**
+    *   Where available and suitable for Haryana's climate, choose kiwi varieties that are known to possess resistance or tolerance to common viral diseases. Consult with HAU experts for suitable varieties.
+
+By implementing these integrated management strategies, you can significantly reduce the incidence and spread of viral diseases in your Kiwi Fruit orchard.

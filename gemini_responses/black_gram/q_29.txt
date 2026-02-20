@@ -1,0 +1,68 @@
+Dropping of flowers, fruits (pods), and tinda/bolls in Black Gram (Urdbean) is a common physiological disorder rather than a specific disease or pest. It is often a symptom of various underlying stresses or imbalances affecting the plant's reproductive development. Addressing this requires an integrated approach focusing on optimal plant health and stress management.
+
+**Primary Causes of Dropping in Black Gram:**
+
+1.  **Environmental Stress:**
+    *   **Temperature Extremes:** High temperatures (above 35°C) during flowering can lead to pollen sterility and flower abortion.
+    *   **Moisture Stress:** Both drought (insufficient water) and waterlogging (excess water) can severely impact flower and pod retention.
+    *   **Humidity Fluctuations:** Sudden changes in humidity can also stress the plant.
+    *   **Strong Winds:** Physical damage and increased transpiration.
+2.  **Nutritional Deficiencies:**
+    *   Lack of essential micronutrients like Boron, Molybdenum, and Zinc, which are critical for pollen viability, fertilization, and pod development.
+    *   Imbalance of macronutrients (N, P, K).
+3.  **Hormonal Imbalance:**
+    *   Improper balance of endogenous plant hormones can lead to abscission (shedding) of reproductive parts.
+4.  **Pest Infestations:**
+    *   **Sucking Pests:** Thrips, aphids, whiteflies can damage flowers and young pods, leading to their shedding.
+    *   **Pod Borers:** Larvae feeding on developing pods can cause them to drop prematurely.
+5.  **Diseases:**
+    *   While not a direct cause of dropping, severe disease infections (e.g., Yellow Mosaic Virus, powdery mildew) can weaken the plant, indirectly leading to flower/pod drop due to overall stress.
+6.  **Genetic Factors:**
+    *   Natural shedding of a certain percentage of flowers is common in many crops, including Black Gram, as the plant optimizes its resource allocation.
+
+**Control Measures for Dropping in Black Gram:**
+
+An integrated approach is recommended to minimize flower and pod dropping:
+
+1.  **Optimized Agronomic Practices:**
+    *   **Sowing Time:** Ensure timely sowing to avoid extreme temperatures during critical flowering and pod development stages.
+    *   **Water Management:**
+        *   Provide adequate irrigation, especially during flowering and pod formation. Avoid both drought stress and waterlogging.
+        *   Light irrigation during flowering can help reduce flower drop in hot, dry conditions.
+    *   **Nutrient Management:**
+        *   Conduct soil testing to identify nutrient deficiencies.
+        *   Apply balanced fertilizers as per recommendations for Black Gram.
+        *   Ensure proper availability of phosphorus and potassium.
+    *   **Weed Control:** Keep fields free of weeds to reduce competition for water and nutrients.
+    *   **Plant Spacing:** Maintain optimal plant spacing to ensure proper light penetration and air circulation.
+
+2.  **Nutritional Support (Foliar Application):**
+    *   **Boron:** Essential for pollen germination and tube growth.
+        *   Apply **Borax** (10.5% Boron) at 1.5-2 kg/acre dissolved in 200 litres of water, or **Solubor** (20% Boron) at 100-150 g/100 litres of water, as a foliar spray at pre-flowering and pod initiation stages.
+    *   **Molybdenum:** Important for nitrogen metabolism and nodule formation.
+        *   Apply **Sodium Molybdate** at 50-100 g/acre dissolved in 200 litres of water as a foliar spray at pre-flowering.
+    *   **Zinc:** Crucial for enzyme activity and hormone production.
+        *   Apply **Zinc Sulphate** (21% Zinc) at 0.5% solution (500 g/100 litres of water) as a foliar spray at pre-flowering.
+    *   **Potassium Nitrate (KNO3):** Can help in stress tolerance and nutrient uptake.
+        *   Apply **Potassium Nitrate** (13:0:45) at 0.5-1% solution (500 g - 1 kg/100 litres of water) as a foliar spray during flowering and pod development.
+
+3.  **Hormonal Regulation (Plant Growth Regulators - PGRs):**
+    *   To reduce flower and pod drop, especially under stress conditions:
+        *   Apply **Naphthalene Acetic Acid (NAA)** at 20-40 ppm (20-40 mg/L or 2-4 ml of 1% NAA solution per 10 litres of water) as a foliar spray at the pre-flowering stage and again at early pod formation. This helps in preventing abscission.
+
+4.  **Pest Management:**
+    *   Regularly monitor the crop for sucking pests (thrips, aphids, whiteflies) and pod borers.
+    *   If pest incidence is above economic threshold levels, apply appropriate CIBRC-approved insecticides:
+        *   For sucking pests:
+            *   **Imidacloprid** 17.8% SL at 125 ml/acre in 200 litres of water.
+            *   **Thiamethoxam** 25% WG at 50 g/acre in 200 litres of water.
+        *   For pod borers (e.g., gram pod borer, spotted pod borer):
+            *   **Chlorantraniliprole** 18.5% SC at 60 ml/acre in 200 litres of water.
+            *   **Emamectin Benzoate** 5% SG at 80-100 g/acre in 200 litres of water.
+        *   *Note: Always rotate insecticides with different modes of action to prevent resistance development.*
+
+5.  **Disease Management:**
+    *   Manage diseases like Yellow Mosaic Virus (YMV) by controlling its vector (whitefly) and using resistant varieties.
+    *   Control fungal diseases (e.g., powdery mildew) with appropriate fungicides to maintain overall plant vigour.
+
+By implementing these integrated management strategies, farmers can significantly reduce flower and pod dropping in Black Gram and improve overall yield. Always consult with local agricultural extension services for specific recommendations tailored to your field conditions.

@@ -1,0 +1,79 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide scientifically verified advice for controlling fungal diseases in Peas, keeping in mind the specific conditions and approved practices for Haryana, India.
+
+Here's how to control the mentioned fungal diseases in Peas:
+
+### General Principles for Fungal Disease Management in Peas:
+
+*   **Integrated Pest Management (IPM):** Combine cultural, biological, and chemical methods for sustainable control.
+*   **Resistant Varieties:** Whenever possible, choose pea varieties known to be resistant or tolerant to common fungal diseases in your region.
+*   **Crop Rotation:** Practice a 2-3 year crop rotation with non-host crops to reduce inoculum build-up in the soil.
+*   **Field Sanitation:** Remove and destroy infected plant debris after harvest.
+*   **Seed Treatment:** Use treated seeds to prevent seed-borne diseases and early seedling infections.
+*   **Proper Spacing:** Ensure adequate plant spacing to improve air circulation and reduce humidity, which discourages fungal growth.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can promote lush growth susceptible to certain diseases.
+
+---
+
+### Specific Disease Control Measures:
+
+1.  **Alternaria Leaf Spot/Blight (e.g., *Alternaria alternata*)**
+    *   **Cultural Practices:** Use disease-free seeds, practice crop rotation, and remove infected plant debris.
+    *   **Chemical Control (Foliar Spray):**
+        *   **Mancozeb** 2.5 kg/acre
+        *   **Chlorothalonil** 2 kg/acre
+        *   **Azoxystrobin** 200 ml/acre
+
+2.  **Anthracnose (*Colletotrichum pisi*)**
+    *   **Cultural Practices:** Use certified disease-free seeds, practice strict crop rotation (at least 3 years), and ensure good field sanitation.
+    *   **Chemical Control:**
+        *   **Seed Treatment:**
+            *   **Carbendazim** 2 g/kg seed
+            *   **Thiram** 2.5 g/kg seed
+        *   **Foliar Spray (if disease appears):**
+            *   **Carbendazim** 500 g/acre
+            *   **Mancozeb** 2.5 kg/acre
+
+3.  **Blast**
+    *   This is not known to affect Peas.
+
+4.  **Blight (e.g., Ascochyta Blight complex: *Didymella pinodes*, *Phoma medicaginis* var. *pinodella*, *Peyronellaea pinodella*)**
+    *   **Cultural Practices:** Use certified disease-free seeds, practice a minimum 3-year crop rotation, deep ploughing of crop residues, and avoid overhead irrigation.
+    *   **Chemical Control:**
+        *   **Seed Treatment:**
+            *   **Thiram** 2.5 g/kg seed + **Carbendazim** 1 g/kg seed
+        *   **Foliar Spray (at first sign of disease):**
+            *   **Mancozeb** 2.5 kg/acre
+            *   **Chlorothalonil** 2 kg/acre
+            *   **Azoxystrobin** 200 ml/acre
+
+5.  **Brown Spot**
+    *   Brown spot symptoms in peas are often caused by pathogens like *Alternaria* species or components of the *Ascochyta* blight complex. Therefore, the control measures recommended for **Alternaria Leaf Spot/Blight** and **Blight** (Ascochyta) should be effective.
+
+6.  **Downy Mildew (*Peronospora viciae* f.sp. *pisi*)**
+    *   **Cultural Practices:** Use resistant varieties, ensure good field drainage, avoid dense planting, and practice crop rotation.
+    *   **Chemical Control:**
+        *   **Seed Treatment:**
+            *   **Metalaxyl-M** 35% WS @ 6 g/kg seed (if approved and available for peas in Haryana)
+        *   **Foliar Spray (preventive or at early stages):**
+            *   **Mancozeb** 2.5 kg/acre (protectant)
+            *   **Metalaxyl-M + Mancozeb** (pre-mix) 1 kg/acre
+            *   **Dimethomorph + Mancozeb** (pre-mix) 1 kg/acre
+
+7.  **Powdery Mildew (*Erysiphe pisi*)**
+    *   **Cultural Practices:** Plant resistant varieties, ensure proper plant spacing for good air circulation, and avoid excessive nitrogen fertilization.
+    *   **Chemical Control (Foliar Spray, at first appearance of white powdery patches):**
+        *   **Wettable Sulphur** 2.5 kg/acre (effective in early stages and as a preventive)
+        *   **Myclobutanil** 200 ml/acre
+        *   **Azoxystrobin** 200 ml/acre
+        *   **Propiconazole** 200 ml/acre
+
+8.  **Grey Mildew**
+    *   This is not known to affect Peas. (Note: Grey mould caused by *Botrytis cinerea* is a different disease and is known to affect peas, but "Grey mildew" is not a recognized disease name for peas).
+
+---
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the fungicide label for correct dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult your local agricultural extension officer or HAU experts for the most current recommendations and specific variety information for your area in Haryana.

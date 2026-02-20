@@ -1,0 +1,59 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling various rot types in Paddy (Dhan) relevant to Haryana. It's important to note that not all listed rot types are distinct, major diseases of paddy.
+
+Here's a breakdown of the rot types and their control measures:
+
+### Rot Types Affecting Paddy (Dhan)
+
+*   **Stem Rot**
+    *   **Cause:** *Magnaporthe salvinii* (formerly *Sclerotium oryzae*).
+    *   **Symptoms:** Lesions on leaf sheaths near the water line, rotting of the stem, lodging, and presence of small, black sclerotia inside the stem.
+    *   **Control Measures:**
+        *   **Cultural:** Remove and destroy infected stubble. Avoid excessive nitrogen fertilization. Maintain proper water levels; intermittent drainage can help.
+        *   **Chemical (Foliar Spray):**
+            *   **Propiconazole** 25% EC at 200 ml/acre.
+            *   **Azoxystrobin** 23% SC at 200 ml/acre.
+            *   **Trifloxystrobin + Tebuconazole** (e.g., 25% + 50% WG) at 200 g/acre.
+
+*   **Foot Rot (Bakanae Disease)**
+    *   **Cause:** *Gibberella fujikuroi* (anamorph *Fusarium fujikuroi*).
+    *   **Symptoms:** Abnormal elongation of seedlings, pale green colour, adventitious roots from lower nodes, or sometimes stunting and yellowing. Infected plants may die.
+    *   **Control Measures:**
+        *   **Cultural:** Use disease-free seeds. Rogue out infected plants.
+        *   **Chemical (Seed Treatment):**
+            *   **Carbendazim** 50% WP at 2 g/kg seed.
+            *   **Thiram** 75% WS at 2.5 g/kg seed.
+            *   **Tebuconazole** 2% DS at 1 g/kg seed.
+            *   **Trifloxystrobin + Tebuconazole** (e.g., 25% + 50% WG) at 0.5 g/kg seed.
+
+*   **Neck Rot (a phase of Rice Blast)**
+    *   **Cause:** *Magnaporthe oryzae* (anamorph *Pyricularia oryzae*).
+    *   **Symptoms:** Dark brown lesions on the panicle neck, leading to the panicle breaking and unfilled grains.
+    *   **Control Measures:**
+        *   **Cultural:** Use resistant varieties. Avoid excessive nitrogen.
+        *   **Chemical (Foliar Spray, apply at panicle emergence/booting stage):**
+            *   **Tricyclazole** 75% WP at 120 g/acre.
+            *   **Isoprothiolane** 40% EC at 400 ml/acre.
+            *   **Carbendazim** 50% WP at 200 g/acre.
+            *   **Azoxystrobin** 23% SC at 200 ml/acre.
+            *   **Propiconazole** 25% EC at 200 ml/acre.
+            *   **Trifloxystrobin + Tebuconazole** (e.g., 25% + 50% WG) at 200 g/acre.
+
+*   **Seed Rot and Seedling Rot (Seedling Blight Complex)**
+    *   **Cause:** Various fungi including *Fusarium spp.*, *Rhizoctonia solani*, *Pythium spp.*, *Sclerotium rolfsii*, and *Gibberella fujikuroi*.
+    *   **Symptoms:** Poor seed germination, rotting of seeds before emergence, damping-off of seedlings (pre- or post-emergence), stunting, yellowing, and eventual death of seedlings in the nursery.
+    *   **Control Measures:**
+        *   **Cultural:** Use healthy, certified seeds. Prepare well-drained nursery beds. Avoid overcrowding of seedlings.
+        *   **Chemical (Seed Treatment is crucial):**
+            *   **Carbendazim** 50% WP at 2 g/kg seed.
+            *   **Thiram** 75% WS at 2.5 g/kg seed.
+            *   **Captan** 75% WS at 2.5 g/kg seed.
+            *   **Tebuconazole** 2% DS at 1 g/kg seed.
+            *   **Trifloxystrobin + Tebuconazole** (e.g., 25% + 50% WG) at 0.5 g/kg seed.
+
+### Rot Types Not Known to Affect Paddy (Dhan)
+
+*   **Root Rot:** While general root health issues exist, a distinct disease specifically named "Root Rot" is not a primary, major classification in paddy. Issues affecting roots are usually part of seedling blights or other stress factors.
+*   **Collar Rot:** This is not known as a distinct, major disease affecting Paddy (Dhan).
+*   **Crown Rot:** This is not known as a distinct, major disease affecting Paddy (Dhan).
+*   **Black Rot:** This is not known to affect Paddy (Dhan).
+*   **Fruit Rot:** Paddy produces grains (caryopses), not fruits in the botanical sense that would be susceptible to "fruit rot." This is not known to affect Paddy (Dhan).

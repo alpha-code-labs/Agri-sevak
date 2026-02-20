@@ -1,0 +1,46 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for managing wilting conditions in Rocket salad.
+
+While 'Parawilt' is a specific term often associated with a complex disease in cotton, it is not a recognized specific disease of Rocket salad (Eruca sativa/vesicaria). However, Rocket salad can be affected by various wilting diseases caused by soil-borne fungal pathogens (such as *Fusarium* spp., *Verticillium* spp., *Pythium* spp., *Rhizoctonia* spp.) or, less commonly, bacterial pathogens. These wilting symptoms can lead to significant yield losses.
+
+Here are the recommended control measures for managing wilt in Rocket salad:
+
+**I. Cultural Practices (Foundation of Disease Management):**
+
+1.  **Crop Rotation:** Implement a strict 3-4 year crop rotation plan, avoiding planting Rocket salad or other susceptible brassicas (like cabbage, cauliflower, mustard) in the same field consecutively. Rotate with non-host crops such as cereals (wheat, maize), legumes (chickpea, lentil), or millets.
+2.  **Use Disease-Free Seeds:** Always source certified, disease-free seeds from reputable suppliers.
+3.  **Soil Solarization:** In summer, after harvesting the previous crop, plough the field, irrigate it lightly, and cover it with a transparent polyethylene sheet (100-gauge thickness) for 4-6 weeks. This raises soil temperature, effectively killing many soil-borne pathogens, including wilt-causing fungi.
+4.  **Improve Drainage:** Ensure proper field drainage to prevent waterlogging, which can stress plants and create anaerobic conditions favorable for some root rot and wilt pathogens. Raised beds can be beneficial.
+5.  **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can promote lush, soft growth making plants more susceptible. Provide balanced nutrients based on soil test recommendations.
+6.  **Field Sanitation:** Promptly remove and destroy (by burning or deep burial) any infected plants showing wilting symptoms to prevent the spread of pathogens. Clean tools and equipment after working in infected areas.
+7.  **Maintain Optimal Soil pH:** Some wilt pathogens are favored by specific soil pH ranges. Maintaining a soil pH between 6.0-7.0 is generally good for brassicas and can help suppress certain pathogens.
+
+**II. Biological Control:**
+
+1.  **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply at 4-6 g/kg of seed.
+2.  **Soil Application:**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Mix 2.5 kg of the formulation with 50 kg of farmyard manure (FYM) or compost, and apply it uniformly to one acre of land before sowing or transplanting. This helps in suppressing soil-borne pathogens.
+
+**III. Chemical Control (CIBRC Approved Technical Chemical Names):**
+
+Chemical control should be used judiciously and as a supplementary measure, especially when cultural and biological methods are insufficient.
+
+1.  **Seed Treatment:**
+    *   **Carbendazim 50% WP**: Treat seeds at 2-3 g/kg of seed.
+    *   **Thiram 75% WS**: Treat seeds at 2-3 g/kg of seed. (Often used in combination with Carbendazim for broader spectrum protection).
+    *   **Thiophanate Methyl 70% WP**: Treat seeds at 2-2.5 g/kg of seed.
+
+2.  **Soil Drenching (for established plants or pre-planting):**
+    *   **Carbendazim 50% WP**: Drench the soil around the base of the plants with a solution of 1-2 g/L of water. Apply 100-200 ml solution per plant, depending on plant size.
+    *   **Thiophanate Methyl 70% WP**: Drench the soil around the base of the plants with a solution of 1-1.5 g/L of water.
+    *   **Propamocarb Hydrochloride 72.2% SL**: If wilting is suspected to be due to Oomycetes like *Pythium* or *Phytophthora* (causing damping-off and root rot), drench the soil with a solution of 2-3 ml/L of water.
+    *   **Copper Oxychloride 50% WP**: For broad-spectrum fungal and some bacterial issues, drench the soil with a solution of 2-3 g/L of water.
+    *   **Streptomycin Sulphate 9% + Tetracycline Hydrochloride 1% SP**: If bacterial wilt is strongly suspected, drench the soil with a solution of 0.5-1 g/L of water.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the product label for dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods, is the most effective strategy for long-term disease management.
+
+For specific diagnosis or further assistance, please contact the Department of Plant Pathology at HAU, Hisar.

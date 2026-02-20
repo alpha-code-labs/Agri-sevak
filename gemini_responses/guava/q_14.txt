@@ -1,0 +1,46 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding soil pests like termites and root-knot nematodes in guava orchards. These pests can significantly impact the health and productivity of your guava trees.
+
+An Integrated Pest Management (IPM) approach, combining cultural, biological, and judicious chemical methods, is crucial for effective and sustainable control.
+
+### 1. Control of Termites in Guava
+
+Termites (Odontotermes obesus, Microtermes obesi) can cause severe damage by feeding on the roots and bark of guava trees, leading to wilting and eventual death, especially in young plants.
+
+*   **Cultural Practices:**
+    *   **Field Sanitation:** Regularly remove dead wood, stumps, and other organic debris from the orchard, as these can serve as breeding grounds for termites.
+    *   **Deep Ploughing:** Before planting, deep ploughing can expose termite colonies to predators and desiccation.
+    *   **Proper Irrigation:** Avoid waterlogging, but ensure adequate moisture, as very dry conditions can sometimes favor termite activity.
+    *   **Avoid Direct Contact:** Do not allow organic matter (like straw or wood) to directly touch the tree trunk, as this can provide a bridge for termites.
+
+*   **Chemical Control:**
+    *   For established trees, a soil drench around the base of the affected trees is recommended.
+        *   **Chlorpyrifos 20% EC**: Apply at a rate of 2.5-5.0 ml per litre of water. Drench the soil around the base of the tree, ensuring the solution penetrates the root zone. The quantity of solution depends on the age and size of the tree (e.g., 5-10 litres per tree for young trees, more for older trees).
+
+### 2. Control of Nematodes (Root-knot) in Guava
+
+Root-knot nematodes (Meloidogyne spp.) are microscopic worms that infect the roots, causing characteristic galls or knots. This impairs the roots' ability to absorb water and nutrients, leading to stunted growth, yellowing of leaves, reduced fruit yield, and increased susceptibility to other diseases.
+
+*   **Cultural Practices:**
+    *   **Solarization (for nursery beds):** In nursery beds, covering moist soil with transparent polyethylene sheets during hot summer months for 4-6 weeks can significantly reduce nematode populations.
+    *   **Use of Healthy Planting Material:** Always use nematode-free saplings from certified nurseries.
+    *   **Deep Ploughing:** Exposes nematodes to sunlight and desiccation, reducing their population.
+    *   **Crop Rotation (difficult for established orchards):** While not feasible for established guava trees, in areas planned for new orchards, rotating with non-host crops (e.g., marigold, mustard) for a few seasons can help reduce nematode populations.
+
+*   **Biological Control:**
+    *   **Purpureocillium lilacinum (formerly Paecilomyces lilacinus):** This bio-nematicide is highly effective.
+        *   Apply **Purpureocillium lilacinum** (1-2 kg per acre) mixed with 50-100 kg of farmyard manure (FYM) or compost. Apply this mixture around the root zone of the trees and irrigate immediately. This can be done twice a year, especially during favorable conditions for nematode activity.
+    *   **Neem Cake:** Incorporating neem cake into the soil provides organic matter and releases compounds with nematicidal properties.
+        *   Apply **Neem cake** at a rate of 1-2 kg per tree, mixed into the soil around the root zone, especially during planting or as a regular amendment.
+
+*   **Chemical Control:**
+    *   Chemical nematicides should be used judiciously and as a last resort, especially given their potential environmental impact.
+        *   **Carbofuran 3% G:** Apply at a rate of 33 kg per acre (100 g per tree for young trees, 200-300 g for older trees). Broadcast evenly around the root zone and immediately incorporate into the soil, followed by irrigation.
+            *   **CAUTION:** Carbofuran is a highly toxic chemical. Always wear protective gear (gloves, mask) during application. Strictly follow the label instructions regarding dosage, application method, and pre-harvest interval. Avoid direct contact with skin and eyes.
+
+**Important General Advice:**
+*   Always consult your local agricultural extension officer or HAU experts for specific recommendations tailored to your farm's conditions.
+*   Read the product label carefully before using any chemical, and strictly follow the instructions, dosage, and safety precautions.
+*   Ensure proper safety measures, including wearing protective clothing, gloves, and masks, when handling pesticides.
+*   Keep pesticides out of reach of children and livestock.
+
+By adopting these practices, you can effectively manage soil pests in your guava orchard and ensure healthy, productive trees.

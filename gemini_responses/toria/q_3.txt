@@ -1,0 +1,73 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an Integrated Disease Management (IDM) approach for controlling various rot types in Toria. This involves cultural practices, resistant varieties (if available), and judicious use of CIBRC-approved chemicals.
+
+Here's a breakdown of common rot types affecting Toria and their control measures:
+
+**General Cultural Practices (Applicable to most Rot types):**
+
+*   **Crop Rotation:** Practice a 3-4 year rotation with non-Brassica crops (e.g., cereals, pulses) to reduce inoculum build-up in the soil.
+*   **Field Sanitation:** Remove and destroy infected plant debris after harvest to eliminate pathogen sources.
+*   **Balanced Nutrition:** Provide adequate and balanced fertilizers. Avoid excessive nitrogen, which can make plants more susceptible.
+*   **Proper Drainage:** Ensure good field drainage to prevent waterlogging, which favors many soil-borne pathogens.
+*   **Optimum Sowing:** Sow at the recommended time and spacing to ensure healthy plant growth and good air circulation.
+*   **Use Healthy Seeds:** Always use certified, disease-free seeds.
+
+---
+
+**Specific Rot Types and Control Measures:**
+
+**1. Damping-off, Seedling Rot, Root Rot, Collar Rot, Foot Rot, Crown Rot, Neck Rot:**
+These are often caused by a complex of soil-borne fungi such as *Pythium spp., Rhizoctonia solani, Fusarium spp.*, and *Sclerotinia sclerotiorum*. Symptoms include rotting of seeds before emergence, collapse of seedlings at the soil line, or rotting of roots and stem bases in older plants.
+
+*   **Cultural Control:**
+    *   Ensure good soil drainage.
+    *   Avoid over-irrigation, especially during the seedling stage.
+    *   Prepare a fine seedbed for uniform germination.
+*   **Chemical Control:**
+    *   **Seed Treatment (Crucial for prevention):**
+        *   **Carbendazim** 50 WP: 1-2 g/kg seed
+        *   **Thiram** 75 WS: 2.5-3 g/kg seed
+        *   **Metalaxyl + Mancozeb** (e.g., 35 WS): 2.5-3 g/kg seed
+    *   **Soil Drench (if severe incidence in nursery/early stage):**
+        *   **Carbendazim** 50 WP: 1 g/L water (apply around the base of affected plants)
+        *   **Propamocarb Hydrochloride** 72.2 SL: 2-3 ml/L water (apply around the base of affected plants)
+
+**2. Stem Rot / White Rot (Sclerotinia sclerotiorum):**
+This is a major fungal disease in Toria, causing water-soaked lesions on stems, branches, and pods, leading to wilting and premature ripening. White mycelial growth and black, hard sclerotia (resting bodies) are characteristic.
+
+*   **Cultural Control:**
+    *   Deep ploughing after harvest to bury sclerotia.
+    *   Crop rotation with non-host crops (e.g., cereals).
+    *   Removal of infected plants and debris.
+*   **Chemical Control (Foliar Spray at flowering/pod formation stage):**
+    *   **Carbendazim** 50 WP: 500 g/acre in 200-300 L water
+    *   **Propiconazole** 25 EC: 200 ml/acre in 200-300 L water
+    *   **Tebuconazole** 250 EC: 250 ml/acre in 200-300 L water
+    *   **Validamycin** 3% L: 1-1.5 L/acre in 200-300 L water
+
+**3. Black Rot:**
+This is a bacterial disease caused by *Xanthomonas campestris pv. campestris*. Symptoms include V-shaped yellow lesions at leaf margins, which turn black, and blackening of veins. Systemic infection can lead to blackening of vascular tissues in stems and roots.
+
+*   **Cultural Control:**
+    *   Use disease-free seeds.
+    *   Crop rotation with non-Brassica crops.
+    *   Remove and destroy infected plant debris.
+    *   Avoid overhead irrigation, which can spread bacteria.
+*   **Chemical Control:**
+    *   **Seed Treatment:**
+        *   Hot water treatment (50°C for 25-30 minutes) can be effective.
+        *   **Streptomycin sulphate + Tetracycline hydrochloride** (9:1 mixture): Soak seeds in 100 ppm solution for 30 minutes.
+    *   **Foliar Spray (if symptoms appear):**
+        *   **Copper Oxychloride** 50 WP: 1 kg/acre in 200-300 L water
+        *   **Streptomycin sulphate + Tetracycline hydrochloride** (9:1 mixture): 6 g + 60 g per 200 L water per acre
+
+**4. Seed Rot:**
+This refers to the decay of seeds before germination, often caused by the same pathogens responsible for damping-off.
+
+*   **Control:** Primarily managed through the use of healthy, certified seeds and the seed treatments mentioned under "Damping-off, Seedling Rot, Root Rot, Collar Rot, Foot Rot, Crown Rot, Neck Rot."
+
+**5. Fruit Rot:**
+This is not known to affect Toria as a distinct disease category causing fleshy fruit decay. Toria produces siliques (pods), not fleshy fruits. While pod diseases like Alternaria blight or Sclerotinia can affect the siliques leading to shriveling or decay of seeds within, "fruit rot" as a specific disease name is not typically used for Toria.
+
+---
+
+Always consult your local agricultural extension specialist for the most current and specific recommendations for your region and specific Toria variety.

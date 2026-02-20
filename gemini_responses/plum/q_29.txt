@@ -1,0 +1,62 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling dropping in Plum.
+
+Firstly, regarding "Tinda/Boll dropping," this condition is **not known to affect Plum**. "Tinda" refers to a type of gourd (*Praecitrullus fistulosus*), and "Boll" refers to the fruit capsule of cotton (*Gossypium* spp.). Therefore, this specific concern is not relevant to plum cultivation.
+
+Now, let's address Flower drop and Fruit drop in Plum. These are common physiological issues that can significantly impact yield.
+
+**Understanding the Causes of Flower and Fruit Drop in Plum:**
+
+Flower and fruit drop are often a result of the tree's natural response to various stresses or imbalances. Key factors include:
+*   **Poor Pollination:** Insufficient pollen transfer due to lack of pollinators (bees), adverse weather during flowering (rain, cold, strong winds), or self-incompatibility if only one variety is planted without a suitable pollinizer.
+*   **Nutrient Deficiencies:** Especially critical micronutrients like Boron and Zinc, and macronutrients like Calcium, which are vital for flower and fruit development.
+*   **Water Stress:** Both insufficient (drought) and excessive (waterlogging) soil moisture can stress the tree and lead to shedding.
+*   **Temperature Extremes:** Frost during flowering can damage flowers, while very high temperatures during fruit set can also cause drop.
+*   **Heavy Crop Load:** Trees naturally shed excess flowers or young fruits to ensure the remaining fruits can develop to optimal size and quality (natural thinning).
+*   **Pest and Disease Infestation:** Severe infestations can weaken the tree, making it more susceptible to dropping.
+*   **Hormonal Imbalance:** Natural hormonal changes within the plant, often triggered by stress, can lead to the formation of an abscission layer, causing shedding.
+
+**Management Strategies for Flower and Fruit Drop in Plum:**
+
+Effective control involves a combination of good cultural practices and, in some cases, judicious use of plant growth regulators.
+
+**A. Cultural and Horticultural Practices (Primary Focus):**
+
+1.  **Pollination Management:**
+    *   **Variety Selection:** Plant self-compatible plum varieties or ensure the presence of suitable pollinizer varieties if your main plum variety is self-incompatible.
+    *   **Bee Activity:** Introduce bee colonies (e.g., 5-8 colonies per acre) into the orchard during the flowering period to ensure adequate cross-pollination.
+    *   **Weather Protection:** Protect trees from strong winds and heavy rains during flowering, which can hinder bee activity and pollen viability.
+
+2.  **Nutrient Management:**
+    *   **Soil and Leaf Analysis:** Conduct regular soil and leaf tissue analysis to identify and correct any nutrient deficiencies.
+    *   **Balanced Fertilization:** Apply a balanced fertilizer program based on soil test recommendations.
+    *   **Micronutrient Application:** Ensure adequate levels of Boron and Zinc, which are crucial for flower and fruit set.
+        *   Foliar spray of **Borax** (11% Boron) at 1-1.5 g/L water, applied before flowering and at fruit set.
+        *   Foliar spray of **Zinc Sulphate** (33% Zinc) at 2-3 g/L water, applied before flowering and at fruit set.
+
+3.  **Water Management:**
+    *   **Consistent Irrigation:** Provide consistent and adequate irrigation, especially during critical stages like flowering, fruit set, and early fruit development.
+    *   **Avoid Extremes:** Prevent both water stress (drought) and waterlogging, as both conditions can lead to flower and fruit shedding.
+
+4.  **Pruning:**
+    *   **Proper Pruning:** Practice appropriate pruning techniques to maintain tree vigor, improve light penetration, and manage the overall crop load. This reduces competition among developing fruits.
+
+5.  **Pest and Disease Control:**
+    *   **Integrated Management:** Implement an integrated pest and disease management (IPDM) program to keep trees healthy and reduce stress caused by infestations, which can contribute to dropping.
+
+**B. Chemical Interventions (Plant Growth Regulators - PGRs):**
+
+These should be used judiciously and as supplementary measures after addressing the fundamental cultural practices. Always read and follow the specific instructions and safety precautions on the product label.
+
+1.  **For improving fruit set and reducing early fruit drop:**
+    *   **Naphthalene Acetic Acid (NAA):** Apply at a very low concentration (e.g., 5-10 ppm or 5-10 mg/L water) when fruits are at the pea-size stage. This can help in fruit retention by delaying the formation of the abscission layer.
+        *   *Dosage Example:* For a 4.5% SL formulation of **Naphthalene Acetic Acid**, use approximately 1.1-2.2 ml per 10 litres of water to achieve 5-10 ppm.
+    *   **Gibberellic Acid (GA3):** Can be used to improve fruit set and development in some plum varieties. Apply **Gibberellic Acid** (e.g., 0.001% L or 40% SP) at 10-20 ppm (10-20 mg/L water) at full bloom or petal fall.
+        *   *Dosage Example:* For a 40% SP formulation of **Gibberellic Acid**, use 2.5-5 g per 100 litres of water to achieve 10-20 ppm.
+
+2.  **For preventing pre-harvest fruit drop:**
+    *   **Naphthalene Acetic Acid (NAA):** A slightly higher concentration (e.g., 10-20 ppm or 10-20 mg/L water) can be applied 1-2 weeks before the anticipated harvest to prevent premature fruit drop.
+        *   *Dosage Example:* For a 4.5% SL formulation of **Naphthalene Acetic Acid**, use approximately 2.2-4.4 ml per 10 litres of water.
+
+**Important Considerations:**
+*   The effectiveness of PGRs can vary significantly depending on the plum variety, environmental conditions, and precise timing of application.
+*   Always consult with local agricultural extension services (like HAU's Krishi Vigyan Kendras) for specific recommendations tailored to your region, plum variety, and current orchard conditions.

@@ -1,0 +1,31 @@
+Wilt (including Parawilt) can significantly impact Black Gram yields. Effective management involves an integrated approach combining cultural practices, biological methods, and judicious use of CIBRC-approved chemicals.
+
+**Integrated Control Measures for Wilt and Parawilt in Black Gram:**
+
+1.  **Cultural Practices:**
+    *   **Resistant Varieties:** Cultivate varieties known for their tolerance or resistance to wilt. Consult HAU recommendations for specific varieties suitable for Haryana.
+    *   **Crop Rotation:** Practice a 2-3 year crop rotation with non-host crops (e.g., cereals) to reduce pathogen inoculum in the soil.
+    *   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent the build-up and spread of pathogens.
+    *   **Drainage Management:** Ensure proper field drainage to prevent waterlogging, which is a primary trigger for Parawilt and can exacerbate root rot diseases. Avoid sudden changes in soil moisture.
+    *   **Balanced Nutrition:** Provide balanced fertilizers, especially adequate potassium, to enhance plant vigor and stress tolerance.
+
+2.  **Seed Treatment (Preventive):**
+    *   Treat seeds before sowing to protect against soil-borne pathogens causing wilt and early seedling diseases.
+    *   **Biological Seed Treatment:**
+        *   **Trichoderma viride**: Apply 4 g per kg of seed.
+        *   **Pseudomonas fluorescens**: Apply 10 g per kg of seed.
+    *   **Chemical Seed Treatment:**
+        *   **Carbendazim**: Apply 1-2 g per kg of seed.
+        *   **Thiram**: Apply 2-3 g per kg of seed.
+        *   A combination of **Carbendazim** (1 g/kg seed) + **Thiram** (1 g/kg seed) can also be used for broader spectrum protection.
+        *   For complex root rot issues, a combination product containing **Metalaxyl-M** + **Difenoconazole** (e.g., at 1 g per kg of seed, as per product label instructions for Black Gram) can be considered.
+
+3.  **Soil Application / Drenching (Curative and Preventive in field):**
+    *   **Biological Soil Drench:**
+        *   **Trichoderma viride** (liquid formulation): Mix 5 ml per litre of water and drench around the base of the plants (approximately 200-250 ml per plant) at early signs of wilting or as a preventive measure in high-risk areas.
+    *   **Chemical Soil Drench:**
+        *   For early signs of wilt, drench the soil around the base of affected plants with **Carbendazim** at 1 g per litre of water (200-250 ml solution per plant).
+        *   If root rot pathogens (especially oomycetes) are suspected to be contributing to parawilt, **Propamocarb Hydrochloride** can be used as a soil drench at 2-3 ml per litre of water.
+
+4.  **Monitoring and Early Intervention:**
+    *   Regularly scout fields for early symptoms of wilting. Prompt identification and intervention are crucial for effective management.

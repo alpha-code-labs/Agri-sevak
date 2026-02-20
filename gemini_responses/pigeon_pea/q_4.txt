@@ -1,0 +1,47 @@
+Wilt (caused by *Fusarium udum*) and Parawilt (caused by *Phytophthora drechsleri* f. sp. *cajani*) are significant diseases affecting Pigeon pea (Arhar) in Haryana, leading to substantial yield losses. Effective management requires an integrated approach combining cultural, biological, and chemical methods.
+
+Here's how to control Wilt and Parawilt in Pigeon pea:
+
+**I. General Management Principles (Applicable to both Wilt and Parawilt):**
+
+*   **Resistant Varieties:** The most effective and economical control measure. Consult HAU for recommended wilt and parawilt resistant/tolerant varieties suitable for your region in Haryana.
+*   **Crop Rotation:** Avoid continuous cultivation of Pigeon pea in the same field. Rotate with non-host crops like cereals (wheat, maize, sorghum) for at least 3-4 years to reduce pathogen inoculum in the soil.
+*   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent the build-up and spread of pathogens.
+*   **Soil Health Management:** Improve soil drainage, especially in fields prone to waterlogging, as waterlogging exacerbates Parawilt. Incorporate organic matter (FYM, compost) to enhance soil microbial activity, which can suppress pathogens.
+*   **Timely Sowing:** Adhere to recommended sowing dates to ensure plants are vigorous and less susceptible to early infections.
+
+**II. Specific Control Measures for Wilt (*Fusarium udum*):**
+
+1.  **Cultural Practices:**
+    *   As above, resistant varieties and crop rotation are key.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+        *   **Trichoderma viride** or **Trichoderma harzianum** @ 4-5 g/kg seed.
+    *   **Soil Application:**
+        *   **Trichoderma viride** or **Trichoderma harzianum** @ 2.5 kg/acre, mixed with 50-100 kg of well-decomposed Farm Yard Manure (FYM) or compost, and applied to the soil before sowing or at the time of sowing.
+
+3.  **Chemical Control (Seed Treatment):**
+    *   Treat seeds with fungicides before sowing.
+        *   **Carbendazim 50% WP** @ 2 g/kg seed.
+        *   **Thiophanate Methyl 70% WP** @ 2 g/kg seed.
+        *   A combination of **Carbendazim 12% + Mancozeb 63% WP** @ 2.5 g/kg seed can also be effective.
+
+**III. Specific Control Measures for Parawilt (*Phytophthora drechsleri* f. sp. *cajani*):**
+
+1.  **Cultural Practices:**
+    *   **Resistant Varieties:** Utilize varieties with resistance or tolerance to Parawilt.
+    *   **Improved Drainage:** Ensure good field drainage to prevent water stagnation, which is highly conducive to Parawilt development. Avoid planting in low-lying areas prone to waterlogging.
+    *   **Raised Beds:** In areas with heavy soils and poor drainage, planting on raised beds can help reduce disease incidence.
+
+2.  **Chemical Control:**
+    *   **Seed Treatment:**
+        *   **Metalaxyl-M 35% WS** @ 6 g/kg seed.
+        *   **Metalaxyl-M 4% + Mancozeb 64% WP** @ 2.5 g/kg seed.
+    *   **Soil Drenching (if disease appears in patches):**
+        *   **Metalaxyl-M 4% + Mancozeb 64% WP** @ 2.5 g/L water, drench around the base of affected plants (approximately 200-250 ml solution per plant).
+        *   **Propamocarb Hydrochloride 72.2% SL** @ 2.5 ml/L water, drench around the base of affected plants.
+        *   **Copper Oxychloride 50% WP** @ 3 g/L water, drench around the base of affected plants.
+
+**Integrated Approach:**
+For sustainable and effective control, it is crucial to adopt an integrated disease management (IDM) strategy, combining resistant varieties, good cultural practices, biological control, and judicious use of CIBRC-approved chemical fungicides as needed. Always consult with local agricultural extension services or HAU experts for the most current recommendations specific to your farm and prevailing conditions.

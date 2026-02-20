@@ -1,0 +1,95 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Sugarcane in Haryana.
+
+It is important to understand that an Integrated Disease Management (IDM) approach, combining cultural practices, resistant varieties, and judicious chemical use, is crucial for effective control of sugarcane diseases.
+
+First, let's clarify some of the rot types you mentioned:
+
+*   **Fruit Rot:** This is not known to affect Sugarcane, as sugarcane is propagated vegetatively by setts and does not produce fruits in the horticultural sense.
+*   **Seed Rot:** Sugarcane is commercially propagated using stem cuttings called 'setts', not true seeds. However, the disease commonly referred to as "Pineapple Disease" causes rotting of these setts, leading to poor germination and is effectively a 'sett rot'.
+*   **Black Rot:** This is a general term. In sugarcane, Pineapple Disease can cause blackening of the internal tissues of setts.
+
+Now, let's address the significant rot diseases affecting sugarcane in Haryana and their control measures:
+
+### 1. Red Rot (Affects Stem, Stalk, Collar, Neck)
+
+Red Rot, caused by *Colletotrichum falcatum* (anamorph) / *Glomerella tucumanensis* (teleomorph), is the most devastating disease of sugarcane. It primarily affects the stalk, but symptoms can also appear at the collar and neck region.
+
+**Symptoms:** Drying of leaves from top downwards, internal reddening of the stalk with characteristic white patches, and a sour alcoholic smell.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   **Use Resistant Varieties:** Plant only varieties recommended by HAU that are resistant or tolerant to red rot. Consult your local agricultural extension office for the latest recommendations.
+    *   **Healthy Planting Material:** Always use healthy, disease-free setts from certified nurseries. Avoid using setts from fields with a history of red rot.
+    *   **Hot Water Treatment:** Treat setts with hot water at 50°C for 2 hours or 52°C for 30 minutes to eliminate latent infections of various diseases, including some fungal pathogens.
+    *   **Roguing:** Regularly inspect fields and remove and destroy (burn) all infected clumps immediately upon noticing symptoms.
+    *   **Crop Rotation:** Avoid planting sugarcane in the same field for at least 2-3 years if red rot has been severe. Rotate with non-host crops like wheat, mustard, or pulses.
+    *   **Avoid Ratooning Infected Fields:** Do not take ratoon crops from fields that had red rot in the plant crop.
+    *   **Sanitation:** Remove and burn all sugarcane debris after harvest.
+
+*   **Chemical Control (Sett Treatment):**
+    *   Dip setts in a fungicide solution for 10-15 minutes before planting.
+    *   **Carbendazim** (50% WP) @ 1 gram per litre of water.
+    *   **Thiophanate-methyl** (70% WP) @ 1 gram per litre of water.
+
+### 2. Pineapple Disease (Affects Sett, Seedling, Black Rot of Setts)
+
+Caused by *Ceratocystis paradoxa* / *Thielaviopsis paradoxa*, this disease primarily affects the planted setts and young seedlings, leading to poor germination and stand establishment.
+
+**Symptoms:** Internal tissues of the sett turn black, often with a characteristic pineapple-like smell. Young shoots may rot before emergence, or seedlings may emerge weak and then die.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   **Healthy Setts:** Use only healthy, disease-free setts.
+    *   **Optimal Planting Conditions:** Plant setts when soil moisture and temperature are optimal for rapid germination and growth. Avoid planting in cold, wet, or waterlogged soils.
+    *   **Good Drainage:** Ensure proper field drainage to prevent waterlogging, which favors the disease.
+
+*   **Chemical Control (Sett Treatment):**
+    *   Dip setts in a fungicide solution for 10-15 minutes before planting.
+    *   **Carbendazim** (50% WP) @ 1 gram per litre of water.
+    *   **Mancozeb** (75% WP) @ 2.5 grams per litre of water.
+    *   **Thiophanate-methyl** (70% WP) @ 1 gram per litre of water.
+
+### 3. Wilt (Affects Root, Stem)
+
+Sugarcane wilt, caused by *Fusarium sacchari* / *Cephalosporium sacchari*, often occurs in conjunction with other stresses like nematode infestation or water stress.
+
+**Symptoms:** Wilting of entire clumps, drying of leaves, internal reddish-purple discoloration of stalks, and the pith becoming dry and hollow. Roots may also show decay.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   **Resistant Varieties:** Plant resistant or tolerant varieties.
+    *   **Maintain Soil Health:** Ensure balanced nutrition and good soil organic matter content.
+    *   **Water Management:** Avoid both excessive waterlogging and severe drought stress.
+    *   **Nematode Management:** If nematodes are a problem, implement appropriate control measures as they can predispose plants to wilt.
+    *   **Crop Rotation:** Rotate with non-host crops.
+
+*   **Chemical Control (Sett Treatment):**
+    *   Dip setts in a fungicide solution for 10-15 minutes before planting.
+    *   **Carbendazim** (50% WP) @ 1 gram per litre of water.
+
+### 4. General Root Rot (Affects Root)
+
+Various soil-borne fungi (e.g., *Pythium*, *Rhizoctonia*) can cause general root rot, especially under conditions of poor drainage and waterlogging.
+
+**Symptoms:** Stunted growth, yellowing of leaves, wilting, and decay of roots.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   **Improve Drainage:** Ensure excellent field drainage to prevent waterlogging.
+    *   **Soil Aeration:** Maintain good soil structure and aeration.
+    *   **Crop Rotation:** Rotate with non-host crops.
+
+*   **Chemical Control (Sett Treatment):**
+    *   Dip setts in a fungicide solution for 10-15 minutes before planting.
+    *   **Carbendazim** (50% WP) @ 1 gram per litre of water.
+    *   **Mancozeb** (75% WP) @ 2.5 grams per litre of water.
+
+**Important Considerations:**
+
+*   **Early Detection:** Regular field scouting for early detection of disease symptoms is crucial for timely intervention.
+*   **Integrated Approach:** Relying solely on chemical control is not sustainable or effective in the long run. An integrated approach is key.
+*   **Consult Experts:** Always consult with HAU extension specialists or local agricultural officers for the most current and specific recommendations for your region and specific sugarcane varieties.

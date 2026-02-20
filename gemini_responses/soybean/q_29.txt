@@ -1,0 +1,61 @@
+Dropping of flowers, pods (often referred to as "bolls" in some contexts for legumes like soybean), and fruits is a common physiological phenomenon in Soybean. It is a significant concern as it directly impacts yield.
+
+**Causes of Dropping in Soybean:**
+
+Soybean plants naturally shed a large percentage (often 60-80%) of their flowers and young pods. This shedding is exacerbated by various stress factors:
+
+1.  **Environmental Stress:**
+    *   **Temperature Extremes:** High temperatures (above 35°C) or low temperatures during flowering and pod development.
+    *   **Moisture Stress:** Both drought (water deficit) and waterlogging (excess water) can lead to severe dropping.
+    *   **Humidity:** Very low or very high humidity can affect pollen viability and pod set.
+    *   **Light Intensity:** Low light conditions (e.g., cloudy weather, dense canopy) can reduce photosynthesis and increase dropping.
+2.  **Nutritional Deficiencies:**
+    *   Lack of essential micronutrients like Boron (B) and Molybdenum (Mo) can impair flower and pod development.
+    *   Deficiencies of macronutrients like Potassium (K) and Phosphorus (P) can also contribute.
+3.  **Hormonal Imbalance:** Stress conditions can lead to increased production of abscisic acid and ethylene, which promote abscission (shedding).
+4.  **Pest and Disease Pressure:** Severe infestations of sucking pests or diseases can weaken the plant, making it more susceptible to dropping.
+5.  **Genetic Factors:** Some soybean varieties are naturally more prone to flower and pod shedding than others.
+6.  **Excessive Vegetative Growth:** If the plant puts too much energy into leaf and stem growth, it can compete with reproductive structures for resources.
+
+**Control Measures for Dropping in Soybean:**
+
+Effective management involves a combination of good agronomic practices and targeted chemical interventions.
+
+**A. Agronomic Practices:**
+
+1.  **Optimal Water Management:**
+    *   Ensure adequate soil moisture, especially during critical stages like flowering and pod development.
+    *   Avoid both water stress (drought) and waterlogging. Provide light and frequent irrigation if rainfall is insufficient.
+2.  **Balanced Nutrient Management:**
+    *   Conduct soil testing to identify nutrient deficiencies.
+    *   Apply recommended doses of macro and micronutrients. Pay special attention to Boron and Molybdenum.
+3.  **Appropriate Planting Density:**
+    *   Maintain optimal plant spacing to ensure proper light penetration and air circulation, reducing competition for resources.
+4.  **Weed Control:**
+    *   Effectively manage weeds to prevent competition for water, nutrients, and light.
+5.  **Variety Selection:**
+    *   Choose soybean varieties that are known to be stress-tolerant and have a good pod-retention capacity for your region.
+6.  **Pest and Disease Management:**
+    *   Implement integrated pest and disease management strategies to keep plants healthy and reduce stress.
+
+**B. Chemical Interventions (CIBRC Approved Technical Chemical Names):**
+
+Foliar applications of certain plant growth regulators and micronutrients can help reduce flower and pod drop, especially under mild stress conditions.
+
+1.  **Plant Growth Regulators (PGRs):**
+    *   **Naphthalene Acetic Acid (NAA):** Apply at the early flowering stage (when 5-10% flowers have opened) and again at peak flowering.
+        *   **Dosage:** 10-20 mg/L of water (or 10-20 ppm). For a typical spray volume of 200-300 L/acre, this translates to 2-6 g/acre.
+2.  **Micronutrients (if deficiency is suspected or confirmed):**
+    *   **Boron:** Apply at pre-flowering or early flowering stage.
+        *   **Disodium octaborate tetrahydrate:** 1-1.5 g/L of water.
+        *   **Sodium tetraborate decahydrate:** 2-3 g/L of water.
+    *   **Molybdenum:** Apply at pre-flowering or early flowering stage.
+        *   **Sodium molybdate:** 0.5 g/L of water.
+3.  **Potassium Nitrate:** Can be applied during flowering and pod development to improve stress tolerance and pod filling.
+    *   **Potassium nitrate:** 5-10 g/L of water.
+
+**Important Considerations:**
+
+*   Always read and follow the manufacturer's instructions and safety precautions for all chemical products.
+*   The effectiveness of chemical interventions is maximized when combined with sound agronomic practices.
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your farm's conditions and the latest CIBRC guidelines.

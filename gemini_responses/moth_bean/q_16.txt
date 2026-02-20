@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Moth Bean (Vigna aconitifolia) in Haryana. It is crucial to conduct a soil test to determine the precise nutrient status of your field, as recommendations can vary based on soil type and existing nutrient levels. The following are general recommendations for soils of average fertility.
+
+**General Nutrient Recommendations for Moth Bean:**
+*   **Nitrogen (N):** 15-20 kg/acre (as a starter dose, as Moth Bean is a legume and fixes atmospheric nitrogen).
+*   **Phosphorus (P2O5):** 40 kg/acre
+*   **Potassium (K2O):** 20 kg/acre (only if soil test indicates low potassium)
+*   **Sulphur (S):** 10 kg/acre
+
+**Recommended Fertilizer Doses (Basal Application at Sowing):**
+
+You can choose one of the following combinations for basal application:
+
+**Option 1: Using Diammonium Phosphate (DAP) for N & P, with additional Potash and Sulphur.**
+
+*   **Diammonium Phosphate (DAP):** 85-90 kg/acre
+    *   *(This provides approximately 15-16 kg Nitrogen and 39-41 kg Phosphorus (P2O5), covering the basal N and P requirements.)*
+*   **Muriate of Potash (MOP):** 30-35 kg/acre
+    *   *(Apply only if your soil test indicates low potassium levels. This provides approximately 18-21 kg Potassium (K2O).)*
+*   **Elemental Sulphur (90%):** 10-12 kg/acre
+    *   *(This provides approximately 9-11 kg Sulphur.)*
+
+**Option 2: Using Single Super Phosphate (SSP) for P & S, with additional Urea and Potash.**
+
+*   **Single Super Phosphate (SSP):** 250 kg/acre
+    *   *(This provides 40 kg Phosphorus (P2O5) and approximately 27.5 kg Sulphur, covering the P and S requirements.)*
+*   **Urea:** 35-40 kg/acre
+    *   *(This provides approximately 16-18 kg Nitrogen, covering the basal N requirement.)*
+*   **Muriate of Potash (MOP):** 30-35 kg/acre
+    *   *(Apply only if your soil test indicates low potassium levels. This provides approximately 18-21 kg Potassium (K2O).)*
+
+**Foliar Application (as a supplement):**
+
+*   **Nano-Urea:**
+    *   Apply 2-4 ml/L of water.
+    *   First spray: At the branching stage (25-30 days after sowing).
+    *   Second spray: At the flowering stage (45-50 days after sowing).
+    *   *(Nano-Urea is a supplementary source of nitrogen and should not replace the basal nitrogen application.)*
+*   **Nano-DAP:**
+    *   Apply 2-4 ml/L of water.
+    *   First spray: At the branching stage (25-30 days after sowing).
+    *   Second spray: At the flowering/pod initiation stage (45-50 days after sowing).
+    *   *(Nano-DAP is a supplementary source of nitrogen and phosphorus.)*
+
+**NPK Compound Fertilizers:**
+While various NPK compound fertilizers are available, for Moth Bean, it is generally recommended to apply Nitrogen, Phosphorus, Potassium, and Sulphur as per the specific needs, often achieved more precisely with **DAP** or **SSP** along with **MOP** and **Elemental Sulphur**. If using an NPK compound, select a grade with high Phosphorus and low Nitrogen (e.g., 12:32:16 or similar) and adjust the dose to meet the 40 kg P2O5/acre requirement.
+
+**Important Considerations:**
+
+*   **Rhizobium Inoculation:** Always treat Moth Bean seeds with an effective Rhizobium culture before sowing. This enhances nitrogen fixation and reduces the need for higher nitrogen fertilizer doses.
+*   **Application Method:** All basal fertilizers should be applied at the time of sowing, preferably drilled 5-7 cm deep in the soil, away from direct contact with the seed, for efficient nutrient uptake.
+*   **Micronutrients:** If soil tests indicate deficiencies in micronutrients like Zinc or Iron, specific micronutrient fertilizers should be applied as per recommendations.

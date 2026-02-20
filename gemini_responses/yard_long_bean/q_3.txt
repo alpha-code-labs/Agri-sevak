@@ -1,0 +1,87 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Yard Long Bean (Vigna unguiculata subsp. sesquipedalis) in Haryana. Effective management involves a combination of cultural practices, biological control, and judicious use of CIBRC-approved chemical fungicides.
+
+**General Management Principles for Rot Diseases:**
+
+1.  **Crop Rotation:** Avoid planting Yard Long Bean or other susceptible legumes in the same field for at least 2-3 years. Rotate with non-host crops like cereals (wheat, maize) or mustard.
+2.  **Soil Health and Drainage:** Ensure well-drained soil. Raised beds can help prevent waterlogging, which favors many rot pathogens. Improve soil organic matter content.
+3.  **Sanitation:** Remove and destroy infected plant debris from the field to reduce inoculum sources.
+4.  **Seed Selection:** Use healthy, certified seeds from reputable sources.
+5.  **Proper Spacing:** Maintain adequate plant spacing to ensure good air circulation and reduce humidity around the plants.
+6.  **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can lead to lush, susceptible growth. Provide balanced nutrients based on soil test recommendations.
+
+---
+
+**Specific Rot Types and Their Control:**
+
+**1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, and Seedling Rot (Damping-off)**
+
+These rot types are often caused by a complex of soil-borne fungal pathogens such as *Rhizoctonia solani*, *Fusarium spp.*, *Pythium spp.*, and *Sclerotium rolfsii*. They affect the plant at or below the soil line, leading to wilting, yellowing, stunting, and eventual death. Seedling rot (damping-off) specifically affects young seedlings, causing them to collapse. Neck rot, if observed, is generally a form of collar rot or seedling rot affecting the hypocotyl region.
+
+*   **Symptoms:**
+    *   **Root Rot:** Darkening and decay of roots, leading to poor nutrient uptake and wilting.
+    *   **Stem/Foot/Collar/Crown Rot:** Water-soaked lesions at the soil line, often turning brown or black, girdling the stem. White mycelial growth and mustard-seed-like sclerotia (in case of *Sclerotium rolfsii*) may be visible.
+    *   **Seedling Rot (Damping-off):** Pre-emergence (seeds rot before germination) or post-emergence (seedlings emerge but collapse at the soil line).
+
+*   **Control Measures:**
+    *   **Cultural:** Implement general management principles mentioned above. Ensure proper seedbed preparation and avoid deep planting.
+    *   **Biological:**
+        *   Treat seeds with bio-fungicides containing *Trichoderma viride* or *Pseudomonas fluorescens* at 5-10 g/kg seed.
+        *   Apply *Trichoderma viride* or *Pseudomonas fluorescens* to the soil at 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) before sowing or as a drench around plants.
+    *   **Chemical:**
+        *   **Seed Treatment (Crucial for prevention):**
+            *   **Carbendazim** 50% WP at 1-2 g/kg seed.
+            *   **Thiram** 75% WS at 2-3 g/kg seed.
+            *   **Captan** 50% WP at 2-3 g/kg seed.
+            *   **Tebuconazole** 60% FS at 1-1.5 ml/kg seed.
+            *   For *Pythium* and *Phytophthora* related rots, use **Metalaxyl-M** 31.8% ES at 1-2 ml/kg seed (often combined with other fungicides).
+        *   **Soil Drench (for existing infections):**
+            *   Drench the soil around the base of affected plants with **Carbendazim** 50% WP at 1-2 g/L water.
+            *   For *Pythium* and *Phytophthora* related rots, use **Propamocarb Hydrochloride** 72.2% SL at 2-3 ml/L water.
+            *   For *Rhizoctonia* and *Sclerotium* related rots, use **Validamycin** 3% L at 2-3 ml/L water or **Pencycuron** 23% SC at 1-1.5 ml/L water.
+
+**2. Black Rot**
+
+This is not known to affect Yard Long Bean. Black rot is primarily a disease of cruciferous vegetables (caused by *Xanthomonas campestris pv. campestris*) or grapes (*Guignardia bidwellii*).
+
+**3. Fruit Rot (Pod Rot)**
+
+Fruit rot can be caused by various fungi, including *Colletotrichum lindemuthianum* (anthracnose), *Phytophthora spp.*, and *Rhizoctonia spp.*, especially under humid and wet conditions.
+
+*   **Symptoms:**
+    *   **Anthracnose:** Sunken, dark brown to black lesions with reddish-brown margins on pods, often with pinkish spore masses in the center.
+    *   **Other Fruit Rots:** Water-soaked spots that enlarge, turn brown, and lead to soft decay of the pods.
+
+*   **Control Measures:**
+    *   **Cultural:**
+        *   Ensure good air circulation by proper spacing and staking.
+        *   Avoid overhead irrigation, especially during pod development, to reduce leaf wetness.
+        *   Remove and destroy infected pods and plant debris.
+    *   **Chemical (Foliar Spray):**
+        *   Spray at the onset of symptoms and repeat at 10-15 day intervals, especially during humid weather.
+        *   **Mancozeb** 75% WP at 2-2.5 g/L water.
+        *   **Chlorothalonil** 75% WP at 2 g/L water.
+        *   **Carbendazim** 50% WP at 0.5-1 g/L water.
+        *   **Azoxystrobin** 23% SC at 0.5-1 ml/L water.
+        *   **Pyraclostrobin** 20% WG at 0.5-0.75 g/L water.
+        *   **Tebuconazole** 25% WG at 0.75-1 g/L water.
+
+**4. Seed Rot**
+
+Seed rot occurs when seeds decay in the soil before germination, often due to infection by soil-borne pathogens like *Pythium spp.*, *Rhizoctonia solani*, and *Fusarium spp.*, especially in cold, wet, or poorly drained soils.
+
+*   **Symptoms:** Seeds fail to germinate, or if dug up, appear soft, discolored, and decayed.
+
+*   **Control Measures:**
+    *   **Cultural:**
+        *   Ensure optimal soil moisture and temperature for rapid germination.
+        *   Avoid planting in cold, waterlogged soils.
+        *   Prepare a fine, well-drained seedbed.
+    *   **Chemical (Seed Treatment - Most Effective):**
+        *   Treat seeds with fungicides as recommended for Root Rot/Seedling Rot prevention:
+            *   **Carbendazim** 50% WP at 1-2 g/kg seed.
+            *   **Thiram** 75% WS at 2-3 g/kg seed.
+            *   **Captan** 50% WP at 2-3 g/kg seed.
+            *   **Tebuconazole** 60% FS at 1-1.5 ml/kg seed.
+            *   For *Pythium* related issues, use **Metalaxyl-M** 31.8% ES at 1-2 ml/kg seed.
+
+Always read and follow the instructions on the fungicide labels for specific dosages, application methods, and safety precautions. For further specific advice tailored to your field conditions, please consult with the plant pathology department at HAU, Hisar.

@@ -1,0 +1,61 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Cucumber cultivation in Haryana. Please note that these are general recommendations, and a precise fertilizer plan should always be based on a comprehensive soil test report from your specific field.
+
+**General Nutrient Recommendation for Cucumber (per acre):**
+For optimal yield and quality, Cucumber typically requires:
+*   Nitrogen (N): 90-100 kg
+*   Phosphorus (P2O5): 70-80 kg
+*   Potassium (K2O): 70-80 kg
+*   Sulphur (S): 20 kg
+
+Based on these nutrient requirements, here are the recommended doses of specific fertilizers:
+
+**A. Conventional Fertilizers (Soil Application):**
+
+**1. Basal Application (at the time of land preparation or sowing/transplanting):**
+Apply the entire dose of Phosphorus, Potassium, Sulphur, and approximately 1/3rd of the total Nitrogen.
+
+*   **Di-ammonium Phosphate (DAP):** 175 kg per acre
+    *   (This provides approximately 31.5 kg N and 80.5 kg P2O5, fulfilling the P requirement and a part of N).
+*   **Muriate of Potash (MOP):** 135 kg per acre
+    *   (This provides approximately 81 kg K2O, fulfilling the K requirement).
+*   **Bentonite Sulphur (90%):** 25 kg per acre
+    *   (This provides approximately 22.5 kg S, fulfilling the S requirement).
+
+    *Alternatively, if **Single Superphosphate (SSP)** is preferred for Phosphorus and Sulphur:*
+    *   **Single Superphosphate (SSP):** 470-500 kg per acre
+        *   (This provides approximately 75-80 kg P2O5 and 51-55 kg S. If using SSP, no additional Bentonite Sulphur is needed as SSP provides sufficient S).
+    *   In this case, the basal Nitrogen (N) from DAP would need to be compensated by **Urea**. So, apply 30-35 kg **Urea** per acre along with **SSP** and **Muriate of Potash** as basal.
+
+**2. Nitrogen Top-Dressing (using Urea):**
+The remaining Nitrogen (approximately 60-70 kg N) should be applied in 2-3 split doses using **Urea**.
+*   Total **Urea** required for top-dressing: 130-150 kg per acre.
+    *   **First Split:** 50 kg **Urea** per acre, 20-25 days after sowing/transplanting (at early vegetative stage).
+    *   **Second Split:** 50 kg **Urea** per acre, 40-45 days after sowing/transplanting (at flowering/early fruit set stage).
+    *   **Third Split (Optional):** 30-50 kg **Urea** per acre, 60-65 days after sowing/transplanting (during peak fruiting, if crop vigor is low and yield potential is high).
+
+**3. NPK Complex Fertilizers:**
+*   **NPK (e.g., 12:32:16, 10:26:26, 19:19:19):** These complex fertilizers can be used as a basal dose or for fertigation, depending on the specific grade and nutrient balance required. If using NPK complex fertilizers, adjust the doses of **Urea**, **DAP**, **SSP**, and **Muriate of Potash** accordingly to meet the total NPK requirements. For example, a common practice for fertigation might involve using water-soluble **NPK (19:19:19)** at 5-10 kg per acre per application, depending on the crop stage and soil test results.
+
+**B. Nano Fertilizers (Foliar Application):**
+Nano fertilizers are designed for foliar application to supplement nutrient uptake and enhance efficiency. They are not a complete replacement for conventional basal fertilizers.
+
+*   **Nano-Urea (Liquid):**
+    *   Dose: 2-4 ml per liter of water (or 500 ml per acre mixed in 100-150 liters of water).
+    *   Application: Apply 2-3 foliar sprays.
+        *   First spray: At the active vegetative growth stage (25-30 days after sowing).
+        *   Second spray: At the pre-flowering stage (45-50 days after sowing).
+        *   Third spray (optional): At the fruit development stage, if needed.
+
+*   **Nano-DAP (Liquid):**
+    *   Dose: 2-4 ml per liter of water (or 500 ml per acre mixed in 100-150 liters of water).
+    *   Application: Apply 2 foliar sprays.
+        *   First spray: At the active vegetative growth stage (25-30 days after sowing).
+        *   Second spray: At the pre-flowering/early fruit set stage (45-50 days after sowing).
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test before applying fertilizers. This will provide precise information on your soil's nutrient status and pH, allowing for tailored recommendations and preventing over or under-application.
+*   **Organic Manures:** Incorporate 10-15 tonnes of well-decomposed Farm Yard Manure (FYM) or compost per acre during land preparation. Organic matter improves soil structure, water retention, and nutrient availability.
+*   **Micronutrients:** Cucumber also requires micronutrients like Zinc, Boron, Manganese, and Iron. If soil tests indicate deficiencies, apply appropriate micronutrient fertilizers as per recommendations. For example, Zinc Sulphate (21%) at 10 kg/acre as basal, or foliar sprays of chelated micronutrient mixtures.
+*   **Irrigation:** Ensure adequate and timely irrigation, especially during flowering and fruit development, as water stress can severely impact nutrient uptake and yield.
+*   **Fertigation:** For drip-irrigated systems, water-soluble fertilizers can be applied through fertigation, allowing for precise nutrient delivery and higher efficiency.

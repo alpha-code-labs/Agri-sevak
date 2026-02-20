@@ -1,0 +1,111 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Guava (Psidium guajava) in Haryana. Please note that these are general recommendations, and **soil testing is paramount** to determine the precise nutrient requirements of your orchard.
+
+**General Principles:**
+*   **Soil Testing:** Before applying any fertilizers, get your soil tested from a reputable lab (e.g., HAU). This will provide accurate information on existing nutrient levels and pH, allowing for tailored recommendations.
+*   **Split Application:** Nitrogen and Potassium are generally applied in split doses to maximize uptake and minimize losses. Phosphorus and Sulphur are usually applied once a year.
+*   **Application Method:** Fertilizers should be applied in a ring around the tree, 30-60 cm away from the trunk, within the drip line, and incorporated into the soil. For mature trees, broadcasting within the canopy area followed by light irrigation is also common.
+
+---
+
+### **1. Fertilizer Recommendations for Young Guava Trees (1-3 years)**
+
+The dose should be gradually increased as the tree grows.
+
+*   **Year 1:**
+    *   Nitrogen (N): 100 g per tree
+    *   Phosphorus (P2O5): 50 g per tree
+    *   Potassium (K2O): 50 g per tree
+*   **Year 2:**
+    *   Nitrogen (N): 200 g per tree
+    *   Phosphorus (P2O5): 100 g per tree
+    *   Potassium (K2O): 100 g per tree
+*   **Year 3:**
+    *   Nitrogen (N): 300 g per tree
+    *   Phosphorus (P2O5): 150 g per tree
+    *   Potassium (K2O): 150 g per tree
+
+**Corresponding Fertilizer Quantities (Approximate):**
+
+*   **Urea** (46% N)
+*   **Diammonium Phosphate (DAP)** (18% N, 46% P2O5)
+*   **Single Superphosphate (SSP)** (16% P2O5, 11% S)
+*   **Muriate of Potash (MOP)** (60% K2O)
+
+| Year | **Urea** (g/tree) | **DAP** (g/tree) | **SSP** (g/tree) | **Muriate of Potash** (g/tree) |
+| :--- | :---------------- | :--------------- | :--------------- | :------------------------------ |
+| **1**  | 150               | 110              | 0                | 85                              |
+| **2**  | 300               | 220              | 0                | 170                             |
+| **3**  | 450               | 325              | 0                | 250                             |
+
+*Note: The DAP quantities are calculated to meet the P2O5 requirement, and the N contribution from DAP is adjusted in the Urea quantity. If SSP is used, it will also provide Sulphur.*
+
+---
+
+### **2. Fertilizer Recommendations for Mature Bearing Guava Trees (4 years and above)**
+
+For a healthy, mature bearing Guava tree, the general recommendation is:
+
+*   **Nitrogen (N):** 500-700 g per tree per year
+*   **Phosphorus (P2O5):** 200-300 g per tree per year
+*   **Potassium (K2O):** 200-300 g per tree per year
+*   **Sulphur (S):** 20-40 g per tree per year
+
+**Corresponding Fertilizer Quantities (Approximate, per tree per year):**
+
+To achieve the recommended nutrient levels, you can use a combination of straight fertilizers:
+
+*   **Urea** (46% N)
+    *   **1.0 - 1.5 kg** per tree per year (adjust based on N from DAP)
+*   **Diammonium Phosphate (DAP)** (18% N, 46% P2O5)
+    *   **0.45 - 0.65 kg** per tree per year (provides both P and some N)
+*   **Single Superphosphate (SSP)** (16% P2O5, 11% S)
+    *   **0.5 - 1.0 kg** per tree per year (if additional P and S are needed beyond DAP)
+*   **Muriate of Potash (MOP)** (60% K2O)
+    *   **0.35 - 0.5 kg** per tree per year
+*   **Elemental Sulphur** (90% S) or **Bentonite Sulphur**
+    *   **20 - 45 g** per tree per year (if not adequately supplied by SSP)
+
+**Example Calculation (for 600g N, 250g P2O5, 250g K2O, 30g S):**
+
+*   **Diammonium Phosphate (DAP):** To provide 250g P2O5, you would need 250 / 0.46 = 543 g **DAP**. This also provides 543 * 0.18 = 98 g N.
+*   **Muriate of Potash:** To provide 250g K2O, you would need 250 / 0.60 = 417 g **Muriate of Potash**.
+*   **Urea:** Remaining N needed = 600g - 98g (from DAP) = 502g N. This requires 502 / 0.46 = 1091 g **Urea**.
+*   **Sulphur:** If you use **Single Superphosphate** for some P, it will contribute Sulphur. If not, or if more is needed, apply **Elemental Sulphur**. For 30g S, you would need 30 / 0.90 = 33 g **Elemental Sulphur**.
+
+**Therefore, an example application for a mature tree could be:**
+*   **Urea:** 1.1 kg
+*   **Diammonium Phosphate:** 0.55 kg
+*   **Muriate of Potash:** 0.42 kg
+*   **Elemental Sulphur:** 35 g (if not using SSP)
+
+---
+
+### **3. Nano Fertilizers**
+
+Nano fertilizers offer high nutrient use efficiency through foliar application.
+
+*   **Nano-Urea:**
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Application:** Foliar spray, typically 2-3 sprays during the active growth and fruiting stages.
+*   **Nano-DAP:**
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Application:** Foliar spray, typically 2 sprays during pre-flowering and fruit development stages.
+
+*Note: Nano fertilizers are supplementary and should be used in conjunction with soil-applied conventional fertilizers, especially for meeting bulk nutrient requirements.*
+
+---
+
+### **4. NPK Complex Fertilizers**
+
+While NPK complex fertilizers (e.g., 19:19:19, 12:32:16) are available, for precise nutrient management in Guava, it is generally recommended to use individual straight fertilizers based on soil test results. This allows for better adjustment of specific nutrient ratios. If used, the dose would depend on the specific grade and the total nutrient requirement, but it might not perfectly match the optimal N:P:K ratio for Guava.
+
+---
+
+### **5. Application Timing**
+
+*   **Nitrogen and Potassium:** Apply in two equal split doses.
+    *   First dose: February-March (after winter pruning/before spring flush).
+    *   Second dose: July-August (after monsoon onset/before autumn flush).
+*   **Phosphorus and Sulphur:** Apply once a year, preferably during February-March.
+
+Always ensure adequate moisture in the soil before and after fertilizer application to facilitate nutrient uptake and prevent root burn.

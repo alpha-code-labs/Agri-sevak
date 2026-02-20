@@ -1,0 +1,47 @@
+Wilt in Fig (Ficus carica) can be caused by various fungal pathogens such as *Fusarium* spp. and *Verticillium* spp., leading to significant yield losses. 'Parawilt' often refers to a sudden decline or wilt that can be either pathogenic or non-pathogenic (due to environmental stress like waterlogging, drought, or nutrient deficiencies). Effective management requires an integrated approach focusing on prevention, cultural practices, biological control, and judicious use of chemicals.
+
+Here's a comprehensive approach to control Wilt (including Parawilt) in Fig:
+
+**I. Cultural Practices (Prevention and Management of Non-Pathogenic Wilt)**
+
+*   **Resistant Varieties:** Where available, select fig varieties known to have resistance or tolerance to wilt diseases. Consult local nurseries or HAU for recommended varieties suitable for Haryana.
+*   **Site Selection and Soil Preparation:**
+    *   Ensure well-drained soil. Avoid planting in areas prone to waterlogging, as this can induce non-pathogenic wilt and predispose plants to root rot pathogens.
+    *   Improve soil structure by incorporating well-decomposed farmyard manure (FYM) or compost (20-30 kg/plant) before planting.
+*   **Sanitation:**
+    *   Remove and destroy infected plant parts (leaves, branches) and severely wilted plants to reduce inoculum sources.
+    *   Disinfect pruning tools with a 10% bleach solution or alcohol between plants.
+*   **Water Management:**
+    *   Provide adequate and consistent irrigation. Both drought stress and excessive irrigation (leading to waterlogging) can cause wilt-like symptoms or predispose plants to disease.
+    *   Use drip irrigation to deliver water directly to the root zone and avoid wetting foliage.
+*   **Nutrient Management:**
+    *   Ensure balanced nutrition. Deficiencies or excesses of certain nutrients can stress plants and make them more susceptible.
+    *   Conduct soil testing to determine nutrient requirements and apply fertilizers as per recommendations.
+*   **Avoid Root Injury:** Be careful during intercultural operations to prevent damage to roots, as wounds can serve as entry points for pathogens.
+*   **Solarization:** In areas with a history of wilt, soil solarization during hot summer months (May-June) for 4-6 weeks can help reduce soil-borne pathogen populations before planting.
+
+**II. Biological Control**
+
+Biological control agents are highly effective in preventing and managing soil-borne diseases like wilt by competing with pathogens and promoting plant growth.
+
+*   **Trichoderma viride:**
+    *   **Soil Application:** Mix 5 kg of *Trichoderma viride* (2x10^6 CFU/g) with 100 kg of well-decomposed FYM or compost. Keep the mixture moist for 7-10 days in a shaded area, then apply around the base of existing trees (500 g - 1 kg per tree) or incorporate into the soil before planting.
+    *   **Drenching:** For existing plants, drench the root zone with a suspension of 5-10 g of *Trichoderma viride* per litre of water. Repeat every 3-4 months.
+*   **Pseudomonas fluorescens:**
+    *   **Soil Application:** Mix 5 kg of *Pseudomonas fluorescens* (2x10^8 CFU/g) with 100 kg of well-decomposed FYM or compost and apply as described for *Trichoderma viride*.
+    *   **Drenching:** Drench the root zone with a suspension of 5-10 g of *Pseudomonas fluorescens* per litre of water.
+
+**III. Chemical Control (for early stages or prevention of pathogenic wilt)**
+
+Chemical control is generally less effective once wilt symptoms are severe. It is best used as a preventative measure or at the very early stages of infection. Always follow label instructions for application rates and safety precautions.
+
+*   **Soil Drenching:**
+    *   **Carbendazim 50% WP:** Drench the soil around the base of the affected plants with a solution of **Carbendazim** at 1-2 g per litre of water. Apply 2-5 litres of solution per plant depending on its size.
+    *   **Thiophanate-methyl 70% WP:** Alternatively, drench the soil around the base of the plants with a solution of **Thiophanate-methyl** at 1-2 g per litre of water. Apply 2-5 litres of solution per plant.
+    *   **Copper Oxychloride 50% WP:** As a general soil disinfectant to reduce fungal inoculum, drench the soil with a solution of **Copper Oxychloride** at 2-3 g per litre of water. This can be particularly useful if root rot is suspected to be contributing to wilt.
+
+**Important Considerations:**
+
+*   **Integrated Pest Management (IPM):** The most effective control of wilt involves combining cultural, biological, and chemical methods.
+*   **Early Detection:** Regularly monitor your fig plants for any signs of wilting. Early detection allows for more effective intervention.
+*   **Diagnosis:** If the cause of wilt is unclear, it is advisable to consult with HAU experts for accurate diagnosis, as different causes may require specific management strategies.

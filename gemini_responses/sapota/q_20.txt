@@ -1,0 +1,56 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I advise on addressing micronutrient deficiencies in Sapota (Chikoo) based on scientific principles and CIBRC-approved practices suitable for Haryana's agro-climatic conditions.
+
+**General Approach to Micronutrient Management in Sapota:**
+
+1.  **Diagnosis is Key:** Visual symptoms can indicate a deficiency, but accurate diagnosis requires soil and leaf tissue analysis. HAU recommends regular soil testing (every 2-3 years) to determine nutrient status and pH.
+2.  **Soil pH Management:** Many Haryana soils are alkaline, which can reduce the availability of micronutrients like Zinc, Iron, and Manganese. Maintaining optimal soil pH (6.0-7.5 for Sapota) is crucial.
+3.  **Integrated Nutrient Management:** Combine chemical applications with organic matter additions (farmyard manure, compost) to improve soil health and nutrient availability.
+4.  **Application Methods:**
+    *   **Soil Application:** Provides a sustained supply of nutrients. Best done in the root zone.
+    *   **Foliar Spray:** Offers a quicker response, especially for immediate correction or when soil conditions limit uptake (e.g., high pH). Apply during cooler parts of the day (morning or late afternoon) and consider adding a non-ionic wetting agent for better absorption.
+
+Here's how to address specific micronutrient deficiencies:
+
+### 1. Zinc (Zn) Deficiency
+
+*   **Symptoms:** Small, narrow leaves (little leaf), rosetting of leaves at shoot tips, interveinal chlorosis, reduced fruit size and yield.
+*   **Correction:**
+    *   **Soil Application:** Apply 10-25 kg/acre of **Zinc sulphate heptahydrate** (21% Zn) or 6-15 kg/acre of **Zinc sulphate monohydrate** (33% Zn) once every 2-3 years, based on soil test recommendations.
+    *   **Foliar Spray:** Spray a 0.5% solution (5 g/L) of **Zinc sulphate heptahydrate** (21% Zn) mixed with 0.25% (2.5 g/L) of calcium hydroxide (lime) to prevent phytotoxicity. Apply during new flush growth.
+
+### 2. Iron (Fe) / Ferrous Deficiency
+
+*   **Symptoms:** Prominent interveinal chlorosis on younger leaves, with veins remaining green. In severe cases, leaves may turn entirely yellow or white. Common in alkaline soils.
+*   **Correction:**
+    *   **Soil Application:** Apply 50-100 g/tree for young trees and 200-500 g/tree for mature trees of **Ferrous sulphate heptahydrate** (19% Fe) in the root zone. For highly alkaline soils, chelated forms like **Iron EDTA** (12% Fe) at 10-20 g/tree can be more effective but are more expensive.
+    *   **Foliar Spray:** Spray a 0.5-1.0% solution (5-10 g/L) of **Ferrous sulphate heptahydrate** (19% Fe) or a 0.1% solution (1 g/L) of **Iron EDTA**. Repeat sprays may be necessary at 15-day intervals until symptoms disappear.
+
+### 3. Boron (B) Deficiency
+
+*   **Symptoms:** Dieback of growing points, stunted and bushy growth, thickened and brittle leaves, cracking of fruits, poor fruit set, and internal browning of fruits.
+*   **Correction:**
+    *   **Soil Application:** Apply 10-20 g/tree for young trees and 50-100 g/tree for mature trees of **Borax** (Sodium tetraborate decahydrate, 10.5-11.3% B) or half the quantity of **Disodium octaborate tetrahydrate** (20% B). Apply once every 2-3 years. Boron has a narrow margin between deficiency and toxicity, so soil test is crucial.
+    *   **Foliar Spray:** Spray a 0.1-0.2% solution (1-2 g/L) of **Disodium octaborate tetrahydrate** (20% B). Apply before flowering and during fruit development.
+
+### 4. Calcium (Ca) Deficiency
+
+*   **Symptoms:** Dieback of terminal buds and root tips, stunted growth, distorted new leaves, and sometimes poor fruit quality or storage life.
+*   **Correction:**
+    *   **Soil Application:** If soil test indicates low Ca and acidic pH, apply **Calcium carbonate** (lime) as per soil test recommendations to raise pH and supply Ca. If pH is adequate but Ca is low, **Calcium nitrate** (18.8% Ca) can be applied at 100-200 kg/acre depending on deficiency and crop stage.
+    *   **Foliar Spray:** Spray a 0.5-1.0% solution (5-10 g/L) of **Calcium nitrate** (18.8% Ca) or **Calcium chloride** (27% Ca). Multiple sprays may be beneficial during fruit development.
+
+### 5. Magnesium (Mg) Deficiency
+
+*   **Symptoms:** Interveinal chlorosis on older leaves, often starting from the margins and progressing inwards, sometimes with reddish or purplish tints. Leaves may become brittle and curl upwards.
+*   **Correction:**
+    *   **Soil Application:** Apply 25-50 kg/acre of **Magnesium sulphate heptahydrate** (9.6% Mg) based on soil test recommendations.
+    *   **Foliar Spray:** Spray a 1-2% solution (10-20 g/L) of **Magnesium sulphate heptahydrate** (9.6% Mg) when symptoms appear. Repeat if necessary.
+
+### 6. Manganese (Mn) Deficiency
+
+*   **Symptoms:** Interveinal chlorosis on younger leaves, similar to iron deficiency but often less distinct and more mottled. Growth may be stunted.
+*   **Correction:**
+    *   **Soil Application:** Apply 10-20 kg/acre of **Manganese sulphate monohydrate** (30.5% Mn) or **Manganese sulphate tetrahydrate** (23% Mn) based on soil test recommendations.
+    *   **Foliar Spray:** Spray a 0.5% solution (5 g/L) of **Manganese sulphate monohydrate** (30.5% Mn) or **Manganese sulphate tetrahydrate** (23% Mn).
+
+Always consult with HAU extension specialists for precise recommendations tailored to your specific farm conditions and the latest package of practices for Sapota cultivation in Haryana.

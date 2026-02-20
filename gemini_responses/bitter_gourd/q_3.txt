@@ -1,0 +1,50 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Bitter Gourd (Momordica charantia) in Haryana. Rot diseases are complex and can be caused by a range of fungal, oomycete, and bacterial pathogens, often favored by high humidity, poor drainage, and plant injury.
+
+Effective control requires an integrated approach combining cultural practices, seed treatment, and judicious use of CIBRC-approved fungicides.
+
+### General Integrated Disease Management (IDM) for Rot Diseases
+
+1.  **Crop Rotation**: Avoid planting bitter gourd or other cucurbits in the same field for at least 2-3 years to break the disease cycle of soil-borne pathogens.
+2.  **Field Sanitation**: Promptly remove and destroy infected plant debris, fruits, and entire plants to reduce inoculum sources.
+3.  **Soil Drainage**: Ensure excellent soil drainage. Prepare raised beds to prevent waterlogging, which is conducive to most rot pathogens.
+4.  **Balanced Nutrition**: Provide balanced fertilizers. Avoid excessive nitrogen, which can promote lush, succulent growth more susceptible to disease.
+5.  **Proper Spacing**: Maintain adequate plant spacing to ensure good air circulation within the canopy, reducing humidity around plants.
+6.  **Irrigation Management**: Use drip irrigation if possible. If using furrow irrigation, avoid wetting the foliage. Avoid overhead irrigation, especially late in the day, to allow foliage to dry before nightfall.
+7.  **Weed Control**: Keep the field free of weeds, as they can harbor pathogens and impede air circulation.
+8.  **Avoid Injury**: Minimize mechanical damage to roots, stems, and fruits during cultivation, as wounds serve as entry points for pathogens.
+
+### Specific Control Measures
+
+#### 1. For Seed Rot, Seedling Rot, and Early-Stage Root/Collar/Stem Rot (Damping-off)
+
+These rots are primarily caused by soil-borne pathogens like *Pythium spp.*, *Fusarium spp.*, and *Rhizoctonia solani*. Seed treatment is crucial for prevention.
+
+*   **Seed Treatment**: Treat seeds before sowing with a suitable fungicide.
+    *   **Thiram**: 2-3 g/kg seed
+    *   **Captan**: 2-3 g/kg seed
+    *   **Carbendazim**: 1-2 g/kg seed
+    *   **Metalaxyl**: 4 g/kg seed (highly effective against oomycetes like *Pythium*)
+
+#### 2. For Soil-borne Rots (Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, Seedling Rot)
+
+These rots affect the plant at or below the soil line, leading to wilting, yellowing, and eventual plant collapse. Neck rot, if observed, typically falls under collar or stem rot symptoms at the soil line.
+
+*   **Soil Drenching**: Apply fungicides around the base of the plants, especially at the first sign of disease or preventatively in high-risk areas.
+    *   **Propamocarb hydrochloride**: 2-3 ml/L water (for *Pythium* and *Phytophthora*)
+    *   **Metalaxyl + Mancozeb** (e.g., 8% + 64% WP formulation): 2-2.5 g/L water (for *Pythium*, *Phytophthora*, and other fungi)
+    *   **Carbendazim**: 1-1.5 g/L water (for *Fusarium*, *Rhizoctonia*, *Sclerotium*)
+    *   **Tebuconazole**: 1 ml/L water (for *Fusarium*, *Rhizoctonia*, *Sclerotium*)
+
+#### 3. For Fruit Rot and Black Rot
+
+Fruit rots can be caused by various fungi and oomycetes such as *Phytophthora spp.*, *Colletotrichum lagenarium* (anthracnose), and *Didymella bryoniae* (gummy stem blight). "Black rot" is a general term often referring to severe fungal fruit decay.
+
+*   **Foliar Sprays**: Apply fungicides preventatively or at the first sign of fruit infection, ensuring good coverage of fruits and foliage.
+    *   **Mancozeb**: 2-2.5 g/L water
+    *   **Chlorothalonil**: 2 g/L water
+    *   **Azoxystrobin**: 0.5-1 ml/L water
+    *   **Tebuconazole**: 0.75-1 ml/L water
+    *   **Difenoconazole**: 0.5 ml/L water
+    *   **Propineb**: 2-2.5 g/L water
+
+Always follow the manufacturer's instructions for dosage, application timing, and pre-harvest intervals (PHI) for all chemical products. Regular scouting for disease symptoms is crucial for timely intervention.

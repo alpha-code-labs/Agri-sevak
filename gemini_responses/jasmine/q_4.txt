@@ -1,0 +1,43 @@
+Wilt (including Parawilt) is a significant disease complex affecting Jasmine, often caused by soil-borne pathogens such as fungi (*Fusarium oxysporum* f. sp. *jasmini*) or bacteria (*Ralstonia solanacearum*). Parawilt often refers to a sudden and rapid wilting and collapse of the plant, which can be a severe manifestation of vascular wilt or root rot.
+
+**Symptoms:**
+*   Initial yellowing and drooping of lower leaves, progressing upwards.
+*   Stunting and reduced vigor of the plant.
+*   Browning and discoloration of vascular tissues when the stem or root is cut open.
+*   Sudden wilting and collapse of the entire plant (Parawilt), often without prior significant yellowing.
+*   Root decay and softening.
+
+**Control Measures:**
+
+An integrated approach combining cultural, biological, and chemical methods is recommended for effective management of wilt in Jasmine.
+
+**1. Cultural Practices:**
+*   **Sanitation:** Promptly remove and destroy all infected plants, including their root systems, to prevent the spread of pathogens. Do not use infected plant material for composting.
+*   **Healthy Planting Material:** Always use disease-free cuttings or saplings obtained from reputable nurseries.
+*   **Soil Health and Drainage:** Improve soil structure and drainage by incorporating well-decomposed farmyard manure or compost. Avoid waterlogging, as it creates anaerobic conditions favorable for root rot and wilt pathogens.
+*   **Soil Solarization:** In areas with a history of wilt, solarize the soil during the hot summer months (May-June) for 4-6 weeks before planting. This helps reduce the pathogen load in the soil.
+*   **Avoid Root Injury:** Be careful during intercultural operations (weeding, hoeing) to minimize damage to the root system, as wounds can serve as entry points for pathogens.
+*   **Balanced Nutrition:** Ensure adequate and balanced nutrient supply to enhance plant vigor and natural resistance to diseases.
+
+**2. Biological Control:**
+*   **Soil Application:** Apply beneficial microbial antagonists to the soil around the root zone, preferably preventively or at the first sign of disease.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Mix 2.5 kg of *Trichoderma* formulation (containing 10^8 CFU/g) with 50 kg of well-decomposed farmyard manure and apply per acre, or drench with a suspension of 5-10 g/L of water around the root zone.
+    *   **Pseudomonas fluorescens**: Mix 2.5 kg of *Pseudomonas fluorescens* formulation (containing 10^8 CFU/g) with 50 kg of well-decomposed farmyard manure and apply per acre, or drench with a suspension of 5-10 g/L of water around the root zone.
+    *   Repeat application every 3-4 months for sustained protection.
+
+**3. Chemical Control:**
+*   **Fungicidal Drench (for Fungal Wilt):**
+    *   Drench the soil around the base of the infected plants with a systemic fungicide.
+    *   **Carbendazim** 50% WP: 1-2 g/L of water.
+    *   **Thiophanate-methyl** 70% WP: 1-1.5 g/L of water.
+    *   Apply 2-3 liters of the solution per plant, depending on its size and age. Repeat after 15-20 days if symptoms persist or new infections appear.
+*   **Bactericidal Drench (for Bacterial Wilt):**
+    *   If bacterial wilt is suspected (e.g., no visible fungal growth, distinct vascular browning, slimy exudate from cut stem), a bactericide can be used.
+    *   **Streptomycin Sulphate 9% + Tetracycline Hydrochloride 1% SP**: 0.5-1 g/L of water.
+    *   **Copper Oxychloride** 50% WP: 2-3 g/L of water (also provides some fungicidal action).
+    *   Apply as a soil drench around the root zone.
+
+**Important Considerations:**
+*   Always follow the manufacturer's instructions and safety precautions mentioned on the product label.
+*   Rotate different classes of fungicides/bactericides to prevent the development of resistance in pathogens.
+*   Early detection and timely intervention are critical for successful management of wilt diseases in Jasmine.

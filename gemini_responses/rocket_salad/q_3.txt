@@ -1,0 +1,56 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Rocket salad (Eruca vesicaria) in Haryana. Effective management requires an integrated approach combining robust cultural practices with judicious use of CIBRC-approved chemicals.
+
+**General Principles for Rot Management in Rocket Salad:**
+
+These foundational practices are crucial for preventing and controlling most rot diseases:
+
+*   **Crop Rotation:** Avoid planting Rocket salad or other brassicas (e.g., cabbage, cauliflower, mustard) in the same field for at least 2-3 years. Rotate with non-host crops like cereals (wheat, maize) or legumes (chickpea, lentil).
+*   **Field Sanitation:** Promptly remove and destroy infected plant debris, including crop residues, after harvest. Control weeds, as they can harbor pathogens and reduce air circulation.
+*   **Soil Drainage:** Ensure excellent soil drainage to prevent waterlogging, which creates anaerobic conditions favorable for many rot-causing pathogens (especially *Pythium* and *Phytophthora*). Cultivating on raised beds can be highly beneficial.
+*   **Seed Quality:** Always use certified, disease-free seeds from reputable sources. Seed treatment is a highly effective preventive measure.
+*   **Optimal Planting Density:** Avoid overcrowding plants to ensure adequate air circulation within the canopy, which helps reduce humidity and fungal growth.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can lead to lush, soft growth that is more susceptible to rot diseases.
+*   **Irrigation Management:** Water early in the day to allow foliage to dry completely before evening. If possible, use drip irrigation to keep foliage dry and reduce splash dispersal of pathogens.
+*   **Avoid Plant Injury:** Minimize mechanical damage to plants during field operations (e.g., weeding, harvesting), as wounds serve as easy entry points for pathogens.
+
+**Specific Rot Types and Control Measures:**
+
+1.  **Seed Rot, Seedling Rot (Damping-off), Root Rot:**
+    These are primarily caused by soil-borne fungi and oomycetes such as *Pythium* spp., *Phytophthora* spp., *Rhizoctonia solani*, and *Fusarium* spp.
+
+    *   **Seed Treatment:**
+        *   For broad-spectrum fungal control: Treat seeds with **Thiram** 75% WS at 2.5-3 g/kg seed.
+        *   For oomycete pathogens (*Pythium*, *Phytophthora*): Treat seeds with **Metalaxyl** 35% WS at 6 g/kg seed.
+        *   A combination of **Thiram** and **Metalaxyl** can provide broader protection against both fungal and oomycete pathogens.
+    *   **Soil Drench (Post-emergence, if symptoms appear):**
+        *   For oomycete pathogens: Drench the soil around the base of affected plants with **Propamocarb hydrochloride** 72.2% SL at 2-3 ml/L water.
+        *   For *Rhizoctonia* and *Fusarium*: Drench with **Carbendazim** 50% WP at 1-2 g/L water.
+
+2.  **Stem Rot, Collar Rot, Crown Rot, Foot Rot:**
+    These conditions often overlap and can be caused by pathogens like *Sclerotinia sclerotiorum* (White Mold), *Rhizoctonia solani*, and *Phytophthora* spp.
+
+    *   **Cultural Practices:** Implement all general principles mentioned above, especially crop rotation, sanitation, and ensuring good soil drainage.
+    *   **Soil Drench/Foliar Spray (if severe):**
+        *   For *Sclerotinia* and *Rhizoctonia*: Apply a soil drench or targeted spray to the base of plants with **Carbendazim** 50% WP at 1-2 g/L water.
+        *   For broader fungal control including *Sclerotinia*: Foliar spray with **Azoxystrobin** 23% SC at 1 ml/L water, ensuring good coverage of the plant base.
+        *   For *Phytophthora* related crown/foot rot: Drench with **Propamocarb hydrochloride** 72.2% SL at 2-3 ml/L water.
+
+3.  **Black Rot:**
+    This is a serious bacterial disease caused by *Xanthomonas campestris pv. campestris*.
+
+    *   **Seed Treatment:** Use hot water treatment (50°C for 25-30 minutes) for seeds, or treat with a combination of antibiotics: **Streptomycin sulphate 9% + Tetracycline hydrochloride 1% SP** at 1 g/L water for 30 minutes soaking, followed by drying.
+    *   **Cultural Practices:** Use certified disease-free seeds, practice strict crop rotation, and immediately remove and destroy infected plants. Avoid overhead irrigation.
+    *   **Foliar Spray (Preventive/Early Stage):**
+        *   Spray with **Copper oxychloride** 50% WP at 2.5-3 g/L water. Repeat at 10-15 day intervals if disease pressure is high.
+
+4.  **Fruit Rot:**
+    This is not known to affect Rocket salad as it is primarily grown for its leaves, not its fruit (seed pods). If referring to seed production, specific fungal diseases might affect pods, but it is not a common concern for leafy greens.
+
+5.  **Neck Rot:**
+    This term is often used interchangeably or as part of the broader complex of collar, stem, or crown rots in leafy vegetables. The control measures outlined for Stem, Collar, and Crown Rots would be applicable here.
+
+**Important Considerations:**
+
+*   Always read and strictly follow the label instructions for any chemical product, including dosage, application method, safety precautions, and the pre-harvest interval (PHI).
+*   Given that Rocket salad is a short-duration crop often consumed raw, prioritize cultural practices and seed treatments. Chemical applications, especially foliar sprays, should be used judiciously and with strict adherence to PHI to ensure food safety.
+*   For the most current and specific recommendations tailored to your local conditions in Haryana, it is always advisable to consult with your local agricultural extension services or experts at HAU.

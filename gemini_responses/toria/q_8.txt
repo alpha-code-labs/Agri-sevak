@@ -1,0 +1,63 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an Integrated Pest Management (IPM) approach for controlling sucking pests in Toria, focusing on regular monitoring and timely intervention.
+
+**General Management Principles for Sucking Pests in Toria:**
+
+1.  **Regular Monitoring:** Scout your fields regularly (at least twice a week) to check for pest incidence and population build-up. Pay attention to the undersides of leaves and tender shoots.
+2.  **Cultural Practices:**
+    *   **Timely Sowing:** Sow Toria at the recommended time to avoid peak pest periods.
+    *   **Nutrient Management:** Avoid excessive nitrogen fertilization, as it can lead to lush growth that attracts sucking pests.
+    *   **Weed Management:** Keep fields free of weeds, which can act as alternate hosts for pests.
+3.  **Biological Control:** Conserve natural enemies such as ladybird beetles, syrphid fly larvae, and parasitoids (e.g., *Diaeretiella rapae* for aphids), which naturally predate or parasitize these pests. Avoid broad-spectrum insecticides unless absolutely necessary.
+4.  **Economic Threshold Level (ETL):** Apply chemical control only when the pest population reaches the ETL. For aphids, this is typically when 10-15% of plants are infested or 20-30 aphids per plant are observed on 10-15 cm central shoot.
+
+**Specific Control Measures for Sucking Pests in Toria:**
+
+**1. Aphids (Mustard Aphid - *Lipaphis erysimi*)**
+Aphids are the most significant sucking pest of Toria.
+
+*   **Biological Control:** Encourage natural enemies.
+*   **Chemical Control (when ETL is reached):**
+    *   **Imidacloprid 17.8% SL:** 125-150 ml per acre in 200-250 litres of water.
+    *   **Thiamethoxam 25% WG:** 50-100 g per acre in 200-250 litres of water.
+    *   **Acetamiprid 20% SP:** 50-100 g per acre in 200-250 litres of water.
+    *   **Flonicamid 50% WG:** 60 g per acre in 200-250 litres of water.
+    *   **Dimethoate 30% EC:** 330-660 ml per acre in 200-250 litres of water.
+
+**2. Leafhoppers (Jassids)**
+Leafhoppers can cause curling and yellowing of leaves, but are generally less severe than aphids in Toria.
+
+*   **Chemical Control (if significant infestation occurs):**
+    *   **Imidacloprid 17.8% SL:** 125-150 ml per acre in 200-250 litres of water.
+    *   **Thiamethoxam 25% WG:** 50-100 g per acre in 200-250 litres of water.
+    *   **Acetamiprid 20% SP:** 50-100 g per acre in 200-250 litres of water.
+    *   **Fipronil 5% SC:** 400-600 ml per acre in 200-250 litres of water.
+
+**3. Whiteflies (*Bemisia tabaci*)**
+Whiteflies can transmit viral diseases and cause direct damage by sucking sap.
+
+*   **Chemical Control (if significant infestation occurs, especially nymphs):**
+    *   **Imidacloprid 17.8% SL:** 125-150 ml per acre in 200-250 litres of water.
+    *   **Thiamethoxam 25% WG:** 50-100 g per acre in 200-250 litres of water.
+    *   **Acetamiprid 20% SP:** 50-100 g per acre in 200-250 litres of water.
+    *   **Spirotetramat 150 OD:** 200-250 ml per acre in 200-250 litres of water (effective against nymphs).
+    *   **Buprofezin 25% SC:** 500-600 ml per acre in 200-250 litres of water (primarily for nymphs).
+
+**4. Thrips**
+Thrips can cause damage to young leaves, flowers, and developing pods, leading to distortion and reduced yield.
+
+*   **Chemical Control (if significant infestation occurs):**
+    *   **Imidacloprid 17.8% SL:** 125-150 ml per acre in 200-250 litres of water.
+    *   **Thiamethoxam 25% WG:** 50-100 g per acre in 200-250 litres of water.
+    *   **Acetamiprid 20% SP:** 50-100 g per acre in 200-250 litres of water.
+    *   **Fipronil 5% SC:** 400-600 ml per acre in 200-250 litres of water.
+
+**5. Psylla**
+This is not known to affect Toria as a major or economically significant pest in Haryana. Therefore, specific control measures for Psylla are typically not required in Toria cultivation in this region.
+
+**Important Considerations for Chemical Application:**
+
+*   **Spray Volume:** Ensure thorough coverage of the plant canopy, especially the undersides of leaves, using 200-250 litres of water per acre.
+*   **Rotation of Chemicals:** To prevent the development of pesticide resistance, rotate insecticides with different modes of action.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) during mixing and spraying. Follow label instructions carefully regarding dosage, pre-harvest interval (PHI), and safety precautions.
+*   **Timing:** Apply insecticides preferably in the morning or evening when temperatures are cooler and wind speed is low, and when pollinators are less active.
+*   **Consultation:** For the most precise and up-to-date recommendations, always consult with your local agricultural extension specialist or HAU experts.

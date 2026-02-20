@@ -1,0 +1,33 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling pests in Ash Gourd (Petha) in Haryana:
+
+### Control of Fruit Fly in Ash Gourd (Petha)
+
+Fruit flies, primarily the Melon Fruit Fly (*Bactrocera cucurbitae*), are a major pest of Ash Gourd and other cucurbit crops. They cause significant damage by laying eggs in developing fruits, leading to rotting and premature fruit drop. An integrated pest management (IPM) approach is recommended for effective control.
+
+**1. Cultural and Mechanical Methods:**
+
+*   **Field Sanitation:** Regularly collect and destroy all fallen, damaged, and infested fruits by burying them deep in the soil or burning them. This prevents the completion of the fruit fly life cycle.
+*   **Deep Ploughing:** After harvest, deep ploughing exposes pupae in the soil to predators and sunlight, reducing the next generation's population.
+*   **Crop Rotation:** Avoid continuous cultivation of cucurbit crops in the same field.
+*   **Early Harvesting:** Harvest fruits at the appropriate maturity stage to prevent over-ripening, which makes them more attractive to fruit flies.
+*   **Fruit Bagging:** For high-value crops or small-scale cultivation, individual fruits can be covered with paper or cloth bags once they are small to protect them from egg-laying.
+*   **Pheromone Traps:** Install specific pheromone traps (e.g., Cue-lure traps) at a density of 10-12 traps per acre. These traps attract and kill male fruit flies, disrupting their breeding cycle. Replace lures every 2-3 weeks.
+
+**2. Chemical Control (Use only CIBRC approved technical chemicals):**
+
+Chemical control should be used judiciously, preferably as bait sprays, to minimize impact on beneficial insects and the environment.
+
+*   **Bait Sprays:** This is a highly effective method for controlling adult fruit flies. Mix an insecticide with a protein source (like jaggery or protein hydrolysate) to attract and kill the flies. Apply these bait sprays as spot applications on foliage, not as a full cover spray.
+    *   **Malathion** 50% EC: 2 ml/L of water + 10 g/L of jaggery or protein hydrolysate.
+    *   **Spinosad** 45% SC: 0.25 ml/L of water + 10 g/L of jaggery or protein hydrolysate.
+
+*   **Foliar Sprays (if infestation is severe and bait sprays are insufficient):**
+    *   **Lambda-cyhalothrin** 5% EC: 0.5 ml/L of water.
+    *   **Deltamethrin** 2.8% EC: 1 ml/L of water.
+    *   **Cypermethrin** 25% EC: 0.5 ml/L of water.
+
+Always follow the manufacturer's instructions regarding dosage, application timing, and pre-harvest interval (PHI). Wear appropriate personal protective equipment (PPE) during application.
+
+### Control of Ber Fly in Ash Gourd (Petha)
+
+This is not known to affect Ash Gourd (Petha). The Ber fly (*Carpomyia vesuviana*) is a host-specific pest primarily affecting Ber (*Ziziphus mauritiana*) fruits.

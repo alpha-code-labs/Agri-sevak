@@ -1,0 +1,19 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice regarding the use of growth regulators and Boron in Guar (cluster bean) cultivation in Haryana:
+
+It is crucial to understand that the application of growth regulators and micronutrients should be based on specific crop needs, soil test reports, and established recommendations to avoid adverse effects.
+
+1.  **Ethrel (Technical name: Ethephon)**
+    *   **Ethephon** is a plant growth regulator that releases ethylene. While it can influence various plant processes, its application as a general growth regulator for yield enhancement in Guar is **not a standard or widely recommended practice** by Haryana Agricultural University (HAU) or ICAR for farmers in Haryana. The benefits of Ethephon for Guar yield under typical Haryana conditions are not consistently established to warrant a general recommendation. Therefore, its use is generally not advised for routine Guar cultivation.
+
+2.  **2,4-D**
+    *   **2,4-D** is primarily a selective herbicide used for broadleaf weed control. Its use as a growth regulator in Guar is **not recommended under any circumstances**. Even at extremely low concentrations, 2,4-D can cause severe phytotoxicity, deformities (such as leaf curling, stem twisting), and significant yield losses in Guar. Farmers are strongly advised against using 2,4-D on Guar crops.
+
+3.  **Boron (as Borax - Sodium tetraborate decahydrate)**
+    *   Boron is an essential micronutrient, not a growth regulator in the same category as Ethephon or 2,4-D, but it plays a crucial role in plant development, especially in flowering, pollen viability, and pod setting in Guar. Its application is recommended when soil tests indicate a deficiency.
+    *   **Foliar Spray:** For correcting Boron deficiency, a foliar spray of **Borax** (Sodium tetraborate decahydrate) is recommended.
+        *   **Dose:** 1.5 - 2.0 g of **Borax** per litre of water (0.15 - 0.2% solution).
+        *   **Timing:** Apply at the pre-flowering stage. A second spray can be given 15-20 days later if deficiency symptoms persist or if conditions warrant.
+    *   **Soil Application (if severe deficiency is confirmed by soil test):**
+        *   **Dose:** 1.0 - 2.0 kg of **Borax** per acre, mixed with sand or fertilizer and broadcast before sowing or as a top dressing. Soil application should only be done after a confirmed soil test report indicates severe Boron deficiency, as excessive Boron can be toxic to plants.
+
+**Important Note:** Always conduct a soil test to determine the nutrient status of your field before applying any micronutrients like Boron. Unnecessary application can lead to nutrient imbalances or toxicity. For any specific concerns, please consult with your local agricultural extension officer or HAU experts.

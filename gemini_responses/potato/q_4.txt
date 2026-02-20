@@ -1,0 +1,47 @@
+Wilt (including Parawilt) in potato is a complex condition often caused by a combination of factors, primarily soil-borne bacterial and fungal pathogens, exacerbated by environmental stresses. The main pathogens involved are *Ralstonia solanacearum* (Bacterial Wilt), *Fusarium oxysporum* f.sp. *tuberosi* (Fusarium Wilt), and *Verticillium dahliae* (Verticillium Wilt). Parawilt often refers to a sudden, rapid wilting and collapse of plants, frequently associated with high temperatures and water stress, sometimes with secondary infections.
+
+Here are the scientifically verified control measures for Wilt in Potato:
+
+1.  **Use Healthy Seed Tubers:**
+    *   Always plant certified, disease-free seed tubers obtained from reliable sources. Inspect tubers thoroughly for any signs of discoloration, rotting, or vascular browning before planting.
+
+2.  **Crop Rotation:**
+    *   Implement a long crop rotation program (at least 3-5 years) with non-solanaceous crops such as cereals (wheat, maize), pulses (chickpea, lentil), or mustard. This helps to reduce the inoculum of soil-borne pathogens.
+
+3.  **Field Sanitation and Hygiene:**
+    *   Remove and destroy all infected plant debris from the field.
+    *   Disinfect farm tools, equipment, and machinery (e.g., with a 1% sodium hypochlorite solution) after working in infected fields to prevent pathogen spread.
+    *   Avoid movement of soil from infected to healthy fields.
+
+4.  **Soil Management:**
+    *   **Soil Solarization:** In hot summer months (May-June), after harvesting the previous crop, prepare the field, irrigate it, and cover it with transparent polyethylene sheets (100-micron thickness) for 4-6 weeks. This raises soil temperature and helps in reducing soil-borne pathogen populations.
+    *   Ensure good soil drainage to prevent waterlogging, which can stress plants and favor disease development.
+    *   Maintain optimal soil pH and balanced nutrient levels to promote plant vigor. Avoid excessive nitrogen application.
+
+5.  **Resistant/Tolerant Varieties:**
+    *   Where available and suitable for Haryana conditions, cultivate potato varieties known to have tolerance or resistance to specific wilt pathogens. Consult HAU recommendations for the latest suitable varieties.
+
+6.  **Water Management:**
+    *   Provide adequate and timely irrigation to avoid water stress, especially during critical growth stages. However, avoid over-irrigation or frequent light irrigations that can create favorable conditions for some pathogens. Drip irrigation can be beneficial in managing water efficiently and reducing pathogen spread.
+
+7.  **Weed Control:**
+    *   Keep the field free of weeds, as some weeds can act as alternate hosts for wilt pathogens.
+
+8.  **Biological Control:**
+    *   **Seed Treatment:** Treat seed tubers with biological agents before planting.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: Apply at 5-10 g/kg seed.
+        *   **Pseudomonas fluorescens**: Apply at 10 g/kg seed.
+    *   **Soil Application:**
+        *   **Trichoderma viride** or **Trichoderma harzianum**: Apply 2.5 kg/acre mixed with 50-100 kg of farmyard manure (FYM) or compost, and broadcast evenly in the field before planting or at the time of planting.
+        *   **Pseudomonas fluorescens**: Apply 2.5 kg/acre mixed with 50-100 kg of FYM or compost, and broadcast evenly in the field.
+
+9.  **Chemical Control (for Fungal Wilts - limited efficacy for Bacterial Wilt):**
+    *   **Seed Treatment:**
+        *   For fungal wilts, treat seed tubers with a combination fungicide.
+        *   **Carbendazim 12% + Mancozeb 63% WP**: Apply at 2.5-3 g/kg seed.
+    *   **Soil Drench (for localized outbreaks of fungal wilts, less common for field crops):**
+        *   **Carbendazim 50% WP**: Apply at 0.5-1 kg/acre mixed in sufficient water as a drench around the base of affected plants. This is generally not practical for large-scale field application.
+
+**Note on Bacterial Wilt:** For bacterial wilt (*Ralstonia solanacearum*), chemical control is largely ineffective once the disease is established. The primary focus must be on preventive measures like using disease-free seed, strict crop rotation, and field sanitation.
+
+**Note on Parawilt:** As Parawilt is often a symptom complex linked to stress, managing all the above factors, especially ensuring proper water management, balanced nutrition, and reducing overall plant stress, will significantly help in mitigating its occurrence.

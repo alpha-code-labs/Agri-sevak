@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can confirm that Wilt, particularly Parawilt, is a significant concern in Wheat in Haryana. Parawilt is a complex condition often associated with *Fusarium* species (e.g., *F. culmorum*, *F. graminearum*, *F. pseudograminearum*) and exacerbated by abiotic stresses like high temperature, waterlogging, or nutrient deficiencies.
+
+Effective control of Wilt/Parawilt in Wheat requires an integrated management approach, focusing primarily on preventive measures.
+
+### Integrated Management for Wilt (including Parawilt) in Wheat:
+
+**1. Cultural Practices (Most Critical):**
+
+*   **Resistant/Tolerant Varieties:** Select varieties recommended by HAU that show tolerance to heat stress and Parawilt. Consult your local HAU extension scientist for the latest recommendations suitable for your specific agro-climatic zone.
+*   **Timely Sowing:** Sow wheat at the optimum time to avoid exposure to terminal heat stress during grain filling, which is a major trigger for Parawilt.
+*   **Optimized Irrigation Management:**
+    *   Avoid waterlogging, especially during the crown root initiation and tillering stages. Ensure proper drainage in fields.
+    *   Provide adequate irrigation during critical growth stages to prevent drought stress.
+*   **Balanced Nutrient Management:**
+    *   Ensure balanced application of macro and micronutrients.
+    *   Adequate **Potassium (K)** application improves plant vigor and stress tolerance.
+    *   **Zinc (Zn)** deficiency can exacerbate stress, so ensure its timely application if deficient.
+*   **Crop Rotation:** Practice crop rotation with non-host crops (e.g., cotton, maize, pearl millet) to reduce the build-up of soil-borne pathogens. Avoid continuous wheat cultivation.
+*   **Field Sanitation:** Remove and destroy infected crop residues to reduce inoculum sources.
+
+**2. Biological Control (Seed Treatment):**
+
+*   Treat seeds with bio-control agents to protect against soil-borne pathogens.
+    *   **Trichoderma viride** 1% WP @ 4-5 g/kg seed
+    *   **Pseudomonas fluorescens** 1% WP @ 10 g/kg seed
+
+**3. Chemical Control (Primarily Seed Treatment):**
+
+Chemical control is most effective as a preventive measure through seed treatment against soil-borne fungal pathogens that can cause root rot and lead to wilting. Foliar sprays are generally not effective once wilting symptoms are widespread.
+
+*   **Seed Treatment:** Treat seeds with any of the following CIBRC approved fungicides:
+    *   **Carbendazim** 50% WP @ 2 g/kg seed
+    *   **Thiram** 75% WS @ 2.5 g/kg seed
+    *   **Tebuconazole** 2% DS @ 1 g/kg seed
+    *   **Difenoconazole** 3% WS @ 1 ml/kg seed
+    *   **Carboxin** 37.5% + **Thiram** 37.5% DS @ 2.5 g/kg seed
+    *   **Fluxapyroxad** 333 g/L + **Pyraclostrobin** 333 g/L FS @ 0.3-0.6 ml/kg seed (or as per product label for specific combination formulations)
+
+**Important Note:** Always consult your local agricultural extension officer or HAU expert for the most current and specific recommendations tailored to your farm's conditions and the prevailing disease situation.

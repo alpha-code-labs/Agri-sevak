@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for managing various rot conditions in Wheat, specifically for the agro-climatic conditions of Haryana. It is crucial to understand that many "rot" types in wheat, particularly those affecting the root, crown, and seedling stages, are often caused by a complex of fungal pathogens and are best managed through an integrated approach focusing on preventive measures.
+
+Here's how to control the relevant rot types in Wheat:
+
+### General Principles for Rot Management in Wheat
+
+Effective management of rot diseases in wheat relies heavily on an integrated approach combining cultural practices, resistant varieties, and judicious use of chemical treatments.
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** Implement a 2-3 year rotation with non-host crops (e.g., maize, cotton, pearl millet) to reduce pathogen inoculum in the soil.
+    *   **Field Sanitation:** Remove and destroy crop residues that can harbor pathogens.
+    *   **Balanced Nutrition:** Ensure adequate and balanced fertilizer application. Avoid excessive nitrogen, which can make plants more susceptible.
+    *   **Timely Sowing:** Sow wheat at the optimal time to allow for vigorous seedling establishment, which can better withstand early infections.
+    *   **Proper Drainage:** Ensure good field drainage to prevent waterlogging, which favors many rot-causing pathogens.
+    *   **Optimized Irrigation:** Avoid over-irrigation, especially during early growth stages.
+    *   **Deep Ploughing:** Can help bury infected residues, reducing surface inoculum.
+
+2.  **Resistant Varieties:** Where available, select and sow wheat varieties known to have resistance or tolerance to common root and crown rot pathogens prevalent in your area.
+
+### Specific Rot Types Affecting Wheat
+
+#### 1. Root Rot, Foot Rot, Collar Rot, Crown Rot, Seed Rot, and Seedling Rot
+
+These are often caused by a complex of soil-borne and seed-borne fungi such as *Fusarium* spp. (*F. graminearum*, *F. culmorum*, *F. pseudograminearum*), *Bipolaris sorokiniana* (syn. *Cochliobolus sativus*), *Rhizoctonia solani*, and *Pythium* spp. They manifest as poor germination, damping-off of seedlings, reddish-brown lesions on roots, crown, and stem base, leading to stunted growth, yellowing, and premature death of plants.
+
+**Control Measures:**
+
+*   **Cultural Practices:** As mentioned above, crop rotation, proper drainage, balanced nutrition, and timely sowing are critical.
+*   **Chemical Control (Seed Treatment):** This is the most effective chemical strategy for managing these early-season rot diseases. Treat seeds before sowing with CIBRC-approved fungicides:
+    *   **Carboxin 37.5% + Thiram 37.5% WS** @ 2.5 g/kg seed
+    *   **Tebuconazole 2 DS** @ 1.25 g/kg seed
+    *   **Difenoconazole 3% FS** @ 1 ml/kg seed
+    *   **Fluxapyroxad 250 g/L + Pyraclostrobin 250 g/L FS** @ 0.4 ml/kg seed
+    *   For specific issues with *Pythium* causing damping-off, **Metalaxyl 35% WS** @ 2 g/kg seed can be considered, often in combination with other fungicides.
+
+#### 2. Stem Rot
+
+While less common as a distinct, widespread disease in wheat compared to other crops, stem rot can occur, often as an extension of root and crown rot diseases, or occasionally due to pathogens like *Sclerotinia sclerotiorum*. Symptoms include lesions on the stem, often near the soil line, leading to wilting and lodging.
+
+**Control Measures:**
+
+*   **Cultural Practices:** Similar to root and crown rot, good crop rotation, sanitation, and avoiding excessive moisture are key.
+*   **Chemical Control:** Seed treatment (as listed above) provides early protection against many stem base pathogens. For specific *Sclerotinia* issues, which are rare in wheat in Haryana, no specific foliar fungicide is routinely recommended for wheat stem rot.
+
+### Rot Types Not Known to Affect Wheat
+
+1.  **Neck Rot:** This is not known to affect Wheat as a distinct disease term. "Neck rot" is typically associated with diseases like rice blast or onion diseases. Wheat can suffer from head blight (e.g., Fusarium Head Blight), but this is not termed "neck rot."
+2.  **Black Rot:** This is not known to affect Wheat. Black rot is primarily a bacterial disease of cruciferous vegetables (*Xanthomonas campestris pv. campestris*) or a fungal disease of grapes.
+3.  **Fruit Rot:** This is not known to affect Wheat. Wheat produces grains (caryopses), which are botanically a type of fruit, but the term "fruit rot" is typically used for fleshy fruits. Wheat grains can be affected by various diseases (e.g., Karnal bunt, loose smut, black point), but these are not termed "fruit rot."
+
+By implementing these integrated management strategies, particularly focusing on preventive cultural practices and appropriate seed treatments, farmers can effectively control the relevant rot diseases in wheat and ensure a healthy crop in Haryana. Always consult with local agricultural extension services for the most current and specific recommendations for your region.

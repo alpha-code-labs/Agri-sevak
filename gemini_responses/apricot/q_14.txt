@@ -1,0 +1,35 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling termites and root-knot nematodes in Apricot orchards in Haryana.
+
+**I. Control of Termites (White Ants)**
+
+Termites can cause significant damage by feeding on the roots and bark of Apricot trees, leading to weakening, poor growth, and even tree death. Integrated management is crucial.
+
+**A. Cultural and Mechanical Methods:**
+*   **Orchard Sanitation:** Regularly remove dead wood, stumps, and other organic debris from the orchard, as these serve as food sources and breeding sites for termites.
+*   **Avoid Direct Contact:** Ensure that no wooden stakes or structures are in direct contact with the tree trunk or soil, as these can provide entry points for termites.
+
+**B. Chemical Control (Soil Drenching):**
+For existing infestations, soil drenching around the tree base is an effective method.
+*   **Chlorpyrifos 20% EC:** Apply **2.5 ml per litre of water**. Drench the soil around the tree trunk, using 5-10 litres of solution per established tree, ensuring the solution penetrates the root zone.
+*   **Imidacloprid 17.8% SL:** Apply **0.5 ml per litre of water**. Drench the soil around the tree base, using 2-3 litres of solution per tree.
+*   **Fipronil 5% SC:** Apply **2 ml per litre of water**. Drench the soil around the tree base, using 2-3 litres of solution per tree.
+
+**II. Control of Root-Knot Nematodes (_Meloidogyne_ spp.)**
+
+Root-knot nematodes are microscopic worms that infect tree roots, causing galls or knots, leading to stunted growth, nutrient deficiency symptoms, and reduced yield.
+
+**A. Cultural and Biological Methods (Preferred for established trees):**
+*   **Organic Matter Application:** Incorporate well-decomposed Farm Yard Manure (FYM) or compost (10-25 kg per tree annually) into the soil around the trees. Organic matter improves soil health, promotes beneficial microorganisms that prey on nematodes, and can release nematode-suppressive compounds.
+*   **Soil Solarization (Pre-plant):** For new plantings, covering moist soil with transparent polyethylene sheets during hot summer months (4-6 weeks) can significantly reduce nematode populations in the topsoil. This is not feasible for established trees.
+*   **Biological Nematicides:**
+    *   **_Purpureocillium lilacinum_** (formerly _Paecilomyces lilacinus_): Apply **2.5 kg per acre** (or 50-100 g per tree) mixed with 25-50 kg of FYM/compost. Apply near the root zone and irrigate. This fungus parasitizes nematode eggs and females.
+    *   **_Bacillus firmus_**: Apply **2.5 kg per acre** (or 50-100 g per tree) mixed with 25-50 kg of FYM/compost. Apply near the root zone and irrigate. This bacterium produces toxins that affect nematodes.
+
+**B. Chemical Control (Limited options for established trees):**
+Chemical nematicides for established fruit trees are generally not recommended due to efficacy issues, environmental concerns, and limited approvals for direct application around bearing trees in India. For Apricot in Haryana, the primary recommendation for root-knot nematodes in established trees remains cultural and biological methods.
+
+**Important Considerations:**
+*   **Integrated Pest Management (IPM):** Always adopt an IPM approach, combining cultural, biological, and chemical methods for sustainable pest control.
+*   **Soil Testing:** Regularly test your soil to understand its health, nutrient status, and pest load.
+*   **Safety Precautions:** When using any chemical, always read and strictly follow the instructions on the label, including dosage, application method, safety gear, and pre-harvest intervals.
+*   **Consult Local Experts:** For specific recommendations tailored to your farm's conditions, always consult with the agricultural extension specialists at HAU, Hisar, or your local Krishi Vigyan Kendra (KVK).

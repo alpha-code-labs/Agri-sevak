@@ -1,0 +1,45 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling the mentioned conditions in Potato cultivation in Haryana:
+
+### Control of Scab in Potato
+
+Scab in potato can refer to Common Scab (*Streptomyces scabies*) or Powdery Scab (*Spongospora subterranea*). Both are soil-borne diseases that affect tuber quality.
+
+**Cultural Control Measures:**
+*   **Certified Seed:** Always use certified, disease-free seed tubers to prevent introduction of pathogens.
+*   **Resistant Varieties:** Where available and suitable for Haryana's agro-climatic conditions, select potato varieties known for resistance or tolerance to scab.
+*   **Soil pH Management (for Common Scab):** Common Scab is favored by alkaline soils. Maintaining soil pH slightly acidic (5.0-5.5) can help reduce its severity. This can be attempted through application of sulfur or acidifying fertilizers like ammonium sulfate, though significant pH alteration in Haryana's generally alkaline soils can be challenging.
+*   **Irrigation Management (for Common Scab):** Ensure adequate soil moisture during the critical period of tuber initiation and development (first 2-6 weeks after tuber set) to reduce the incidence and severity of Common Scab.
+*   **Crop Rotation:** Practice long crop rotations (at least 3-4 years) with non-host crops (e.g., cereals, maize) to reduce pathogen inoculum in the soil. Avoid planting potatoes in fields with a history of severe scab.
+*   **Drainage (for Powdery Scab):** Powdery Scab thrives in cool, wet conditions. Improve soil drainage to reduce waterlogging.
+
+**Chemical Control Measures (Seed Treatment):**
+For effective control, especially against Powdery Scab and to reduce initial inoculum, seed treatment is recommended.
+*   For Powdery Scab:
+    *   **Fluazinam** 2.5% SC at 100 ml per 100 kg of seed.
+*   For broad-spectrum control including some scab types:
+    *   Combination of **Difenoconazole** 2.5% FS + **Fludioxonil** 2.5% FS at 100 ml per 100 kg of seed.
+
+### Control of Canker in Potato
+
+In potato, the term "Canker" most commonly refers to **Rhizoctonia Stem Canker and Black Scurf** caused by *Rhizoctonia solani*. This disease causes lesions (cankers) on stems, stolons, and roots, and black sclerotia (black scurf) on tubers.
+
+**Cultural Control Measures:**
+*   **Certified Seed:** Use certified, disease-free seed tubers.
+*   **Optimal Planting Conditions:** Plant in well-prepared, warm (soil temperature above 8°C) and well-drained soil to promote rapid emergence of sprouts, which helps them escape infection.
+*   **Planting Depth:** Avoid planting tubers too deep, as this can delay emergence and increase susceptibility.
+*   **Fertilization:** Avoid excessive nitrogen fertilization, especially early in the season, as it can promote lush growth that is more susceptible.
+*   **Crop Rotation:** Practice crop rotation (at least 3 years) with non-host crops to reduce soil-borne inoculum.
+
+**Chemical Control Measures (Seed Treatment):**
+Seed treatment is highly effective in controlling Rhizoctonia Stem Canker.
+*   **Pencycuron** 22.9% SC at 250 ml per 100 kg of seed.
+*   **Azoxystrobin** 23% SC at 200 ml per 100 kg of seed.
+*   Combination of **Difenoconazole** 2.5% FS + **Fludioxonil** 2.5% FS at 100 ml per 100 kg of seed.
+
+### Gummosis in Potato
+
+This is not known to affect Potato. Gummosis is typically a symptom of disease in trees and some fruit crops, characterized by the exudation of gum.
+
+### Lichen in Potato
+
+This is not known to affect Potato. Lichens are symbiotic organisms (fungus and alga) that grow on surfaces like tree bark, rocks, or soil. They are non-parasitic and do not cause disease in plants, especially not in an annual crop like potato.

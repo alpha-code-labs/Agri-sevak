@@ -1,0 +1,79 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Mango, suitable for conditions in Haryana.
+
+---
+
+### Control Measures for Mango Diseases and Conditions
+
+#### 1. Scab (Mango Scab)
+
+Mango scab, caused by the fungus *Elsinoë mangiferae*, affects leaves, twigs, flowers, and fruits, leading to characteristic corky, raised lesions. Severe infections can cause fruit distortion and premature drop.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Prune and destroy infected twigs and leaves to reduce inoculum.
+    *   Ensure good air circulation within the canopy through proper pruning.
+*   **Chemical Control:**
+    *   Apply fungicides preventively, especially during periods of high humidity and rainfall, starting from flowering and continuing through fruit development.
+    *   Recommended CIBRC approved fungicides:
+        *   **Copper oxychloride** 50% WP: 2.5-3 g/L of water.
+        *   **Carbendazim** 50% WP: 1 g/L of water.
+        *   **Mancozeb** 75% WP: 2.5 g/L of water.
+        *   **Azoxystrobin** 11% + **Tebuconazole** 18.3% SC: 1 ml/L of water.
+        *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+        *   **Propiconazole** 25% EC: 0.5 ml/L of water.
+    *   Rotate fungicides with different modes of action to prevent resistance development.
+
+#### 2. Canker (Bacterial Canker)
+
+Bacterial canker, caused by *Xanthomonas campestris pv. mangiferaeindicae*, is a serious bacterial disease affecting leaves, twigs, and fruits. It causes dark, raised, corky lesions and can lead to twig dieback and fruit cracking.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Prune and destroy all infected branches and twigs during dry periods to remove inoculum sources. Disinfect pruning tools with a 10% bleach solution or methylated spirit between cuts.
+    *   Avoid overhead irrigation, which can spread bacteria.
+    *   Plant disease-free nursery stock.
+*   **Chemical Control:**
+    *   Apply bactericides, especially after pruning or during periods conducive to disease spread.
+    *   Recommended CIBRC approved chemicals:
+        *   **Copper oxychloride** 50% WP: 2.5-3 g/L of water.
+        *   **Streptomycin sulfate** 9% + **Tetracycline hydrochloride** 1% SP: 0.5-1 g/L of water. This antibiotic combination can be used in rotation or in conjunction with copper-based sprays for enhanced efficacy.
+
+#### 3. Gummosis
+
+Gummosis is a symptom where the tree exudes gummy sap from its bark, often indicating stress or an underlying infection (fungal like *Phytophthora* or *Botryodiplodia*, or bacterial). It can lead to bark discoloration, cracking, and eventual dieback if the cause is not addressed.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Identify and address the primary cause.
+    *   Ensure proper drainage around the tree base to prevent waterlogging.
+    *   Avoid mechanical injuries to the trunk and roots.
+    *   Maintain tree vigor through balanced nutrition and irrigation.
+    *   Remove affected bark and wood until healthy tissue is exposed. Scrape off the gum and discolored bark.
+*   **Chemical Control (based on suspected fungal causes like *Phytophthora*):**
+    *   Apply fungicidal paste or drench the soil around the tree base.
+    *   Recommended CIBRC approved fungicides:
+        *   **Fosetyl-aluminium** 80% WP: 2.5 g/L of water (foliar spray) or 5 g/L of water (for trunk paint/drench application after scraping).
+        *   **Copper oxychloride** 50% WP: 2.5-3 g/L of water (for trunk paint/spray on affected areas).
+        *   **Metalaxyl** 8% + **Mancozeb** 64% WP: 2.5 g/L of water (as a soil drench around the base of the tree).
+        *   **Propamocarb hydrochloride** 72.2% SL: 2.5 ml/L of water (as a soil drench).
+
+#### 4. Lichen
+
+Lichens are symbiotic organisms (algae and fungi) that grow on the bark of trees. They are epiphytes, meaning they grow on the surface of the tree without being parasitic or drawing nutrients from it. They are generally harmless to the mango tree and are often an indicator of good air quality.
+
+**Control Measures:**
+
+*   **General Information:**
+    *   Control is usually not necessary as lichens do not directly harm the tree.
+    *   Dense growth might slightly reduce photosynthesis on the bark or harbor some minor pests, but this is rare.
+*   **If Removal is Desired (e.g., for aesthetic reasons or extremely dense growth):**
+    *   **Mechanical Removal:** Gently scrub the affected bark with a stiff brush during the dry season.
+    *   **Chemical Control:**
+        *   A spray of **Copper oxychloride** 50% WP at 2.5-3 g/L of water can deter lichen growth. However, this is generally considered an unnecessary application given their harmless nature.
+    *   Improving air circulation and sunlight penetration by judicious pruning can also naturally reduce lichen growth.
+
+---
+*Disclaimer: Always read and follow the instructions on the product label for safe and effective use of any chemical. Consult with local agricultural extension services for specific recommendations tailored to your farm's conditions.*

@@ -1,0 +1,56 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling Wilt (including Parawilt) in Sponge Gourd in Haryana.
+
+Wilt in sponge gourd can be caused by various factors, including fungal pathogens, bacterial pathogens, and physiological stress (Parawilt). Understanding the specific cause is crucial for effective management.
+
+### Wilt (Fungal and Bacterial)
+
+**Causes:** Primarily fungal pathogens such as *Fusarium oxysporum* and *Verticillium dahliae*, or bacterial pathogens like *Ralstonia solanacearum*. Nematodes can also predispose plants to these infections.
+
+**Symptoms:** Yellowing of leaves, drooping, and eventual collapse of the plant, often starting from one side or branch. Vascular discoloration (browning) may be observed in the stem when cut open.
+
+**Control Measures:**
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** Implement a strict crop rotation schedule, avoiding sponge gourd or other cucurbits in the same field for at least 3-4 years. Rotate with non-host crops like cereals.
+    *   **Resistant Varieties:** Where available and suitable for Haryana conditions, select sponge gourd varieties known for their resistance or tolerance to wilt diseases.
+    *   **Soil Solarization:** During the hot summer months (May-June), prepare the field, irrigate it, and then cover it tightly with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature sufficiently to kill many soil-borne pathogens.
+    *   **Field Sanitation:** Promptly remove and destroy all infected plant debris and diseased plants to prevent the spread of pathogens.
+    *   **Balanced Nutrition:** Provide balanced fertilization. Avoid excessive nitrogen, which can make plants more susceptible to diseases.
+    *   **Avoid Root Injury:** Exercise caution during intercultural operations (weeding, hoeing) to prevent damage to plant roots, as these injuries can serve as entry points for pathogens.
+    *   **Deep Ploughing:** Deep ploughing during summer can expose soil-borne pathogens to sunlight, reducing their inoculum.
+    *   **Water Management:** Ensure proper drainage and avoid waterlogging, which can stress roots and create favorable conditions for certain pathogens.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-agents like **Trichoderma viride** or **Trichoderma harzianum** at 4 g/kg seed.
+    *   **Soil Application:** Apply **Trichoderma viride** or **Pseudomonas fluorescens** at 2.5 kg/acre mixed with 50-100 kg of well-decomposed farmyard manure (FYM) or compost. This mixture should be incorporated into the soil before planting or applied as a drench around the root zone of established plants.
+
+3.  **Chemical Control (CIBRC Approved Technical Names):**
+    *   **Seed Treatment:**
+        *   Treat seeds with **Carbendazim** at 2 g/kg seed.
+        *   Alternatively, use **Thiram** at 2-3 g/kg seed.
+    *   **Soil Drenching (for established plants, at early signs of disease):**
+        *   Drench the soil around the base of affected plants with a solution of **Carbendazim** at 1 g/L water.
+        *   Alternatively, use **Propamocarb Hydrochloride** at 2-3 ml/L water.
+        *   For suspected bacterial wilt, **Copper Oxychloride** can be used as a soil drench at 2.5 g/L water, but its efficacy against established bacterial wilt is limited; prevention is key.
+
+### Parawilt
+
+**Causes:** Parawilt is a physiological disorder, not caused by a pathogen. It is often triggered by sudden changes in environmental conditions, particularly high temperatures, intense sunlight, and water stress (either severe deficit or sudden excess leading to root damage), especially after irrigation or rainfall following a dry spell. Root damage from cultural practices can also contribute.
+
+**Symptoms:** Sudden, irreversible wilting of the entire plant, often without prior yellowing or vascular discoloration. Plants may appear healthy one day and completely wilted the next.
+
+**Control Measures:**
+
+Since Parawilt is a physiological disorder, chemical treatments are ineffective. Management focuses on cultural practices to reduce plant stress:
+
+1.  **Proper Irrigation:**
+    *   Maintain consistent soil moisture. Avoid extreme fluctuations between very dry and and very wet conditions.
+    *   Irrigate adequately, especially during hot periods, but avoid over-irrigation leading to waterlogging.
+    *   Consider using drip irrigation to provide uniform and controlled moisture.
+2.  **Mulching:** Apply organic mulch (e.g., straw, dry leaves, paddy husk) around the base of plants. This helps conserve soil moisture, regulate soil temperature, and reduce evaporation, thereby minimizing stress.
+3.  **Shade Nets:** In areas experiencing very high temperatures and intense sunlight, especially during peak summer, consider using shade nets (e.g., 30-50% shade) over the crop to reduce heat stress on plants.
+4.  **Avoid Root Disturbance:** Minimize intercultural operations that might damage roots, particularly during hot and dry periods when plants are already under stress.
+5.  **Balanced Nutrition:** Ensure plants receive balanced nutrients to maintain overall plant vigor and enhance their tolerance to environmental stresses.
+
+**Integrated Approach:**
+An integrated approach combining cultural, biological, and judicious chemical methods is most effective for managing both wilt and parawilt in sponge gourd. Regular field monitoring is crucial for early detection and timely intervention. Always consult your local agricultural extension specialist for specific recommendations tailored to your field conditions.

@@ -1,0 +1,23 @@
+Regarding your query on Rust diseases in Bengal Gram (Chickpea):
+
+The primary rust disease affecting Bengal Gram is Chickpea Rust, caused by *Uromyces ciceris-arietini*.
+
+*   **Black Rust, Brown Rust, Yellow Rust, White Rust, and Red Rust** are generally not known to affect Bengal Gram. These rusts are typically associated with other crops like wheat, barley, or crucifers.
+
+For the control of Chickpea Rust (*Uromyces ciceris-arietini*) in Bengal Gram, consider the following integrated approach:
+
+**I. Cultural Practices:**
+*   **Resistant Varieties:** Where available, cultivate rust-resistant or tolerant Bengal Gram varieties suitable for Haryana conditions.
+*   **Timely Sowing:** Sow crops at the recommended time to help them escape the peak period of disease development, which often occurs in late-sown crops.
+*   **Field Sanitation:** Remove and destroy infected plant debris after harvest to reduce the primary inoculum source for the next season.
+*   **Optimized Plant Spacing:** Maintain adequate plant spacing to ensure good air circulation within the canopy, which helps reduce humidity and disease spread.
+*   **Avoid Excessive Irrigation:** Manage irrigation carefully, especially during flowering and pod development, to avoid prolonged leaf wetness that favors rust development.
+
+**II. Chemical Control (Fungicides):**
+Fungicides should be applied preventively if the disease is anticipated, or at the first appearance of symptoms, especially during the flowering and pod development stages. Repeat application may be necessary based on disease severity and weather conditions.
+
+*   **Propiconazole 25% EC:** Apply at a rate of 1 ml per litre of water (approximately 500 ml per acre).
+*   **Tebuconazole 25.9% EC:** Apply at a rate of 0.75 - 1 ml per litre of water (approximately 250 - 375 ml per acre).
+*   **Mancozeb 75% WP:** Apply at a rate of 2.5 g per litre of water (approximately 1 kg per acre). This can be used as a protective spray or in rotation with systemic fungicides.
+
+Always ensure thorough coverage of the foliage during spraying. Consult the product label for specific instructions and pre-harvest intervals.

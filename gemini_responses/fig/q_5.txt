@@ -1,0 +1,72 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling the mentioned conditions in Fig (Ficus carica) cultivation in Haryana.
+
+It is crucial to correctly identify the specific disease or underlying cause for effective management. Always consult with local agricultural extension services for precise diagnosis and recommendations tailored to your specific farm conditions.
+
+### 1. Scab (Fig Scab)
+
+Fig Scab, caused by the fungus *Sphaceloma fici*, is a known disease of Fig, particularly in humid conditions. It manifests as olive-green to brown, velvety spots on leaves, twigs, and fruits, which can lead to defoliation and fruit drop.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Ensure proper spacing between trees for good air circulation.
+    *   Prune infected twigs and leaves during dry periods and destroy them.
+    *   Avoid overhead irrigation, especially late in the day, to reduce leaf wetness.
+*   **Chemical Control (Preventive/Early Stage):**
+    *   Apply systemic and contact fungicides at the appearance of initial symptoms or as a preventive measure during periods conducive to disease development (e.g., high humidity, monsoon season).
+    *   **Mancozeb** @ 2.0-2.5 g/L of water
+    *   **Copper oxychloride** @ 2.5-3.0 g/L of water
+    *   **Azoxystrobin** @ 0.5-1.0 ml/L of water
+
+### 2. Canker
+
+Canker diseases in Fig can be caused by various fungi (e.g., *Botryosphaeria* spp., *Phomopsis* spp.) and are characterized by sunken, discolored lesions on branches, twigs, or the main trunk, often leading to dieback.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Maintain tree vigor through proper nutrition and irrigation.
+    *   Avoid mechanical injuries to the bark, as wounds serve as entry points for pathogens.
+    *   Prune out all infected branches and twigs well below the cankered area during dry weather. Sterilize pruning tools with a 10% bleach solution between cuts to prevent spreading the disease.
+    *   Destroy pruned material by burning.
+*   **Chemical Control (Post-Pruning/Protective):**
+    *   After pruning, apply a protective fungicide to the cut surfaces and the remaining tree.
+    *   **Copper oxychloride** @ 2.5-3.0 g/L of water (as a spray or a paste for larger wounds).
+    *   For severe cases, a trunk wash or spray with copper-based fungicides can be beneficial.
+
+### 3. Gummosis
+
+Gummosis is the exudation of gum from the bark of the tree. It is a symptom, not a disease itself, indicating an underlying problem such as stress, mechanical injury, insect borers, or fungal/bacterial infections (e.g., *Phytophthora* root rot or cankers).
+
+**Control Measures:**
+
+*   **Identify and Address the Underlying Cause:**
+    *   **Mechanical Injury:** Protect trees from damage. For existing wounds, clean the area and apply a Bordeaux paste or **Copper oxychloride** paste.
+    *   **Insect Borers:** Look for sawdust-like frass near gumming. If borers are present, use appropriate insecticides (e.g., **Chlorpyrifos** 20% EC @ 2.5 ml/L, injected into borer holes and sealed, or as a trunk spray, strictly observing pre-harvest intervals).
+    *   **Fungal Infections (e.g., *Phytophthora*):** If gummosis is associated with root rot or collar rot symptoms (darkening of bark at the base, wilting), specific fungicides are required.
+        *   **Fosetyl-aluminium** @ 2.0-3.0 g/L of water (as a drench around the base of the tree or foliar spray).
+        *   **Propamocarb hydrochloride** @ 2.0-3.0 ml/L of water (as a drench).
+        *   **Metalaxyl** (often in combination with Mancozeb) @ 2.0-2.5 g/L of water (as a drench or spray).
+    *   **Improve Drainage:** Ensure good soil drainage, as waterlogging can stress trees and predispose them to root diseases.
+
+### 4. Lichen
+
+Lichen is a symbiotic organism composed of a fungus and an alga, which grows on the bark of trees.
+
+**This is not known to affect Fig in a detrimental way.** Lichens are epiphytes; they grow *on* the tree but do not parasitize it or draw nutrients from it. They are generally harmless and their presence often indicates good air quality and a healthy, mature tree.
+
+**Control Measures:**
+
+*   **No Control is Generally Needed or Recommended:** Since lichens do not harm the fig tree, chemical control is usually unnecessary and not advised.
+*   **If Removal is Desired (for aesthetic reasons only):**
+    *   A gentle scrubbing with a soft brush and water can remove them.
+    *   A very mild spray of **Copper oxychloride** @ 1.0 g/L of water during the dormant season can help, but this is rarely required.
+
+**General Recommendations for Fig Health:**
+
+*   **Sanitation:** Regularly remove and destroy fallen leaves, fruits, and pruned material to reduce inoculum sources.
+*   **Nutrition:** Provide balanced nutrition to maintain tree vigor and resistance to diseases.
+*   **Water Management:** Ensure adequate but not excessive irrigation. Avoid waterlogging.
+*   **Monitoring:** Regularly inspect your fig trees for any signs of disease or pest infestation to allow for timely intervention.
+
+Always follow the instructions on the chemical labels for dosage, application method, safety precautions, and pre-harvest intervals.

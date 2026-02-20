@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling viral diseases in Maize (Makka) in Haryana.
+
+Firstly, regarding the specific diseases mentioned:
+*   **Tristeza is not known to affect Maize (Makka).** It is primarily a viral disease of citrus.
+
+For other viral diseases like Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus, it is crucial to understand that once a plant is infected with a virus, there is no direct chemical cure. Control strategies primarily focus on preventing infection by managing the vectors (insects that transmit the viruses) and using resistant varieties.
+
+Here are the recommended control measures:
+
+**1. Use of Resistant/Tolerant Varieties:**
+*   This is the most effective and sustainable method. Always choose maize varieties recommended by HAU or other agricultural universities that are known to be resistant or tolerant to common viral diseases prevalent in Haryana.
+
+**2. Cultural Practices:**
+*   **Timely Sowing:** Sow maize at the recommended time to avoid peak vector populations.
+*   **Weed Management:** Keep the field free of weeds, as many weeds can act as alternate hosts for viruses and their insect vectors.
+*   **Roguing:** Regularly inspect the field and promptly remove and destroy (bury or burn) any plants showing symptoms of viral infection to prevent further spread.
+*   **Crop Rotation:** Practice crop rotation to break the disease cycle.
+*   **Proper Spacing:** Maintain optimal plant spacing to reduce plant-to-plant contact and improve air circulation, which can indirectly help manage vector populations.
+
+**3. Vector Management (Insect Control):**
+Since most maize viruses are transmitted by insect vectors (e.g., aphids, leafhoppers, planthoppers), controlling these insects is paramount.
+
+*   **Seed Treatment:**
+    *   Treat seeds with systemic insecticides before sowing to protect young seedlings from early insect infestation.
+        *   **Imidacloprid** 600 FS: 6-7 ml per kg of seed.
+        *   **Thiamethoxam** 30 FS: 10 ml per kg of seed.
+
+*   **Foliar Sprays (if vector population is high):**
+    *   Monitor the crop regularly for the presence of insect vectors. If their population reaches economic threshold levels, apply appropriate insecticides.
+    *   **Imidacloprid** 17.8 SL: 125 ml per acre (diluted in 200-250 litres of water).
+    *   **Thiamethoxam** 25 WG: 50 g per acre (diluted in 200-250 litres of water).
+    *   **Acetamiprid** 20 SP: 80-100 g per acre (diluted in 200-250 litres of water).
+    *   **Fipronil** 5% SC: 400-600 ml per acre (diluted in 200-250 litres of water).
+    *   **Lambda-cyhalothrin** 5 EC: 100-120 ml per acre (diluted in 200-250 litres of water).
+
+**Important Considerations:**
+*   Always follow the manufacturer's instructions and safety precautions when using any chemical.
+*   Rotate insecticides with different modes of action to prevent the development of resistance in insect populations.
+*   Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods, is recommended for sustainable disease and pest control.

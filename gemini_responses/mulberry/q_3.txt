@@ -1,0 +1,79 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Mulberry in Haryana. Effective management relies on an integrated approach combining cultural practices, biological control, and judicious use of CIBRC-approved chemical fungicides.
+
+---
+
+### General Principles for Rot Management in Mulberry:
+
+1.  **Sanitation:** Remove and destroy infected plant parts, fallen leaves, and debris.
+2.  **Drainage:** Ensure excellent soil drainage to prevent waterlogging, which is a primary predisposing factor for most rots.
+3.  **Air Circulation:** Maintain proper plant spacing and prune judiciously to improve air circulation within the canopy.
+4.  **Avoid Injury:** Minimize mechanical injuries to roots, stems, and fruits during cultivation.
+5.  **Balanced Nutrition:** Provide balanced nutrients to enhance plant vigor and resistance. Avoid excessive nitrogen.
+
+---
+
+### Specific Control Measures for Rot Types:
+
+#### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, and Neck Rot
+
+These rot types often share common soil-borne fungal pathogens (e.g., *Fusarium* spp., *Rhizoctonia solani*, *Phytophthora* spp., *Sclerotium rolfsii*) and manifest at or below the soil line, causing wilting, yellowing, and eventual plant death.
+
+*   **Cultural Practices:**
+    *   Ensure well-drained soil and avoid planting in low-lying areas prone to water accumulation.
+    *   Avoid deep planting of saplings.
+    *   Practice proper irrigation, avoiding overwatering, especially around the plant base.
+    *   Remove and destroy severely infected plants to prevent pathogen spread.
+    *   Improve soil health by incorporating well-decomposed farmyard manure (FYM).
+
+*   **Biological Control:**
+    *   **Soil Application:** Apply *Trichoderma viride* (1% WP) at 2.5 kg/acre mixed with 50-100 kg of FYM or compost, 15-20 days before planting or as a prophylactic measure in existing plantations.
+    *   **Soil Drench:** Drench the soil around the base of susceptible plants with a suspension of *Trichoderma viride* (1% WP) at 5-10 g/L of water.
+
+*   **Chemical Control (Soil Drench):**
+    *   For general rot control: Drench the soil around the base of affected plants with **Carbendazim 50% WP** at 1-2 g/L of water.
+    *   For *Phytophthora* and *Pythium* related rots: Drench with **Metalaxyl 8% + Mancozeb 64% WP** at 2-2.5 g/L of water.
+    *   Alternatively, drench with **Propiconazole 25% EC** at 1 ml/L of water.
+    *   For severe cases, especially where *Sclerotium* or *Phytophthora* are suspected, **Copper Oxychloride 50% WP** can be used as a drench at 2.5-3 g/L of water.
+
+#### 2. Black Rot
+
+This is not known to affect Mulberry as a distinct disease entity. Blackening can be a symptom of severe decay caused by other rot types or secondary infections following mechanical injury or pest damage. Therefore, the control measures for Root, Stem, Foot, Collar, Crown, and Neck rots would generally apply if blackening is observed at the plant base.
+
+#### 3. Fruit Rot
+
+Mulberry fruits can be susceptible to rot, especially under high humidity and rainfall, caused by fungi like *Alternaria*, *Colletotrichum*, or *Botrytis*.
+
+*   **Cultural Practices:**
+    *   Ensure good air circulation within the canopy through proper pruning.
+    *   Harvest fruits promptly when mature.
+    *   Remove and destroy any infected or fallen fruits to reduce inoculum.
+
+*   **Chemical Control (Foliar Spray):**
+    *   Apply a protective spray of **Mancozeb 75% WP** at 2-2.5 g/L of water before fruit ripening, especially if humid conditions are expected.
+    *   Alternatively, **Carbendazim 50% WP** at 1 g/L of water can be used.
+    *   Consider **Azoxystrobin 23% SC** at 0.5-1 ml/L of water for broad-spectrum control, adhering strictly to pre-harvest intervals.
+
+#### 4. Seed Rot and Seedling Rot (Damping-off)
+
+These are critical issues in mulberry nurseries, affecting seed germination and the survival of young seedlings. Pathogens include *Pythium*, *Phytophthora*, *Rhizoctonia*, and *Fusarium*.
+
+*   **Cultural Practices:**
+    *   Use sterilized or solarized potting mix/soil for seedbeds.
+    *   Ensure excellent drainage in seed trays or beds.
+    *   Avoid overwatering; maintain optimal moisture levels.
+    *   Sow seeds at the recommended depth and spacing.
+    *   Provide adequate ventilation in nursery structures.
+
+*   **Biological Control (Seed Treatment/Soil Drench):**
+    *   **Seed Treatment:** Treat mulberry seeds with *Trichoderma viride* (1% WP) at 5-10 g/kg of seed before sowing.
+    *   **Soil Drench:** Drench seedbeds or seedling trays with a suspension of *Trichoderma viride* (1% WP) at 5-10 g/L of water immediately after sowing or at the first sign of damping-off.
+
+*   **Chemical Control (Seed Treatment/Soil Drench):**
+    *   **Seed Treatment:** Treat seeds with **Captan 50% WP** at 2-3 g/kg of seed or **Thiram 75% WS** at 2-3 g/kg of seed.
+    *   For broad-spectrum protection, **Carbendazim 50% WP** at 2-3 g/kg of seed can be used.
+    *   For specific control of *Pythium* and *Phytophthora*, treat seeds with **Metalaxyl 35% WS** at 2-3 g/kg of seed.
+    *   **Soil Drench:** If damping-off symptoms appear, drench the seedbeds with **Captan 50% WP** at 2-2.5 g/L of water or **Metalaxyl 8% + Mancozeb 64% WP** at 2-2.5 g/L of water.
+
+---
+
+Always read and follow the instructions on the product label for specific dosage, application methods, and safety precautions. Consult with local agricultural extension specialists for tailored advice based on specific field conditions and disease pressure.

@@ -1,0 +1,36 @@
+Dear Farmer,
+
+Viral diseases in pear, like in most fruit crops, are challenging to control directly as there are no chemical viricides available to cure an infected plant. Management primarily focuses on prevention and controlling the vectors that spread these viruses.
+
+Let's address the specific conditions you mentioned:
+
+*   **Tristeza:** This is not known to affect Pear. Citrus Tristeza Virus (CTV) is specific to citrus species.
+
+For **Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus**, these are general symptoms that can be caused by various viral infections in pear, such as Pear Vein Yellows Virus (PVYV), Apple Mosaic Virus (ApMV), Apple Stem Grooving Virus (ASGV), and Apple Stem Pitting Virus (ASPV). The control measures for these are largely preventive and focus on managing the spread:
+
+**1. Preventive and Cultural Control Measures:**
+
+*   **Use Virus-Free Planting Material:** Always procure certified virus-free rootstock and scion wood from reputable nurseries. This is the most critical step in preventing viral diseases.
+*   **Vector Control:** Many viruses are transmitted by insect vectors like aphids, leafhoppers, and mites. Controlling these pests is crucial to prevent the spread of viruses within the orchard.
+*   **Sanitation:**
+    *   Remove and destroy any symptomatic or suspected virus-infected plants or plant parts immediately to prevent further spread.
+    *   Sterilize pruning tools with a 10% bleach solution or 70% alcohol between trees, especially when working with suspected infected plants.
+*   **Weed Management:** Control weeds in and around the orchard, as they can harbor both viruses and their insect vectors.
+*   **Avoid Grafting from Infected Trees:** Never use scion wood or budwood from trees showing any symptoms of viral diseases.
+*   **Nutrient and Water Management:** Maintain optimal tree health through balanced nutrition and proper irrigation to help trees tolerate potential infections better, though it won't prevent or cure the virus.
+
+**2. Chemical Control for Insect Vectors (CIBRC Approved for Haryana):**
+
+Since there are no direct viricides, chemical control focuses on managing the insect vectors that transmit these viruses. For common vectors like aphids and leafhoppers, which can spread viruses, the following CIBRC approved insecticides can be used:
+
+*   **For Aphids and Leafhoppers:**
+    *   **Imidacloprid** 17.8% SL: Apply at 0.5 ml/L of water.
+    *   **Thiamethoxam** 25% WG: Apply at 0.2 g/L of water.
+    *   **Acetamiprid** 20% SP: Apply at 0.2 g/L of water.
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for any pesticide regarding dosage, application method, and safety precautions.
+*   Rotate insecticides with different modes of action to prevent the development of resistance in pest populations.
+*   Apply insecticides during periods of active vector infestation, typically when new flushes of growth are present.
+*   Consult with your local HAU extension specialist for specific recommendations tailored to your farm's conditions and current pest pressure.

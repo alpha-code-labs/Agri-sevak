@@ -1,0 +1,72 @@
+The "drying up" of branches, leaves, fruits, and flowers in Guava is a serious concern for growers in Haryana and is primarily a symptom of underlying diseases, most commonly Guava Wilt and Dieback. It can also be exacerbated by root rot, nematode infestations, nutrient deficiencies, and severe water stress.
+
+As a Senior Agronomist, I recommend a multi-faceted approach focusing on diagnosis, cultural practices, and targeted chemical interventions.
+
+### 1. Diagnosis
+
+Accurate diagnosis is crucial for effective management. Observe the symptoms carefully:
+*   **Guava Wilt (*Fusarium oxysporum* f. sp. *psidii*):** Often starts with yellowing and drooping of leaves on one branch, progressing to defoliation, drying of branches, and eventually the entire tree. Internally, the wood of affected branches or roots may show dark brown discoloration.
+*   **Guava Dieback (*Colletotrichum gloeosporioides*, *Phytophthora* spp.):** Characterized by drying back of young shoots from the tip, often associated with blackening of twigs, leaf spots, and cankers. Flowers and young fruits may also shrivel and drop. *Phytophthora* species can cause root rot leading to similar above-ground drying symptoms, especially in waterlogged conditions.
+*   **Root Rot (various fungi):** General decline, yellowing, and wilting, often accompanied by rotting of feeder roots.
+*   **Nematodes:** Stunted growth, yellowing, and reduced vigor, making plants more susceptible to other diseases like wilt.
+*   **Nutrient Deficiencies/Water Stress:** General poor health, yellowing, and premature drying, but usually without the specific internal wood discoloration or cankers seen in diseases.
+
+If unsure, it is advisable to consult with HAU extension specialists for laboratory diagnosis.
+
+### 2. Cultural and Preventive Measures
+
+These practices are fundamental for long-term tree health and disease prevention:
+
+*   **Resistant Varieties:** Plant tolerant varieties suitable for Haryana conditions. While truly resistant varieties to wilt are scarce, some varieties show better tolerance. Consult HAU for the latest recommendations.
+*   **Soil Health Management:**
+    *   Improve soil drainage to prevent waterlogging, which favors root rot and *Phytophthora* infections.
+    *   Incorporate well-decomposed Farm Yard Manure (FYM) or compost (10-15 kg/tree annually) to improve soil structure and microbial activity.
+    *   **Soil Solarization:** For new plantings or severely affected areas, solarize the soil during hot summer months to reduce pathogen load.
+*   **Sanitation:**
+    *   Regularly inspect trees and immediately remove and destroy all dried, diseased, or dead branches, leaves, and fruits.
+    *   Prune back to healthy wood, ensuring clean cuts.
+    *   Sterilize pruning tools with a 10% bleach solution or methylated spirit after each tree to prevent disease spread.
+*   **Avoid Root Injury:** Be careful during intercultural operations to avoid damaging roots, as wounds can serve as entry points for pathogens.
+*   **Proper Spacing:** Maintain adequate spacing between trees to ensure good air circulation, which helps reduce humidity and fungal disease incidence.
+*   **Intercropping:** Avoid intercropping with solanaceous crops (e.g., tomato, potato, brinjal) as they can host *Fusarium* wilt pathogens.
+*   **Bio-control Agents:**
+    *   Apply beneficial fungi like **_Trichoderma viride_** (2.5 kg/acre) or bacteria like **_Pseudomonas fluorescens_** (2.5 kg/acre) mixed with 50 kg of well-decomposed FYM or compost. Apply this mixture around the root zone of trees, especially during planting or as a preventive measure. Repeat every 6-12 months.
+
+### 3. Chemical Management
+
+Chemical interventions should be targeted based on the identified cause. Always use CIBRC approved technical chemicals and follow label instructions carefully.
+
+#### A. For Guava Wilt (primarily soil-borne *Fusarium*):
+
+*   **Soil Drenching:**
+    *   Drench the soil around the root zone of affected and surrounding healthy trees with **Carbendazim** at 1-2 g/L of water. For mature trees, apply 5-10 L of solution per tree depending on canopy size.
+    *   Alternatively, use **Thiophanate Methyl** at 1-1.5 g/L of water as a soil drench.
+    *   Repeat the drenching after 15-20 days if symptoms persist or as a preventive measure in high-risk areas.
+
+#### B. For Guava Dieback (primarily *Colletotrichum*, sometimes *Phytophthora*):
+
+*   **Pruning and Wound Protection:**
+    *   After pruning diseased branches, immediately apply a protective paste to the cut ends. A paste can be made by mixing **Copper Oxychloride** (50 g/L water) or **Carbendazim** (20 g/L water) with a small amount of water to form a thick paste.
+*   **Foliar Spray:**
+    *   Spray the entire tree with a systemic fungicide like **Carbendazim** at 1 g/L of water.
+    *   Alternatively, use a contact fungicide like **Mancozeb** at 2.5 g/L of water.
+    *   A combination product containing **Carbendazim + Mancozeb** at 2 g/L of water can also be highly effective.
+    *   For severe cases or if *Phytophthora* is suspected (especially with root rot symptoms and waterlogging), spray or drench with **Propamocarb Hydrochloride** at 2.5 ml/L of water or **Fosetyl-Al** at 2.5 g/L of water.
+    *   Repeat sprays at 10-15 day intervals, especially during humid conditions or disease outbreaks.
+
+#### C. For Nematode Management (if identified as a contributing factor):
+
+*   **Bio-nematicides:** Apply **_Paecilomyces lilacinus_** or **_Purpureocillium lilacinum_** (2.5 kg/acre) mixed with FYM around the root zone.
+*   **Chemical Nematicides:** Chemical nematicides should be used judiciously and only after confirmed diagnosis and consultation with experts, as their use is often restricted.
+
+### 4. Nutritional Management
+
+*   **Balanced Fertilization:** Ensure the trees receive balanced nutrition with appropriate doses of Nitrogen (N), Phosphorus (P), and Potassium (K) as per HAU recommendations for Guava.
+*   **Micronutrients:** Address any micronutrient deficiencies (e.g., Zinc, Boron, Iron) through foliar sprays or soil application, as deficient plants are more susceptible to diseases.
+
+### 5. Water Management
+
+*   **Optimal Irrigation:** Provide adequate but not excessive irrigation. Drip irrigation is highly recommended for efficient water use and to avoid waterlogging.
+*   **Avoid Waterlogging:** Ensure proper drainage in the orchard, especially during monsoon, as waterlogged conditions stress roots and favor root rot pathogens.
+
+By implementing these integrated management strategies, you can effectively address the "drying up" problem in your Guava orchard and promote healthier, more productive trees.

@@ -1,0 +1,46 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Lentil (Masur) in Haryana.
+
+First, let's address the specific rot types you mentioned:
+
+*   **Black Rot:** This is not known to affect Lentil (Masur) as a distinct disease.
+*   **Fruit Rot:** This is not known to affect Lentil (Masur). Lentil produces pods, and while pod diseases exist, "fruit rot" is not a common or distinct term for lentil pathology.
+
+For the other rot types – **Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, Seed Rot, and Seedling Rot (Damping-off)** – these are often caused by a complex of soil-borne fungal pathogens such as *Rhizoctonia solani*, *Fusarium oxysporum f. sp. lentis*, *Sclerotinia sclerotiorum*, *Pythium* spp., and *Macrophomina phaseolina*. These diseases can lead to significant yield losses. An integrated approach combining cultural, biological, and chemical methods is most effective.
+
+Here's how to control them:
+
+**I. Cultural and Agronomic Practices (Prevention is Key):**
+
+1.  **Crop Rotation:** Practice a long crop rotation (at least 2-3 years) with non-host crops like cereals (wheat, barley) to reduce the build-up of soil-borne pathogens.
+2.  **Field Sanitation:** Remove and destroy infected plant debris from the previous season to reduce inoculum sources.
+3.  **Deep Summer Ploughing:** Plough fields deeply during summer to expose fungal sclerotia and spores to solar radiation, which helps in their destruction.
+4.  **Use Healthy, Certified Seeds:** Always use disease-free, certified seeds from reputable sources.
+5.  **Timely Sowing:** Sow seeds at the optimal time for your region in Haryana. Avoid very early or late sowing, which can expose seedlings to unfavorable conditions that predispose them to rot.
+6.  **Proper Drainage:** Ensure good field drainage to prevent waterlogging, as excessive moisture favors the development of many rot-causing fungi.
+7.  **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can lead to lush, tender growth more susceptible to disease.
+8.  **Resistant Varieties:** Where available, choose lentil varieties known to have resistance or tolerance to common root and stem rot pathogens. Consult HAU recommendations for suitable varieties for Haryana.
+
+**II. Biological Control:**
+
+1.  **Seed Treatment with Bio-agents:**
+    *   Treat seeds with **Trichoderma viride** or **Pseudomonas fluorescens** formulations at 5-10 g/kg seed. These bio-agents colonize the root zone and suppress pathogenic fungi.
+
+**III. Chemical Control:**
+
+**A. Seed Treatment (Most Critical for Seed Rot, Seedling Rot, and Early Protection against Root/Collar/Stem Rots):**
+
+Seed treatment is the most effective and economical method for managing these soil-borne diseases.
+
+*   **Carbendazim** 12% + **Mancozeb** 63% WP (combination fungicide) at 2.5-3 g/kg seed.
+*   **Thiram** 75% WS at 2.5-3 g/kg seed.
+*   **Metalaxyl-M** 31.8% ES at 3 ml/kg seed (particularly effective against *Pythium* spp. causing damping-off).
+*   **Carbendazim** 50% WP at 2 g/kg seed.
+
+**B. Soil Drenching (For localized outbreaks or severe cases, less common for large areas):**
+
+If severe outbreaks of root/collar/stem rot occur in specific patches after emergence, soil drenching can be considered.
+
+*   **Carbendazim** 50% WP at 1-2 g/L water, applied around the base of affected plants.
+*   **Propiconazole** 25% EC at 1 ml/L water, applied as a drench around the plant base.
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying chemical pesticides. For specific recommendations tailored to your exact field conditions, it is advisable to consult with local agricultural extension officers or HAU experts.

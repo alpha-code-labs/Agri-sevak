@@ -1,0 +1,83 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for managing Scab, Canker, Gummosis, and Lichen in peach orchards in Haryana.
+
+It is crucial to remember that integrated pest and disease management (IPDM) approaches, combining cultural practices with judicious chemical applications, yield the best results. Always consult the specific product label for precise dosage and application instructions, and adhere to pre-harvest intervals (PHI).
+
+---
+
+### 1. Peach Scab (*Cladosporium carpophilum*)
+
+Peach Scab is a common fungal disease affecting peach fruit, twigs, and leaves.
+
+**Cultural Practices:**
+*   Prune trees to improve air circulation within the canopy, which helps reduce humidity and fungal growth.
+*   Remove and destroy infected twigs and fallen fruit during dormancy to reduce inoculum.
+
+**Chemical Control (Apply protectant fungicides starting from shuck split and continue at 7-14 day intervals, especially during wet periods):**
+*   **Captan** (50% WP) at 2 kg/acre or 2 g/L of water.
+*   **Myclobutanil** (10% WP) at 500 g/acre or 0.5 g/L of water.
+*   **Difenoconazole** (25% EC) at 200 ml/acre or 0.4 ml/L of water.
+*   **Ziram** (80% WP) at 2 kg/acre or 2 g/L of water.
+
+---
+
+### 2. Canker (Bacterial Canker: *Pseudomonas syringae pv. syringae*; Fungal Canker: *Leucostoma cincta*, *Botryosphaeria dothidea*)
+
+Canker diseases are significant problems for peach, causing sunken lesions on branches and trunks, often accompanied by gummosis.
+
+**Cultural Practices:**
+*   Plant resistant varieties if available.
+*   Avoid planting in poorly drained or nematode-infested soils.
+*   Prune during dry weather, preferably in late summer or early autumn, to allow wounds to heal before winter rains.
+*   Remove and destroy cankered branches by cutting well below the visible canker. Disinfect pruning tools between cuts with a 10% bleach solution or alcohol.
+*   Protect trees from mechanical injuries and sunscald.
+
+**Chemical Control:**
+
+**For Bacterial Canker (Preventative/Dormant):**
+*   Apply copper-based bactericides during leaf fall and again in early spring before bud break.
+    *   **Copper Oxychloride** (50% WP) at 2-3 kg/acre or 2-3 g/L of water.
+*   In severe cases, a combination of antibiotics may be considered, but use with caution and only if specifically recommended for your region due to resistance concerns.
+    *   **Streptomycin Sulphate + Tetracycline Hydrochloride** (90% + 10% SP) at 100-200 g/acre or 0.1-0.2 g/L of water.
+
+**For Fungal Canker (Post-pruning/Wound Protection):**
+*   Apply fungicides as a protectant after pruning or injury.
+    *   **Thiophanate Methyl** (70% WP) at 1 kg/acre or 1 g/L of water.
+    *   **Carbendazim** (50% WP) at 500 g/acre or 1 g/L of water.
+    *   **Propiconazole** (25% EC) at 500 ml/acre or 1 ml/L of water.
+
+---
+
+### 3. Gummosis
+
+Gummosis is the oozing of gum from the bark of peach trees. It is a symptom, not a disease itself, indicating stress, injury, or the presence of an underlying problem such as canker diseases, insect borers, root damage, or environmental stress (e.g., waterlogging, drought, nutrient deficiency).
+
+**Cultural Practices (Addressing the underlying cause is key):**
+*   **Identify and address the primary cause:**
+    *   If due to **Canker**: Follow the control measures for Canker as described above.
+    *   If due to **Insect Borers**: Inspect the trunk and branches for entry/exit holes and frass. Consult with HAU for specific insecticide recommendations for borers in peach, as application methods (e.g., trunk spray, drench) vary.
+    *   If due to **Environmental Stress**: Ensure proper drainage, adequate irrigation, balanced nutrition, and protect trees from mechanical injury.
+*   **Wound Management:** Gently scrape away the gum and any discolored bark to expose healthy tissue. Allow the wound to dry.
+
+**Chemical Control (As a wound protectant after cleaning):**
+*   Apply a fungicidal paste to the cleaned wound.
+    *   Prepare a paste using **Copper Oxychloride** (50% WP) or **Carbendazim** (50% WP) mixed with a small amount of water to a thick consistency. Apply directly to the wound.
+
+---
+
+### 4. Lichen
+
+Lichens are symbiotic organisms (a fungus and an alga) that grow on the bark of trees. They are **not parasitic** and do not directly harm the peach tree by drawing nutrients from it. They are epiphytes, meaning they grow on the surface of other plants without being parasitic. Their presence often indicates good air quality and can sometimes be more prevalent on older, less vigorous trees or in humid conditions where bark remains undisturbed.
+
+**This is not known to negatively affect Peach health.**
+
+**Cultural Practices (If removal is desired for aesthetic reasons or to improve bark inspection):**
+*   Improve tree vigor through proper fertilization, irrigation, and pruning. A healthy, vigorously growing tree with exfoliating bark is less likely to have extensive lichen growth.
+*   Pruning to open the canopy can increase light penetration and air circulation, making conditions less favorable for lichen growth.
+
+**Chemical Control (Generally not necessary, but dormant sprays can dislodge them):**
+*   A dormant season spray (when trees are leafless) can help dislodge lichens.
+    *   **Copper Oxychloride** (50% WP) at 2-3 kg/acre or 2-3 g/L of water. Apply thoroughly to the bark.
+
+---
+
+For any specific concerns or further clarification, please feel free to contact the Department of Horticulture or Plant Pathology at HAU, Hisar.

@@ -1,0 +1,57 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding soil pests in Neem trees. Both termites and root-knot nematodes can significantly impact the health and productivity of Neem, especially young trees. Here's a scientifically verified approach to control them:
+
+It is important to adopt an Integrated Pest Management (IPM) approach, prioritizing cultural and biological methods, and using chemical controls judiciously when necessary.
+
+### Control of Termites in Neem
+
+Termites (Odontotermes obesus, Microtermes obesi, etc.) can cause significant damage by feeding on the roots and bark of Neem trees, leading to wilting, stunted growth, and even tree death, especially in young plantations.
+
+**1. Integrated Management:**
+*   **Cultural Practices:**
+    *   **Site Preparation:** Before planting, remove all dead wood, stumps, and debris from the field, as these attract termites.
+    *   **Healthy Saplings:** Plant healthy, vigorous Neem saplings that are less susceptible to termite attack.
+    *   **Proper Irrigation:** Ensure adequate and timely irrigation, as water-stressed trees are more vulnerable.
+    *   **Organic Matter:** Incorporate well-decomposed farmyard manure (FYM) or compost into the soil, which improves soil health and promotes beneficial microbial activity.
+    *   **Physical Barriers:** For young trees, consider using physical barriers like plastic collars around the base.
+*   **Biological Control:**
+    *   **Entomopathogenic Fungi:** Apply formulations of entomopathogenic fungi like *Metarhizium anisopliae* to the soil around the base of the trees.
+        *   **Metarhizium anisopliae:** Apply 1-2 kg of formulation (containing 1x10^8 CFU/g) per acre, mixed with 50-100 kg of FYM or compost, and apply around the root zone. For individual trees, use 20-50 g per tree.
+
+**2. Chemical Control (Use only when infestation is severe):**
+*   **Soil Drench/Barrier Treatment:**
+    *   **Chlorpyrifos 20% EC:** Mix 2.5-5 ml per litre of water and drench the soil around the base of the tree, ensuring the solution penetrates the root zone. For young trees, use 50-100 ml of the product diluted in 10-20 litres of water per tree.
+    *   **Imidacloprid 17.8% SL:** Mix 0.5-1 ml per litre of water and drench the soil around the base of the tree. For young trees, use 10-20 ml of the product diluted in 10-20 litres of water per tree.
+*   **Granular Application:**
+    *   **Fipronil 0.3% GR:** Apply 10-15 kg per acre or 20-30 g per tree by broadcasting around the base and lightly incorporating into the soil, followed by light irrigation.
+
+### Control of Nematodes (Root-knot) in Neem
+
+Root-knot nematodes (*Meloidogyne* spp.) can cause galls or knots on the roots, impairing nutrient and water uptake, leading to stunted growth, yellowing of leaves, reduced vigor, and increased susceptibility to other diseases.
+
+**1. Integrated Management:**
+*   **Cultural Practices:**
+    *   **Soil Solarization:** For nursery beds or before planting new saplings, cover moist soil with transparent polyethylene sheets for 4-6 weeks during hot summer months to reduce nematode populations.
+    *   **Organic Amendments:** Incorporate large quantities of well-decomposed FYM, compost, or neem cake (Azadirachta indica cake) into the soil. Neem cake has nematicidal properties and enhances beneficial microbial activity.
+        *   **Neem Cake:** Apply 200-400 kg per acre or 1-2 kg per tree, mixed into the soil around the root zone.
+    *   **Crop Rotation:** In areas where Neem is planted after other crops, rotate with non-host crops (e.g., marigold, mustard) if feasible, especially in nursery areas.
+*   **Biological Control:**
+    *   **Nematode-Antagonistic Fungi:** Apply formulations of fungi that parasitize nematodes.
+        *   **Purpureocillium lilacinum (formerly Paecilomyces lilacinus):** Apply 1-2 kg of formulation (containing 1x10^8 CFU/g) per acre, mixed with 50-100 kg of FYM or compost, and apply around the root zone. For individual trees, use 20-50 g per tree.
+        *   **Trichoderma viride/harzianum:** Apply 1-2 kg of formulation (containing 1x10^8 CFU/g) per acre, mixed with 50-100 kg of FYM or compost, and apply around the root zone. For individual trees, use 20-50 g per tree.
+    *   **Nematode-Antagonistic Bacteria:**
+        *   **Pseudomonas fluorescens:** Apply 1-2 kg of formulation (containing 1x10^8 CFU/g) per acre, mixed with 50-100 kg of FYM or compost, and apply around the root zone. For individual trees, use 20-50 g per tree.
+
+**2. Chemical Control (Use only as a last resort and with extreme caution):**
+*   **Granular Application:**
+    *   **Fluensulfone 2% GR:** Apply 10-20 kg per acre or 20-40 g per tree by broadcasting around the base and lightly incorporating into the soil, followed by light irrigation.
+    *   **Cadusafos 10% GR:** Apply 10-15 kg per acre or 20-30 g per tree by broadcasting around the base and lightly incorporating into the soil, followed by light irrigation.
+*   **Soil Drench:**
+    *   **Oxamyl 24% SL:** Mix 1-2 ml per litre of water and drench the soil around the base of the tree, ensuring the solution penetrates the root zone. For young trees, use 20-40 ml of the product diluted in 10-20 litres of water per tree.
+
+**Important Considerations:**
+*   Always read and strictly follow the instructions on the product label for dosage, application method, and safety precautions.
+*   Wear appropriate personal protective equipment (PPE) when handling any chemical pesticides.
+*   Apply chemicals during cooler parts of the day to minimize evaporation and maximize efficacy.
+*   Regular monitoring of your Neem trees for early signs of pest infestation is crucial for timely intervention.
+
+For further specific advice tailored to your farm conditions, please consult with the local agricultural extension officer or contact HAU, Hisar.

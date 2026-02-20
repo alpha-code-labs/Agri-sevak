@@ -1,0 +1,71 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Sugarcane in Haryana. It is crucial to emphasize that **soil testing is the most accurate method** to determine precise nutrient requirements for your specific field. The recommendations below are general guidelines for a planting crop under typical Haryana soil conditions.
+
+---
+
+### General Fertilizer Recommendations for Sugarcane (Planting Crop) in Haryana:
+
+Based on HAU recommendations, a typical Sugarcane crop requires approximately 150-200 kg Nitrogen (N), 60-80 kg Phosphorus (P2O5), and 60-80 kg Potassium (K2O) per acre. Sulphur (S) at 20-30 kg per acre is also highly beneficial.
+
+Here's how to achieve these nutrient levels using the specified fertilizers:
+
+#### 1. Nitrogen (N) Fertilizers:
+
+*   **Urea** (46% N):
+    *   **Total Dose:** 325-435 kg per acre.
+    *   **Application:** Apply in 3 split doses:
+        *   **First Dose (Basal):** 1/3rd of the total Urea (approx. 110-145 kg/acre) at the time of planting.
+        *   **Second Dose:** 1/3rd of the total Urea (approx. 110-145 kg/acre) at 60-90 Days After Planting (DAP) or at the first earthing up.
+        *   **Third Dose:** 1/3rd of the total Urea (approx. 110-145 kg/acre) at 90-120 DAP or at the second earthing up/final earthing up.
+*   **Nano-Urea** (Liquid):
+    *   **Application:** Foliar spray, supplementary to basal Urea application.
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Timing:** 2-4 sprays, starting from 60-75 DAP, with subsequent sprays at 15-20 day intervals. Each spray typically uses 250-500 ml of Nano-Urea per acre (mixed in 100-200 litres of water).
+
+#### 2. Phosphorus (P) Fertilizers:
+
+*   **Di-ammonium Phosphate (DAP)** (18% N, 46% P2O5):
+    *   **Total Dose:** 130-175 kg per acre.
+    *   **Application:** Apply the entire dose as basal at the time of planting.
+    *   *Note:* If using DAP, adjust the **Urea** dose downwards as DAP also provides Nitrogen (e.g., 150 kg DAP provides approximately 27 kg N).
+*   **Single Super Phosphate (SSP)** (16% P2O5, 11% S):
+    *   **Total Dose:** 375-500 kg per acre.
+    *   **Application:** Apply the entire dose as basal at the time of planting.
+    *   *Note:* SSP is a good choice if your soil also requires Sulphur, as it provides a significant amount of S. If using SSP, you might not need additional Sulphur fertilizer.
+*   **Nano-DAP** (Liquid):
+    *   **Application:** Foliar spray, supplementary to basal P application.
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Timing:** 2-4 sprays, starting from 60-75 DAP, with subsequent sprays at 15-20 day intervals. Each spray typically uses 250-500 ml of Nano-DAP per acre (mixed in 100-200 litres of water).
+
+#### 3. Potassium (K) Fertilizer:
+
+*   **Muriate of Potash (MOP) / Potash** (60% K2O):
+    *   **Total Dose:** 100-135 kg per acre.
+    *   **Application:** Apply the entire dose as basal at planting, or split into two doses (50% basal, 50% at earthing up).
+    *   *Note:* For ratoon crops or soils known to be deficient in Potassium, the dose may be increased to 150-200 kg per acre.
+
+#### 4. Sulphur (S) Fertilizer:
+
+*   **Bentonite Sulphur** (90% S):
+    *   **Total Dose:** 20-35 kg per acre.
+    *   **Application:** Apply the entire dose as basal at the time of planting.
+    *   *Note:* If **Single Super Phosphate (SSP)** is used as the Phosphorus source, it will largely fulfill the Sulphur requirement (375-500 kg SSP provides 41-55 kg S). In such cases, additional Bentonite Sulphur may not be needed.
+
+#### 5. NPK Complex Fertilizers:
+
+*   **NPK (e.g., 12:32:16, 10:26:26, 19:19:19):**
+    *   **Application:** These can be used as a basal application at planting.
+    *   **Dose:** Typically 150-250 kg per acre, depending on the specific NPK ratio and soil test results.
+    *   *Note:* If using NPK complex fertilizers, calculate the amount of N, P2O5, and K2O supplied by them and adjust the doses of straight fertilizers (Urea, DAP/SSP, MOP) accordingly to meet the total recommended nutrient requirements. For example, 200 kg of NPK (12:32:16) provides 24 kg N, 64 kg P2O5, and 32 kg K2O.
+
+---
+
+### Important Considerations:
+
+*   **Soil Testing:** Always conduct a soil test to get precise recommendations for your field, including micronutrients.
+*   **Ratoon Crop:** For ratoon crops, generally increase the Nitrogen and Potassium doses by 25% compared to the plant crop, applied immediately after harvesting the plant crop.
+*   **Micronutrients:** Haryana soils are often deficient in Zinc and Iron. Consider applying:
+    *   **Zinc Sulphate** (21% Zn): 10-15 kg per acre as basal, or 0.5% foliar spray (500 g in 100 litres of water).
+    *   **Ferrous Sulphate** (19% Fe): 20-25 kg per acre as basal, or 0.5% foliar spray (500 g in 100 litres of water).
+*   **Irrigation:** Ensure adequate moisture in the soil at the time of fertilizer application and follow up with irrigation if needed, especially for basal applications, to ensure nutrient availability.
+
+This comprehensive approach will help ensure optimal nutrient supply for healthy Sugarcane growth and yield in Haryana.

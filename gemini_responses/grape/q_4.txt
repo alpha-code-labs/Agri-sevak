@@ -1,0 +1,29 @@
+Wilt, including symptoms sometimes referred to as Parawilt, is a significant concern in grape cultivation and can be caused by various soil-borne fungal pathogens, primarily species of *Fusarium* and *Verticillium*. These pathogens infect the roots and vascular system, disrupting water and nutrient transport, leading to wilting, yellowing of leaves, stunted growth, and eventual death of the vine.
+
+Here are scientifically verified control measures for managing Wilt in Grapes in Haryana:
+
+**1. Cultural and Agronomic Practices:**
+*   **Resistant Rootstocks:** Utilize grape varieties grafted onto rootstocks known for their resistance to wilt pathogens. Consult with HAU experts for suitable rootstock recommendations specific to Haryana's soil and climatic conditions.
+*   **Soil Solarization:** Before planting new vineyards, especially in areas with a history of wilt, practice soil solarization during the hot summer months (May-June). Cover moist soil with transparent polyethylene sheets for 4-6 weeks to raise soil temperatures and reduce pathogen inoculum.
+*   **Site Selection and Drainage:** Plant grapes in well-drained soils. Avoid low-lying areas prone to waterlogging, as excessive soil moisture stresses roots and creates favorable conditions for many wilt pathogens. Improve drainage in existing vineyards if necessary.
+*   **Sanitation:** Promptly remove and destroy severely infected or dead vines, including their root systems, to reduce the pathogen load in the soil. Disinfect pruning tools and equipment regularly, especially after working with diseased plants.
+*   **Balanced Nutrition:** Provide balanced fertilization based on soil test reports to maintain vine vigor and health. Avoid excessive nitrogen, which can sometimes make plants more susceptible to certain diseases.
+*   **Avoid Root Injury:** Minimize mechanical damage to roots during cultivation, as wounds serve as entry points for soil-borne pathogens.
+*   **Irrigation Management:** Practice judicious irrigation. Avoid both water stress and over-irrigation. Drip irrigation is recommended as it delivers water directly to the root zone, minimizing soil disturbance and leaf wetness.
+
+**2. Biological Control:**
+*   **Bio-fungicides:** Application of beneficial microbial antagonists can help suppress soil-borne wilt pathogens.
+    *   **Trichoderma viride**: Apply 2.5 kg/acre mixed with 50-100 kg of well-decomposed farmyard manure (FYM) or compost. Apply as a soil drench around the base of the vines or incorporate into the soil before planting.
+    *   **Pseudomonas fluorescens**: Apply 2.5 kg/acre mixed with 50-100 kg of well-decomposed FYM or compost. Apply as a soil drench around the base of the vines or incorporate into the soil before planting.
+    *   These bio-agents are most effective when applied preventively or at the very early stages of disease development.
+
+**3. Chemical Control (as soil drench or through drip irrigation):**
+*   Chemical control for established wilt diseases is challenging due to their systemic nature. However, certain fungicides can be used as preventive measures or to manage early infections, particularly as soil drench or through drip irrigation.
+    *   **Carbendazim**: Apply 1-2 g/L of water as a soil drench around the base of affected vines. Repeat application if necessary, following label instructions.
+    *   **Thiophanate-methyl**: Apply 1-2 g/L of water as a soil drench around the base of affected vines.
+    *   **Propamocarb hydrochloride**: Apply 2-3 ml/L of water as a soil drench, particularly effective against Oomycete pathogens like *Phytophthora* species, which can cause root rot leading to wilt-like symptoms.
+    *   **Metalaxyl**: Apply 1-2 g/L of water as a soil drench, also effective against Oomycete pathogens.
+*   **Important Note:** Always adhere strictly to the dosage, application method, and safety precautions mentioned on the product label. Rotate fungicides with different modes of action to prevent the development of pathogen resistance.
+
+**Integrated Pest Management (IPM) Approach:**
+An integrated approach combining cultural, biological, and judicious chemical methods is the most effective strategy for long-term and sustainable management of wilt diseases in grape vineyards. Regular monitoring for early symptoms is crucial for timely intervention. For specific recommendations tailored to your vineyard's conditions, consult with the experts at Haryana Agricultural University (HAU), Hisar.

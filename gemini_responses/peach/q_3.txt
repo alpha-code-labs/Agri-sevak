@@ -1,0 +1,94 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an integrated approach combining cultural practices and judicious use of CIBRC-approved fungicides for effective management of various rot types in Peach.
+
+Here's a breakdown of control measures for the specified rot types:
+
+### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot
+
+These terms often describe similar symptoms affecting the root system and the base of the trunk (collar/crown region). The primary culprits in peach are *Phytophthora* species (e.g., *P. cactorum*, *P. syringae*) and sometimes specific root rot fungi like *Armillaria mellea* (Armillaria root rot) or *Rosellinia necatrix* (White root rot).
+
+**Cultural Practices:**
+*   Ensure excellent soil drainage; avoid waterlogging, especially around the trunk.
+*   Plant trees on raised beds in areas with heavy or poorly draining soils.
+*   Avoid planting trees too deep; the graft union should be well above the soil line.
+*   Prevent mechanical injuries to the trunk and roots.
+*   Maintain proper irrigation, avoiding excessive moisture directly at the tree base.
+*   Remove and destroy severely infected trees, including their root systems, to prevent spread.
+
+**Chemical Control (primarily for *Phytophthora* related rots):**
+*   **Soil Drenching around the base of the tree:**
+    *   **Fosetyl-aluminium** 80% WP: Apply 2.5-3.0 g/L of water. Use 5-10 L of solution per tree, depending on tree size, as a drench around the trunk.
+    *   **Propamocarb hydrochloride** 72.2% SL: Apply 2.5-3.0 ml/L of water. Use 5-10 L of solution per tree as a drench.
+    *   **Metalaxyl** 8% + **Mancozeb** 64% WP: Apply 2.5 g/L of water. Use 5-10 L of solution per tree as a drench.
+
+*   **For Armillaria/Rosellinia root rot:** Chemical control is generally difficult once these fungi are established. Focus on cultural practices like removal of infected trees and roots, and pre-plant soil solarization or fumigation for new orchards. No highly effective CIBRC-approved chemical drench is available for established trees against these specific pathogens.
+
+### 2. Black Rot
+
+This is not known to affect Peach as a distinct primary disease called "Black Rot" in the same way it affects apples or grapes. However, *Alternaria* fruit rot can cause dark, blackish lesions on peach fruit, especially post-harvest.
+
+**For *Alternaria* fruit rot (post-harvest):**
+*   **Cultural Practices:**
+    *   Minimize fruit injury during harvest and handling.
+    *   Rapidly cool harvested fruit.
+    *   Maintain strict sanitation in packing areas.
+*   **Chemical Control (Pre-harvest sprays to reduce inoculum):**
+    *   **Azoxystrobin** 23% SC: 0.5-1.0 ml/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+
+### 3. Fruit Rot
+
+This is a general term. The most significant fruit rot in peach is Brown Rot. Other important ones include Rhizopus Rot and sometimes Anthracnose.
+
+**A. Brown Rot (caused by *Monilinia* spp.):**
+*   **Cultural Practices:**
+    *   Sanitation: Remove all mummified fruits from trees and the ground. Prune out blighted twigs and cankers.
+    *   Pruning: Ensure good air circulation within the tree canopy.
+    *   Harvesting: Handle fruit carefully to avoid wounds, which are entry points for the pathogen.
+*   **Chemical Control (Pre-harvest sprays, starting from bloom through fruit development):**
+    *   **Thiophanate-methyl** 70% WP: 0.7-1.0 g/L of water.
+    *   **Carbendazim** 50% WP: 0.5-1.0 g/L of water.
+    *   **Propiconazole** 25% EC: 0.5 ml/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+    *   **Tebuconazole** 25% WG: 0.75-1.0 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5-1.0 ml/L of water.
+    *   **Captan** 50% WP: 2.0-2.5 g/L of water (as a protectant).
+    *   **Mancozeb** 75% WP: 2.0-2.5 g/L of water (as a protectant, especially early season).
+
+**B. Rhizopus Rot (Soft Rot, primarily post-harvest):**
+*   **Cultural Practices:**
+    *   Careful handling to prevent bruising and wounds.
+    *   Rapid cooling of harvested fruit to 0-5°C.
+    *   Maintain good sanitation in packing sheds and storage facilities.
+*   **Chemical Control:** No specific CIBRC-approved pre-harvest fungicide is highly effective against *Rhizopus*. Focus on cultural practices and post-harvest handling.
+
+**C. Anthracnose (caused by *Colletotrichum* spp.):**
+*   **Cultural Practices:** Remove infected twigs and mummified fruit.
+*   **Chemical Control (Pre-harvest sprays):**
+    *   **Captan** 50% WP: 2.0-2.5 g/L of water.
+    *   **Mancozeb** 75% WP: 2.0-2.5 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5-1.0 ml/L of water.
+
+### 4. Seed Rot and Seedling Rot
+
+These are primarily issues in nursery production or when germinating peach seeds, often part of the "damping-off" complex.
+
+**Causative Agents:** *Pythium* spp., *Phytophthora* spp., *Rhizoctonia solani*, *Fusarium* spp.
+
+**Cultural Practices:**
+*   Use high-quality, disease-free seeds.
+*   Use sterile potting mix or well-drained, pasteurized soil in seedbeds.
+*   Ensure good drainage in seed trays or nursery beds.
+*   Avoid overwatering; maintain appropriate moisture levels.
+*   Provide adequate spacing for seedlings to ensure good air circulation.
+
+**Chemical Control (Seed Treatment / Soil Drench in Nursery):**
+*   **For Seed Treatment (before sowing):**
+    *   **Thiram** 75% WS: 2.5-3.0 g/kg of seeds.
+    *   **Captan** 50% WP: 2.0-2.5 g/kg of seeds.
+    *   **Carbendazim** 50% WP: 1.0-2.0 g/kg of seeds.
+    *   **Metalaxyl** 35% WS: 2.0-3.0 g/kg of seeds (specifically for oomycetes like *Pythium*, *Phytophthora*).
+*   **For Soil Drench (if seedling rot occurs in nursery beds):**
+    *   **Metalaxyl** 8% + **Mancozeb** 64% WP: 2.5 g/L of water. Drench the soil around seedlings.
+    *   **Carbendazim** 50% WP: 1.0 g/L of water. Drench the soil around seedlings (effective against *Rhizoctonia*, *Fusarium*).
+
+Always follow label instructions for specific application rates, safety precautions, and pre-harvest intervals (PHI) for all chemical products. Regular scouting and timely intervention are key to successful disease management.

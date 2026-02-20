@@ -1,0 +1,41 @@
+Wilt, including Parawilt, in Pointed Gourd (Parwal) can be caused by various factors, primarily fungal pathogens like *Fusarium oxysporum*, bacterial pathogens like *Pantoea stewartii* subsp. *stewartii* (formerly *Erwinia tracheiphila*), or physiological stress often termed "Parawilt." An integrated approach combining cultural, biological, and chemical methods is essential for effective management in Haryana.
+
+Here are the scientifically verified control measures:
+
+1.  **Cultural and Agronomic Practices (Foundation of Wilt Management):**
+    *   **Crop Rotation:** Avoid planting pointed gourd or other cucurbits in the same field for at least 3-4 years. Rotate with non-host crops like cereals.
+    *   **Resistant Varieties:** Where available, choose pointed gourd varieties known for their resistance or tolerance to wilt diseases. Consult HAU for specific recommendations for Haryana.
+    *   **Soil Health and Drainage:** Ensure good soil drainage to prevent waterlogging, which exacerbates root diseases. Incorporate 10-15 tonnes of well-decomposed Farmyard Manure (FYM) or compost per acre to improve soil structure and microbial activity.
+    *   **Sanitation:** Promptly remove and destroy infected plants and plant debris from the field to reduce the inoculum source.
+    *   **Water Management:** Provide adequate and timely irrigation. Avoid both drought stress and excessive irrigation. Drip irrigation can help manage soil moisture effectively.
+    *   **Nutrient Management:** Maintain balanced plant nutrition. Avoid excessive nitrogen, which can make plants more susceptible to diseases.
+    *   **Minimize Root Injury:** Be careful during intercultural operations (weeding, earthing up) to avoid damaging roots, as wounds can serve as entry points for pathogens.
+    *   **Soil Solarization:** In summer, cover the moist field with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and reduce soil-borne pathogen populations.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-fungicides before sowing.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: 5-10 g per kg of seed.
+    *   **Soil Application/Drenching:**
+        *   **Trichoderma viride** or **Trichoderma harzianum**: Mix 2.5 kg of formulation with 50 kg of well-decomposed FYM and apply per acre at the time of planting or drench around the root zone of established plants.
+
+3.  **Chemical Control:**
+
+    *   **For Fungal Wilt (e.g., Fusarium Wilt):**
+        *   **Seed Treatment:**
+            *   Treat seeds with a combination of **Carbendazim** (1 g) + **Thiram** (2 g) per kg of seed.
+        *   **Soil Drenching (at early signs of wilting or as a prophylactic measure):**
+            *   **Carbendazim** 50% WP: 1-2 g per litre of water, drench around the base of the plants (approx. 200-250 ml solution per plant).
+            *   **Propamocarb hydrochloride** 72.2% SL: 2-3 ml per litre of water, drench around the base of the plants.
+            *   **Thiophanate methyl** 70% WP: 1-1.5 g per litre of water, drench around the base of the plants.
+
+    *   **For Bacterial Wilt (Focus on Vector Control):**
+        *   Bacterial wilt is primarily spread by cucumber beetles. Controlling these vectors is crucial.
+        *   **Foliar Spray for Vector Control (at the appearance of beetles):**
+            *   **Imidacloprid** 17.8% SL: 0.5-0.75 ml per litre of water.
+            *   **Thiamethoxam** 25% WG: 0.2-0.4 g per litre of water.
+        *   Remove and destroy infected plants immediately to prevent further spread.
+
+**Important Considerations:**
+*   Always read and strictly follow the label instructions for any pesticide or bio-pesticide regarding dosage, application method, and safety precautions.
+*   Ensure proper safety measures (gloves, mask, protective clothing) when handling chemicals.
+*   Consult with local agricultural extension specialists or HAU experts for specific recommendations tailored to your farm's conditions and the prevailing disease pressure.

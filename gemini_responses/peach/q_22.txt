@@ -1,0 +1,28 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified cultivation practices for establishing a Peach orchard in Haryana:
+
+*   **Propagation and Sowing Method/Pattern:**
+    *   Peaches are primarily propagated vegetatively through budding (e.g., T-budding, chip budding) or grafting onto suitable rootstocks (e.g., wild peach seedlings, Sharbati peach, Nemaguard, GF 677).
+    *   Direct sowing of peach seeds is generally not recommended for establishing commercial orchards, as seedlings exhibit genetic variability, leading to inconsistent fruit quality and tree vigor. Seeds are primarily used for raising rootstock seedlings or for breeding programs.
+    *   Orchards are established by planting one-year-old, healthy, budded or grafted saplings obtained from a reputable nursery.
+    *   The most common planting patterns are the **Square system** or **Rectangular system**, which facilitate inter-cultivation operations, irrigation, and pest/disease management.
+
+*   **Planting Depth:**
+    *   Plant saplings in prepared pits ensuring that the graft union (the point where the scion was joined to the rootstock) remains **15-20 cm above the ground level**. This prevents the scion from rooting, which can negate the benefits of the rootstock.
+    *   The root collar (the point where the stem meets the roots) should be at the same level as it was in the nursery, or slightly deeper in sandy soils to provide better anchorage.
+    *   Ensure the roots are spread out naturally in the pit and not bent or crowded.
+
+*   **Spacing:**
+    *   Spacing depends on the chosen cultivar's vigor, the rootstock used, soil fertility, and the desired pruning/training system (e.g., open vase, central leader).
+    *   For standard vigorous cultivars on seedling rootstocks, a common spacing is:
+        *   **6 meters (row to row) x 6 meters (plant to plant)**
+    *   For semi-vigorous cultivars or those managed under high-density planting systems, spacing can be reduced:
+        *   **5 meters (row to row) x 5 meters (plant to plant)**
+        *   **5 meters (row to row) x 4 meters (plant to plant)** (for high-density)
+    *   It is advisable to consult with HAU experts for specific recommendations tailored to your chosen cultivar and rootstock combination for optimal yield and quality under Haryana conditions.
+
+*   **Planting Material Requirement (Number of Plants per Acre):**
+    *   Based on the recommended spacing, the number of plants required per acre (1 acre = 4047 square meters) can be calculated as follows:
+        *   For **6 m x 6 m** spacing: (4047 sq m / acre) / (6 m * 6 m) = 4047 / 36 ≈ **112 plants per acre**
+        *   For **5 m x 5 m** spacing: (4047 sq m / acre) / (5 m * 5 m) = 4047 / 25 ≈ **162 plants per acre**
+        *   For **5 m x 4 m** spacing: (4047 sq m / acre) / (5 m * 4 m) = 4047 / 20 ≈ **202 plants per acre**
+    *   It is always prudent to procure an additional 5-10% of saplings to replace any casualties that may occur during the initial establishment phase.

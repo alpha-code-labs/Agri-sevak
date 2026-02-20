@@ -1,0 +1,47 @@
+Dropping of flowers, fruits, and bolls in Castor is a significant physiological issue that can lead to substantial yield losses. It is primarily a response to various environmental stresses and nutritional imbalances, rather than a direct disease or pest.
+
+**Understanding the Causes of Dropping in Castor:**
+
+The main factors contributing to dropping include:
+
+*   **Environmental Stress:** High temperatures (especially during flowering and fruit set), water stress (both drought and waterlogging), high humidity, strong winds, and sudden fluctuations in weather conditions.
+*   **Nutrient Deficiencies:** Inadequate supply of essential micronutrients like Boron and Calcium, and macronutrients such as Phosphorus and Potassium, can weaken the plant and lead to premature shedding.
+*   **Hormonal Imbalance:** An imbalance between growth-promoting hormones (e.g., auxins) and shedding-promoting hormones (e.g., ethylene) can trigger the abscission process.
+*   **Poor Pollination:** Inadequate or ineffective pollination can result in unfertilized flowers dropping.
+*   **Over-bearing:** The plant may naturally shed excess reproductive structures if it cannot physiologically support the full load.
+
+**Control Measures for Dropping in Castor:**
+
+An integrated approach combining good agronomic practices with targeted chemical interventions is most effective.
+
+**A. Agronomic Practices (Preventive and Supportive):**
+
+*   **Optimal Water Management:**
+    *   Provide timely and adequate irrigation, particularly during critical stages such as flowering and early fruit development.
+    *   Avoid both severe drought stress and waterlogging, as both conditions can induce shedding.
+*   **Balanced Nutrient Management:**
+    *   Conduct soil testing to identify specific nutrient deficiencies.
+    *   Apply recommended doses of macro and micronutrients based on soil test results. Pay particular attention to Boron and Calcium.
+*   **Weed Control:**
+    *   Keep the field free of weeds to minimize competition for water, nutrients, and light, thereby reducing plant stress.
+*   **Appropriate Plant Spacing:**
+    *   Maintain optimal plant density to ensure proper light penetration, air circulation, and reduced competition among plants.
+*   **Variety Selection:**
+    *   Choose Castor varieties known for their stress tolerance and lower susceptibility to flower and fruit drop.
+
+**B. Chemical Interventions (CIBRC Approved):**
+
+*   **Plant Growth Regulators (PGRs):**
+    *   To reduce flower and fruit drop, apply an auxin-based PGR during the flowering and early fruit development stages.
+        *   **Naphthalene Acetic Acid (NAA)**: Apply at a concentration of 10-20 mg/L (equivalent to 10-20 ppm) as a foliar spray. The first spray can be given at the initiation of flowering, followed by a second spray 15-20 days later if needed.
+*   **Micronutrient Sprays:**
+    *   If Boron deficiency is suspected or confirmed by soil/tissue analysis:
+        *   **Borax (Sodium tetraborate decahydrate)**: Apply a 0.2% solution (2 g/L) as a foliar spray. This can be done during the pre-flowering and early fruit set stages. Alternatively, 1.5-2.0 kg/acre dissolved in 200-250 litres of water.
+    *   If Calcium deficiency is suspected:
+        *   **Calcium Nitrate**: Apply a 0.5-1.0% solution (5-10 g/L) as a foliar spray during flowering and fruit development stages.
+
+**Important Considerations:**
+
+*   Always adhere strictly to the manufacturer's instructions and safety precautions when handling and applying any chemical product.
+*   The timing of application for PGRs and micronutrients is crucial for their effectiveness in mitigating dropping.
+*   Regular field monitoring helps in early identification of stress factors and timely intervention.

@@ -1,0 +1,78 @@
+Namaste Kisan Bhaiyon,
+
+The symptom of "drying up" in groundnut, affecting branches, leaves, fruits, and flowers, is a general indication of severe stress. It can be caused by a combination of biotic (diseases, pests) and abiotic (environmental) factors. Accurate diagnosis is crucial for effective management.
+
+Here's how to address the potential causes of drying up in Groundnut:
+
+**I. Biotic Factors (Diseases)**
+
+1.  **Wilt / Collar Rot / Stem Rot Complex:**
+    *   **Symptoms:** Sudden wilting, yellowing, and drying of entire plants or individual branches. Often, a rotting or discolored lesion is visible at the collar region (base of the stem) or roots. Plants can be easily pulled out.
+    *   **Causative Agents:** Fungi like *Sclerotium rolfsii* (Collar Rot/Stem Rot), *Fusarium oxysporum* f. sp. *arachidis* (Fusarium Wilt), and *Rhizoctonia solani* (Root Rot).
+    *   **Management:**
+        *   **Cultural Practices:** Practice crop rotation with non-host crops, ensure proper field drainage, remove and destroy infected plant debris, and deep ploughing during summer to expose fungal sclerotia to sunlight.
+        *   **Seed Treatment:** Treat seeds before sowing with:
+            *   **Carbendazim** 12% + **Mancozeb** 63% WP @ 2.5 g/kg seed
+            *   OR **Thiram** 75% WS @ 2.5-3 g/kg seed
+        *   **Soil Drenching (for localized infection):** If symptoms appear in patches, drench the soil around affected plants with:
+            *   **Carbendazim** 50% WP @ 1-2 g/L water
+            *   OR **Hexaconazole** 5% SC @ 1 ml/L water
+
+2.  **Bacterial Wilt:**
+    *   **Symptoms:** Sudden wilting of plants without significant yellowing, often affecting one side of the plant initially. If the stem is cut, a milky ooze may be observed when placed in water.
+    *   **Causative Agent:** Bacterium *Ralstonia solanacearum*.
+    *   **Management:**
+        *   **Cultural Practices:** Use resistant varieties (if available), practice long-term crop rotation with non-host crops (e.g., cereals), remove and destroy infected plants, and avoid movement of contaminated soil or water.
+        *   **Chemical Control:** Chemical control is generally less effective for bacterial wilt once established. Focus on preventive cultural practices.
+
+3.  **Peanut Bud Necrosis Virus (PBND):**
+    *   **Symptoms:** Necrosis (blackening and drying) of terminal buds, young leaves, and growing points, leading to stunted growth, chlorosis, and a bushy appearance. The affected parts eventually dry up. Transmitted by thrips.
+    *   **Management:**
+        *   **Cultural Practices:** Early sowing, wider plant spacing, and removal of infected plants can help reduce disease incidence.
+        *   **Vector Control (Thrips):** Manage thrips population, especially during early crop stages, with insecticides:
+            *   **Imidacloprid** 17.8% SL @ 0.5 ml/L water
+            *   OR **Fipronil** 5% SC @ 1-1.5 ml/L water
+
+**II. Biotic Factors (Pests)**
+
+1.  **Termites:**
+    *   **Symptoms:** Plants show wilting and drying, often in patches. Upon inspection, roots and the base of the stem may be damaged or hollowed out by termites.
+    *   **Management:**
+        *   **Cultural Practices:** Deep ploughing during summer, removal of crop residues, and proper field sanitation.
+        *   **Soil Application (at sowing or pre-sowing):**
+            *   **Fipronil** 0.3% GR @ 10-15 kg/acre
+            *   OR **Chlorpyrifos** 20% EC @ 2 L/acre (mixed with irrigation water or sand and applied to the soil)
+
+2.  **White Grubs:**
+    *   **Symptoms:** Plants wilt and dry, often in patches, and can be easily pulled out from the soil due to severe root damage.
+    *   **Management:**
+        *   **Cultural Practices:** Deep ploughing during summer to expose grubs, use of light traps to attract and kill adult beetles before egg-laying.
+        *   **Soil Application (at sowing):**
+            *   **Fipronil** 0.3% GR @ 10-15 kg/acre
+            *   OR **Chlorpyrifos** 20% EC @ 2 L/acre (mixed with irrigation water or sand and applied to the soil)
+        *   **Seed Treatment:**
+            *   **Imidacloprid** 600 FS @ 2-3 ml/kg seed
+
+**III. Abiotic Factors**
+
+1.  **Drought Stress:**
+    *   **Symptoms:** Leaves wilt, roll, turn yellow, and eventually dry up. Pod development is severely affected.
+    *   **Management:** Provide timely and adequate irrigation, especially during critical growth stages (flowering and pod development). Use mulching to conserve soil moisture.
+
+2.  **Waterlogging:**
+    *   **Symptoms:** Paradoxically, excessive water can lead to root damage (asphyxiation and increased susceptibility to root rots), causing wilting, yellowing, and eventual drying of plants.
+    *   **Management:** Ensure proper field drainage. Avoid planting in low-lying areas prone to water accumulation.
+
+3.  **Nutrient Deficiencies:**
+    *   **Symptoms:** Severe deficiencies of essential nutrients (e.g., Boron, Calcium, Potassium) can weaken the plant, making it susceptible to stress and leading to poor growth, yellowing, and premature drying of parts.
+    *   **Management:** Conduct soil testing to identify deficiencies and apply balanced fertilizers as per recommendations.
+
+4.  **Heat Stress:**
+    *   **Symptoms:** High temperatures, especially during flowering and podding, can cause scorching of leaves, flower drop, and overall plant stress, leading to a dried appearance.
+    *   **Management:** Timely sowing to avoid peak heat periods, and ensuring adequate irrigation can mitigate heat stress.
+
+**General Recommendation:**
+
+*   **Field Inspection:** Carefully inspect the affected plants and the surrounding area. Look for specific symptoms on leaves, stems, roots, and pods. Observe the pattern of drying (scattered plants, patches, or entire field).
+*   **Root Examination:** Gently uproot a few affected plants and examine the roots and collar region for any signs of rot, discoloration, or pest damage.
+*   **Consult Experts:** If you are unsure about the exact cause, it is advisable to consult with the experts at Haryana Agricultural University (HAU) or your local agricultural extension officer for accurate diagnosis and specific recommendations.

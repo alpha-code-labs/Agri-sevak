@@ -1,0 +1,33 @@
+Dropping of flowers, fruits (pods), and tinda/bolls in Moth Bean (Vigna aconitifolia) is a common physiological phenomenon often triggered by various environmental stresses and nutritional imbalances. Addressing this requires an integrated approach focusing on optimal crop management.
+
+Here are the scientifically verified control measures:
+
+**1. Optimise Agronomic Practices:**
+*   **Water Management:** Ensure adequate soil moisture, especially during the critical stages of flowering and pod development. Avoid both water stress (drought) and waterlogging, as both can lead to shedding. Light, frequent irrigations can be beneficial during dry spells.
+*   **Weed Control:** Keep the field free of weeds to minimize competition for water, nutrients, and sunlight, which can otherwise stress the plants and induce dropping.
+*   **Optimal Plant Density:** Maintain recommended plant spacing to reduce intra-plant competition for resources, allowing each plant to develop optimally.
+*   **Soil Health:** Improve soil organic matter content through the application of well-decomposed farmyard manure (FYM) or compost. This enhances soil structure, water retention, and nutrient availability.
+
+**2. Nutritional Management:**
+Deficiencies of certain micronutrients, particularly Boron and Molybdenum, are known to cause flower and pod drop. Ensure a balanced supply of all essential nutrients.
+*   **Boron:**
+    *   **Soil Application:** If soil tests indicate deficiency, apply **Borax** (10.5% Boron) at 10-15 kg/acre as a basal application before sowing.
+    *   **Foliar Spray:** For quick correction or as a preventive measure, spray **Disodium Octaborate Tetrahydrate** (20% Boron) at 1-1.5 g/L of water at the pre-flowering and early pod initiation stages.
+*   **Molybdenum:**
+    *   **Soil Application:** If soil tests indicate deficiency, apply **Sodium Molybdate** or **Ammonium Molybdate** at 0.5-1 kg/acre as a soil application.
+    *   **Foliar Spray:** Alternatively, spray **Sodium Molybdate** or **Ammonium Molybdate** at 0.5 g/L of water at the pre-flowering stage.
+*   **Zinc:**
+    *   **Soil Application:** If zinc deficiency is observed, apply **Zinc Sulphate Heptahydrate** (21% Zinc) at 10-15 kg/acre as a basal application.
+    *   **Foliar Spray:** For foliar application, spray **Zinc Sulphate Heptahydrate** (21% Zinc) at 2.5-5 g/L of water.
+
+**3. Physiological Regulation (Plant Growth Regulators):**
+To mitigate flower and pod drop, especially under stress conditions, the application of specific plant growth regulators can be beneficial.
+*   **Naphthalene Acetic Acid (NAA):**
+    *   Apply **Naphthalene Acetic Acid** (4.5% SL formulation) at a concentration of 10-20 ppm (parts per million). This typically translates to 0.2-0.4 ml/L of water.
+    *   **Timing:** The first spray should be done at the initiation of flowering, and a second spray can be given 10-15 days later, if needed, to further reduce shedding.
+    *   **Note:** Always follow the manufacturer's instructions for specific product concentrations and application rates. Ensure thorough coverage of the plant foliage during spraying.
+
+**Important Considerations:**
+*   **High Temperature Stress:** High temperatures (above 40°C) during the flowering period can significantly impact pollen viability and lead to increased flower drop. Providing light irrigation during such periods can help in reducing the canopy temperature and mitigating stress.
+*   **Integrated Approach:** The most effective control of dropping involves combining these agronomic, nutritional, and physiological management practices rather than relying on a single method.
+*   **Diagnosis:** If severe and persistent dropping occurs, it is advisable to conduct a soil test and plant tissue analysis to accurately identify any specific nutrient deficiencies or other underlying issues.

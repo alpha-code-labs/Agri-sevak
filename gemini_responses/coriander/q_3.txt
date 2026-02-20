@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Coriander in Haryana:
+
+Many of the rot types you've mentioned (Root, Stem, Foot, Collar, Crown, Seed, and Seedling rot) are often caused by a complex of soil-borne fungal pathogens such as *Fusarium spp.*, *Rhizoctonia solani*, *Pythium spp.*, and *Sclerotium rolfsii*. These manifest as damping-off in seedlings, wilting, and rotting at the base of the plant.
+
+### Control of Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Seed Rot, and Seedling Rot
+
+These conditions are primarily caused by soil-borne pathogens and are often managed through a combination of cultural practices and chemical treatments.
+
+**1. Cultural Practices:**
+*   **Use Healthy Seeds:** Always use certified, disease-free seeds.
+*   **Crop Rotation:** Practice crop rotation with non-host crops (e.g., cereals) for at least 2-3 years to reduce pathogen build-up in the soil.
+*   **Soil Drainage:** Ensure good soil drainage to prevent waterlogging, which favors fungal growth. Raised beds can be beneficial.
+*   **Optimal Spacing:** Maintain recommended plant spacing to ensure good air circulation and reduce humidity around the plant base.
+*   **Field Sanitation:** Remove and destroy infected plant debris immediately to prevent the spread of pathogens.
+*   **Soil Solarization:** During summer, cover the soil with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and reduce pathogen load.
+
+**2. Chemical Control:**
+
+*   **Seed Treatment (Crucial for prevention):**
+    *   Treat seeds before sowing with a fungicide to protect against seed-borne and early soil-borne pathogens.
+    *   **Carbendazim 50% WP** at 2 g/kg seed.
+    *   **Thiram 75% WS** at 2.5-3 g/kg seed.
+    *   **Captan 75% WS** at 2.5-3 g/kg seed.
+    *   For specific issues with *Pythium* (often associated with damping-off), a combination product containing **Metalaxyl** (e.g., **Metalaxyl 35% WS**) at 2-3 g/kg seed can be highly effective.
+
+*   **Soil Drench (if disease symptoms appear after germination):**
+    *   If symptoms like wilting or rotting appear in young plants, drench the soil around the base of the affected plants.
+    *   **Carbendazim 50% WP** at 1-2 g/L water.
+    *   For *Rhizoctonia* specific issues, **Validamycin 3% L** at 2-3 ml/L water.
+    *   For *Pythium* specific issues, **Propamocarb Hydrochloride 72.2% SL** at 2-3 ml/L water.
+    *   **Azoxystrobin 23% SC** at 1 ml/L water can also be used as a broad-spectrum drench.
+
+### Control of Fruit Rot (affecting developing seeds/mericarps)
+
+While "Fruit Rot" is not a common specific term for coriander, diseases like blight (*Alternaria* or *Cercospora*) or *Sclerotinia* stem rot can affect the developing seeds (mericarps), leading to discoloration, shriveling, and poor quality.
+
+**1. Cultural Practices:**
+*   Maintain good field sanitation.
+*   Avoid excessive humidity in the canopy, which can be achieved through proper spacing and irrigation management.
+
+**2. Chemical Control (Foliar Spray during flowering and seed development):**
+*   **Mancozeb 75% WP** at 2.5 g/L water.
+*   **Propiconazole 25% EC** at 1 ml/L water.
+*   **Tebuconazole 25.9% EC** at 0.75-1 ml/L water.
+*   **Azoxystrobin 23% SC** at 0.5-1 ml/L water.
+*   **Pyraclostrobin 20% WG** at 0.75 g/L water.
+
+### Other Rot Types
+
+*   **Neck Rot:** This is not known to affect Coriander. Neck rot is primarily a disease of bulb crops like onion and garlic, caused by *Botrytis allii*.
+*   **Black Rot:** This is not known to affect Coriander. Black rot is a bacterial disease primarily affecting cruciferous crops (e.g., cabbage, cauliflower, mustard) caused by *Xanthomonas campestris pv. campestris*.

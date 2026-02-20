@@ -1,0 +1,51 @@
+Wilt, including Parawilt, is a significant concern in garlic cultivation in Haryana. While "Wilt" is primarily caused by fungal pathogens, particularly *Fusarium oxysporum f. sp. cepae* (Fusarium Basal Rot/Wilt), "Parawilt" is often a complex physiological disorder exacerbated by environmental stresses, though fungal pathogens can sometimes be involved or secondary invaders.
+
+Here's a comprehensive approach to control Wilt and Parawilt in garlic:
+
+**I. Cultural and Agronomic Practices (Crucial for Prevention and Parawilt Management):**
+
+1.  **Crop Rotation:** Implement a strict 3-4 year crop rotation with non-allium crops (e.g., cereals, legumes) to reduce soil-borne inoculum of *Fusarium* and other pathogens.
+2.  **Healthy Planting Material:** Always use disease-free, healthy cloves from certified sources. Avoid planting cloves showing any discoloration or lesions.
+3.  **Soil Health and Drainage:**
+    *   Ensure well-drained soil. Waterlogging significantly increases the risk of root rots and wilts.
+    *   Incorporate well-decomposed farmyard manure (FYM) or compost to improve soil structure and microbial activity.
+4.  **Water Management:**
+    *   Provide consistent and adequate irrigation, especially during critical growth stages.
+    *   Avoid both water stress (drought) and excessive irrigation, as both can predispose plants to wilting and stress-related disorders like Parawilt.
+    *   Use drip irrigation where feasible to optimize water use and reduce leaf wetness.
+5.  **Nutrient Management:**
+    *   Follow soil test-based nutrient recommendations.
+    *   Avoid excessive nitrogen application, which can lead to lush growth susceptible to diseases.
+    *   Ensure balanced nutrition, especially adequate potassium, which enhances plant vigor and stress tolerance.
+6.  **Field Sanitation:**
+    *   Promptly remove and destroy infected plants and plant debris to prevent the spread of pathogens.
+    *   Clean farm equipment thoroughly after working in infected fields.
+7.  **Soil Solarization:** In summer, before planting, cover the field with transparent polyethylene sheets for 4-6 weeks. This can significantly reduce soil-borne pathogen inoculum and weed seeds.
+8.  **Variety Selection:** While complete resistance is rare, choose varieties known to perform well in your region and show some tolerance to common diseases.
+
+**II. Biological Control:**
+
+1.  **Bio-fungicide Application:**
+    *   **Seed Treatment:** Treat garlic cloves with *Trichoderma viride* or *Trichoderma harzianum* (1% WP) at 5-10 g per kg of cloves before planting.
+    *   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* (1% WP) at 2.5 kg per acre, mixed with 50-100 kg of well-decomposed FYM or compost, and broadcast evenly in the field before planting or as a soil drench around the root zone of established plants. *Trichoderma* species act as antagonists against soil-borne fungal pathogens.
+
+**III. Chemical Control (Use as per CIBRC guidelines and only when necessary):**
+
+1.  **Seed Treatment (for prevention of soil-borne wilts):**
+    *   Treat garlic cloves with **Carbendazim** 50% WP at 2 g per kg of cloves.
+    *   Alternatively, use **Thiram** 75% WS at 2-3 g per kg of cloves.
+    *   Ensure proper drying of treated cloves before planting.
+
+2.  **Soil Drench (for managing established infections):**
+    *   **For Fusarium Wilt:**
+        *   Drench the soil around the base of affected plants with **Carbendazim** 50% WP at 1 g per litre of water.
+        *   Alternatively, use **Thiophanate-methyl** 70% WP at 1 g per litre of water as a soil drench. Apply 50-100 ml solution per plant, depending on plant size.
+    *   **For Phytophthora-related wilts/root rots (if suspected, often associated with waterlogging):**
+        *   Drench the soil with a combination product of **Metalaxyl 8% + Mancozeb 64% WP** at 2.5 g per litre of water.
+        *   Alternatively, use **Propamocarb hydrochloride** 72.2% SL at 2.5 ml per litre of water as a soil drench.
+
+**Important Considerations:**
+
+*   **Integrated Approach:** The most effective control of Wilt and Parawilt involves an integrated approach combining cultural, biological, and judicious chemical methods.
+*   **Early Detection:** Monitor your crop regularly for early signs of wilting. Early intervention can significantly improve control.
+*   **Diagnosis:** If the cause of wilting is unclear, it is advisable to consult with HAU experts for accurate diagnosis, especially to differentiate between pathogen-induced wilt and physiological Parawilt, as control measures may vary.

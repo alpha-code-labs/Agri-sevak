@@ -1,0 +1,40 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for French Bean cultivation in Haryana. These recommendations are general and should ideally be fine-tuned based on a soil test report from your specific field.
+
+**General Recommendation for French Bean (Rajma):**
+
+**1. Basal Application (at the time of sowing):**
+
+*   **Nitrogen (N):** A starter dose of Nitrogen is beneficial for initial plant establishment, even though French Bean is a legume and fixes atmospheric nitrogen.
+    *   **Urea**: 20-25 kg/acre (This can be adjusted if DAP is used, as DAP also provides N).
+*   **Phosphorus (P2O5):** French Bean has a high requirement for Phosphorus.
+    *   **Diammonium Phosphate (DAP)**: 120-130 kg/acre. This will provide approximately 21-23 kg of Nitrogen and 55-60 kg of Phosphorus (P2O5).
+    *   *Alternatively, if DAP is not used, you can use:* **Single Super Phosphate (SSP)**: 300-375 kg/acre (to provide 48-60 kg P2O5). If using SSP, ensure to also provide a separate N source like Urea.
+*   **Potassium (K2O):**
+    *   **Muriate of Potash (MOP)**: 65-70 kg/acre.
+*   **Sulphur (S):** Sulphur is crucial for oilseed and pulse crops like French Bean for better nodulation and yield.
+    *   **Elemental Sulphur (90%)**: 10-20 kg/acre (if not using SSP, which contains Sulphur).
+
+**2. Top-Dressing (30-40 days after sowing, if required):**
+
+*   **Urea**: 20-30 kg/acre. This application is generally recommended if the crop shows signs of nitrogen deficiency (pale yellow leaves) or if initial nodulation is poor. Avoid excessive nitrogen as it can hinder nitrogen fixation.
+
+**3. Foliar Application:**
+
+*   **Nano-Urea:**
+    *   **First spray:** At the branching/vegetative growth stage (around 30-40 days after sowing).
+    *   **Second spray:** At the flowering/pod initiation stage (around 50-60 days after sowing).
+    *   **Dose:** 2-4 ml/L of water.
+*   **Nano-DAP:**
+    *   **First spray:** At the pre-flowering stage (around 40-50 days after sowing).
+    *   **Second spray:** At the pod development stage (around 60-70 days after sowing).
+    *   **Dose:** 2-5 ml/L of water.
+
+**4. NPK Compound Fertilizers:**
+
+*   While NPK compound fertilizers are available, for French Bean, it is generally recommended to apply individual components (**Urea**, **DAP**, **MOP**, **SSP**, **Sulphur**) to precisely meet the crop's specific nutrient requirements, especially considering its nitrogen-fixing ability. If an NPK compound fertilizer is to be used, select a grade with a higher phosphorus and potassium ratio (e.g., 12:32:16 or similar) and adjust the quantity to match the recommended P and K levels, supplementing N and S as needed.
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test before applying fertilizers. This will provide precise information about your soil's nutrient status and pH, allowing for more accurate and efficient fertilizer application, preventing over-application or deficiencies.
+*   **Rhizobium Inoculation:** Ensure proper seed treatment with *Rhizobium leguminosarum* culture before sowing. This enhances nitrogen fixation and reduces the need for external nitrogen fertilizers.
+*   **Micronutrients:** French Bean may also require micronutrients like Zinc, Boron, and Molybdenum, especially in deficient soils. A soil test will indicate if these are needed.

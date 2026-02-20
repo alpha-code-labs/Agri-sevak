@@ -1,0 +1,58 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Sunflower cultivation in Haryana, based on scientific research and best practices. These recommendations are for optimal yield and nutrient use efficiency, assuming average soil fertility. A soil test is always recommended for precise nutrient management.
+
+**General Nutrient Recommendations for Sunflower:**
+*   **Nitrogen (N):** 60-80 kg/acre
+*   **Phosphorus (P2O5):** 30-40 kg/acre
+*   **Potassium (K2O):** 20-30 kg/acre (especially on light-textured soils or where soil test indicates deficiency)
+*   **Sulphur (S):** 20 kg/acre (crucial for oilseed crops)
+
+---
+
+**Conventional Fertilizers:**
+
+You can choose between two primary options for Phosphorus and Sulphur application:
+
+**Option 1: Using DAP for Phosphorus and separate Sulphur**
+
+*   **Basal Application (at sowing):**
+    *   **DAP**: 75-80 kg/acre (This provides approximately 13.5-14.4 kg N and 34.5-36.8 kg P2O5, covering the P requirement).
+    *   **Potash (Muriate of Potash)**: 35-50 kg/acre (Provides 21-30 kg K2O, based on soil test or for light soils).
+    *   **Sulphur (Elemental Sulphur 90%)**: 20-25 kg/acre (Provides 18-22.5 kg S, crucial for oilseed crops).
+    *   **Urea**: 60-70 kg/acre (Provides 27.6-32.2 kg N. This is about half of the remaining N requirement).
+
+*   **Top Dressing (30-40 days after sowing, at knee-high stage):**
+    *   **Urea**: 60-70 kg/acre (Provides 27.6-32.2 kg N. This is the remaining half of N requirement).
+
+**Option 2: Using SSP for Phosphorus and Sulphur**
+
+*   **Basal Application (at sowing):**
+    *   **SSP**: 190-250 kg/acre (This provides approximately 30.4-40 kg P2O5 and 20.9-27.5 kg S, covering both P and S requirements).
+    *   **Potash (Muriate of Potash)**: 35-50 kg/acre (Provides 21-30 kg K2O, based on soil test or for light soils).
+    *   **Urea**: 90-100 kg/acre (Provides 41.4-46 kg N. This is about half of the total N requirement).
+
+*   **Top Dressing (30-40 days after sowing, at knee-high stage):**
+    *   **Urea**: 50-60 kg/acre (Provides 23-27.6 kg N. This is the remaining half of N requirement).
+
+**NPK (Complex Fertilizers):**
+*   If using NPK complex fertilizers (e.g., 12:32:16, 10:26:26), the dose should be calculated to meet the recommended N, P2O5, and K2O requirements. You will likely need to supplement with additional **Urea**, **Potash**, and **Sulphur** to achieve the full recommended nutrient levels.
+
+---
+
+**Nano-Fertilizers (as supplementary foliar applications):**
+
+Nano-fertilizers are designed for foliar application to enhance nutrient use efficiency and can partially reduce the requirement for conventional fertilizers.
+
+*   **Nano-Urea**:
+    *   **Dose**: 2-4 ml/L of water.
+    *   **Application**: 2-3 foliar sprays.
+        *   First spray: 30-40 days after sowing (can be used to partially replace or supplement the second conventional **Urea** application).
+        *   Second spray: Pre-flowering stage.
+        *   Third spray (if needed): Seed filling stage.
+    *   *Note*: Can potentially reduce conventional **Urea** application by 25-50%.
+
+*   **Nano-DAP**:
+    *   **Dose**: 2-4 ml/L of water.
+    *   **Application**: 2 foliar sprays.
+        *   First spray: Pre-flowering stage.
+        *   Second spray: Seed filling stage.
+    *   *Note*: Can supplement phosphorus and nitrogen uptake, especially during critical growth stages.

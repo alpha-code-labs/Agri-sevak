@@ -1,0 +1,55 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Yard Long Bean (Vigna unguiculata subsp. sesquipedalis) in Haryana. Please note that Yard Long Bean is a legume and can fix atmospheric nitrogen, thus requiring less external nitrogen compared to non-leguminous crops. However, a starter dose of nitrogen, along with adequate phosphorus, potassium, and sulphur, is crucial for optimal growth and pod yield.
+
+**General Nutrient Recommendation (without soil test):**
+*   Nitrogen (N): 20-25 kg/acre
+*   Phosphorus (P2O5): 40-50 kg/acre
+*   Potassium (K2O): 30-40 kg/acre
+*   Sulphur (S): 10-15 kg/acre
+
+**Recommended Fertilizer Doses:**
+
+**1. Basal Application (at the time of sowing):**
+Apply the entire dose of Phosphorus, Potassium, and Sulphur, along with a starter dose of Nitrogen.
+
+*   **For Nitrogen (N):**
+    *   **Urea:** 20-25 kg/acre (If not using DAP as the primary P source).
+    *   *Alternatively, if using DAP:* The nitrogen requirement will be partially met by DAP.
+
+*   **For Phosphorus (P2O5):**
+    *   **Di-ammonium Phosphate (DAP):** 85-110 kg/acre. This will provide approximately 15-20 kg N and 39-50 kg P2O5.
+    *   *Alternatively, if DAP is not available or for higher Sulphur content:*
+        *   **Single Super Phosphate (SSP):** 250-310 kg/acre. This will provide approximately 40-50 kg P2O5 and 27-34 kg Sulphur. If using SSP, you will need to add a small amount of **Urea** for the starter N (e.g., 20-25 kg **Urea** per acre).
+
+*   **For Potassium (K2O):**
+    *   **Muriate of Potash (MOP):** 50-65 kg/acre.
+
+*   **For Sulphur (S):**
+    *   If using **Single Super Phosphate (SSP)**, the Sulphur requirement will be largely met.
+    *   If using **Di-ammonium Phosphate (DAP)** and **Muriate of Potash (MOP)**, apply:
+        *   **Bentonite Sulphur (90%):** 10-15 kg/acre.
+
+*   **NPK (Complex Fertilizers):**
+    *   If using complex NPK fertilizers, choose a grade suitable for legumes (e.g., 12:32:16 or 10:26:26). A common recommendation could be 150-200 kg/acre of **NPK (12:32:16)**. This would provide approximately 18-24 kg N, 48-64 kg P2O5, and 24-32 kg K2O. You might still need to supplement with additional **Muriate of Potash (MOP)** and **Bentonite Sulphur (90%)** to meet the full K and S requirements.
+
+**2. Foliar Application (during vegetative growth and flowering):**
+
+*   **Nano-Urea:**
+    *   Apply 2-4 ml/L of water as a foliar spray.
+    *   First spray: 30-40 days after sowing (DAS).
+    *   Second spray: At flowering stage.
+    *   Use 250-500 ml of **Nano-Urea** per acre per spray, mixed in 100-200 litres of water.
+
+*   **Nano-DAP:**
+    *   Apply 2-4 ml/L of water as a foliar spray.
+    *   First spray: 30-40 days after sowing (DAS).
+    *   Second spray: At flowering stage.
+    *   Use 250-500 ml of **Nano-DAP** per acre per spray, mixed in 100-200 litres of water.
+    *   *Note:* Nano-DAP can be used as a supplement to conventional DAP or to reduce its basal application by up to 50%.
+
+**Important Considerations:**
+
+*   **Soil Testing:** The most accurate fertilizer recommendation can only be made after a comprehensive soil test. HAU strongly advises farmers to get their soil tested to determine the exact nutrient status and tailor fertilizer application accordingly.
+*   **Rhizobium Inoculation:** For legumes like Yard Long Bean, seed treatment with an appropriate **Rhizobium** biofertilizer is highly recommended to enhance nitrogen fixation and reduce the need for chemical nitrogen fertilizers.
+*   **Organic Manures:** Incorporating well-decomposed Farm Yard Manure (FYM) at 8-10 tonnes/acre or compost at 4-5 tonnes/acre before sowing significantly improves soil health and nutrient availability.
+
+This advice is based on general recommendations for the region and crop. For specific field conditions, a soil test is paramount.

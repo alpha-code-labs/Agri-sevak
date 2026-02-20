@@ -1,0 +1,44 @@
+Wilt, including Fusarium Wilt (often referred to as Parawilt in celery due to its sudden onset), caused by *Fusarium oxysporum* f. sp. *apii*, is a significant disease affecting celery. Effective management requires an integrated approach combining cultural, biological, and chemical methods.
+
+Here's how to control Wilt in Celery:
+
+**I. Cultural Practices (Foundation of Control):**
+
+*   **Resistant Varieties:** Where available and suitable for Haryana's climate, planting resistant or tolerant celery varieties is the most effective long-term solution.
+*   **Crop Rotation:** Implement a strict 3-4 year crop rotation with non-host crops (e.g., cereals, maize, onion). Avoid planting celery or other susceptible crops (like carrots, parsley) in the same field repeatedly.
+*   **Sanitation:**
+    *   Remove and destroy infected plant debris immediately to reduce inoculum in the soil.
+    *   Clean tools and equipment thoroughly after working in infected areas to prevent pathogen spread.
+*   **Soil Health and Drainage:**
+    *   Ensure good soil drainage to prevent waterlogging, which stresses plants and favors fungal growth.
+    *   Maintain optimal soil pH (6.0-7.0) and balanced nutrition to promote vigorous plant growth and natural resistance.
+*   **Avoid Plant Stress:** Minimize any stress factors such as drought, nutrient deficiencies, or pest infestations, as stressed plants are more susceptible to wilt.
+*   **Soil Solarization:** In areas with high disease incidence, soil solarization during hot summer months can significantly reduce soil-borne pathogen populations.
+
+**II. Biological Control:**
+
+*   **Seed Treatment:**
+    *   Treat celery seeds with bio-fungicides before sowing.
+    *   **Trichoderma viride** (10-15 g/kg seed) or **Pseudomonas fluorescens** (10 g/kg seed) can protect seedlings from early infection.
+*   **Soil Application:**
+    *   Apply **Trichoderma viride** (2.5 kg/acre) or **Pseudomonas fluorescens** (2.5 kg/acre) mixed with 50-100 kg of farmyard manure (FYM) or compost, and broadcast evenly in the field before planting or at the time of planting. This helps establish beneficial microbes in the root zone.
+
+**III. Chemical Control (As per CIBRC Approved Technical Names):**
+
+Chemical control should be used judiciously and as part of an integrated management strategy.
+
+*   **Seed Treatment:**
+    *   Treat seeds before sowing to protect young seedlings.
+    *   **Carbendazim** (2 g/kg seed)
+    *   **Thiophanate-methyl** (2 g/kg seed)
+*   **Soil Drench:**
+    *   For existing infections or in fields with a history of wilt, a soil drench can be effective.
+    *   **Carbendazim** (1 g/L water): Drench the soil around the base of affected plants with 200-250 ml of the solution per plant.
+    *   **Thiophanate-methyl** (1 g/L water): Drench the soil around the base of affected plants with 200-250 ml of the solution per plant.
+    *   Repeat the drench application after 10-15 days if symptoms persist or new infections appear, following label instructions.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the product label for specific dosage, application methods, and safety precautions.
+*   Rotate chemical fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with local agricultural extension specialists at HAU for the most current and region-specific recommendations.

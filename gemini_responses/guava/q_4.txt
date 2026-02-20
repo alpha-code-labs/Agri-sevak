@@ -1,0 +1,42 @@
+Namaste Kisan Bhaiyon,
+
+Wilt and Parawilt are significant challenges for guava cultivation in Haryana, leading to substantial yield losses. As a Senior Agronomist at HAU, Hisar, I recommend an integrated approach for effective management.
+
+**Understanding the Conditions:**
+
+*   **Guava Wilt:** This is primarily caused by the soil-borne fungus *Fusarium oxysporum* f. sp. *psidii*. It leads to yellowing, wilting, and eventual death of the plant.
+*   **Guava Parawilt:** This is a physiological disorder, not caused by a pathogen. It is often triggered by sudden changes in soil moisture (waterlogging followed by drought, or vice-versa), root damage, or nutrient imbalances, leading to sudden wilting and drying of branches or the entire plant.
+
+Here's how to control these conditions:
+
+**I. Cultural and Agronomic Practices (Most Important for Prevention and Management):**
+
+*   **Site Selection:** Plant guava in well-drained soils. Avoid heavy clay soils or areas prone to waterlogging.
+*   **Resistant Rootstocks/Varieties:** Where available and suitable for Haryana conditions, use resistant rootstocks or varieties. HAU recommends specific varieties for their adaptability and disease tolerance.
+*   **Soil Solarization:** In summer, cover the soil with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and reduce pathogen load.
+*   **Proper Irrigation:** Maintain consistent soil moisture. Avoid both waterlogging and severe drought stress. Use drip irrigation for efficient water management.
+*   **Drainage:** Ensure good drainage in the orchard, especially during monsoon. Create raised beds if necessary.
+*   **Nutrient Management:** Provide balanced nutrition. Avoid excessive nitrogen, which can make plants more susceptible. Apply farmyard manure (FYM) or compost regularly to improve soil health.
+*   **Root Protection:** Avoid any injury to the roots during intercultural operations like weeding or tilling, as wounds can serve as entry points for pathogens.
+*   **Sanitation:** Remove and destroy severely infected or dead plants immediately to prevent the spread of the disease. Disinfect tools after working on infected plants.
+*   **Intercropping:** Avoid intercropping with susceptible crops.
+*   **Liming:** In acidic soils, apply lime to adjust soil pH, which can be unfavorable for the wilt pathogen.
+
+**II. Biological Control:**
+
+*   **Bio-fungicides:**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply 2.5 kg of *Trichoderma* formulation mixed with 50 kg of well-decomposed farmyard manure (FYM) per acre, broadcasted and incorporated into the soil, or apply as a soil drench at 5-10 g/L of water around the root zone of affected plants. Repeat application every 3-4 months.
+
+**III. Chemical Control (For Wilt, as a last resort or in conjunction with other methods):**
+
+*   **Soil Drenching:** For early stages of wilt, drenching the soil around the root zone with systemic fungicides can be effective.
+    *   **Carbendazim**: Drench the soil with a solution of **Carbendazim** at 1-2 g/L of water (e.g., 10-20 g per 10 litres of water) around the base of the affected plants. Apply 5-10 litres of solution per plant, depending on its size. Repeat after 30-45 days if necessary.
+    *   **Thiophanate-methyl**: As an alternative or in rotation with Carbendazim, drench the soil with **Thiophanate-methyl** at 1-2 g/L of water around the base of the affected plants. Apply 5-10 litres of solution per plant.
+
+**Important Considerations:**
+
+*   For Parawilt, since it's a physiological disorder, chemical fungicides are not effective. Focus entirely on improving soil health, proper irrigation, and preventing root damage.
+*   Always follow the manufacturer's instructions for dosage and safety precautions when using any chemical.
+*   Consult with HAU experts for specific recommendations tailored to your farm's conditions.
+
+By adopting these integrated management practices, you can significantly reduce the incidence and severity of Wilt and Parawilt in your guava orchard.

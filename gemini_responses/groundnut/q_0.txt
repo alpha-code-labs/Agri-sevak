@@ -1,0 +1,58 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Groundnut (Arachis hypogaea) in Haryana.
+
+It is crucial to adopt an Integrated Disease Management (IDM) approach, combining cultural practices with judicious chemical applications.
+
+### Fungal Diseases Known to Affect Groundnut in Haryana
+
+**1. Alternaria, Anthracnose, Blight, and Brown Spot (General Foliar Diseases)**
+These terms often refer to various leaf spot and blight diseases, including those caused by *Alternaria* species, *Colletotrichum* species (Anthracnose), and the more common Early Leaf Spot (*Cercospora arachidicola*) and Late Leaf Spot (*Cercosporidium personatum*). The control measures for these are generally similar.
+
+*   **Cultural Practices:**
+    *   Use disease-free, certified seeds.
+    *   Practice crop rotation with non-host crops for at least 2-3 years.
+    *   Maintain proper plant spacing to ensure good air circulation.
+    *   Remove and destroy infected plant debris after harvest.
+    *   Select resistant or tolerant varieties if available for your region.
+
+*   **Chemical Control:**
+    Initiate spraying at the first appearance of symptoms, typically around 30-45 days after sowing, or as a prophylactic measure if disease pressure is historically high. Repeat sprays at 10-15 day intervals, depending on disease severity and weather conditions. Ensure thorough coverage of the foliage.
+
+    *   **Protective Fungicides:**
+        *   **Mancozeb** (75% WP): 2.5 kg/acre (or 2.5 g/L of water)
+        *   **Chlorothalonil** (75% WP): 1.0-1.25 kg/acre (or 2.5 g/L of water)
+
+    *   **Systemic Fungicides (Curative and Protective):**
+        *   **Propiconazole** (25% EC): 200-250 ml/acre (or 0.5 ml/L of water)
+        *   **Tebuconazole** (25% WG): 250-300 ml/acre (or 0.5-0.6 ml/L of water)
+        *   **Hexaconazole** (5% EC): 200-250 ml/acre (or 0.5 ml/L of water)
+        *   **Azoxystrobin** (23% SC): 200 ml/acre (or 0.5 ml/L of water)
+
+    *   **Combination Fungicides (Broad-spectrum):**
+        *   **Azoxystrobin + Difenoconazole** (11% + 18.2% SC): 200 ml/acre (or 0.5 ml/L of water)
+        *   **Tebuconazole + Trifloxystrobin** (50% + 25% WG): 150-200 g/acre (or 0.3-0.4 g/L of water)
+
+**2. Powdery Mildew**
+Powdery mildew, caused by *Erysiphe* or *Oidium* species, can occur in groundnut, especially during dry periods followed by high humidity.
+
+*   **Cultural Practices:**
+    *   Maintain good field sanitation.
+    *   Ensure adequate plant spacing.
+
+*   **Chemical Control:**
+    Apply fungicides at the first sign of white, powdery patches on leaves and stems.
+
+    *   **Sulphur (Wettable Powder)** (80% WP): 2.0-2.5 kg/acre (or 3-5 g/L of water)
+    *   **Hexaconazole** (5% EC): 200-250 ml/acre (or 0.5 ml/L of water)
+    *   **Propiconazole** (25% EC): 200-250 ml/acre (or 0.5 ml/L of water)
+
+### Fungal Diseases Not Known to Affect Groundnut
+
+*   **Blast:** This is not known to affect Groundnut. Blast disease primarily affects cereal crops like rice and wheat.
+*   **Downy Mildew:** This is not known to affect Groundnut. Downy mildew diseases are caused by oomycetes and are specific to certain plant families.
+*   **Grey Mildew:** This is not known to affect Groundnut as a primary field disease. While "grey mildew" can sometimes be used interchangeably with powdery mildew, or refer to *Botrytis cinerea* (grey mold), *Botrytis* is not a common or significant field disease of groundnut in Haryana.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the fungicide label for correct dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Ensure proper spray coverage for effective disease control.
+*   Consult your local HAU agricultural extension specialist for specific recommendations tailored to your field conditions and the prevailing disease situation.

@@ -1,0 +1,47 @@
+As a Senior Agronomist at HAU, Hisar, I can provide scientifically verified advice for managing beetles, weevils, and sawflies in wheat crops in Haryana. Effective control relies on timely identification and integrated pest management (IPM) strategies.
+
+**General Principles of Integrated Pest Management (IPM):**
+*   **Regular Field Scouting:** Monitor your wheat fields regularly to detect pest infestations early.
+*   **Cultural Practices:**
+    *   Use of resistant/tolerant wheat varieties where available.
+    *   Timely sowing according to recommended schedules.
+    *   Proper crop rotation to break pest life cycles.
+    *   Maintaining field hygiene by removing crop residues.
+*   **Economic Threshold Levels (ETL):** Apply chemical interventions only when pest populations reach levels that are likely to cause economic damage, rather than on a calendar basis.
+
+**Specific Control Measures:**
+
+**1. Beetles (e.g., Wireworms, Cereal Leaf Beetle):**
+*   **Wireworms (larvae of click beetles):** These pests primarily damage germinating seeds and young seedlings by feeding on roots and underground stems, leading to poor stand establishment and patchy fields.
+    *   **Control:**
+        *   **Seed Treatment:** This is the most effective method for wireworm control, providing systemic protection to young plants.
+            *   **Imidacloprid** 600 FS: 4-7 ml per kg of seed.
+            *   **Thiamethoxam** 30 FS: 10 ml per kg of seed.
+            *   **Fipronil** 5 FS: 6-10 ml per kg of seed.
+*   **Cereal Leaf Beetle (Oulema melanopus):** Both adults and larvae feed on leaf tissue, causing characteristic striping (skeletonization) and reducing the plant's photosynthetic area, which can impact grain filling.
+    *   **Control:** Apply foliar spray upon observing significant damage or pest population exceeding ETL, typically during tillering to booting stages.
+        *   **Lambda-cyhalothrin** 5 EC: 100-125 ml per acre (in 200-300 L of water).
+        *   **Chlorpyrifos** 20 EC: 500 ml per acre (in 200-300 L of water).
+        *   **Malathion** 50 EC: 500-1000 ml per acre (in 200-300 L of water).
+
+**2. Weevils (e.g., Shoot Weevil):**
+*   **Shoot Weevil (Sitona spp.):** Adults feed on leaves, causing characteristic notching along the leaf margins, while larvae feed on roots and nitrogen-fixing nodules, impacting plant vigor and nutrient uptake.
+    *   **Control:**
+        *   **Seed Treatment:** Can provide early protection against adult feeding and larval damage.
+            *   **Imidacloprid** 600 FS: 4-7 ml per kg of seed.
+        *   **Foliar Spray:** If adult feeding is severe on young plants and seed treatment was not applied or its effect has worn off.
+            *   **Chlorpyrifos** 20 EC: 500 ml per acre (in 200-300 L of water).
+
+**3. Sawflies (e.g., Wheat Stem Sawfly):**
+*   **Wheat Stem Sawfly (Cephus spp.):** Larvae bore into wheat stems, feeding internally and causing the stem to weaken and lodge (fall over), especially before harvest. This leads to significant yield loss and difficulty in harvesting.
+    *   **Control:**
+        *   **Cultural Practices:** These are often the most effective for sawflies.
+            *   Sow resistant varieties if available and recommended for your region.
+            *   Early harvesting can reduce the number of larvae that successfully overwinter in stubble.
+            *   Deep ploughing after harvest can expose and kill overwintering larvae in stubble.
+        *   **Chemical Control:** Targeting adult sawflies before they lay eggs is crucial, as larvae are protected inside the stem. Apply if adult populations are high during the early growth stages (tillering to jointing).
+            *   **Malathion** 50 EC: 500-1000 ml per acre (in 200-300 L of water).
+            *   **Quinalphos** 25 EC: 500-800 ml per acre (in 200-300 L of water).
+            *   **Chlorpyrifos** 20 EC: 500 ml per acre (in 200-300 L of water).
+
+**Important Note:** Always read and strictly follow the label instructions of any pesticide product before use, including dosage, application method, and safety precautions. Consult with your local agricultural extension office or HAU experts for the most current and specific recommendations tailored to your farm conditions and the prevailing pest situation in Haryana.

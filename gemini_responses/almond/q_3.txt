@@ -1,0 +1,94 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding various rot types in Almond. Effective management requires an integrated approach combining cultural practices and judicious use of CIBRC-approved chemicals.
+
+Here's a scientifically verified guide for controlling rot diseases in Almond, specifically tailored for conditions in Haryana:
+
+**General Cultural Practices for Rot Prevention (Applicable to all Rot Types):**
+
+*   **Site Selection and Drainage:** Plant almonds in well-drained soils. Avoid low-lying areas prone to waterlogging, which is a major predisposing factor for most root and crown rots.
+*   **Irrigation Management:** Apply irrigation judiciously. Avoid overwatering, especially around the tree trunk. Drip irrigation is often preferred to minimize wetting of the trunk base.
+*   **Soil Health:** Maintain good soil structure and organic matter content to improve drainage and aeration.
+*   **Weed Control:** Keep the area around the tree base free of weeds to improve air circulation and reduce humidity.
+*   **Sanitation:** Remove and destroy all infected plant parts (roots, branches, mummified fruits) to reduce inoculum sources.
+*   **Avoid Injury:** Protect tree trunks from mechanical injuries during cultivation, which can create entry points for pathogens.
+*   **Resistant Rootstocks:** Where available and suitable for local conditions, consider using rootstocks known for resistance to specific rot pathogens (e.g., *Phytophthora*).
+
+---
+
+### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, and Neck Rot
+
+These rot types often share common fungal and oomycete pathogens, primarily *Phytophthora spp.* and sometimes *Armillaria mellea* (Oak Root Fungus). They affect the root system, crown (junction of root and stem), and the lower part of the trunk.
+
+**Symptoms:** Yellowing and wilting of leaves, stunted growth, dieback of branches, cankers at the soil line, reddish-brown discoloration of bark and wood, and eventual tree death.
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Improve soil drainage immediately.
+    *   Expose the crown and upper roots to air by removing soil from around the base of the trunk (tree surgery) to allow drying.
+    *   Avoid piling soil or mulch against the trunk.
+    *   For *Armillaria* (Oak Root Fungus), chemical control on established trees is very difficult. Focus on removing infected trees and roots, and consider soil solarization in affected areas before replanting.
+*   **Chemical (Drenching/Painting):**
+    *   **Fosetyl-aluminium** 80% WP: Apply as a drench at 2.5-3.0 kg per 1000 litres of water around the base of the affected trees. Repeat after 30-45 days if necessary.
+    *   **Propamocarb hydrochloride** 72.2% SL: Drench the soil around the base of the tree with a solution of 2.5-3.0 ml per litre of water.
+    *   **Metalaxyl-M** 3.75% + **Mancozeb** 64% WP: Drench the soil around the tree base with 2.5-3.0 g per litre of water.
+    *   **Copper oxychloride** 50% WP: Prepare a thick paste with water and paint the affected trunk/collar region after scraping off diseased bark. Alternatively, drench the soil around the base with 3.0 g per litre of water.
+    *   **Potassium phosphonate** (e.g., 40% SL): Apply as a drench at 5-7 ml per litre of water or as a foliar spray. This can enhance the tree's natural defense mechanisms.
+
+---
+
+### 2. Fruit Rot
+
+Almond fruits (drupes) can be affected by various fungi, leading to rot, especially under humid conditions. Common pathogens include *Monilinia spp.* (Brown Rot), *Botrytis cinerea* (Gray Mold), and *Rhizopus stolonifer* (Rhizopus Rot).
+
+**Symptoms:** Brown, soft spots on the hull or kernel, often covered with fungal growth, leading to mummification of fruits.
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Prune trees to improve air circulation within the canopy.
+    *   Remove and destroy all mummified fruits from the tree and the ground, as they serve as inoculum sources.
+    *   Harvest fruits promptly when mature.
+*   **Chemical (Foliar Sprays during fruit development):**
+    *   **Carbendazim** 50% WP: Spray at 1.0 g per litre of water.
+    *   **Thiophanate-methyl** 70% WP: Spray at 1.0 g per litre of water.
+    *   **Azoxystrobin** 23% SC: Spray at 0.5-1.0 ml per litre of water.
+    *   **Captan** 50% WP: Spray at 2.0 g per litre of water.
+    *   **Tebuconazole** 25.9% EC: Spray at 0.75 ml per litre of water.
+    *   **Fluxapyroxad** 6.25% + **Pyraclostrobin** 6.25% SC: Spray at 1.0-1.5 ml per litre of water.
+
+---
+
+### 3. Seed Rot and Seedling Rot
+
+These conditions primarily affect almond seeds during germination and young seedlings (damping-off). Pathogens like *Pythium spp.* and *Rhizoctonia solani* are common culprits.
+
+**Symptoms:** Seeds fail to germinate or rot before emergence (seed rot). Young seedlings collapse at the soil line, become water-soaked, and die (damping-off).
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Use high-quality, healthy seeds from reputable sources.
+    *   Plant seeds in well-drained, sterilized potting mix or nursery beds.
+    *   Avoid overwatering and ensure proper spacing to improve air circulation.
+*   **Chemical (Seed Treatment / Drench):**
+    *   **Thiram** 75% WS: Treat seeds at 2.5-3.0 g per kg of seed before sowing.
+    *   **Captan** 75% WS: Treat seeds at 2.0-2.5 g per kg of seed before sowing.
+    *   **Carbendazim** 50% WP: For seedling rot, drench the soil around seedlings with 1.0 g per litre of water.
+    *   **Metalaxyl-M** 31.8% ES: For *Pythium* related issues, treat seeds at 3.0 ml per kg of seed.
+    *   **Propamocarb hydrochloride** 72.2% SL: For *Pythium* related issues, drench the soil around seedlings with 2.0-3.0 ml per litre of water.
+
+---
+
+### 4. Black Rot
+
+This is not known to affect Almond as a distinct disease entity. While almond fruits can develop dark, rotted areas due to various fungal infections, 'Black Rot' is a specific disease name primarily associated with grapes (*Guignardia bidwellii*) and apples (*Botryosphaeria obtusa*).
+
+---
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for any chemical product regarding dosage, application method, safety precautions, and pre-harvest intervals.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   For specific diagnosis and tailored advice, it is always recommended to consult with local agricultural extension specialists or HAU experts, especially if the problem persists.
+
+By implementing these integrated management strategies, you can effectively control rot diseases in your almond orchard.

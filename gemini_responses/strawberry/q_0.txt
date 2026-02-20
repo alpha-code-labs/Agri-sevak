@@ -1,0 +1,82 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Strawberry cultivation in Haryana. It is crucial to follow all label instructions for any chemical product and observe pre-harvest intervals (PHI).
+
+Here's how to control the specified fungal diseases:
+
+### 1. Alternaria (Leaf Spot/Blight)
+*Alternaria alternata* can cause leaf spots and blight symptoms on strawberry leaves.
+
+*   **Chemical Control:**
+    *   **Mancozeb** 75% WP: Apply at 2.0-2.5 kg/acre (or 4-5 g/L of water for foliar spray).
+    *   **Azoxystrobin** 23% SC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+    *   **Propiconazole** 25% EC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+
+### 2. Anthracnose (Fruit Rot, Crown Rot, Leaf Spot)
+Caused by *Colletotrichum acutatum* and *Colletotrichum fragariae*, this is a serious disease affecting leaves, stolons, crowns, and fruits.
+
+*   **Chemical Control:**
+    *   **Azoxystrobin** 23% SC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+    *   **Pyraclostrobin + Metiram** 5.5% + 55% WG: Apply at 1.5 kg/acre (or 3 g/L of water for foliar spray).
+    *   **Captan** 50% WP: Apply at 2.0 kg/acre (or 4 g/L of water for foliar spray).
+    *   **Mancozeb** 75% WP: Apply at 2.0-2.5 kg/acre (or 4-5 g/L of water for foliar spray).
+    *   **Difenoconazole** 25% EC: Apply at 100 ml/acre (or 0.2-0.25 ml/L of water for foliar spray).
+
+### 3. Blast
+This is not known to affect Strawberry.
+
+### 4. Blight (General, e.g., Phytophthora Blight, Botrytis Blight)
+Blight is a general term for rapid and extensive browning, death, and decay of plant tissues. In strawberries, this can refer to various conditions like Phytophthora leather rot/blight or Botrytis grey mold/blight.
+
+*   **Chemical Control (depending on specific blight type):**
+    *   **For *Phytophthora* related blights (e.g., Leather Rot):**
+        *   **Metalaxyl-M 4% + Mancozeb 64% WP**: Apply at 1.0 kg/acre (or 2 g/L of water for foliar spray).
+        *   **Propamocarb hydrochloride** 72.2% SL: Apply at 2.0-2.5 L/acre (or 4-5 ml/L of water for drenching or foliar spray).
+    *   **For *Botrytis* related blights (Grey Mold):**
+        *   **Boscalid 25.2% + Pyraclostrobin 12.8% WG**: Apply at 300-400 g/acre (or 0.6-0.8 g/L of water for foliar spray).
+        *   **Fenhexamid** 50% WG: Apply at 1.0 kg/acre (or 2 g/L of water for foliar spray).
+        *   **Cyprodinil 37.5% + Fludioxonil 25% WG**: Apply at 300-400 g/acre (or 0.6-0.8 g/L of water for foliar spray).
+    *   **General broad-spectrum for other blights:**
+        *   **Azoxystrobin** 23% SC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+        *   **Mancozeb** 75% WP: Apply at 2.0-2.5 kg/acre (or 4-5 g/L of water for foliar spray).
+
+### 5. Brown Spot (Leaf Spot/Scorch)
+Caused by pathogens like *Mycosphaerella fragariae* (common leaf spot) or *Diplocarpon earlianum* (leaf scorch), resulting in brown or purplish spots on leaves.
+
+*   **Chemical Control:**
+    *   **Mancozeb** 75% WP: Apply at 2.0-2.5 kg/acre (or 4-5 g/L of water for foliar spray).
+    *   **Azoxystrobin** 23% SC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+    *   **Difenoconazole** 25% EC: Apply at 100 ml/acre (or 0.2-0.25 ml/L of water for foliar spray).
+    *   **Propiconazole** 25% EC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+
+### 6. Downy Mildew
+Caused by *Peronospora sparsa*, leading to purplish-red spots on leaves and a downy growth on the underside.
+
+*   **Chemical Control:**
+    *   **Metalaxyl-M 4% + Mancozeb 64% WP**: Apply at 1.0 kg/acre (or 2 g/L of water for foliar spray).
+    *   **Propamocarb hydrochloride** 72.2% SL: Apply at 2.0-2.5 L/acre (or 4-5 ml/L of water for foliar spray).
+    *   **Azoxystrobin** 23% SC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+
+### 7. Powdery Mildew
+Caused by *Podosphaera aphanis*, characterized by white powdery patches on leaves, often causing leaf curling and distortion.
+
+*   **Chemical Control:**
+    *   **Azoxystrobin** 23% SC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+    *   **Difenoconazole** 25% EC: Apply at 100 ml/acre (or 0.2-0.25 ml/L of water for foliar spray).
+    *   **Propiconazole** 25% EC: Apply at 200 ml/acre (or 0.4-0.5 ml/L of water for foliar spray).
+    *   **Myclobutanil** 10% WP: Apply at 400 g/acre (or 0.8-1 g/L of water for foliar spray).
+    *   **Sulphur** 80% WP: Apply at 2.0 kg/acre (or 4 g/L of water for foliar spray).
+
+### 8. Grey Mildew
+This term is not standard for strawberry diseases. It is highly likely referring to **Grey Mold**, caused by *Botrytis cinerea*, which is a very common and destructive disease of strawberry fruits, flowers, and leaves.
+
+*   **Chemical Control (for Grey Mold):**
+    *   **Boscalid 25.2% + Pyraclostrobin 12.8% WG**: Apply at 300-400 g/acre (or 0.6-0.8 g/L of water for foliar spray).
+    *   **Fenhexamid** 50% WG: Apply at 1.0 kg/acre (or 2 g/L of water for foliar spray).
+    *   **Cyprodinil 37.5% + Fludioxonil 25% WG**: Apply at 300-400 g/acre (or 0.6-0.8 g/L of water for foliar spray).
+    *   **Captan** 50% WP: Apply at 2.0 kg/acre (or 4 g/L of water for foliar spray).
+
+### General Recommendations for Disease Management:
+*   **Cultural Practices:** Implement good sanitation (remove infected plant parts), ensure proper plant spacing for air circulation, avoid overhead irrigation, and use disease-free planting material.
+*   **Fungicide Rotation:** To prevent the development of fungicide resistance, rotate fungicides with different modes of action.
+*   **Timing:** Apply fungicides preventively or at the very first sign of disease symptoms.
+*   **Spray Coverage:** Ensure thorough coverage of all plant parts, especially the undersides of leaves and developing fruits.
+*   **Consult Experts:** Always consult with local agricultural extension services or HAU experts for the most current and specific recommendations for your region and specific strawberry varieties.

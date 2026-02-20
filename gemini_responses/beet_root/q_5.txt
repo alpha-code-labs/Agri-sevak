@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling the mentioned conditions in Beet Root in Haryana:
+
+### Control of Scab in Beet Root
+
+Scab in beet root is primarily caused by soil-borne bacteria, mainly *Streptomyces scabies*, which can lead to rough, corky lesions on the root surface, reducing marketability.
+
+**Integrated Management Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** Implement a strict crop rotation program, avoiding susceptible crops (like potato, radish, carrot) for at least 3-4 years in the same field.
+    *   **Soil pH Management:** Scab thrives in alkaline soils (pH > 6.0). Where feasible and suitable for beet growth, maintaining a slightly acidic soil pH (5.2-6.0) can help suppress the pathogen.
+    *   **Organic Matter:** Incorporate well-decomposed organic matter into the soil to improve soil health and microbial diversity, which can naturally suppress pathogens.
+    *   **Water Management:** Ensure consistent soil moisture, especially during root development, as fluctuating moisture can exacerbate scab. Avoid water stress.
+    *   **Resistant Varieties:** If available, choose beet varieties known to have some resistance or tolerance to scab.
+
+2.  **Chemical Control (Seed Treatment & Soil Amendments):**
+    *   Direct chemical control for *Streptomyces* in the soil for established plants is limited. However, seed treatment can protect seedlings from early infection by various soil-borne pathogens.
+    *   **Seed Treatment:**
+        *   **Thiram**: Treat seeds at 2-3 g/kg of seed.
+        *   **Carbendazim**: Treat seeds at 1-2 g/kg of seed.
+    *   **Biological Control:**
+        *   **Trichoderma viride**: Apply as a soil amendment at 2.5 kg/acre, mixed with 50-100 kg of Farm Yard Manure (FYM) or compost, before sowing.
+
+### Control of Canker in Beet Root
+
+In beet root, "canker" often refers to crown and root rot diseases, particularly those caused by fungi like *Phoma betae* (causing Phoma rot or black leg) or *Rhizoctonia solani*. These can lead to sunken, necrotic lesions on the crown or root.
+
+**Integrated Management Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Certified Seeds:** Always use certified, disease-free seeds to prevent seed-borne infections.
+    *   **Crop Rotation:** Rotate beet with non-host crops for at least 3-4 years to reduce pathogen build-up in the soil.
+    *   **Field Sanitation:** Remove and destroy infected plant debris to reduce inoculum sources.
+    *   **Proper Drainage:** Ensure good soil drainage to prevent waterlogging, which favors many root rot pathogens.
+    *   **Avoid Injury:** Minimize mechanical injury to roots and crowns during cultivation, as wounds can serve as entry points for pathogens.
+    *   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can promote lush growth susceptible to disease.
+
+2.  **Chemical Control (Seed Treatment & Foliar/Soil Application):**
+    *   **Seed Treatment:**
+        *   **Thiram**: Treat seeds at 2-3 g/kg of seed.
+        *   **Carbendazim**: Treat seeds at 1-2 g/kg of seed.
+    *   **Foliar/Soil Application (if symptoms appear on crown/leaves):**
+        *   **Mancozeb**: For foliar application to manage associated leaf spots that can spread to the crown, use 2.5 g/L of water.
+        *   **Copper Oxychloride**: For foliar application, use 2.5-3 g/L of water.
+
+### Control of Gummosis in Beet Root
+
+This is not known to affect Beet Root. Gummosis is typically a condition affecting woody plants and fruit trees, characterized by the oozing of gum from the bark or fruit. Beet roots do not exhibit this symptom.
+
+### Control of Lichen in Beet Root
+
+This is not known to affect Beet Root. Lichens are symbiotic organisms (fungus and alga) that grow on surfaces like tree bark, rocks, or soil. They are non-parasitic and do not cause disease or harm to living plants, including beet roots. Their presence is often an indicator of good air quality.

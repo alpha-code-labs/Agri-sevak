@@ -1,0 +1,43 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Dieback, Twig Blight, and Tikka disease in Lemon cultivation in Haryana.
+
+---
+
+### Control of Dieback and Twig Blight in Lemon
+
+Dieback and Twig Blight are common and often interconnected problems in citrus, including Lemon. They are typically symptoms of underlying stress factors combined with fungal infections.
+
+**Causes and Contributing Factors:**
+*   **Nutritional Deficiencies:** Lack of essential micronutrients like Zinc, Copper, Manganese, and Iron.
+*   **Water Stress:** Both drought conditions and waterlogging can predispose trees.
+*   **Root Damage:** Due to poor drainage, nematodes, or mechanical injury.
+*   **Fungal Pathogens:** Primarily *Colletotrichum gloeosporioides* (causing anthracnose/twig blight) and *Diplodia natalensis* (causing stem-end rot/dieback).
+*   **Insect Pests:** Pests that cause wounds can create entry points for pathogens.
+*   **Environmental Stress:** High temperatures, salinity, or frost damage.
+
+**Integrated Control Measures:**
+
+**1. Cultural and Horticultural Practices:**
+*   **Nutrient Management:** Conduct regular soil and leaf analysis to identify deficiencies. Apply balanced fertilizers, ensuring adequate supply of macro and micronutrients.
+    *   Foliar spray of **Zinc Sulphate** (0.5%) + **Copper Sulphate** (0.2%) + **Lime** (0.5%) can correct micronutrient deficiencies and provide some fungicidal effect.
+*   **Water Management:** Provide optimal irrigation. Avoid both prolonged drought and waterlogging conditions. Ensure good drainage in the orchard.
+*   **Pruning:** Regularly remove all dead, diseased, and weak twigs/branches. Prune during dry weather to minimize the spread of pathogens. Disinfect pruning tools with a **Sodium Hypochlorite** solution (1%) between cuts to prevent disease transmission.
+*   **Orchard Sanitation:** Remove and destroy fallen leaves, fruits, and pruned material to reduce inoculum sources.
+*   **Pest Control:** Manage insect pests that cause wounds, as these can serve as entry points for fungal pathogens.
+
+**2. Chemical Control (Fungicides):**
+Fungicides should be used judiciously, often as a preventive measure or at the first sign of disease, in conjunction with cultural practices.
+
+*   **Preventive Sprays (before monsoon and after fruit set):**
+    *   Spray with **Copper Oxychloride 50% WP** at 3 g/L of water.
+    *   Alternatively, spray with **Mancozeb 75% WP** at 2.5 g/L of water.
+*   **Curative Sprays (if fungal infection is established):**
+    *   Spray with **Carbendazim 50% WP** at 1 g/L of water.
+    *   Alternatively, use a combination product like **Carbendazim 12% + Mancozeb 63% WP** at 2 g/L of water.
+    *   For severe infections, systemic fungicides such as **Propiconazole 25% EC** at 0.5 ml/L of water or **Azoxystrobin 23% SC** at 0.5-1 ml/L of water can be effective.
+*   **Trunk Paint:** For cankers or lesions on the main stem, prepare a paste of **Copper Oxychloride 50% WP** (50 g) in 100 ml of water and apply it to the affected areas.
+
+---
+
+### Tikka Disease
+
+This is not known to affect Lemon. Tikka disease is a common fungal disease primarily affecting groundnut (peanut) caused by *Cercospora arachidicola* and *Cercosporidium personatum*.

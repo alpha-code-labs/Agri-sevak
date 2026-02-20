@@ -1,0 +1,46 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Dieback, Twig blight, and Tikka disease in Apricot in Haryana.
+
+---
+
+### Control of Dieback and Twig Blight in Apricot
+
+Dieback and Twig blight are common problems in apricot, often caused by various fungal pathogens (e.g., *Botryosphaeria spp.*, *Cytospora spp.*, *Monilinia laxa*) or physiological stress. Effective management involves a combination of cultural practices and timely chemical interventions.
+
+**1. Cultural Practices:**
+
+*   **Pruning:**
+    *   Regularly inspect trees and prune out all diseased, dead, or dying branches well into the healthy wood (at least 15-20 cm below the visible symptoms).
+    *   Perform pruning during dry weather to minimize disease spread.
+    *   Sterilize pruning tools (secateurs, saws) with a 10% bleach solution or methylated spirit between cuts and between trees to prevent the spread of pathogens.
+*   **Wound Protection:**
+    *   After pruning, especially for larger cuts, immediately apply a fungicidal paste to protect the wounds from pathogen entry. A common recommendation is a paste made from:
+        *   **Carbendazim** (e.g., 10 g of Carbendazim 50% WP mixed with 100 ml of linseed oil or cow dung slurry).
+*   **Orchard Sanitation:**
+    *   Remove and destroy all pruned material, fallen leaves, and mummified fruits from the orchard floor. Burning or deep burying these materials helps reduce the inoculum source.
+*   **Nutrient Management:**
+    *   Ensure balanced fertilization based on soil test reports. Avoid excessive nitrogen, which can promote lush, succulent growth that is more susceptible to disease.
+*   **Water Management:**
+    *   Provide adequate and timely irrigation, avoiding both water stress (drought) and waterlogging, as both can predispose trees to dieback.
+*   **Pest Control:**
+    *   Manage insect pests that can cause wounds, as these wounds serve as entry points for dieback pathogens.
+*   **Stress Reduction:**
+    *   Protect trees from frost damage and mechanical injuries.
+
+**2. Chemical Control (Fungicides):**
+
+*   **Dormant Spray (Post-harvest/Pre-bloom):**
+    *   Apply a broad-spectrum fungicide during the dormant period (after leaf fall or before bud break) to reduce overwintering inoculum.
+        *   Spray with **Copper oxychloride** at 3 kg/acre (or 3 g/L water).
+*   **Preventive Sprays (During active growth, if disease pressure is high or historically present):**
+    *   If dieback and twig blight have been a recurring problem, preventive sprays can be applied during critical growth stages (e.g., at bud swell, petal fall).
+    *   Rotate fungicides with different modes of action to prevent resistance development.
+        *   Spray with **Carbendazim** at 0.5 g/L water.
+        *   Alternatively, spray with **Thiophanate-methyl** at 0.75 g/L water.
+        *   Another option is a contact fungicide like **Mancozeb** at 2.5 g/L water.
+    *   Consult local HAU experts for precise timing based on local weather conditions and disease incidence.
+
+---
+
+### Tikka Disease
+
+This is not known to affect Apricot. Tikka disease (also known as Early Leaf Spot or Late Leaf Spot) is primarily a disease of groundnut (peanut) caused by *Cercospora arachidicola* and *Cercosporidium personatum*.

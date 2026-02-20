@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling pests in potato crops in Haryana:
+
+It is important to note that not all listed pests are significant threats to potato. We will address each specifically.
+
+### Borers (e.g., Potato Tuber Moth - *Phthorimaea operculella*) and Caterpillars (e.g., Cutworms - *Agrotis spp.*, Armyworms, Potato Tuber Moth larvae)
+
+These pests can cause significant damage to potato crops, ranging from defoliation to direct tuber damage. Integrated Pest Management (IPM) is crucial for effective control.
+
+**Integrated Pest Management (IPM) Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Deep Planting and Earthing Up:** Ensure tubers are well covered with soil (at least 10-15 cm) to prevent egg-laying and larval entry, especially for potato tuber moth. Regular earthing up is vital throughout the growing season.
+    *   **Field Sanitation:** Remove and destroy crop residues, volunteer potato plants, and weeds that can harbor pests.
+    *   **Timely Harvesting:** Harvest tubers promptly once mature to minimize field exposure to pests like potato tuber moth.
+    *   **Proper Storage:** Store tubers in well-ventilated, cool, and dark conditions. Cover potato heaps with a layer of dry sand or straw to prevent potato tuber moth infestation in storage.
+    *   **Irrigation:** Light irrigation can sometimes bring cutworms to the soil surface, making them vulnerable to predators or manual collection.
+
+2.  **Biological Control:**
+    *   **Biopesticides:** Apply formulations of **Bacillus thuringiensis (Bt)**, which are effective against young caterpillars. Follow manufacturer's instructions for dosage.
+    *   **Pheromone Traps:** Install pheromone traps for potato tuber moth at 20 traps/acre to monitor pest activity and for mass trapping.
+
+3.  **Chemical Control (as a last resort and based on economic threshold levels):**
+    *   **For Foliar Feeding Caterpillars and Borers (e.g., Potato Tuber Moth larvae on foliage/stems):**
+        *   **Chlorantraniliprole** 18.5% SC: 60 ml/acre (in 200-400 L water).
+        *   **Emamectin benzoate** 5% SG: 80-100 g/acre (in 200-400 L water).
+        *   **Spinosad** 45% SC: 60-75 ml/acre (in 200-400 L water).
+        *   **Indoxacarb** 14.5% SC: 200 ml/acre (in 200-400 L water).
+    *   **For Cutworms (soil drench/spray at base of plants, especially evening application):**
+        *   **Lambda-cyhalothrin** 5% EC: 200 ml/acre (in 200-400 L water).
+        *   **Chlorpyrifos** 20% EC: 1.0 L/acre (in 200-400 L water).
+        *   **Fipronil** 5% SC: 400-600 ml/acre (in 200-400 L water).
+
+### Diamondback moth (*Plutella xylostella*)
+
+This is not known to affect Potato. It is primarily a pest of cruciferous crops (e.g., cabbage, cauliflower, mustard).
+
+### Leaf folder
+
+This is not known to affect Potato as a significant or primary pest. While some generalist caterpillars might occasionally fold leaves, there is no specific "leaf folder" pest causing economic damage in potato.

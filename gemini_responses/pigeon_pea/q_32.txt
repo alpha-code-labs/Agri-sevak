@@ -1,0 +1,78 @@
+Namaste Kisan Bhaiyon,
+
+The symptom of "Drying up" in Pigeon pea (drying branches, leaves, fruits, and flowers) is a serious concern and can be attributed to a combination of abiotic stresses and biotic factors, primarily fungal diseases. As a Senior Agronomist at HAU, Hisar, I advise a thorough diagnosis to identify the exact cause, followed by an integrated management approach.
+
+Here are the common causes and their management strategies:
+
+### I. Abiotic Factors (Non-Disease Related)
+
+1.  **Drought Stress:** Prolonged lack of moisture can lead to wilting and drying of the entire plant.
+    *   **Management:**
+        *   Ensure timely and adequate irrigation, especially during critical growth stages (flowering and pod development).
+        *   Practice mulching to conserve soil moisture.
+
+2.  **Waterlogging:** Excessive water in the root zone for extended periods can lead to root rot and subsequent wilting and drying, mimicking drought symptoms.
+    *   **Management:**
+        *   Improve field drainage by creating proper channels.
+        *   Avoid planting in low-lying areas prone to water accumulation.
+        *   Raise beds for planting in problematic areas.
+
+3.  **Nutrient Deficiencies:** Severe deficiencies of certain nutrients can lead to poor plant health and premature drying.
+    *   **Management:**
+        *   Conduct soil testing to identify specific nutrient imbalances.
+        *   Apply balanced fertilizers as per soil test recommendations.
+
+### II. Biotic Factors (Diseases)
+
+The most common and devastating causes of "drying up" in Pigeon pea are fungal diseases:
+
+#### 1. Fusarium Wilt (Caused by *Fusarium udum*)
+
+This is the most widespread and destructive disease causing drying in Pigeon pea.
+*   **Symptoms:** Plants show yellowing, drooping, and wilting of leaves, often starting from one side of the plant or a single branch. This progresses to complete drying and death of the plant. Splitting the stem of an infected plant reveals dark brown to black discoloration of the vascular tissues.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Use resistant or tolerant varieties recommended for Haryana (e.g., HAU varieties).
+        *   Practice crop rotation with non-host crops (e.g., cereals) for at least 3-4 years.
+        *   Remove and destroy infected plant debris to reduce inoculum.
+        *   Deep summer ploughing helps expose fungal spores to sunlight, reducing their viability.
+    *   **Biological Control:**
+        *   Seed treatment with *Trichoderma viride* or *Trichoderma harzianum* (1% WP) at 5-10 g/kg seed.
+    *   **Chemical Control (Seed Treatment):**
+        *   Treat seeds with **Carbendazim 50% WP** at 2 g/kg seed.
+        *   Alternatively, use **Thiophanate-methyl 70% WP** at 2 g/kg seed.
+
+#### 2. Phytophthora Stem Blight (Caused by *Phytophthora drechsleri f. sp. cajani*)
+
+This disease is particularly severe under prolonged wet and humid conditions.
+*   **Symptoms:** Characterized by dark brown, water-soaked lesions on the stem, usually near the ground level, which girdle the stem. This leads to sudden wilting and drying of branches or the entire plant above the lesion. Leaves may also show blight symptoms.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Use resistant or tolerant varieties.
+        *   Ensure good field drainage to avoid waterlogging.
+        *   Avoid dense planting to improve air circulation.
+        *   Remove and destroy infected plants.
+    *   **Chemical Control (Seed Treatment):**
+        *   Treat seeds with **Metalaxyl-M 35% WS** at 3-4 g/kg seed.
+        *   Alternatively, use a combination product like **Metalaxyl-M 4% + Mancozeb 64% WP** at 2.5-3 g/kg seed.
+    *   **Chemical Control (Foliar Spray/Drench):**
+        *   For standing crops, especially if symptoms appear, drench the soil around the base of the plants or spray foliage with **Metalaxyl-M 4% + Mancozeb 64% WP** at 2-2.5 g/L water.
+        *   Alternatively, spray with **Fosetyl-Al 80% WP** at 2.5 g/L water.
+
+#### 3. Dry Root Rot (Caused by *Rhizoctonia bataticola*)
+
+This disease is more prevalent in hot and dry conditions, often following periods of water stress.
+*   **Symptoms:** Plants show sudden wilting and drying, often in patches. The roots become brittle, and the bark peels off easily, revealing black sclerotia (small, hard fungal structures) on the root surface.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Practice crop rotation.
+        *   Deep summer ploughing.
+        *   Maintain optimal soil moisture to avoid water stress.
+    *   **Biological Control:**
+        *   Seed treatment with *Trichoderma viride* or *Trichoderma harzianum* (1% WP) at 5-10 g/kg seed.
+    *   **Chemical Control (Seed Treatment):**
+        *   Treat seeds with **Carbendazim 50% WP** at 2 g/kg seed.
+        *   Alternatively, use **Thiram 75% WS** at 2.5-3 g/kg seed.
+
+**Important Note:**
+It is crucial to correctly identify the specific cause of "drying up" as management strategies differ. I strongly recommend consulting with your local agricultural extension officer or visiting the plant disease diagnostic lab at HAU, Hisar, with a sample of the affected plant for an accurate diagnosis. An integrated approach combining cultural, biological, and judicious chemical methods is most effective for sustainable management.

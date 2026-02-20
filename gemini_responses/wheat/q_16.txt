@@ -1,0 +1,63 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for irrigated wheat in Haryana. Please note that these are general recommendations, and a precise fertilizer schedule should always be based on a recent soil test report from your specific field.
+
+**General Nutrient Recommendation for Irrigated Wheat in Haryana:**
+*   Nitrogen (N): 150 kg/acre
+*   Phosphorus (P2O5): 60 kg/acre
+*   Potassium (K2O): 40 kg/acre
+*   Sulphur (S): 20 kg/acre
+
+Based on these nutrient requirements, here are the recommended doses for specific fertilizers:
+
+### Recommended Fertilizer Doses
+
+1.  **Urea**
+    *   **Dose:** Approximately 275 kg/acre
+    *   **Application:**
+        *   One-third of the total Nitrogen (approx. 90 kg **Urea**) at sowing.
+        *   One-third (approx. 90 kg **Urea**) at the first irrigation (around 21-25 days after sowing).
+        *   One-third (approx. 95 kg **Urea**) at the second irrigation (around 45-50 days after sowing).
+    *   *Note:* This calculation assumes **Di-ammonium Phosphate** is used for Phosphorus, which also contributes some Nitrogen. If **Single Super Phosphate** is used, the **Urea** dose will be higher (approx. 326 kg/acre, split similarly).
+
+2.  **Nano-Urea**
+    *   **Dose:** 2-4 ml/L of water (for foliar spray)
+    *   **Application:** Two foliar sprays are recommended.
+        *   First spray: At the active tillering stage.
+        *   Second spray: At the jointing/booting stage.
+    *   **Benefit:** Nano-Urea can supplement granular **Urea** and potentially reduce its requirement by up to 50% when used effectively. It is not a complete replacement for basal granular **Urea**.
+
+3.  **Di-ammonium Phosphate (DAP)**
+    *   **Dose:** Approximately 130 kg/acre
+    *   **Application:** Apply the entire dose at the time of sowing.
+    *   **Nutrient Contribution:** This dose provides 60 kg P2O5 and approximately 23.4 kg N.
+
+4.  **Nano-DAP**
+    *   **Dose:** 2-4 ml/L of water (for foliar spray)
+    *   **Application:** Two foliar sprays are recommended.
+        *   First spray: At the tillering stage.
+        *   Second spray: At the flowering/grain filling stage.
+    *   **Benefit:** Nano-DAP can supplement granular **Di-ammonium Phosphate** and potentially reduce its requirement when used effectively. It is not a complete replacement for basal granular **Di-ammonium Phosphate**.
+
+5.  **NPK (Complex Fertilizers)**
+    *   **Dose:** The dose depends on the specific NPK grade (e.g., 12:32:16, 10:26:26, 19:19:19) and the nutrient requirement.
+    *   **Application:** Generally applied at sowing.
+    *   **Guidance:** If using a complex NPK fertilizer, calculate the amount required to meet the P2O5 and K2O needs. The remaining Nitrogen requirement should be supplemented with **Urea**. For example, to provide 60 kg P2O5 using **NPK (12:32:16)**, you would need approximately 187.5 kg/acre, which would also supply 22.5 kg N and 30 kg K2O. The remaining N (150 - 22.5 = 127.5 kg) and K2O (40 - 30 = 10 kg) would need to be supplied by **Urea** and **Muriate of Potash** respectively.
+
+6.  **Single Super Phosphate (SSP)**
+    *   **Dose:** Approximately 375 kg/acre
+    *   **Application:** Apply the entire dose at the time of sowing.
+    *   **Benefit:** **Single Super Phosphate** provides 60 kg P2O5 and also supplies approximately 41 kg of Sulphur, which often covers the Sulphur requirement for wheat. If using **Single Super Phosphate**, the **Urea** dose would be higher (approx. 326 kg/acre) as it does not contribute Nitrogen like **Di-ammonium Phosphate**.
+
+7.  **Potash (Muriate of Potash)**
+    *   **Dose:** Approximately 67 kg/acre
+    *   **Application:** Apply the entire dose at the time of sowing.
+
+8.  **Sulphur**
+    *   **Dose:** 20 kg/acre
+    *   **Application:** Apply at the time of sowing.
+    *   **Form:** If **Single Super Phosphate** is used, it generally provides sufficient Sulphur. If **Di-ammonium Phosphate** is used, then Sulphur should be applied separately, for example, using approximately 22 kg/acre of **Elemental Sulphur** (90% S) or through other Sulphur-containing fertilizers like Gypsum.
+
+### Important Considerations:
+
+*   **Soil Testing:** Always prioritize soil testing. A soil test report provides precise information on nutrient availability in your field and helps in tailoring fertilizer recommendations, preventing over-application or under-application of nutrients.
+*   **Micronutrients:** Wheat also requires micronutrients like Zinc, Manganese, and Iron. If soil tests indicate deficiencies, these should be applied as per recommendations. For example, 10 kg/acre of **Zinc Sulphate heptahydrate** (21% Zn) or 6 kg/acre of **Zinc Sulphate monohydrate** (33% Zn) at sowing if Zinc is deficient.
+*   **Organic Matter:** Incorporating farmyard manure (FYM) or compost can significantly improve soil health and nutrient availability, potentially reducing the need for chemical fertilizers.

@@ -1,0 +1,97 @@
+Namaste Kisan Bhaiyon,
+
+The symptom of "drying up" in Lemon, affecting branches, leaves, fruits, and flowers, is a general indication of stress or disease and requires careful observation to identify the root cause. As a Senior Agronomist at HAU, Hisar, I advise you to meticulously examine your plants for specific signs before applying any treatment.
+
+Here are the common causes for such symptoms in Lemon, prevalent in Haryana, and their recommended management strategies:
+
+**I. Potential Causes of Drying Up:**
+
+1.  **Abiotic Stresses:**
+    *   **Water Stress:** Both severe drought (under-watering) and waterlogging (over-watering leading to root rot) can cause wilting and drying.
+    *   **Nutrient Deficiencies/Imbalances:** Lack of essential micronutrients (e.g., Zinc, Boron, Iron) or macronutrients (e.g., Potassium) can lead to poor plant health and drying.
+    *   **Salinity/Alkalinity:** High salt content or pH in soil/water can impair water and nutrient uptake, causing leaf scorch and drying.
+    *   **Temperature Extremes:** Severe heat stress or frost damage can lead to drying of affected parts.
+
+2.  **Fungal Diseases:**
+    *   **Dieback (e.g., *Colletotrichum gloeosporioides*, *Diplodia natalensis*):** Characterized by drying of twigs and branches, usually starting from the tip and progressing downwards. Often associated with wounds or stress.
+    *   **Gummosis/Foot Rot (*Phytophthora* species):** Affects the collar region and roots, leading to bark cracking, gum exudation, yellowing, wilting, and eventual drying of branches or the entire plant.
+    *   **Wilt (e.g., *Fusarium* species):** Affects the vascular system, causing sudden wilting and drying of leaves and branches.
+    *   **Root Rot (various fungi):** Damage to roots impairs water and nutrient uptake, leading to general decline and drying.
+
+3.  **Bacterial Diseases:**
+    *   **Citrus Canker (*Xanthomonas citri subsp. citri*):** Causes raised, corky lesions on leaves, twigs, and fruits. Severe infection can lead to defoliation and twig dieback.
+    *   **Citrus Greening (Huanglongbing - HLB):** Caused by *Candidatus Liberibacter asiaticus*, transmitted by the citrus psyllid. Symptoms include blotchy mottle on leaves, yellowing, stunted growth, premature fruit drop, and eventual decline and drying of branches. This is a very serious disease with no cure for the infected tree.
+
+4.  **Pests:**
+    *   **Trunk and Twig Borers (e.g., *Indarbela quadrinotata*):** Larvae bore into the wood, disrupting sap flow, causing drying of the affected branches. Look for boreholes and frass (excreta).
+    *   **Nematodes (e.g., Citrus Nematode - *Tylenchulus semipenetrans*):** Damage roots, leading to poor nutrient and water uptake, causing general decline, yellowing, and drying symptoms.
+    *   **Mites (e.g., Citrus Red Mite, Broad Mite):** Severe infestations can cause bronzing, defoliation, and overall stress leading to drying.
+
+**II. Diagnostic Steps for Farmers:**
+
+Before applying any treatment, carefully observe your plants for the following:
+*   **Pattern of Drying:** Is it random, tip-down, from the base, or affecting specific branches?
+*   **Trunk/Branch Examination:** Look for cracks, gumming, boreholes, or discolouration.
+*   **Leaf Symptoms:** Check for spots, lesions, yellowing patterns (e.g., blotchy mottle for HLB), or insect presence.
+*   **Root Examination:** Gently expose some roots to check for rot, galls (nematodes), or discolouration.
+*   **Soil Conditions:** Assess soil moisture, drainage, and any signs of salinity.
+
+**III. General Management Practices (Preventive and Supportive):**
+
+*   **Proper Irrigation:** Ensure adequate, but not excessive, watering. Avoid waterlogging. Use drip irrigation for efficient water use.
+*   **Balanced Nutrition:** Apply recommended doses of macro and micronutrients based on soil testing.
+*   **Pruning:** Remove all dead, diseased, or weak branches immediately. Prune during dry weather to minimize disease spread. Disinfect pruning tools with a 1% Sodium Hypochlorite solution after each cut.
+*   **Weed Control:** Keep the area around the tree free of weeds to reduce competition for nutrients and water.
+*   **Orchard Hygiene:** Remove fallen leaves, fruits, and diseased plant parts from the orchard.
+*   **Resistant Rootstocks:** Where possible, use rootstocks resistant to diseases like gummosis and nematodes.
+
+**IV. Specific Management (Once the Cause is Identified):**
+
+Based on your observations, here are the recommended treatments using CIBRC approved chemicals:
+
+1.  **For Fungal Dieback:**
+    *   Prune affected branches well below the dried portion. Apply a fungicidal paste to the cut ends.
+    *   Spray the tree with:
+        *   **Copper Oxychloride** 3 g/L of water
+        *   OR **Carbendazim** 1 g/L of water
+        *   OR **Propiconazole** 0.5 ml/L of water
+    *   Repeat spray after 15-20 days if symptoms persist.
+
+2.  **For Gummosis/Foot Rot (*Phytophthora* species):**
+    *   Scrape off the infected bark and apply a paste of:
+        *   **Copper Oxychloride** (50 g in 1 litre of water) to the affected trunk area.
+    *   Drench the soil around the tree base with:
+        *   **Fosetyl-Al** 2.5 g/L of water (5-10 litres per tree depending on size).
+    *   Ensure good drainage around the tree base.
+
+3.  **For Trunk and Twig Borers:**
+    *   Locate the boreholes. Inject a solution of:
+        *   **Chlorpyrifos** 2.5 ml/L of water into the boreholes using a syringe and plug the holes with mud.
+    *   For severe infestations, swabbing the trunk and main branches with **Chlorpyrifos** 20 ml/L of water can be done.
+
+4.  **For Nematodes:**
+    *   Apply nematicides to the soil around the root zone:
+        *   **Carbofuran 3G** at 33 kg/acre (broadcast and incorporate into the soil).
+    *   Alternatively, apply organic amendments like Neem cake (2-4 kg/tree) which has nematicidal properties.
+
+5.  **For Citrus Greening (HLB):**
+    *   There is no chemical cure for the infected tree.
+    *   **Remove and destroy severely infected trees** to prevent spread.
+    *   **Control the vector (Citrus Psyllid)** by regular spraying:
+        *   **Imidacloprid** 0.3 ml/L of water
+        *   OR **Thiamethoxam** 0.2 g/L of water
+    *   Rotate insecticides to prevent resistance development.
+
+6.  **For Micronutrient Deficiencies:**
+    *   Spray a mixture of micronutrients:
+        *   **Zinc Sulphate** (0.5%) + **Ferrous Sulphate** (0.2%) + **Boric Acid** (0.1%) + **Manganese Sulphate** (0.2%) + **Copper Sulphate** (0.1%) + **Molybdenum** (0.01%) + **Urea** (1%) in 100 litres of water.
+    *   Apply 2-3 sprays at monthly intervals during the active growth period.
+
+**Important Considerations:**
+
+*   Always read the label instructions carefully before using any chemical.
+*   Wear appropriate personal protective equipment (PPE) during application.
+*   Avoid spraying during flowering to protect pollinators.
+*   Consult with the HAU extension services or a local agricultural expert if you are unsure about the diagnosis or treatment.
+
+By carefully observing your lemon trees and implementing these scientifically verified practices, you can effectively address the issue of drying up and ensure the health and productivity of your orchard.

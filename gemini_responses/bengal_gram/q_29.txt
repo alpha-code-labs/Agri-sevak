@@ -1,0 +1,69 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice regarding "dropping" in Bengal Gram (Chickpea).
+
+Firstly, it's important to clarify the terminology. In Bengal Gram, the reproductive parts are flowers and pods. "Tinda" is a type of gourd, and "Boll" refers to the fruit of cotton. Therefore, we will address this issue as **Flower and Pod Drop** in Bengal Gram.
+
+Flower and pod drop is a significant physiological disorder in Bengal Gram, often leading to substantial yield losses. It is primarily caused by various environmental stresses and nutrient imbalances, though pest infestations can also contribute.
+
+**Causes of Flower and Pod Drop in Bengal Gram:**
+
+1.  **Physiological Factors:**
+    *   **Water Stress:** Both drought conditions (lack of moisture) and waterlogging (excess moisture) during critical stages (flowering and pod development) can lead to shedding.
+    *   **Temperature Extremes:** High temperatures (above 30-35°C) or sudden drops in temperature during flowering can cause abortion.
+    *   **Nutrient Deficiencies:** Lack of essential micronutrients like Boron and Molybdenum, or macronutrients like Phosphorus and Potassium, can impair flower and pod development.
+    *   **Hormonal Imbalance:** An imbalance of plant growth hormones (e.g., high abscisic acid relative to auxins) can trigger abscission.
+    *   **Poor Pollination:** Adverse weather or lack of pollinators can result in unfertilized flowers that drop.
+    *   **Excessive Vegetative Growth:** If the plant invests too much energy in leaf production, it may shed reproductive structures.
+
+2.  **Pest Factors:**
+    *   **Gram Pod Borer (Helicoverpa armigera):** This is the most destructive pest. Larvae feed on flowers and young pods, causing them to drop prematurely.
+
+**Control Measures for Flower and Pod Drop in Bengal Gram:**
+
+Effective management involves a combination of agronomic practices, hormonal interventions, and pest control.
+
+**I. Agronomic Management:**
+
+1.  **Water Management:**
+    *   Provide critical irrigation at the pre-flowering and pod development stages if there is insufficient soil moisture.
+    *   Ensure proper drainage to avoid waterlogging, which can be equally detrimental.
+
+2.  **Nutrient Management:**
+    *   Apply balanced fertilizers based on soil test recommendations.
+    *   Ensure adequate supply of Phosphorus (P) and Potassium (K).
+    *   Consider foliar application of micronutrients if deficiencies are suspected:
+        *   **Boron:** 0.1% solution (1 g Borax per litre of water) at pre-flowering stage.
+        *   **Molybdenum:** 0.05% solution (0.5 g Sodium Molybdate per litre of water) at pre-flowering stage.
+
+3.  **Variety Selection:**
+    *   Choose Bengal Gram varieties that are well-adapted to the local climatic conditions of Haryana and are known for better pod retention.
+
+4.  **Weed Control:**
+    *   Keep the field free of weeds, as they compete for water, nutrients, and light, stressing the plants.
+
+**II. Hormonal Management (Plant Growth Regulators):**
+
+1.  **Naphthalene Acetic Acid (NAA):**
+    *   Foliar spray of **Naphthalene Acetic Acid (NAA)** (4.5% SL formulation) at a concentration of 40-80 ml per acre, mixed in 200 litres of water.
+    *   Apply the first spray at the initiation of flowering and a second spray 10-15 days later, if needed. This helps in reducing flower and pod drop by improving hormonal balance.
+
+**III. Pest Management (Primarily Gram Pod Borer):**
+
+The Gram Pod Borer is a major cause of flower and pod drop. Integrated Pest Management (IPM) strategies are crucial.
+
+1.  **Monitoring:**
+    *   Install pheromone traps at 5 traps per acre to monitor adult moth activity. This helps in timely detection and decision-making for control measures.
+
+2.  **Biological Control:**
+    *   Spray **Bacillus thuringiensis (Bt)** (liquid formulation) at 1-2 litres per acre, mixed in 200-400 litres of water, during early larval stages. This is an eco-friendly option.
+
+3.  **Chemical Control (if infestation crosses Economic Threshold Level - ETL):**
+    *   If the infestation of pod borer is severe (more than 1-2 larvae per plant or significant damage observed), consider spraying CIBRC approved insecticides:
+        *   **Emamectin Benzoate 5% SG:** 220 g per acre
+        *   **Chlorantraniliprole 18.5% SC:** 60 ml per acre
+        *   **Flubendiamide 20% WG:** 50 g per acre
+        *   **Indoxacarb 14.5% SC:** 200 ml per acre
+        *   **Lambda-cyhalothrin 5% EC:** 200 ml per acre
+        *   **Spinosad 45% SC:** 64 ml per acre
+    *   Ensure thorough coverage of the plant canopy, especially the flowering and podding parts. Rotate insecticides with different modes of action to prevent resistance development.
+
+By implementing these integrated measures, you can significantly reduce flower and pod drop and improve the yield of your Bengal Gram crop. Always consult with local agricultural extension services for specific recommendations tailored to your field conditions.

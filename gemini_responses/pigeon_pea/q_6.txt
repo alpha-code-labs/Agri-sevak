@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling viral diseases in Pigeon pea (Arhar/Tur) in Haryana:
+
+Viral diseases in Pigeon pea are challenging to manage as there are no direct chemical cures for infected plants. The primary focus is on integrated pest management (IPM) strategies, including the use of resistant varieties, cultural practices, and controlling the insect/mite vectors that transmit these viruses.
+
+Here's how to control the mentioned conditions:
+
+### 1. Pigeon pea Leaf Curl (PPLCV) and Yellow Vein Clearing
+
+These symptoms are often associated with begomoviruses, primarily transmitted by whiteflies.
+
+*   **Resistant Varieties:** Cultivate varieties known to be resistant or tolerant to leaf curl virus. Consult HAU recommendations for suitable varieties in Haryana.
+*   **Cultural Practices:**
+    *   **Rogueing:** Regularly inspect fields and remove and destroy infected plants showing leaf curl or yellow vein clearing symptoms, especially in the early stages, to prevent further spread.
+    *   **Timely Sowing:** Adhere to recommended sowing dates to avoid peak whitefly populations.
+    *   **Field Hygiene:** Remove weeds that can act as alternate hosts for whiteflies and viruses.
+*   **Vector Control (Whiteflies):** Apply insecticides to manage whitefly populations, especially during the early crop stages when plants are most vulnerable.
+    *   **Imidacloprid 17.8% SL:** 125-150 ml per acre (diluted in 200-400 L of water).
+    *   **Thiamethoxam 25% WG:** 50-100 g per acre (diluted in 200-400 L of water).
+    *   **Buprofezin 25% SC:** 500-600 ml per acre (diluted in 200-400 L of water).
+    *   **Acetamiprid 20% SP:** 50-100 g per acre (diluted in 200-400 L of water).
+
+### 2. Pigeon pea Sterility Mosaic (PPSMV) and Stunt Virus
+
+Pigeon pea Sterility Mosaic Virus (PPSMV) is a major viral disease causing significant yield losses, characterized by mosaic symptoms, stunting, and sterility. It is transmitted by the eriophyid mite, *Aceria cajani*. Other stunt viruses may also be present, often with similar control strategies.
+
+*   **Resistant Varieties:** The most effective control measure is to plant resistant or tolerant varieties. HAU has developed and recommends several such varieties.
+*   **Cultural Practices:**
+    *   **Rogueing:** Remove and destroy infected plants showing mosaic, stunting, or sterility symptoms as soon as they are noticed to reduce inoculum.
+    *   **Timely Sowing:** Follow recommended sowing schedules.
+    *   **Field Hygiene:** Control weeds and volunteer pigeon pea plants that can harbor mites and viruses.
+*   **Vector Control (Eriophyid Mites):** Acaricides can be used to manage mite populations, especially if resistant varieties are not available or if the disease incidence is high.
+    *   **Propargite 57% EC:** 1-1.5 L per acre (diluted in 200-400 L of water).
+    *   **Spiromesifen 22.9% SC:** 120-160 ml per acre (diluted in 200-400 L of water).
+    *   **Fenpyroximate 5% SC:** 200-300 ml per acre (diluted in 200-400 L of water).
+    *   **Sulphur 80% WP:** 1.5-2 kg per acre (diluted in 200-400 L of water).
+
+### 3. Stripe Virus
+
+This is not known to affect Pigeon pea.
+
+### 4. Tristeza Virus
+
+This is not known to affect Pigeon pea.
+
+### General Integrated Management Principles for Viral Diseases in Pigeon pea:
+
+*   **Use Certified Seeds:** Always use healthy, certified seeds from reliable sources to avoid seed-borne diseases.
+*   **Crop Rotation:** Practice crop rotation with non-host crops to break the disease cycle.
+*   **Nutrient Management:** Ensure balanced fertilization to promote vigorous plant growth, which can help plants tolerate stress.
+*   **Monitor Regularly:** Frequent scouting of the field for disease symptoms and vector presence is crucial for timely intervention.
+
+Always consult the latest recommendations from Haryana Agricultural University (HAU) or your local agricultural extension office for specific variety recommendations and updated pest management guidelines.

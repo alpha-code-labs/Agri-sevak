@@ -1,0 +1,27 @@
+The harmful effects of weedicides/herbicides in Sorghum (Jowar) can be significantly reduced by adopting precise management practices before, during, and after application. Prevention is the most effective strategy.
+
+**1. Before Herbicide Application (Preventative Measures):**
+
+*   **Select the Correct Herbicide:** Always choose herbicides that are specifically registered and recommended for Sorghum (Jowar) cultivation in Haryana. Consult official recommendations from HAU or the CIBRC. Using off-label herbicides is a primary cause of crop injury.
+*   **Utilize Herbicide Safeners:** For certain pre-emergence herbicides, particularly those from the chloroacetamide group (e.g., **S-metolachlor**, **metolachlor**), it is crucial to use sorghum seed that has been pre-treated with a herbicide safener. Common safeners include **fluxofenim** or **cyometrinil**. These safeners protect the sorghum plant from herbicide damage while allowing the herbicide to effectively control weeds.
+*   **Accurate Dosage:** Strictly adhere to the recommended dosage rates (e.g., kg/acre, ml/L, g/L) provided on the herbicide label and by HAU. Overdosing is a frequent cause of phytotoxicity and crop damage.
+*   **Calibrate Sprayer:** Ensure your sprayer is accurately calibrated to deliver the precise volume of spray solution per unit area. Incorrect calibration can lead to under- or over-application.
+*   **Assess Environmental Conditions:**
+    *   Avoid herbicide application during periods of crop stress, such as drought, waterlogging, or extreme temperatures (below 15°C or above 35°C). Stressed plants are significantly more susceptible to herbicide injury.
+    *   Do not apply herbicides when high winds are present to prevent drift to non-target crops or uneven application within the field.
+    *   Check the weather forecast for anticipated rainfall. Some herbicides require a specific rain-free period after application for optimal efficacy and to prevent runoff.
+*   **Correct Crop Stage and Timing:** Apply herbicides at the precise crop growth stage specified on the product label (e.g., pre-emergence, or early post-emergence at the 2-4 leaf stage of sorghum). Applying too early or too late can lead to crop injury or reduced weed control.
+*   **Ensure Sprayer Cleanliness:** Thoroughly clean the sprayer tank, hoses, and nozzles before use, especially if it was previously used for different herbicides (e.g., 2,4-D in broadleaf crops). This prevents contamination and potential carryover injury to sorghum.
+
+**2. During Herbicide Application:**
+
+*   **Uniform Coverage:** Ensure even and uniform spray coverage across the field. Use appropriate nozzles (e.g., flat fan nozzles) and maintain consistent speed and pressure during application.
+*   **Water Quality:** Use clean water for mixing the herbicide solution. Hard water or water with a high pH can sometimes reduce herbicide efficacy or increase phytotoxicity for certain formulations.
+
+**3. After Herbicide Application (If Injury Occurs):**
+
+*   **Identify the Cause:** Attempt to determine the exact cause of the injury (e.g., overdose, wrong herbicide, environmental stress, drift). Understanding the cause is crucial for preventing recurrence.
+*   **Irrigation:** If the crop shows signs of stress due to herbicide injury and soil moisture is low, a light irrigation can sometimes help dilute the herbicide in the soil and aid crop recovery, particularly if the herbicide is water-soluble and can be leached.
+*   **Nutrient Management:** Ensure the crop has adequate nutrients to support its recovery. A balanced fertilizer application (if soil tests indicate deficiencies) can help the plant overcome stress and promote regrowth.
+*   **Avoid Further Stress:** Do not apply additional chemicals (e.g., insecticides, fungicides) or impose further stress on the crop until it shows clear signs of recovery from the herbicide injury.
+*   **Monitor and Observe:** Mild herbicide injury often resolves itself as the plant grows and metabolizes the herbicide. Continuously monitor the crop for signs of recovery and new healthy growth.

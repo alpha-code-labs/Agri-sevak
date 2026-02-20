@@ -1,0 +1,41 @@
+Wilt and Parawilt are significant diseases affecting Sunflower cultivation in Haryana, leading to considerable yield losses. An integrated approach combining cultural, biological, and chemical methods is crucial for effective management.
+
+**Symptoms:**
+*   **Wilt:** Initial symptoms include yellowing and drooping of lower leaves, progressing upwards. The plant eventually wilts and dies. A brown discoloration may be observed in the vascular tissues when the stem is cut open. In cases of collar rot/stem rot (e.g., *Sclerotium rolfsii*), a white fungal growth with mustard-seed-like sclerotia may be visible at the base of the stem.
+*   **Parawilt:** Characterized by sudden wilting of plants, often without significant yellowing, especially during flowering and seed development stages. The pith of the stem may show shredding and blackening (charcoal rot symptoms), and the roots may be discolored and rotted.
+
+**Causal Agents:**
+Wilt in sunflower can be caused by several soil-borne fungi, including:
+*   *Sclerotium rolfsii* (causing collar rot/stem rot leading to wilt)
+*   *Fusarium oxysporum* f.sp. *helianthi* (causing Fusarium wilt)
+*   *Macrophomina phaseolina* (causing charcoal rot, often associated with parawilt)
+*   *Rhizoctonia bataticola* (anamorph of *Macrophomina phaseolina*, also causing parawilt/charcoal rot)
+
+**Control Measures:**
+
+**1. Cultural Practices:**
+*   **Resistant/Tolerant Varieties:** Select and plant varieties known to have resistance or tolerance to wilt diseases. Consult HAU recommendations for suitable varieties for Haryana.
+*   **Crop Rotation:** Practice a 2-3 year crop rotation with non-host crops like cereals (wheat, maize, sorghum) to reduce the inoculum load in the soil. Avoid continuous cultivation of sunflower or other susceptible crops like groundnut, soybean, or cotton.
+*   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent the build-up of fungal inoculum.
+*   **Balanced Nutrition:** Ensure balanced fertilization. Avoid excessive nitrogen, which can make plants more susceptible. Adequate potassium can improve plant vigor and resistance.
+*   **Proper Irrigation:** Avoid waterlogging, which favors many soil-borne pathogens. Provide irrigation at critical stages, but ensure good drainage. Water stress, especially during flowering, can exacerbate parawilt.
+*   **Deep Ploughing:** Deep summer ploughing can expose sclerotia and other fungal structures to solar radiation, reducing their viability.
+*   **Solarization:** In small areas, soil solarization during hot summer months can effectively reduce soil-borne pathogen populations.
+
+**2. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply at 4-5 g/kg seed. These fungi colonize the root zone and suppress pathogenic fungi.
+*   **Soil Application:**
+    *   Mix **Trichoderma viride** or **Trichoderma harzianum** (2.5 kg/acre) with 50 kg of farmyard manure (FYM) or compost, and apply to the soil before sowing.
+
+**3. Chemical Control:**
+*   **Seed Treatment (Most Critical Step):**
+    *   Treat sunflower seeds with a systemic fungicide before sowing to protect against early infection.
+        *   **Carbendazim** 50% WP: 2 g/kg seed.
+        *   **Thiram** 75% WS: 2.5-3 g/kg seed.
+        *   A combination of **Carbendazim** (1 g/kg seed) + **Thiram** (2 g/kg seed) is also highly effective.
+*   **Soil Drenching (if disease incidence is observed):**
+    *   If wilting plants are observed in patches, drench the soil around the base of the affected plants and surrounding healthy plants.
+        *   **Carbendazim** 50% WP: 1-2 g/L water. Apply 200-250 ml solution per plant.
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying chemicals.

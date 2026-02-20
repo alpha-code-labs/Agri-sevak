@@ -1,0 +1,107 @@
+"Drying up" in Cotton (Kapas) is a general symptom, not a specific disease or pest. It indicates that the plant is under severe stress, leading to the desiccation of its parts. Accurate diagnosis of the underlying cause is crucial for effective management. As a Senior Agronomist, I advise you to carefully observe the affected plants and the field conditions to identify the specific reason.
+
+Here are the common causes of drying up in Cotton (Kapas) and their management strategies:
+
+**I. Abiotic Factors (Non-Biological Causes):**
+
+1.  **Water Stress:**
+    *   **Symptoms:** Wilting, yellowing, and drying of leaves, often starting from the bottom. This can be due to:
+        *   **Drought:** Insufficient irrigation or prolonged dry spells.
+        *   **Waterlogging:** Excessive water in the root zone, leading to root damage and impaired water uptake.
+    *   **Management:**
+        *   Ensure timely and adequate irrigation based on crop stage, soil type, and weather conditions.
+        *   Improve field drainage to prevent waterlogging, especially in heavy soils. Consider raised bed planting in areas prone to waterlogging.
+2.  **Nutrient Deficiencies:**
+    *   **Symptoms:** Specific nutrient deficiencies (e.g., Potassium, Boron) can cause leaf scorching, marginal drying, or poor boll development leading to drying.
+    *   **Management:**
+        *   Conduct soil testing to identify specific nutrient imbalances.
+        *   Apply balanced fertilizers as per soil test recommendations.
+        *   Foliar application of micronutrients if deficiency is confirmed.
+3.  **Heat Stress:**
+    *   **Symptoms:** Scorching of leaves, shedding of flowers and young bolls, leading to drying of affected parts during periods of extreme high temperatures.
+    *   **Management:**
+        *   Maintain optimal soil moisture through irrigation to help plants cope with heat stress.
+        *   Consider planting heat-tolerant cotton varieties.
+4.  **Soil Salinity/Alkalinity:**
+    *   **Symptoms:** Stunted growth, marginal leaf burn, wilting, and drying due to impaired water uptake caused by high salt concentration in the soil.
+    *   **Management:**
+        *   Conduct soil analysis to determine salinity/alkalinity levels.
+        *   Apply gypsum for alkaline soils.
+        *   Leach salts with good quality irrigation water where feasible.
+5.  **Herbicide Damage:**
+    *   **Symptoms:** Yellowing, scorching, and drying of leaves and plant parts due to herbicide drift from adjacent fields or misapplication.
+    *   **Management:**
+        *   Ensure careful and precise herbicide application, avoiding drift onto cotton plants.
+        *   Use only recommended herbicides at correct dosages and application methods.
+
+**II. Biotic Factors (Diseases and Pests):**
+
+**A. Fungal Diseases:**
+
+1.  **Wilt (Fusarium Wilt, Verticillium Wilt):**
+    *   **Symptoms:** Yellowing and wilting of leaves, often starting from one side of the plant or lower leaves, progressing upwards. Eventually, the entire plant dries up. Cutting the stem reveals vascular discoloration (brownish streaks).
+    *   **Management:**
+        *   Use resistant cotton varieties.
+        *   Practice crop rotation with non-host crops.
+        *   **Seed Treatment:**
+            *   **Carbendazim** 12% + **Mancozeb** 63% WP at 2-3 g/kg seed.
+            *   **Pyraclostrobin** 5% + **Fluxapyroxad** 5% FS at 1-2 ml/kg seed.
+        *   **Soil Drench (for early stage plants):**
+            *   **Carbendazim** 50% WP at 1-2 g/L water, applied around the base of affected plants.
+2.  **Root Rot (e.g., Rhizoctonia solani, Macrophomina phaseolina):**
+    *   **Symptoms:** Sudden wilting and drying of plants, often in patches. The stem base and roots show rotting and discoloration.
+    *   **Management:**
+        *   Improve soil drainage.
+        *   Practice deep summer ploughing.
+        *   **Seed Treatment:**
+            *   **Carbendazim** 12% + **Mancozeb** 63% WP at 2-3 g/kg seed.
+            *   **Thiram** 75% WS at 2.5 g/kg seed.
+        *   **Soil Drench (for early stage plants):**
+            *   **Hexaconazole** 5% SC at 2 ml/L water, applied around the base of affected plants.
+            *   **Propiconazole** 25% EC at 1 ml/L water, applied around the base of affected plants.
+3.  **Anthracnose (Colletotrichum gossypii):**
+    *   **Symptoms:** Can cause lesions on leaves, stems, and bolls. Infected bolls may rot and dry prematurely.
+    *   **Management:**
+        *   Use disease-free seeds.
+        *   **Foliar Spray:**
+            *   **Carbendazim** 50% WP at 1 g/L water.
+            *   **Propiconazole** 25% EC at 1 ml/L water.
+
+**B. Bacterial Diseases:**
+
+1.  **Bacterial Blight (Xanthomonas axonopodis pv. malvacearum):**
+    *   **Symptoms:** Angular water-soaked spots on leaves, black lesions on stems ("black arm"), and boll rot. Severe infections can lead to drying of affected leaves and bolls.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   **Seed Treatment:**
+            *   **Streptomycin sulphate** 9% + **Tetracycline hydrochloride** 1% SP at 100 g/100 kg seed.
+        *   **Foliar Spray:**
+            *   **Copper oxychloride** 50% WP at 2.5 g/L water.
+            *   **Streptomycin sulphate** 9% + **Tetracycline hydrochloride** 1% SP at 0.6 g/L water.
+
+**C. Insect Pests:**
+
+1.  **Sucking Pests (Aphids, Jassids, Whiteflies, Thrips, Mites):**
+    *   **Symptoms:** Heavy infestation can lead to severe sap depletion, causing wilting, yellowing, curling, and premature drying of leaves. Mites cause bronzing and drying.
+    *   **Management:**
+        *   Regular scouting to monitor pest populations.
+        *   **Foliar Spray (for general sucking pests):**
+            *   **Imidacloprid** 17.8% SL at 0.5 ml/L water.
+            *   **Thiamethoxam** 25% WG at 0.2 g/L water.
+            *   **Acetamiprid** 20% SP at 0.2 g/L water.
+            *   **Flonicamid** 50% WG at 0.3 g/L water.
+        *   **For Mites:**
+            *   **Spiromesifen** 22.9% SC at 1 ml/L water.
+2.  **Bollworms (Pink Bollworm, American Bollworm, Spotted Bollworm):**
+    *   **Symptoms:** Damage to bolls, leading to premature opening, rotting, and drying of bolls.
+    *   **Management:**
+        *   Integrated Pest Management (IPM) approach.
+        *   Use pheromone traps for monitoring.
+        *   **Foliar Spray:**
+            *   **Chlorantraniliprole** 18.5% SC at 0.3 ml/L water.
+            *   **Emamectin benzoate** 5% SG at 0.4 g/L water.
+            *   **Flubendiamide** 39.35% SC at 0.2 ml/L water.
+
+**Key Recommendation:**
+
+Before applying any chemical treatment, it is essential to accurately identify the specific cause of drying up. Collect samples of affected plants (including roots, stems, and leaves) and consult with the plant pathology or entomology experts at HAU, Hisar, or your local Krishi Vigyan Kendra (KVK) for precise diagnosis and tailored recommendations.

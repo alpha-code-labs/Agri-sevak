@@ -1,0 +1,32 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following integrated approach for controlling Wilt (including Fusarium Wilt, Rhizoctonia Wilt, and Parawilt) in Rajma, based on scientifically verified practices suitable for Haryana:
+
+**I. Cultural Practices (Foundation for Disease Management):**
+
+1.  **Resistant Varieties:** Prioritize the use of Rajma varieties recommended by HAU that exhibit tolerance or resistance to wilt diseases.
+2.  **Crop Rotation:** Implement a strict crop rotation schedule. Avoid planting Rajma or other susceptible legumes in the same field for at least 2-3 years. Rotate with non-host crops like cereals (wheat, maize, sorghum) to reduce soil-borne pathogen inoculum.
+3.  **Field Sanitation:** Promptly remove and destroy infected plant debris from the field to prevent the build-up and spread of pathogens.
+4.  **Proper Drainage:** Ensure excellent field drainage to prevent waterlogging, as excessive soil moisture favors the development of many wilt pathogens, particularly *Rhizoctonia solani* (associated with Parawilt).
+5.  **Balanced Nutrition:** Apply fertilizers based on soil test recommendations. Avoid excessive nitrogen application, which can make plants more susceptible to diseases. Ensure adequate levels of phosphorus and potassium.
+6.  **Timely Sowing:** Sow Rajma at the optimal time recommended for Haryana to ensure vigorous plant growth and reduce stress, making plants less vulnerable to disease.
+7.  **Deep Ploughing/Summer Ploughing:** During summer, deep ploughing can expose soil-borne pathogens to high temperatures and sunlight, helping to reduce their population.
+
+**II. Biological Control:**
+
+1.  **Seed Treatment:**
+    *   Treat Rajma seeds with *Trichoderma viride* (10^8 CFU/g) at 4-6 g/kg seed.
+    *   Alternatively, use *Pseudomonas fluorescens* (10^8 CFU/g) at 10 g/kg seed.
+2.  **Soil Application:**
+    *   Mix *Trichoderma viride* (10^8 CFU/g) at 2.5 kg/acre with 50-100 kg of well-decomposed farmyard manure (FYM) or compost. Apply this mixture to the soil before sowing or at the time of sowing.
+
+**III. Chemical Control:**
+
+1.  **Seed Treatment (Crucial for Wilt Management):**
+    *   Treat Rajma seeds with **Carbendazim** 50% WP at 2 g/kg seed.
+    *   Alternatively, use **Thiophanate-methyl** 70% WP at 2 g/kg seed.
+    *   Another effective option is **Thiram** 75% WS at 2.5 g/kg seed.
+    *   For a broader spectrum of protection against various soil-borne fungi, including damping-off, a combination product like **Metalaxyl-M 31.8% + Difenoconazole 1.8% FS** can be used at 1 ml/kg seed.
+2.  **Soil Drenching (for standing crop showing symptoms):**
+    *   For plants showing early symptoms of wilt, drench the soil around the base of the affected plants with a solution of **Carbendazim** 50% WP at 1 g/L water. Apply 50-100 ml of the solution per plant, depending on plant size. Repeat if necessary after 10-15 days.
+    *   Alternatively, **Propiconazole** 25% EC can be used for soil drenching at 1 ml/L water.
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying any chemical.

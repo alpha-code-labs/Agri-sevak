@@ -1,0 +1,42 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling wilting conditions in Cabbage in Haryana.
+
+The primary wilting disease affecting Cabbage is **Fusarium Wilt**, caused by the fungus *Fusarium oxysporum* f. sp. *conglutinans*.
+
+Regarding "Parawilt": This is not known to affect Cabbage as a specific disease entity. "Parawilt" is a term primarily used for a sudden wilting phenomenon in cotton, often associated with high temperatures and water stress, not a specific pathogen in Cabbage. However, sudden wilting in Cabbage can occur due to severe physiological stress (e.g., waterlogging, drought, heat stress, root damage) or other root diseases.
+
+Here are the control measures for Fusarium Wilt in Cabbage:
+
+**I. Cultural and Agronomic Practices (Most Effective for Fusarium Wilt):**
+
+*   **Resistant Varieties:** Whenever possible, use cabbage varieties known to be resistant or tolerant to Fusarium wilt. Consult with local seed suppliers or HAU recommendations for suitable varieties in Haryana.
+*   **Crop Rotation:** Practice a long crop rotation of at least 3-4 years with non-brassica crops (e.g., maize, wheat, pulses). Avoid planting cabbage or other brassicas in the same field repeatedly.
+*   **Soil Solarization:** In hot summer months, cover the prepared field with transparent polyethylene sheets for 4-6 weeks. This helps to reduce soil-borne pathogen inoculum, including *Fusarium*.
+*   **Proper Drainage:** Ensure good field drainage to prevent waterlogging, which can stress plants and favor disease development.
+*   **Balanced Nutrition:** Provide balanced fertilization. Avoid excessive nitrogen, which can make plants more susceptible. Ensure adequate potassium and calcium.
+*   **Sanitation:** Remove and destroy infected plant debris and severely diseased plants from the field to reduce inoculum sources.
+*   **Avoid Root Injury:** Minimize root damage during transplanting and intercultural operations, as wounds can provide entry points for the pathogen.
+
+**II. Biological Control:**
+
+*   **Bio-fungicides:**
+    *   **Seed Treatment:** Treat seeds with *Trichoderma viride* or *Trichoderma harzianum* at 5-10 g/kg of seed before sowing.
+    *   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* at 2.5 kg/acre mixed with 50-100 kg of farmyard manure (FYM) or compost, and incorporate into the soil before transplanting.
+
+**III. Chemical Control (as preventive measures or early intervention):**
+
+*   **Seed Treatment:**
+    *   Treat seeds with **Carbendazim** at 2 g/kg of seed.
+    *   Alternatively, treat seeds with **Thiram** at 2-3 g/kg of seed.
+*   **Nursery Bed Drenching/Seedling Root Dip:**
+    *   Before transplanting, drench the nursery beds or dip the roots of seedlings in a solution of **Carbendazim** at 1-2 g/L of water. This provides initial protection to the young plants.
+*   **Soil Drench (Post-transplanting - limited efficacy once disease is established):**
+    *   In areas with a history of severe wilt, a soil drench with **Carbendazim** at 1-2 g/L of water can be applied around the base of plants, preferably at the early stages of disease appearance. However, chemical control is generally less effective for established soil-borne wilt diseases.
+
+**For sudden wilting due to physiological stress (not Fusarium Wilt):**
+
+*   Ensure consistent and adequate irrigation, especially during dry periods.
+*   Use mulching to conserve soil moisture and regulate soil temperature.
+*   Protect plants from extreme heat stress if possible.
+*   Avoid compaction of soil around the root zone.
+
+By implementing these integrated management strategies, you can effectively control Fusarium Wilt and minimize wilting issues in your Cabbage crop.

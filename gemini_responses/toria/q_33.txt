@@ -1,0 +1,54 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling weeds in Toria (Indian mustard) in Haryana.
+
+Weed management in Toria is crucial for maximizing yield. A combination of cultural practices and judicious use of herbicides is recommended.
+
+### General Weed Management Principles:
+
+*   **Clean Seed:** Always use certified, weed-free Toria seeds to prevent the introduction of new weed species, especially parasitic ones like Amarbail and Orobanche.
+*   **Field Preparation:** Proper land preparation, including deep ploughing during summer, can help reduce the weed seed bank.
+*   **Crop Rotation:** Rotate Toria with non-host crops (e.g., wheat, barley, gram) to manage specific problematic weeds like Orobanche.
+*   **Timely Sowing:** Sowing Toria at the optimal time helps the crop establish quickly and compete better with weeds.
+
+### Specific Weed Control Measures for Toria:
+
+#### 1. Broadleaf Weeds (Bathu, Congress grass, and other broadleaf weeds):
+
+*   **Pre-emergence (within 0-3 days of sowing):**
+    *   Apply **Pendimethalin** 30% EC at 1.0 kg a.i./acre (equivalent to 3.3 L of product per acre) mixed in 200-300 L of water.
+    *   Alternatively, apply **Oxyfluorfen** 23.5% EC at 0.2 kg a.i./acre (equivalent to 850 ml of product per acre) mixed in 200-300 L of water.
+    *   *Note:* These herbicides provide control of many annual broadleaf and narrowleaf weeds.
+*   **Post-emergence:**
+    *   Manual weeding (hand weeding) at 20-30 days after sowing is highly effective for controlling broadleaf weeds in Toria. Chemical options for broadleaf weeds post-emergence in Toria are limited and often carry a risk of crop injury.
+
+#### 2. Narrowleaf Weeds (Phalaris minor and other grassy weeds):
+
+*   **Pre-emergence (within 0-3 days of sowing):**
+    *   Apply **Pendimethalin** 30% EC at 1.0 kg a.i./acre (equivalent to 3.3 L of product per acre) mixed in 200-300 L of water. (Provides partial control of grassy weeds).
+*   **Post-emergence (at 20-30 days after sowing, when weeds are at 2-4 leaf stage):**
+    *   Apply **Quizalofop-ethyl** 5% EC at 50 g a.i./acre (equivalent to 1.0 L of product per acre) mixed in 200-300 L of water.
+    *   Alternatively, apply **Fluazifop-P-butyl** 13.4% EC at 125 g a.i./acre (equivalent to 930 ml of product per acre) mixed in 200-300 L of water.
+    *   Alternatively, apply **Clethodim** 24% EC at 90 g a.i./acre (equivalent to 375 ml of product per acre) mixed in 200-300 L of water.
+    *   *Note:* These herbicides are specific for grassy weeds and are safe for Toria.
+
+#### 3. Amarbail (*Cuscuta* spp.):
+
+*   **Prevention:**
+    *   Use *Cuscuta*-free certified seeds. This is the most critical step.
+    *   Clean farm machinery thoroughly to prevent the spread of *Cuscuta* seeds.
+*   **Pre-emergence (within 0-3 days of sowing):**
+    *   Apply **Oxyfluorfen** 23.5% EC at 0.2 kg a.i./acre (equivalent to 850 ml of product per acre) mixed in 200-300 L of water. This provides good control of *Cuscuta* seedlings.
+    *   **Pendimethalin** 30% EC at 1.0 kg a.i./acre (equivalent to 3.3 L of product per acre) also offers some suppression.
+*   **Post-emergence:**
+    *   Manual removal of *Cuscuta* patches immediately upon appearance, before it spreads and flowers, is the most effective method. Remove and destroy the infested plant material away from the field.
+    *   For severe infestations on fallow land or before crop emergence, spot application of **Glyphosate** (non-selective) at 1.0-1.5 L/acre can reduce the *Cuscuta* seed bank. *This is not for use in standing Toria crop.*
+
+#### 4. Orobanche (*Orobanche* spp.):
+
+*   **Prevention and Cultural Control:**
+    *   **Crop Rotation:** Rotate Toria with non-host crops (e.g., wheat, barley, gram) for at least 3-4 years to reduce the *Orobanche* seed bank.
+    *   **Deep Ploughing:** Deep ploughing during summer can expose *Orobanche* seeds to desiccation, reducing viability.
+    *   **Clean Seed:** Use *Orobanche*-free certified seeds.
+    *   **Trap/Catch Crops:** Growing trap crops (e.g., linseed, flax) or catch crops (e.g., sunflower, sorghum) can stimulate *Orobanche* germination, which then dies without a host or is removed before *Orobanche* flowers.
+*   **Chemical Control (Highly sensitive and requires precise application):**
+    *   Apply **Glyphosate** 41% SL at an extremely low dose of 25-50 g a.i./acre (equivalent to 60-120 ml of product per acre) at 30-40 days after sowing, when *Orobanche* tubercles are forming but before emergence. This is a very critical application and requires careful calibration and uniform spraying to avoid crop injury.
+    *   *Note:* This method is effective but carries a risk of phytotoxicity to Toria if the dose is slightly higher or application is uneven. It works by translocating to the *Orobanche* attached to the host roots. It is strongly advised to consult with a local HAU expert before applying **Glyphosate** for *Orobanche* control in Toria.

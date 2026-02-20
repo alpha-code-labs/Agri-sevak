@@ -1,0 +1,30 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified recommendations for Litchi cultivation in Haryana:
+
+### Seed Treatment for Litchi
+
+Seed treatment is **not a standard practice for commercial Litchi cultivation** as Litchi is primarily propagated vegetatively through air-layering (marcotting) or grafting to ensure true-to-type plants and early fruiting. Seeds are generally used for rootstock production or breeding purposes, not for direct commercial planting.
+
+### Soil Treatment for Litchi
+
+Soil treatment is crucial for establishing healthy Litchi orchards and managing soil-borne issues. This involves both pre-planting and post-planting measures.
+
+#### A. Pre-Planting Soil Treatment (Before planting saplings)
+
+1.  **Soil Testing:** Conduct a comprehensive soil test to determine nutrient status, pH, and presence of soil-borne pathogens or nematodes. This guides specific amendments.
+2.  **Organic Matter Incorporation:**
+    *   Incorporate 20-30 kg of well-decomposed Farmyard Manure (FYM) or compost per pit (1m x 1m x 1m) at least 1-2 months before planting. This improves soil structure, water retention, and nutrient availability.
+3.  **Nematode Management (if soil test indicates high population):**
+    *   **Soil Solarization:** During hot summer months (May-June), cover the prepared land with transparent polyethylene sheets for 4-6 weeks. This helps in reducing nematode populations and other soil-borne pathogens.
+    *   **Biological Treatment:** Apply bio-nematicides such as **Purpureocillium lilacinum** (formerly *Paecilomyces lilacinus*) at 2.5 kg/acre, mixed with 50 kg of FYM, and incorporate into the soil.
+    *   **Chemical Treatment (if severe infestation and solarization is not feasible):** Apply **Carbofuran** 3G at 10-15 kg/acre and mix thoroughly into the soil before planting.
+4.  **Soil-borne Fungal Pathogen Management (e.g., Root Rot, Wilt):**
+    *   **Biological Treatment:** Apply bio-fungicides such as **Trichoderma viride** or **Trichoderma harzianum** at 2.5 kg/acre, mixed with 50 kg of FYM, and incorporate into the soil.
+
+#### B. Post-Planting Soil Treatment (For established Litchi trees, as needed)
+
+1.  **Nematode Management:**
+    *   **Biological Treatment:** Drench the soil around the root zone with a suspension of **Purpureocillium lilacinum** (5-10 ml/L water) at regular intervals, especially during favorable conditions for nematode activity.
+    *   **Chemical Treatment:** For severe infestations, drench the soil around the tree basin with **Carbofuran** 3G at 30-50 g per tree, or **Fosthiazate** as per label recommendations, ensuring it reaches the root zone.
+2.  **Root Rot / Collar Rot (e.g., *Phytophthora* species):**
+    *   **Biological Treatment:** Drench the soil around the base of the affected trees with a suspension of **Trichoderma viride** or **Trichoderma harzianum** (5-10 ml/L water).
+    *   **Chemical Treatment:** Drench the soil around the base of the tree with a solution of **Metalaxyl-M + Mancozeb** (2.5 g/L water) or **Fosetyl-aluminium** (2.5 g/L water). Ensure thorough drenching to reach the root zone. Repeat as per label recommendations if the condition persists.

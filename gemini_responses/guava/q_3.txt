@@ -1,0 +1,98 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for managing various rot types in Guava. Many of these "rot" terms describe symptoms that can be caused by similar pathogens, primarily fungi and oomycetes, affecting different parts of the plant.
+
+Here's how to control the various rot types in Guava:
+
+### General Principles for Rot Management:
+
+*   **Integrated Pest Management (IPM):** A combination of cultural, biological, and chemical methods is most effective.
+*   **Sanitation:** Remove and destroy infected plant parts, fallen leaves, and fruits to reduce inoculum.
+*   **Drainage:** Ensure good soil drainage to prevent waterlogging, which favors many rot-causing pathogens.
+*   **Avoid Injury:** Minimize mechanical injuries to roots, stem, and fruits, as these can be entry points for pathogens.
+*   **Balanced Nutrition:** Provide balanced fertilizers to maintain plant vigor and resistance.
+
+### Specific Rot Types and Control Measures:
+
+#### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, and Neck Rot
+
+These terms often describe similar disease complexes affecting the plant at or near the soil line, leading to wilting, yellowing, and eventual death. Common pathogens include *Phytophthora* species, *Fusarium oxysporum f. sp. psidii* (causing Guava Wilt), *Rhizoctonia solani*, and *Pythium* species.
+
+**Cultural Practices:**
+*   Improve soil drainage by amending heavy soils with organic matter or creating raised beds.
+*   Avoid planting in areas with a history of severe rot diseases.
+*   Avoid excessive irrigation, especially around the collar region of the plant.
+*   Remove and destroy severely infected or dead plants to prevent further spread.
+*   Avoid deep cultivation near the tree trunk to prevent root injury.
+
+**Biological Control:**
+*   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* @ 2.5 kg/acre mixed with 50 kg of well-decomposed farmyard manure (FYM) or compost. Apply near the root zone.
+*   **Drenching:** Drench the soil around the base of the tree with a suspension of *Pseudomonas fluorescens*.
+
+**Chemical Control (Drenching/Soil Application):**
+*   For *Phytophthora* and *Pythium* related rots:
+    *   Drench the soil around the base of the tree with **Metalaxyl 8% + Mancozeb 64% WP** @ 2.5 g/L water. Apply 2-5 litres of solution per tree, depending on age and size.
+    *   Alternatively, drench with **Fosetyl-aluminium 80% WP** @ 2.5 g/L water, applying 2-5 litres per tree.
+    *   Alternatively, drench with **Propamocarb hydrochloride 72.2% SL** @ 2.5 ml/L water, applying 2-5 litres per tree.
+*   For *Fusarium* and *Rhizoctonia* related rots (especially Guava Wilt):
+    *   Drench the soil around the base of the tree with **Carbendazim 50% WP** @ 1-2 g/L water, applying 2-5 litres per tree.
+    *   Alternatively, drench with **Thiophanate-methyl 70% WP** @ 1 g/L water, applying 2-5 litres per tree.
+*   For broad-spectrum control:
+    *   Drench with **Copper oxychloride 50% WP** @ 3 g/L water, applying 2-5 litres per tree.
+
+#### 2. Black Rot
+
+This is a general term. In Guava, it can refer to dark lesions caused by *Phytophthora* on fruits or stems, or anthracnose symptoms caused by *Colletotrichum gloeosporioides* on fruits.
+
+**If referring to *Phytophthora* symptoms:**
+*   Follow the control measures listed above for Root, Stem, Foot, Collar, Crown, and Neck Rots.
+
+**If referring to Anthracnose (fruit blackening):**
+*   **Cultural Practices:** Prune infected twigs and branches. Collect and destroy all fallen and infected fruits.
+*   **Chemical Control (Foliar Spray, pre-harvest):**
+    *   Spray with **Carbendazim 50% WP** @ 1 g/L water.
+    *   Alternatively, spray with **Thiophanate-methyl 70% WP** @ 1 g/L water.
+    *   Alternatively, spray with **Mancozeb 75% WP** @ 2.5 g/L water.
+    *   Alternatively, spray with **Azoxystrobin 23% SC** @ 0.5 ml/L water.
+    *   Alternatively, spray with **Copper oxychloride 50% WP** @ 3 g/L water.
+
+#### 3. Fruit Rot
+
+Various pathogens can cause fruit rot, including *Colletotrichum gloeosporioides* (anthracnose), *Phytophthora* species, *Alternaria* species, *Botryodiplodia theobromae*, and *Rhizopus* species.
+
+**Cultural Practices:**
+*   Maintain orchard sanitation by regularly removing and destroying diseased fruits.
+*   Avoid mechanical injury to fruits during harvesting and handling.
+*   Ensure proper air circulation within the canopy through judicious pruning.
+
+**Chemical Control (Foliar Spray, pre-harvest):**
+*   Spray with **Carbendazim 50% WP** @ 1 g/L water.
+*   Alternatively, spray with **Thiophanate-methyl 70% WP** @ 1 g/L water.
+*   Alternatively, spray with **Mancozeb 75% WP** @ 2.5 g/L water.
+*   Alternatively, spray with **Azoxystrobin 23% SC** @ 0.5 ml/L water.
+*   Alternatively, spray with **Propiconazole 25% EC** @ 0.5 ml/L water.
+*   Alternatively, spray with **Difenoconazole 25% EC** @ 0.5 ml/L water.
+*   Alternatively, spray with **Copper oxychloride 50% WP** @ 3 g/L water.
+
+#### 4. Seed Rot and Seedling Rot (Damping-off)
+
+These are common problems in the nursery stage, primarily caused by soil-borne pathogens like *Pythium* species, *Phytophthora* species, *Rhizoctonia solani*, and *Fusarium* species.
+
+**Cultural Practices:**
+*   Use sterilized potting mix or nursery bed soil (solarization or steam sterilization).
+*   Ensure good drainage in nursery beds and containers.
+*   Avoid overcrowding of seedlings.
+*   Sow seeds at the recommended depth and avoid excessive watering.
+*   Provide adequate ventilation in the nursery.
+
+**Biological Control (Seed Treatment):**
+*   Treat seeds with *Trichoderma viride* or *Trichoderma harzianum* @ 4-6 g/kg seed.
+*   Alternatively, treat seeds with *Pseudomonas fluorescens* @ 10 g/kg seed.
+
+**Chemical Control (Seed Treatment/Nursery Drench):**
+*   **Seed Treatment:**
+    *   Treat seeds with **Carbendazim 50% WP** @ 2 g/kg seed.
+    *   Alternatively, treat seeds with **Thiram 75% WS** @ 2-3 g/kg seed.
+    *   Alternatively, treat seeds with **Metalaxyl 35% WS** @ 2 g/kg seed (especially for oomycetes like *Pythium* and *Phytophthora*).
+*   **Nursery Drench:**
+    *   If damping-off symptoms appear, drench the nursery beds with **Metalaxyl 8% + Mancozeb 64% WP** @ 2.5 g/L water.
+
+Always ensure proper safety measures while handling chemicals, including wearing protective gear. Consult your local agricultural extension officer for specific recommendations tailored to your farm's conditions and the latest CIBRC guidelines.

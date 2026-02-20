@@ -1,0 +1,61 @@
+Namaste! As a Senior Agronomist at HAU, Hisar, I can provide you with scientifically verified advice for managing various rot types in Kaner (Nerium oleander).
+
+Kaner is generally a hardy plant, but it can be susceptible to various rot diseases, especially under conditions of poor drainage, overwatering, or high humidity. The rot types you've mentioned (Root, Stem, Foot, Collar, Crown, Neck, Black, Fruit, Seed, and Seedling rot) are often caused by a range of fungal and oomycete pathogens such as *Phytophthora*, *Pythium*, *Rhizoctonia*, *Fusarium*, and *Sclerotium*. An integrated approach combining cultural practices and judicious use of CIBRC-approved chemicals is essential for effective control.
+
+### Integrated Management for Rot Diseases in Kaner:
+
+**A. Cultural and Management Practices (Prevention is Key):**
+
+1.  **Ensure Excellent Drainage:** This is the most critical step. Kaner plants are highly susceptible to root and collar rot in waterlogged conditions. Plant in well-drained soil or raised beds. For potted plants, ensure pots have adequate drainage holes and use a well-draining potting mix.
+2.  **Avoid Overwatering:** Water deeply but infrequently, allowing the topsoil to dry out between waterings. Reduce watering during the monsoon season or cooler months.
+3.  **Proper Planting Depth:** When planting, ensure the collar (where the stem meets the roots) is at or slightly above the soil line. Burying it too deep can lead to collar rot.
+4.  **Soil Health:** Improve soil structure and aeration by incorporating organic matter (well-rotted farmyard manure or compost). Avoid compacted soils.
+5.  **Sanitation:**
+    *   Remove and destroy any infected plant parts (leaves, stems, roots) immediately to prevent the spread of pathogens.
+    *   Sterilize pruning tools before and after use, especially when working with infected plants.
+    *   Clean up plant debris around the base of the plants.
+6.  **Proper Spacing:** Ensure adequate spacing between plants to allow for good air circulation, which helps reduce humidity around the foliage and stem, discouraging fungal growth.
+7.  **Seed Treatment (for Seed Rot and Seedling Rot/Damping-off):** If propagating from seeds, treat them before sowing.
+8.  **Avoid Mechanical Injury:** Wounds can serve as entry points for pathogens. Be careful during cultivation and pruning.
+
+**B. Chemical Control Measures (CIBRC Approved):**
+
+For existing infections or as a preventive measure in high-risk areas, CIBRC-approved fungicides can be used. Always follow the manufacturer's instructions and safety precautions.
+
+**1. For Root Rot, Collar Rot, Stem Rot, Foot Rot, Crown Rot, Neck Rot (Soil Drench Application):**
+
+These rots are often caused by *Phytophthora*, *Pythium*, *Rhizoctonia*, or *Fusarium*. A combination of systemic and contact fungicides is often recommended.
+
+*   **For Oomycete Rots (*Phytophthora*, *Pythium*):**
+    *   **Metalaxyl 8% + Mancozeb 64% WP:** Apply as a soil drench at 2-2.5 g per litre of water around the base of the plant. Repeat after 10-15 days if necessary.
+    *   **Propamocarb Hydrochloride 72.2% SL:** Apply as a soil drench at 2-3 ml per litre of water.
+    *   **Fosetyl-Al 80% WP:** Apply as a soil drench at 2.5-3 g per litre of water.
+
+*   **For Fungal Rots (*Rhizoctonia*, *Fusarium*, *Sclerotium*):**
+    *   **Carbendazim 50% WP:** Apply as a soil drench at 1-1.5 g per litre of water around the base of the plant.
+    *   **Validamycin 3% L:** Apply as a soil drench at 2-3 ml per litre of water, particularly effective against *Rhizoctonia*.
+
+**2. For Seed Rot and Seedling Rot (Damping-off) (Seed Treatment & Soil Drench):**
+
+*   **Seed Treatment (before sowing):**
+    *   **Thiram 75% WS:** Treat seeds at 2-3 g per kg of seed.
+    *   **Captan 50% WP:** Treat seeds at 2-3 g per kg of seed.
+    *   **Carbendazim 50% WP:** Treat seeds at 2-3 g per kg of seed.
+
+*   **Soil Drench (for seedlings showing symptoms):**
+    *   **Metalaxyl 8% + Mancozeb 64% WP:** Drench the nursery bed or potting mix at 2 g per litre of water.
+    *   **Carbendazim 50% WP:** Drench the nursery bed or potting mix at 1 g per litre of water.
+    *   **Propamocarb Hydrochloride 72.2% SL:** Drench the nursery bed or potting mix at 2 ml per litre of water.
+
+**3. For Black Rot and Fruit Rot:**
+
+While specific "Black Rot" or "Fruit Rot" diseases are not commonly reported as major issues for Kaner in the same way as in some other crops, if you observe blackening or rotting of seed pods or other plant parts, the general fungicides listed above for soil drench (e.g., **Metalaxyl + Mancozeb** or **Carbendazim**) can be used as a foliar spray if the affected part is above ground, at the lower end of the recommended drench concentration (e.g., 1.5-2 g/L for Metalaxyl+Mancozeb). However, cultural practices like sanitation and good air circulation are paramount.
+
+**Important Considerations:**
+
+*   **Rotation of Fungicides:** To prevent the development of fungicide resistance, it is crucial to rotate fungicides with different modes of action.
+*   **Timing:** Apply fungicides preventively if conditions are conducive to disease development (e.g., prolonged wet periods) or at the first sign of symptoms.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) such as gloves, masks, and eye protection when handling and applying chemicals.
+*   **Read Labels:** Carefully read and follow all instructions on the fungicide label regarding dosage, application method, and safety precautions.
+
+By implementing these integrated measures, you can effectively control and prevent various rot diseases in your Kaner plants. For specific diagnosis or severe outbreaks, it is always advisable to consult with local agricultural extension services.

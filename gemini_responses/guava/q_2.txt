@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice regarding rust diseases in Guava for Haryana.
+
+It is important to clarify that most of the rust diseases you mentioned are not known to affect Guava.
+
+1.  **Black Rust (Stem Rust):** This is not known to affect Guava. Black rust, typically caused by *Puccinia graminis*, primarily affects cereal crops like wheat, barley, and rye.
+2.  **Brown Rust (Leaf Rust):** This is not known to affect Guava. Brown rust, typically caused by *Puccinia triticina*, primarily affects cereal crops like wheat.
+3.  **Yellow Rust (Stripe Rust):** This is not known to affect Guava. Yellow rust, typically caused by *Puccinia striiformis*, primarily affects cereal crops like wheat and barley.
+4.  **White Rust:** This is not known to affect Guava. White rust, caused by *Albugo* species, primarily affects cruciferous vegetables, sweet potato, spinach, and other specific plant families.
+5.  **Red Rust:** This condition *does* affect Guava. Red rust is caused by *Cephaleuros virescens*, which is an algal pathogen, not a true fungus. It is common in humid tropical and subtropical regions.
+
+---
+
+**Control of Red Rust (*Cephaleuros virescens*) in Guava**
+
+Red rust manifests as reddish-brown, velvety spots on leaves, twigs, and sometimes fruits. Severe infections can lead to defoliation, twig dieback, and reduced fruit quality.
+
+**1. Cultural and Horticultural Practices:**
+
+*   **Pruning:** Regularly prune affected branches and twigs. Remove dead or diseased wood to improve air circulation within the canopy and reduce humidity.
+*   **Sanitation:** Collect and destroy all fallen leaves and infected plant parts to reduce the inoculum source.
+*   **Nutrient Management:** Ensure balanced fertilization. Adequate potassium levels can enhance plant vigor and resistance. Avoid excessive nitrogen, which can promote lush, susceptible growth.
+*   **Weed Control:** Keep the orchard floor free of weeds to reduce humidity around the plants.
+*   **Plant Spacing:** Maintain proper plant spacing to ensure good air movement and sunlight penetration, which helps in drying leaf surfaces.
+*   **Irrigation:** Avoid overhead irrigation, especially late in the day, to minimize prolonged leaf wetness. Drip irrigation is preferred.
+*   **Shade Management:** Reduce excessive shade, as shaded conditions favor the development of red rust.
+
+**2. Chemical Control:**
+
+For effective control, especially during periods of high humidity or when symptoms appear, fungicidal sprays can be applied. Since *Cephaleuros virescens* is an alga, copper-based fungicides are particularly effective.
+
+*   **Foliar Sprays:**
+    *   Spray with **Copper oxychloride** at a concentration of 2.5-3.0 g/L of water.
+    *   Alternatively, you can use **Mancozeb** at a concentration of 2.0-2.5 g/L of water.
+
+*   **Application:**
+    *   Ensure thorough coverage of all plant parts, especially the undersides of leaves and twigs.
+    *   Repeat sprays at 10-15 day intervals, depending on disease severity and weather conditions, particularly during periods of high humidity.
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying any chemical.

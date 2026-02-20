@@ -1,0 +1,107 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in grapes, keeping in mind the conditions in Haryana and using CIBRC approved chemicals.
+
+It's important to understand that "rot" is a general term, and different types of rot are caused by specific pathogens, requiring tailored management strategies.
+
+Here's a comprehensive guide:
+
+### 1. Root Rot, Collar Rot, Crown Rot, Foot Rot, and Stem Rot
+
+These types of rots often affect the underground parts or the base of the vine and are typically caused by soil-borne fungal pathogens such as *Phytophthora* spp., *Pythium* spp., *Fusarium* spp., and *Rhizoctonia* spp.
+
+**Symptoms:** Wilting, yellowing of leaves, stunted growth, reddish-brown discoloration of roots, crown, or stem base, and eventual plant death.
+
+**Cultural Practices:**
+*   **Drainage:** Ensure excellent soil drainage. Grapes are highly susceptible to root rots in waterlogged conditions. Consider planting on raised beds in areas prone to waterlogging.
+*   **Planting Material:** Use healthy, certified, disease-free planting material (cuttings/rootstocks).
+*   **Avoid Injury:** Prevent mechanical injury to the roots and crown during cultivation.
+*   **Soil Health:** Maintain optimal soil pH and fertility. Avoid excessive nitrogen fertilization, which can make plants more susceptible.
+*   **Sanitation:** Remove and destroy severely infected or dead plants to reduce inoculum in the soil.
+
+**Chemical Control (Soil Drench/Foliar for Systemic):**
+*   For *Phytophthora* and *Pythium* (Oomycetes):
+    *   **Propamocarb hydrochloride** at 2-3 ml/L as a soil drench.
+    *   **Fosetyl-aluminium** at 2-3 g/L as a foliar spray or soil drench.
+    *   **Metalaxyl** or **Metalaxyl-M** at 1-2 g/L as a soil drench.
+*   For *Fusarium* and *Rhizoctonia*:
+    *   **Carbendazim** at 1-2 g/L as a soil drench.
+    *   **Thiophanate methyl** at 1-1.5 g/L as a soil drench.
+*   **Biological Control:**
+    *   **Trichoderma viride** or **Pseudomonas fluorescens** can be applied to the soil at 2.5-5 kg/acre mixed with farmyard manure, especially at planting or during early growth stages.
+
+### 2. Black Rot
+
+This is a major fungal disease of grapes caused by *Guignardia bidwellii*.
+
+**Symptoms:** Small, reddish-brown spots on leaves that enlarge into circular lesions with dark borders and a tan center. On berries, small, white spots appear, which enlarge, turn brown, then black, shriveling the berry into a hard, wrinkled mummy.
+
+**Cultural Practices:**
+*   **Sanitation:** Remove and destroy all mummified berries from the vines and the ground during pruning and throughout the season. This is crucial for reducing inoculum.
+*   **Pruning:** Prune vines to ensure good air circulation within the canopy, which helps dry leaves and berries quickly.
+*   **Weed Control:** Keep the area around vines free of weeds.
+
+**Chemical Control (Foliar Sprays):**
+*   **Mancozeb** at 2-2.5 g/L (protectant, apply before infection).
+*   **Myclobutanil** at 0.4-0.5 g/L.
+*   **Difenoconazole** at 0.5 ml/L.
+*   **Tebuconazole** at 0.75-1 ml/L.
+*   **Azoxystrobin** at 0.5-0.75 ml/L.
+*   **Pyraclostrobin** at 0.5-0.75 ml/L.
+*   Combinations like **Azoxystrobin + Difenoconazole** at 0.75-1 ml/L.
+*   Start sprays pre-bloom and continue at 7-14 day intervals, especially during wet periods.
+
+### 3. Fruit Rot (General) and Botrytis Bunch Rot (Grey Mould)
+
+Fruit rots can be caused by various pathogens. The most common and destructive is Botrytis Bunch Rot, caused by *Botrytis cinerea*.
+
+**Symptoms:** Grey, fuzzy mould on berries, especially in tight clusters or injured berries. Berries shrivel, turn brown, and rot. Often starts on senescing flower parts or injured berries.
+
+**Cultural Practices:**
+*   **Canopy Management:** Implement proper pruning and leaf removal around the fruit zone to improve air circulation and light penetration, which helps dry berries and reduces humidity.
+*   **Avoid Injury:** Minimize berry injury caused by insects, birds, or mechanical means, as wounds provide entry points for the fungus.
+*   **Harvesting:** Harvest promptly when ripe.
+
+**Chemical Control (Foliar Sprays, especially during bloom, veraison, and pre-harvest):**
+*   **Fenhexamid** at 1-1.5 g/L.
+*   **Pyraclostrobin** at 0.5-0.75 ml/L.
+*   **Boscalid** at 1-1.5 g/L.
+*   **Cyprodinil + Fludioxonil** at 0.6-0.8 g/L.
+*   **Fluazinam** at 1-1.5 ml/L.
+*   **Iprodione** at 1.5-2 g/L.
+*   **Thiram** at 2-2.5 g/L (protectant).
+
+### 4. Neck Rot
+
+"Neck rot" is not a standard, distinct disease name for grapes in the same way as Black Rot or Botrytis. It could refer to:
+*   **Rot of the rachis or peduncle:** This is often part of the general bunch rot complex (e.g., Botrytis, Sour Rot) or can be caused by other fungi like *Alternaria* or *Aspergillus* under specific conditions.
+*   **Rot of the upper stem/cane:** This might be related to canker-forming fungi or trunk diseases.
+
+**Control:**
+*   If referring to rachis/peduncle rot, the control measures for **Fruit Rot / Botrytis Bunch Rot** would generally apply.
+*   If referring to upper stem/cane rot, ensure good pruning hygiene, remove infected wood, and apply general broad-spectrum fungicides like **Mancozeb** or **Carbendazim** if a specific pathogen is identified.
+
+### 5. Seed Rot and Seedling Rot
+
+For commercial grape cultivation in Haryana, propagation is primarily done through vegetative cuttings, not seeds. Therefore, **seed rot** is generally not a concern for commercial growers.
+
+However, if you are involved in grape breeding programs or nursery propagation from seeds:
+
+**Symptoms:** Seeds fail to germinate, or seedlings emerge and then collapse at the soil line (damping-off).
+
+**Cultural Practices:**
+*   **Sterilized Media:** Use sterilized potting mix or soil for seed germination.
+*   **Drainage:** Ensure excellent drainage in seed trays/pots.
+*   **Watering:** Avoid overwatering; keep the medium moist but not saturated.
+*   **Temperature:** Maintain optimal temperature for germination.
+
+**Chemical Control (Seed Treatment/Soil Drench):**
+*   **Seed Treatment:**
+    *   **Thiram** at 2-3 g/kg of seed.
+    *   **Captan** at 2-3 g/kg of seed.
+    *   **Carbendazim** at 1-2 g/kg of seed.
+*   **Soil Drench (for damping-off):**
+    *   **Propamocarb hydrochloride** at 2-3 ml/L as a drench.
+    *   **Carbendazim** at 1-2 g/L as a drench.
+*   **Biological Control:**
+    *   **Trichoderma viride** can be mixed with the potting media at 5-10 g/kg of media or used as a seed treatment at 5-10 g/kg of seed.
+
+Always follow the manufacturer's instructions for dosage and safety precautions when using any chemical. Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods, is recommended for sustainable disease control.

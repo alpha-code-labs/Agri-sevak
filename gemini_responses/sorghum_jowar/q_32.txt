@@ -1,0 +1,84 @@
+Drying up (drying branches, leaves, fruits, and flowers) in Sorghum (Jowar) is a general symptom that can be caused by a variety of factors, both abiotic (environmental) and biotic (pests and diseases). A precise diagnosis is crucial for effective management.
+
+As a Senior Agronomist at HAU, Hisar, I recommend the following approach based on common issues observed in Haryana:
+
+**I. Abiotic Stresses (Non-Pest/Disease Related)**
+
+1.  **Water Stress (Drought):** This is the most common cause of drying up.
+    *   **Symptoms:** Leaves roll, turn yellow, and eventually dry from the tips/margins inwards. Entire plant wilts and dries if stress is severe and prolonged.
+    *   **Management:**
+        *   Ensure timely and adequate irrigation, especially during critical growth stages (flowering and grain filling).
+        *   Utilize water-efficient irrigation methods like drip irrigation where feasible.
+        *   Practice mulching to conserve soil moisture.
+
+2.  **Nutrient Deficiencies:** Severe deficiencies, particularly of macro-nutrients (Nitrogen, Phosphorus, Potassium) or certain micro-nutrients, can lead to stunted growth, yellowing, and premature drying of leaves.
+    *   **Management:**
+        *   Conduct regular soil testing to determine nutrient status.
+        *   Apply balanced fertilizers based on soil test recommendations.
+        *   Foliar application of specific micronutrients can provide quick relief if a deficiency is identified.
+
+3.  **Heat Stress/High Temperatures:** Extreme heat can cause scorching and drying of leaves and flowers, especially when combined with water stress.
+    *   **Management:**
+        *   Select heat-tolerant sorghum varieties.
+        *   Ensure adequate irrigation during hot periods.
+
+**II. Biotic Stresses (Pests and Diseases)**
+
+If abiotic factors are ruled out, the drying up could be due to specific pests or diseases.
+
+**A. Diseases Causing Drying/Wilting:**
+
+1.  **Charcoal Rot (Macrophomina phaseolina):**
+    *   **Symptoms:** Premature drying of leaves and plants, often appearing during grain filling, especially under drought stress. Stems show internal shredding and numerous black sclerotia (charcoal-like appearance) at the base.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Avoid water stress, especially during flowering and grain filling.
+        *   Practice crop rotation.
+        *   **Chemical Control (Seed Treatment for prevention):**
+            *   **Carbendazim** @ 1-2 g/kg seed
+            *   **Thiophanate-methyl** @ 2-3 g/kg seed
+
+2.  **Stalk Rots (e.g., Fusarium Stalk Rot, Anthracnose Stalk Rot):**
+    *   **Symptoms:** Wilting and drying of upper leaves, followed by the entire plant. Stems become discolored, soft, and may lodge.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Maintain balanced nutrition (avoid excessive nitrogen).
+        *   Practice crop rotation and good field sanitation.
+        *   **Chemical Control (Seed Treatment for prevention):**
+            *   **Carbendazim** @ 1-2 g/kg seed
+            *   **Thiophanate-methyl** @ 2-3 g/kg seed
+        *   **Foliar Spray (for Anthracnose affecting leaves/stalks):**
+            *   **Propiconazole** @ 1 ml/L water
+            *   **Azoxystrobin** @ 0.5-1 ml/L water
+            *   **Mancozeb** @ 2-2.5 g/L water
+
+3.  **Leaf Blights (e.g., Northern Corn Leaf Blight - Exserohilum turcicum, Southern Corn Leaf Blight - Bipolaris maydis):**
+    *   **Symptoms:** Large, elongated, necrotic lesions on leaves that can coalesce, leading to extensive drying and premature senescence of leaves.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Practice crop rotation and remove crop debris.
+        *   **Chemical Control (Foliar Spray):**
+            *   **Propiconazole** @ 1 ml/L water
+            *   **Azoxystrobin** @ 0.5-1 ml/L water
+            *   **Mancozeb** @ 2-2.5 g/L water
+
+**B. Insect Pests Causing Drying/Wilting:**
+
+1.  **Sorghum Stem Borer (Chilo partellus):**
+    *   **Symptoms:** In young plants, it causes "dead heart" (central shoot dries up and can be pulled out easily). In older plants, tunneling inside the stem disrupts water and nutrient flow, leading to wilting and drying of leaves and eventually the entire plant or parts of it.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Timely sowing to escape peak pest incidence.
+        *   Remove and destroy crop residues.
+        *   **Chemical Control:**
+            *   **Seed Treatment (for early protection):**
+                *   **Thiamethoxam** @ 3-4 g/kg seed
+            *   **Foliar Spray (for established infestation):**
+                *   **Chlorantraniliprole** @ 0.3 ml/L water
+                *   **Fipronil** @ 1-1.5 ml/L water
+            *   **Granular Application (for whorl application in young plants):**
+                *   **Carbofuran** 3G @ 8-10 kg/acre (apply in leaf whorls)
+
+**Recommendation:**
+
+It is crucial to accurately diagnose the specific cause of drying up. Observe the symptoms carefully, check for insect damage, and look for characteristic disease signs on leaves, stems, and roots. If possible, consult with a local agricultural extension officer or bring a sample to HAU for expert diagnosis. Based on the diagnosis, implement the appropriate management strategy, prioritizing integrated pest and disease management (IPM) practices.

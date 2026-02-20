@@ -1,0 +1,63 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for Peach cultivation in Haryana:
+
+### Seed Treatment for Peach
+
+Peaches are primarily propagated vegetatively through budding or grafting onto suitable rootstocks, not by direct sowing of seeds for commercial fruit production. Therefore, a "seed treatment process" in the conventional sense (as applied to field crops) is **not applicable** for establishing a peach orchard.
+
+If peach seeds are used for raising rootstock, they typically require a stratification period (cold, moist treatment) to break dormancy. Chemical treatments for rootstock seeds are generally not standard but might involve fungicides to prevent damping-off in nursery beds. However, this is a specific nursery practice, not a general "seed treatment for peach."
+
+### Soil Treatment for Peach
+
+Soil treatment is crucial for establishing and maintaining healthy peach orchards, especially to manage soil-borne pests and diseases.
+
+#### A. Pre-planting Soil Treatment (Before planting saplings):
+
+This phase aims to create a healthy environment for the young trees.
+
+1.  **Nematode Management (if soil testing indicates presence of plant-parasitic nematodes):**
+    *   **Biological Control:**
+        *   Apply **Purpureocillium lilacinum** @ 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) or compost, 15-20 days before planting.
+        *   Apply **Trichoderma viride** @ 2.5 kg/acre mixed with 50 kg FYM or compost, 15-20 days before planting.
+    *   **Chemical Control (if severe infestation):**
+        *   Apply **Carbofuran** 3G @ 10 kg/acre uniformly in the soil and mix well, 2-3 weeks before planting.
+        *   Alternatively, **Phorate** 10G @ 10 kg/acre can be applied and mixed into the soil.
+    *   **Non-chemical:**
+        *   **Soil Solarization:** Cover the prepared land with transparent polyethylene sheets (100-150 micron thickness) for 4-6 weeks during the hot summer months (May-June) to reduce nematode, weed seed, and soil-borne pathogen populations.
+
+2.  **Soil-borne Fungal Disease Management (e.g., Root Rot, Collar Rot caused by *Phytophthora*, *Fusarium*, *Rhizoctonia*):**
+    *   **Biological Control:**
+        *   Apply **Trichoderma viride** @ 2.5 kg/acre mixed with 50 kg FYM or compost, 15-20 days before planting.
+        *   Apply **Pseudomonas fluorescens** @ 2.5 kg/acre mixed with 50 kg FYM or compost, 15-20 days before planting.
+    *   **Chemical Control (if history of severe disease):**
+        *   Drench the planting pits with a solution of **Captan** @ 2 g/L water or **Propamocarb hydrochloride** @ 2.5 ml/L water, a few days before planting.
+
+#### B. Post-planting Soil Treatment (During orchard life):
+
+These treatments are applied as needed based on monitoring and diagnosis.
+
+1.  **Nematode Management:**
+    *   If nematode symptoms appear (e.g., stunted growth, yellowing, poor vigor), apply **Carbofuran** 3G @ 30-50 g per tree (depending on tree age and size) around the root zone and mix lightly with soil, followed by irrigation.
+    *   Alternatively, drenching with **Fluensulfone** @ 2 ml/L water around the root zone can be considered, following label instructions for tree crops.
+    *   Regular application of biological agents like **Purpureocillium lilacinum** or **Trichoderma viride** @ 50-100 g per tree mixed with FYM can be done annually.
+
+2.  **Soil-borne Fungal Disease Management (e.g., Collar Rot, Root Rot):**
+    *   For existing trees showing symptoms of collar rot or root rot, drench the soil around the base of the affected trees with:
+        *   **Metalaxyl** 35% WS @ 2 g/L water (or **Metalaxyl-M** + **Mancozeb** formulations as per label)
+        *   **Propamocarb hydrochloride** @ 2.5 ml/L water
+        *   **Fosetyl-aluminium** @ 2.5 g/L water
+    *   Ensure good drainage to prevent waterlogging, which exacerbates these diseases.
+    *   Regular application of **Trichoderma viride** or **Pseudomonas fluorescens** @ 50-100 g per tree mixed with FYM can help maintain soil health and suppress pathogens.
+
+3.  **Weed Management:**
+    *   **Pre-emergent Herbicides (applied to soil before weed emergence):**
+        *   **Pendimethalin** @ 1.0-1.5 kg a.i./acre (2.5-3.75 L of 30% EC formulation) applied to moist soil after planting and before weed emergence.
+        *   **Oxyfluorfen** @ 0.2-0.4 kg a.i./acre (1.0-2.0 L of 23.5% EC formulation) applied to moist soil.
+    *   **Post-emergent Herbicides (applied to emerged weeds, avoiding contact with peach foliage):**
+        *   **Glyphosate** @ 1.0-1.5 kg a.i./acre (2.0-3.0 L of 41% SL formulation) as a directed spray to weeds, avoiding contact with peach trunk and foliage. Use a protective shield.
+        *   **Paraquat dichloride** @ 0.5-1.0 kg a.i./acre (2.5-5.0 L of 24% SL formulation) as a directed spray.
+
+**Important Considerations:**
+*   Always conduct soil testing before planting to assess nutrient status, pH, and presence of pests/pathogens.
+*   Follow label instructions for all chemical applications regarding dosage, safety precautions, and re-entry intervals.
+*   An Integrated Pest Management (IPM) approach is recommended, combining cultural, biological, and chemical methods.
+*   Ensure proper drainage and avoid waterlogging, as it predisposes trees to root and collar rot diseases.

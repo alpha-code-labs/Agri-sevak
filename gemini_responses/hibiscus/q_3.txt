@@ -1,0 +1,73 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding various rot diseases in Hibiscus. Effective management requires an integrated approach combining cultural practices and judicious use of CIBRC-approved chemical interventions.
+
+Many of the rot types you've mentioned are caused by similar soil-borne pathogens (fungi and oomycetes) and often manifest due to excessive moisture and poor drainage.
+
+Here's a comprehensive guide:
+
+### General Cultural Practices for Rot Prevention in Hibiscus:
+
+Prevention is the cornerstone of rot management. Implementing these practices will significantly reduce the incidence of all rot types:
+
+*   **Ensure Excellent Drainage:** Hibiscus thrives in well-draining soil. Amend heavy clay soils with organic matter (compost, well-rotted farmyard manure) and sand to improve porosity. For potted plants, use a sterile, well-draining potting mix.
+*   **Judicious Watering:** Water deeply but infrequently, allowing the top 2-3 inches of soil to dry out completely between waterings. Avoid overhead irrigation, especially in the evening, as wet foliage and soil surface create ideal conditions for pathogen growth.
+*   **Proper Planting Depth:** When planting, ensure the crown of the plant (where the stem meets the roots) is at or slightly above the soil line. Burying the crown too deep can lead to collar and crown rot.
+*   **Adequate Air Circulation:** Space plants appropriately to allow for good air movement around the foliage and base of the plant. This helps in drying out moisture and reduces humidity.
+*   **Sanitation:** Promptly remove and destroy any infected plant parts (leaves, stems, flowers, roots). Sterilize pruning tools with a 10% bleach solution or rubbing alcohol between cuts to prevent pathogen spread.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can promote lush, soft growth that is more susceptible to disease.
+*   **Mulching:** If using mulch, keep it a few inches away from the stem/collar region to prevent moisture accumulation directly against the plant base.
+*   **Soil Solarization:** For field-grown Hibiscus, especially in nurseries, soil solarization during hot summer months can help reduce soil-borne pathogen inoculum.
+
+### Chemical Control Measures for Rot Types in Hibiscus:
+
+The following CIBRC-approved chemicals are recommended for specific rot types. Always follow label instructions for dosage and safety precautions.
+
+#### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, and Seedling Rot (Damping-off):
+
+These rots are often caused by a complex of soil-borne pathogens, primarily oomycetes (*Phytophthora*, *Pythium*) and fungi (*Rhizoctonia solani*, *Fusarium* spp., *Sclerotium rolfsii*). The control measures are largely similar.
+
+*   **For Oomycete-related rots (*Phytophthora*, *Pythium*):**
+    *   **Propamocarb Hydrochloride** 72.2% SL: Apply as a soil drench at 2-3 ml/L of water.
+    *   **Metalaxyl-M** 31.8% ES: Apply as a soil drench at 1-1.5 ml/L of water.
+    *   **Fosetyl-Aluminium** 80% WP: Apply as a soil drench or foliar spray at 2-2.5 g/L of water.
+*   **For Fungal-related rots (*Rhizoctonia*, *Fusarium*, *Sclerotium*):**
+    *   **Carbendazim** 50% WP: Apply as a soil drench at 1-1.5 g/L of water.
+    *   **Thiophenate Methyl** 70% WP: Apply as a soil drench at 1-1.5 g/L of water.
+    *   **Pencycuron** 25% WP (specifically for *Rhizoctonia*): Apply as a soil drench at 1.5-2 g/L of water.
+    *   **Hexaconazole** 5% SC: Apply as a soil drench at 1-2 ml/L of water.
+*   **Broad-spectrum/Combination:**
+    *   **Mancozeb** 75% WP: Apply as a soil drench at 2-2.5 g/L of water, often used as a protectant or in rotation.
+    *   **Captan** 50% WP: Apply as a soil drench at 2-2.5 g/L of water.
+
+#### 2. Black Rot:
+
+The specific disease known as "Black Rot" (e.g., caused by *Xanthomonas campestris* in crucifers or *Guignardia bidwellii* in grapes) is not known to affect Hibiscus. However, various severe fungal rots can cause tissues to turn black. If this refers to a general symptom of severe fungal decay, the treatments for root/stem/collar rots (as listed above) would be relevant. If it refers to a severe form of *Botrytis* (Grey Mold) affecting flowers or buds, which can appear blackish:
+
+*   **Carbendazim** 50% WP: Apply as a foliar spray at 1-1.5 g/L of water.
+*   **Thiophenate Methyl** 70% WP: Apply as a foliar spray at 1-1.5 g/L of water.
+
+#### 3. Fruit Rot:
+
+Hibiscus produces seed capsules, not fleshy fruits in the common sense. However, fungal infections can cause rot of flowers, buds, or seed capsules. These are often caused by fungi like *Botrytis* or *Alternaria*.
+
+*   **Carbendazim** 50% WP: Apply as a foliar spray at 1-1.5 g/L of water.
+*   **Mancozeb** 75% WP: Apply as a foliar spray at 2-2.5 g/L of water.
+*   **Propiconazole** 25% EC: Apply as a foliar spray at 0.5-1 ml/L of water.
+
+#### 4. Seed Rot:
+
+Seed rot occurs when seeds fail to germinate due to infection by soil-borne fungi and oomycetes (*Pythium*, *Rhizoctonia*, *Fusarium*) before or during germination.
+
+*   **Seed Treatment (prior to sowing):**
+    *   **Captan** 50% WP: Treat seeds at 2-3 g/kg of seed.
+    *   **Thiram** 75% WS: Treat seeds at 2-3 g/kg of seed.
+    *   **Carbendazim** 50% WP: Treat seeds at 1-2 g/kg of seed.
+    *   **Metalaxyl** 35% WS: Treat seeds at 2-3 g/kg of seed (especially effective against oomycetes).
+
+**Important Considerations:**
+
+*   **Rotation of Chemicals:** To prevent the development of fungicide resistance, it is crucial to rotate fungicides with different modes of action.
+*   **Timing of Application:** Apply fungicides preventatively or at the very first sign of disease for best efficacy.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) when handling and applying chemicals.
+*   **Consult Experts:** For severe or persistent problems, it is advisable to consult with HAU plant pathology experts for accurate diagnosis and specific recommendations.
+
+By diligently following these recommendations, you can effectively manage and control rot diseases in your Hibiscus plants.

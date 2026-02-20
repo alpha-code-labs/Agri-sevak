@@ -1,0 +1,44 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding viral diseases in mango. It is crucial to understand that once a plant is infected with a virus, there is generally no direct chemical cure. Management strategies primarily focus on prevention and controlling the vectors that transmit these viruses.
+
+Let's address each condition you've mentioned:
+
+1.  **Leaf curl (Mango Leaf Curl Virus - MLCV):**
+    *   **Status in Mango:** This is a significant viral disease affecting mango in India, including Haryana. It is caused by the Mango Leaf Curl Virus (MLCV), a geminivirus, and is transmitted by the whitefly, *Bemisia tabaci*.
+    *   **Symptoms:** Characterized by severe curling, puckering, and thickening of leaves, especially young ones. Veins may swell, and internodes shorten, leading to a bushy, stunted appearance.
+    *   **Control Measures:**
+        *   **Use Healthy Planting Material:** Always source grafts or saplings from certified, virus-free nurseries.
+        *   **Rogueing:** Promptly remove and destroy (burn or bury) severely infected plants or branches to prevent further spread.
+        *   **Vector Management (Whitefly Control):** Since whiteflies transmit the virus, managing their population is critical. Apply insecticides targeting whiteflies, especially during periods of new flush growth when whitefly activity is high.
+            *   **Thiamethoxam** 25% WG: 0.2 g/L of water
+            *   **Imidacloprid** 17.8% SL: 0.3 ml/L of water
+            *   **Acetamiprid** 20% SP: 0.2 g/L of water
+            *   **Buprofezin** 25% SC: 1.25 ml/L of water
+            *   **Diafenthiuron** 50% WP: 1.2 g/L of water
+        *   **Cultural Practices:** Maintain good orchard hygiene, balanced nutrition, and proper irrigation to enhance plant vigor and tolerance.
+
+2.  **Mosaic:**
+    *   **Status in Mango:** While mosaic-like symptoms (patches of light and dark green on leaves) can occasionally be observed in mango, a distinct, widespread "Mango Mosaic Virus" with significant economic impact is not as well-defined or prevalent as MLCV. Such symptoms, if viral, would generally be managed through the same principles as MLCV.
+    *   **Control Measures:** Focus on using healthy planting material and managing potential insect vectors if identified.
+
+3.  **Yellow vein clearing:**
+    *   **Status in Mango:** This is not known to affect Mango. Yellow vein clearing is a characteristic symptom of certain viral diseases, notably in crops like okra (Okra Yellow Vein Mosaic Virus).
+
+4.  **Stripe:**
+    *   **Status in Mango:** This is not known to affect Mango. Stripe diseases are typically associated with cereal crops (e.g., Maize Stripe Virus).
+
+5.  **Tristeza:**
+    *   **Status in Mango:** This is not known to affect Mango. Citrus Tristeza Virus (CTV) is a major viral disease primarily affecting citrus species.
+
+6.  **Stunt virus:**
+    *   **Status in Mango:** This is not known to affect Mango as a specific named virus. While stunting can be a symptom of various plant stresses, including severe viral infections like MLCV, "Stunt virus" itself is not a recognized primary viral pathogen of mango.
+
+**General Principles for Managing Viral Diseases in Mango:**
+
+*   **Prevention is Key:** As there are no curative treatments for viral diseases, preventing infection is paramount.
+*   **Certified Planting Material:** Always procure grafts, seedlings, or rootstock from reputable, certified nurseries that guarantee virus-free material.
+*   **Vector Control:** Identify and manage insect vectors (like whiteflies for MLCV) that transmit viruses. Regular monitoring and timely application of appropriate insecticides are crucial.
+*   **Sanitation (Rogueing):** Promptly remove and destroy infected plants or plant parts to reduce the source of inoculum within the orchard.
+*   **Good Horticultural Practices:** Maintain optimal plant health through balanced fertilization, proper irrigation, and timely pruning. Healthy plants are generally more resilient to disease.
+*   **Resistant Varieties:** If available and suitable for your region, consider planting mango varieties known to have resistance or tolerance to specific viral diseases.
+
+For any specific concerns or severe outbreaks, it is always advisable to consult with the plant pathology experts at HAU, Hisar, for precise diagnosis and tailored recommendations.

@@ -1,0 +1,97 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Cucumber, keeping in mind the conditions in Haryana and using CIBRC approved chemicals.
+
+Many "rot" types are symptoms caused by a range of fungal or oomycete pathogens, often soil-borne. Effective control involves an integrated approach combining cultural practices and judicious use of fungicides.
+
+### General Cultural and Preventive Measures (Applicable to most rot types):
+
+1.  **Crop Rotation:** Avoid planting cucumbers or other cucurbits in the same field for at least 2-3 years to reduce pathogen build-up in the soil.
+2.  **Soil Preparation:** Ensure good soil drainage. Raised beds can be beneficial in areas prone to waterlogging.
+3.  **Sanitation:** Remove and destroy infected plant debris promptly. Clean tools and equipment to prevent pathogen spread.
+4.  **Seed Selection:** Use certified, disease-free seeds.
+5.  **Planting Density:** Maintain adequate spacing between plants to ensure good air circulation, which reduces humidity and fungal growth.
+6.  **Irrigation Management:** Avoid overhead irrigation, especially late in the day. Drip irrigation is preferred to keep foliage dry and prevent splashing of soil-borne pathogens. Avoid overwatering.
+7.  **Mulching:** Use organic mulches (e.g., straw) to prevent direct contact of fruits and lower stems with the soil, reducing infection risk.
+8.  **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can lead to lush growth, making plants more susceptible.
+
+### Specific Rot Types and Their Control:
+
+Many of the listed rot types (Root, Stem, Foot, Collar, Crown, Neck, Seed, Seedling rot) are often caused by a group of common soil-borne pathogens like *Pythium spp.*, *Phytophthora spp.*, *Rhizoctonia solani*, and *Fusarium spp.* Black Rot is typically caused by *Didymella bryoniae* (Gummy Stem Blight), and Fruit Rot can be caused by several pathogens.
+
+---
+
+#### 1. Damping-Off, Seed Rot, Seedling Rot, Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot (Primarily caused by *Pythium*, *Phytophthora*, *Rhizoctonia*, *Fusarium*)
+
+These rots manifest as poor seed germination, pre- or post-emergence seedling death (damping-off), reddish-brown lesions on roots and lower stems, wilting, and eventual collapse of the plant.
+
+**Control Measures:**
+
+*   **Seed Treatment:**
+    *   **Thiram** 75% WS @ 2-3 g/kg seed
+    *   **Carbendazim** 50% WP @ 2 g/kg seed
+    *   **Metalaxyl-M** 31.8% ES @ 3 ml/kg seed (effective against *Pythium* and *Phytophthora*)
+    *   **Tebuconazole** 2% DS @ 2 g/kg seed
+    *   **Trichoderma viride** 1% WP @ 4-5 g/kg seed (bio-fungicide, apply just before sowing)
+
+*   **Soil Drench / Application (Nursery or Field):**
+    *   **Propamocarb Hydrochloride** 72.2% SL @ 2-3 ml/L water (drench around the base of plants, especially for *Pythium* and *Phytophthora*)
+    *   **Metalaxyl-M** 31.8% ES @ 2-3 ml/L water (drench)
+    *   **Copper Oxychloride** 50% WP @ 2-3 g/L water (drench)
+    *   **Carbendazim** 50% WP @ 1-2 g/L water (drench)
+    *   **Mancozeb** 75% WP @ 2-2.5 g/L water (drench)
+    *   **Trichoderma viride** 1% WP @ 2.5 kg/acre mixed with 50-100 kg of Farm Yard Manure (FYM) and applied to the soil before planting, or as a drench @ 5 g/L water.
+
+---
+
+#### 2. Black Rot / Gummy Stem Blight (Caused by *Didymella bryoniae* / *Stagonosporopsis cucurbitacearum*)
+
+This disease causes water-soaked lesions on leaves, stems (often with a characteristic gummy exudate), tendrils, and fruit. Stem lesions can girdle the stem, leading to wilting and collapse (stem rot, neck rot). Fruit rot appears as dark, sunken lesions.
+
+**Control Measures:**
+
+*   **Foliar Spray (can also help manage stem and neck rot symptoms):**
+    *   **Azoxystrobin** 23% SC @ 0.5-1 ml/L water
+    *   **Tebuconazole** 25% WG @ 0.75-1 g/L water
+    *   **Mancozeb** 75% WP @ 2-2.5 g/L water
+    *   **Chlorothalonil** 75% WP @ 1.5-2 g/L water
+    *   **Carbendazim** 12% + **Mancozeb** 63% WP @ 2 g/L water
+
+---
+
+#### 3. Fruit Rot (General, including *Pythium*, *Phytophthora*, *Didymella*, *Sclerotinia*)
+
+Fruit rot can be caused by various pathogens, leading to water-soaked lesions on the fruit that rapidly expand, causing soft decay, often with visible fungal growth.
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Ensure fruits do not come into direct contact with the soil by using mulches or supporting plants.
+    *   Harvest fruits promptly.
+*   **Chemical (often overlaps with foliar sprays for other diseases):**
+    *   **Azoxystrobin** 23% SC @ 0.5-1 ml/L water
+    *   **Propamocarb Hydrochloride** 72.2% SL @ 2-3 ml/L water (if *Pythium* or *Phytophthora* are suspected)
+    *   **Mancozeb** 75% WP @ 2-2.5 g/L water
+    *   **Copper Oxychloride** 50% WP @ 2-3 g/L water
+
+---
+
+#### 4. White Mold / Sclerotinia Rot (Caused by *Sclerotinia sclerotiorum*)
+
+This rot appears as water-soaked lesions on stems, leaves, and fruits, often at the soil line or in dense canopy areas. It is characterized by white, cottony fungal growth, eventually forming hard, black, seed-like structures called sclerotia.
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Ensure good air circulation by proper plant spacing and pruning.
+    *   Remove and destroy infected plant debris and sclerotia from the field.
+*   **Chemical:**
+    *   **Carbendazim** 50% WP @ 1-2 g/L water (foliar spray or drench)
+    *   **Tebuconazole** 25% WG @ 0.75-1 g/L water (foliar spray)
+    *   **Boscalid** 50% WG @ 0.75-1 g/L water (foliar spray)
+
+---
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for any chemical product regarding dosage, application method, safety precautions, and pre-harvest intervals (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with local agricultural extension services or HAU experts for specific recommendations tailored to your farm's conditions and current disease pressure.

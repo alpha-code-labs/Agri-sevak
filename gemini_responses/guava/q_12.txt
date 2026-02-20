@@ -1,0 +1,36 @@
+Control of Scale Insects and Mealybugs in Guava
+
+Scale insects and mealybugs are significant sap-sucking pests of guava, leading to reduced plant vigour, sooty mould development (due to honeydew excretion), and decreased fruit quality and yield. Effective management involves an integrated approach combining cultural, biological, and chemical methods.
+
+**1. Cultural and Mechanical Control:**
+*   **Pruning:** Regularly inspect and prune infested branches, twigs, and leaves. Destroy pruned material by burning or deep burying to prevent further spread of pests.
+*   **Weed Management:** Keep the orchard free of weeds, as they can harbour pests and provide alternative hosts.
+*   **Ant Control:** Control ants, as they protect mealybugs and scales from natural enemies in exchange for honeydew. Use sticky bands on tree trunks or ant baits.
+*   **Water Jet:** For small, localized infestations, a strong jet of water can dislodge mealybugs from plant surfaces.
+*   **Manual Removal:** For light infestations, manually remove mealybugs and scales using a brush or cloth dipped in soapy water.
+
+**2. Biological Control:**
+*   Conserve and encourage natural enemies such as ladybird beetles (e.g., *Cryptolaemus montrouzieri* for mealybugs), parasitic wasps (e.g., *Anagyrus lopezi* for mealybugs, various encyrtids for scales), and lacewings. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+**3. Chemical Control:**
+When infestations are severe and cultural/biological methods are insufficient, chemical control may be necessary. Ensure thorough coverage, especially on the undersides of leaves and in crevices where pests hide. Always follow label instructions and observe the Pre-Harvest Interval (PHI).
+
+*   **For Scale Insects:**
+    *   **Horticultural Mineral Oil (HMO):** Apply at a concentration of **10-20 ml/L** of water. This works by suffocating the scales. Best applied during periods of low fruit load or after harvest.
+    *   **Buprofezin 25% SC:** Apply at **1.25 ml/L** of water. This is an insect growth regulator effective against nymphs.
+    *   **Spirotetramat 150 OD:** Apply at **0.5-0.75 ml/L** of water. This is a systemic insecticide that moves both upwards and downwards in the plant, reaching hidden pests.
+    *   **Imidacloprid 17.8% SL:** Apply at **0.3-0.5 ml/L** of water. Effective against crawlers and young scales.
+
+*   **For Mealybugs:**
+    *   **Buprofezin 25% SC:** Apply at **1.25 ml/L** of water. Effective against nymphs by disrupting their molting process.
+    *   **Spirotetramat 150 OD:** Apply at **0.5-0.75 ml/L** of water. Highly effective against mealybugs due to its systemic action.
+    *   **Thiamethoxam 25% WG:** Apply at **0.2-0.3 g/L** of water. A systemic insecticide that provides good control.
+    *   **Acetamiprid 20% SP:** Apply at **0.3-0.4 g/L** of water. Another systemic neonicotinoid effective against sucking pests.
+    *   **Imidacloprid 17.8% SL:** Apply at **0.3-0.5 ml/L** of water.
+
+**Important Considerations:**
+*   **Spray Timing:** Apply insecticides when the pest population is in its early stages (crawler/nymph stage for scales, young mealybugs) for better efficacy.
+*   **Thorough Coverage:** Ensure complete wetting of the plant, including the undersides of leaves, stems, and fruit surfaces, as these pests often hide in protected areas.
+*   **Rotation of Chemicals:** To prevent the development of resistance, rotate insecticides with different modes of action.
+*   **Pre-Harvest Interval (PHI):** Always observe the specified Pre-Harvest Interval (PHI) for each chemical to ensure fruit safety and avoid harmful residues.
+*   **Safety Precautions:** Always wear appropriate personal protective equipment (PPE) such as gloves, masks, and protective clothing while handling and spraying chemicals. Follow label instructions strictly.

@@ -1,0 +1,46 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can confirm that both Red spider mite (primarily *Tetranychus urticae*) and Rust mite (*Phyllocoptruta oleivora*) are significant pests of Lemon in our region. Effective management requires an integrated approach.
+
+Here's how to control them:
+
+**1. Identification and Monitoring:**
+
+*   **Red Spider Mite:** These are tiny, reddish-brown mites visible on the underside of leaves. They cause characteristic stippling (tiny yellow or white spots) on the upper leaf surface. In severe infestations, webbing may be visible.
+*   **Rust Mite:** These are microscopic and not visible to the naked eye. Their feeding causes a bronzing or russeting of the fruit peel, which can reduce market value. On leaves, they may cause a silvery or greasy appearance. Regular scouting with a hand lens is crucial.
+
+**2. Integrated Pest Management (IPM) Approach:**
+
+An IPM strategy combines cultural, biological, and chemical methods for sustainable control.
+
+*   **Cultural Practices:**
+    *   **Proper Irrigation:** Water-stressed plants are more susceptible to mite infestations. Ensure adequate and consistent irrigation.
+    *   **Weed Management:** Control weeds in and around the orchard, as they can host mites.
+    *   **Pruning:** Maintain good canopy ventilation through judicious pruning.
+    *   **Nutrient Management:** Avoid excessive nitrogen fertilization, which can promote lush growth favored by mites.
+
+*   **Biological Control:**
+    *   Conserve natural enemies such as predatory mites (e.g., *Amblyseius* species), lacewings, and ladybird beetles. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+*   **Chemical Control (Acaricides):**
+    When mite populations reach damaging levels, chemical intervention may be necessary. Always rotate acaricides with different modes of action to prevent the development of resistance. Ensure thorough spray coverage, especially on the underside of leaves for spider mites and all fruit surfaces for rust mites.
+
+    Here are CIBRC approved technical chemical names and their recommended dosages for Lemon:
+
+    *   For **Red Spider Mite** and **Rust Mite**:
+        *   **Spiromesifen 22.9% SC**: 0.5 ml per litre of water.
+        *   **Fenpyroximate 5% SC**: 0.5 ml per litre of water.
+        *   **Abamectin 1.9% EC**: 0.3 - 0.5 ml per litre of water.
+
+    *   Primarily for **Red Spider Mite**:
+        *   **Propargite 57% EC**: 1.5 - 2.0 ml per litre of water.
+        *   **Fenazaquin 10% EC**: 1.0 ml per litre of water.
+
+    *   Primarily for **Rust Mite** (also has some effect on spider mites):
+        *   **Wettable Sulphur 80% WP**: 2.0 - 3.0 g per litre of water. (Caution: Avoid applying sulphur when temperatures are above 32°C, as it can cause phytotoxicity).
+
+**Important Considerations:**
+
+*   **Rotation:** Never use the same acaricide repeatedly. Rotate between different chemical groups to prevent resistance development.
+*   **Timing:** Apply acaricides when mite populations are low to moderate for best results. Early detection is key.
+*   **Coverage:** Ensure complete coverage of the foliage and fruit, as mites often hide on the undersides of leaves and in protected areas.
+*   **Safety:** Always read and follow the instructions on the product label, including dosage, pre-harvest interval (PHI), and safety precautions. Wear appropriate personal protective equipment (PPE).
+*   **Local Advice:** For the most precise recommendations tailored to your specific orchard conditions and current pest pressure, it is always advisable to consult with your local agricultural extension officer or HAU experts.

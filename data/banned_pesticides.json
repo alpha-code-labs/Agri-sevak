@@ -1,0 +1,213 @@
+{
+  "source": "Central Insecticides Board & Registration Committee (CIB&RC), India",
+  "updated_on": "31.03.2024",
+  "pdf_filename": "list_of_pesticides_which_are_banned_refused_registration_and_restricted_in_use_0.pdf",
+
+  "banned": {
+    "description": "Pesticides banned for manufacture, import and use in India. These must NEVER be recommended for any crop.",
+    "chemicals": [
+      {"name": "Alachlor", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Aldicarb", "notification": ""},
+      {"name": "Aldrin", "notification": ""},
+      {"name": "Benzene Hexachloride", "notification": ""},
+      {"name": "Benomyl", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Calcium Cyanide", "notification": ""},
+      {"name": "Carbaryl", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Chlorbenzilate", "notification": "S.O. 682(E), 17.07.2001"},
+      {"name": "Chlordane", "notification": ""},
+      {"name": "Chlorofenvinphos", "notification": ""},
+      {"name": "Copper Acetoarsenite", "notification": ""},
+      {"name": "Diazinon", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Dibromochloropropane", "notification": "S.O. 569(E), 25.07.1989", "aliases": ["DBCP"]},
+      {"name": "Dichlorovos", "notification": "S.O. 3951(E), 08.08.2018", "aliases": ["DDVP"]},
+      {"name": "Dicofol", "notification": "S.O. 4294(E), 03.10.2023"},
+      {"name": "Dieldrin", "notification": "S.O. 682(E), 17.07.2001"},
+      {"name": "Dinocap", "notification": "S.O. 4294(E), 03.10.2023"},
+      {"name": "Endosulfan", "notification": "Supreme Court order, 13.05.2011, disposed 10.01.2017"},
+      {"name": "Endrin", "notification": ""},
+      {"name": "Ethyl Mercury Chloride", "notification": ""},
+      {"name": "Ethyl Parathion", "notification": ""},
+      {"name": "Ethylene Dibromide", "notification": "S.O. 682(E), 17.07.2001", "aliases": ["EDB"]},
+      {"name": "Fenarimol", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Fenthion", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Heptachlor", "notification": ""},
+      {"name": "Lindane", "notification": "", "aliases": ["Gamma-HCH"]},
+      {"name": "Linuron", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Maleic Hydrazide", "notification": "S.O. 682(E), 17.07.2001"},
+      {"name": "Menazon", "notification": ""},
+      {"name": "Methomyl", "notification": "S.O. 4294(E), 03.10.2023"},
+      {"name": "Methoxy Ethyl Mercury Chloride", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Methyl Parathion", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Metoxuron", "notification": "S.O. 682(E), 17.07.2001"},
+      {"name": "Nitrofen", "notification": ""},
+      {"name": "Paraquat Dimethyl Sulphate", "notification": "", "aliases": ["Paraquat"]},
+      {"name": "Pentachloro Nitrobenzene", "notification": "S.O. 569(E), 25.07.1989", "aliases": ["PCNB"]},
+      {"name": "Pentachlorophenol", "notification": ""},
+      {"name": "Phenyl Mercury Acetate", "notification": ""},
+      {"name": "Phorate", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Phosphamidon", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Sodium Cyanide", "notification": "S.O. 3951(E), 08.08.2018", "note": "Banned for insecticidal purpose only"},
+      {"name": "Sodium Methane Arsonate", "notification": ""},
+      {"name": "Tetradifon", "notification": ""},
+      {"name": "Thiometon", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Toxaphene", "notification": "S.O. 569(E), 25.07.1989", "aliases": ["Camphechlor"]},
+      {"name": "Triazophos", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Tridemorph", "notification": "S.O. 3951(E), 08.08.2018"},
+      {"name": "Trichloro Acetic Acid", "notification": "S.O. 682(E), 17.07.2001", "aliases": ["TCA"]},
+      {"name": "Trichlorfon", "notification": "S.O. 3951(E), 08.08.2018"}
+    ]
+  },
+
+  "banned_for_export_only": {
+    "description": "Banned for domestic use but manufacture allowed for export.",
+    "chemicals": [
+      {"name": "Captafol 80% Powder", "notification": "S.O. 679(E), 17.07.2001"},
+      {"name": "Dichlorvos", "notification": "S.O. 1196(E), 20.03.2020"},
+      {"name": "Nicotine Sulfate", "notification": "S.O. 325(E), 11.05.1992"},
+      {"name": "Phorate", "notification": "S.O. 1196(E), 20.03.2020"},
+      {"name": "Triazophos", "notification": "S.O. 1196(E), 20.03.2020"}
+    ]
+  },
+
+  "withdrawn": {
+    "description": "Pesticides withdrawn. May become available again if industry submits required data.",
+    "chemicals": [
+      {"name": "Dalapon", "notification": "S.O. 915(E), 15.06.2006"},
+      {"name": "Ferbam", "notification": "S.O. 915(E), 15.06.2006"},
+      {"name": "Formothion", "notification": "S.O. 915(E), 15.06.2006"},
+      {"name": "Nickel Chloride", "notification": "S.O. 915(E), 15.06.2006"},
+      {"name": "Paradichlorobenzene", "notification": "S.O. 915(E), 15.06.2006", "aliases": ["PDCB"]},
+      {"name": "Simazine", "notification": "S.O. 915(E), 15.06.2006"},
+      {"name": "Sirmate", "notification": "S.O. 2485(E), 24.09.2014"},
+      {"name": "Warfarin", "notification": "S.O. 915(E), 15.06.2006"}
+    ]
+  },
+
+  "refused_registration": {
+    "description": "Pesticides that were never approved for registration in India.",
+    "chemicals": [
+      {"name": "2,4,5-T"},
+      {"name": "Ammonium Sulphamate"},
+      {"name": "Azinphos Ethyl"},
+      {"name": "Azinphos Methyl"},
+      {"name": "Binapacryl"},
+      {"name": "Calcium Arsenate"},
+      {"name": "Carbophenothion"},
+      {"name": "Chinomethionate", "aliases": ["Morestan"]},
+      {"name": "Dicrotophos"},
+      {"name": "EPN"},
+      {"name": "Fentin Acetate"},
+      {"name": "Fentin Hydroxide"},
+      {"name": "Lead Arsenate"},
+      {"name": "Leptophos", "aliases": ["Phosvel"]},
+      {"name": "Mephosfolan"},
+      {"name": "Mevinphos", "aliases": ["Phosdrin"]},
+      {"name": "Thiodemeton", "aliases": ["Disulfoton"]},
+      {"name": "Vamidothion"}
+    ]
+  },
+
+  "restricted": {
+    "description": "Pesticides restricted for use on specific crops or under specific conditions. These are NOT universally banned — they are only banned for the crops/uses listed.",
+    "chemicals": [
+      {
+        "name": "Aluminium Phosphide",
+        "restriction": "Only by Govt/Govt undertakings under expert supervision. Tube packs of 10 and 20 tablets of 3g each are completely banned.",
+        "banned_crops": [],
+        "notification": "S.O. 677(E), 17.07.2001"
+      },
+      {
+        "name": "Captafol",
+        "restriction": "Foliar spray banned. Only allowed as seed dresser.",
+        "banned_crops": [],
+        "notification": "S.O. 569(E), 25.07.1989"
+      },
+      {
+        "name": "Carbofuran",
+        "restriction": "All formulations banned except Carbofuran 3% Encapsulated Granule (CG).",
+        "banned_crops": [],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Chlorpyriphos",
+        "restriction": "Banned for use on specific crops.",
+        "banned_crops": ["Ber", "Citrus", "Tobacco"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Cypermethrin",
+        "restriction": "Cypermethrin 3% Smoke Generator only through Pest Control Operators, not general public.",
+        "banned_crops": [],
+        "notification": "Delhi HC order, WP(C) 10052/2009"
+      },
+      {
+        "name": "Dazomet",
+        "restriction": "Not permitted on Tea.",
+        "banned_crops": ["Tea"],
+        "notification": "S.O. 3006(E), 31.12.2008"
+      },
+      {
+        "name": "DDT",
+        "restriction": "Banned in agriculture. Restricted to public health (max 10,000 MT/year).",
+        "banned_crops": [],
+        "aliases": ["Dichloro Diphenyl Trichloroethane"],
+        "notification": "S.O. 295(E), 08.03.2006"
+      },
+      {
+        "name": "Dimethoate",
+        "restriction": "Banned for use on fruits and vegetables consumed raw.",
+        "banned_crops": ["fruits consumed raw", "vegetables consumed raw"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Fenitrothion",
+        "restriction": "Banned in agriculture except for locust control in scheduled desert area and public health.",
+        "banned_crops": [],
+        "notification": "S.O. 706(E), 03.05.2007"
+      },
+      {
+        "name": "Malathion",
+        "restriction": "Banned for use on specific crops.",
+        "banned_crops": ["Sorghum", "Pea", "Soybean", "Castor", "Sunflower", "Bhindi", "Brinjal", "Cauliflower", "Radish", "Turnip", "Tomato", "Apple", "Mango", "Grape"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Mancozeb",
+        "restriction": "Banned for use on specific crops.",
+        "banned_crops": ["Guava", "Jowar", "Tapioca"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Methyl Bromide",
+        "restriction": "Only by Govt/Govt undertakings under expert supervision.",
+        "banned_crops": [],
+        "notification": "G.S.R. 371(E), 20.05.1999"
+      },
+      {
+        "name": "Monocrotophos",
+        "restriction": "Banned for use on vegetables. Monocrotophos 36% SL formulation being phased out entirely.",
+        "banned_crops": ["vegetables"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Oxyfluorfen",
+        "restriction": "Banned for use on specific crops.",
+        "banned_crops": ["Potato", "Groundnut"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Quinalphos",
+        "restriction": "Banned for use on specific crops.",
+        "banned_crops": ["Jute", "Cardamom", "Sorghum"],
+        "notification": "S.O. 4294(E), 03.10.2023"
+      },
+      {
+        "name": "Trifluralin",
+        "restriction": "All uses banned except on Wheat. Toxic to aquatic organisms.",
+        "banned_crops": [],
+        "note": "Only permitted on Wheat",
+        "notification": "S.O. 3951(E), 08.08.2018"
+      }
+    ]
+  }
+}

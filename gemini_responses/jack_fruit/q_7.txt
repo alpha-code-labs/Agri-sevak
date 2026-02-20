@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Dieback, Twig blight, and Tikka disease in Jack Fruit, specifically for conditions prevalent in Haryana.
+
+---
+
+### Control of Dieback and Twig Blight in Jack Fruit
+
+Dieback and Twig blight in Jack Fruit are common fungal diseases that can significantly impact tree health and productivity. They are characterized by the progressive drying and death of twigs and branches, starting from the tip and moving downwards. Common pathogens include *Botryodiplodia theobromae*, *Colletotrichum gloeosporioides*, and sometimes *Phytophthora* species, especially under humid conditions or poor drainage.
+
+**Symptoms:**
+*   Wilting and yellowing of leaves on affected twigs.
+*   Drying back of twigs from the tip, often turning dark brown or black.
+*   Cankers or lesions may form on branches.
+*   In severe cases, entire branches or even the tree may die.
+
+**Control Measures:**
+
+1.  **Cultural Practices:**
+    *   **Pruning:** Regularly inspect trees and prune all affected twigs and branches well below the visible symptoms, cutting into healthy wood. This helps remove the source of inoculum.
+    *   **Sanitation:** Collect and destroy all pruned material by burning or deep burying to prevent the spread of spores.
+    *   **Tool Sterilization:** Sterilize pruning tools with a 1% sodium hypochlorite solution (bleach) or 70% alcohol between cuts and between trees to avoid transmitting the disease.
+    *   **Canopy Management:** Ensure proper tree spacing and prune to maintain an open canopy, which improves air circulation and reduces humidity within the tree, making it less conducive for fungal growth.
+    *   **Nutrient Management:** Maintain tree vigour through balanced fertilization and appropriate irrigation, avoiding both water stress and waterlogging. Good tree health enhances natural resistance.
+
+2.  **Chemical Control:**
+    *   **Foliar Sprays:** Apply fungicides preventively during periods conducive to disease development (e.g., high humidity, post-monsoon) or therapeutically upon the first appearance of symptoms.
+        *   For general fungal dieback (e.g., *Botryodiplodia*, *Colletotrichum*):
+            *   Spray with **Carbendazim** at 0.5 g/L of water.
+            *   Alternatively, spray with **Mancozeb** at 2.5 g/L of water.
+        *   If *Phytophthora* is suspected (often associated with root rot or collar rot symptoms that lead to dieback):
+            *   Spray with **Copper oxychloride** at 3 g/L of water.
+            *   Alternatively, spray with **Propineb** at 2.5 g/L of water.
+    *   **Application:** Ensure thorough coverage of the foliage and affected branches. Repeat applications at 10-15 day intervals, typically 2-3 sprays, depending on disease severity and weather conditions.
+    *   **Trunk Drench (if root/collar issues are suspected):** A drench around the base of the tree with **Propineb** (2.5 g/L) or **Copper oxychloride** (3 g/L) can be beneficial if root or collar rot is suspected to be contributing to the dieback.
+
+---
+
+### Control of Tikka Disease in Jack Fruit
+
+This is not known to affect Jack Fruit. Tikka disease is primarily a foliar disease of groundnut (peanut) caused by *Cercospora arachidicola* and *Cercosporidium personatum*.

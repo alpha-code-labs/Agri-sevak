@@ -1,0 +1,47 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Soybean cultivation in Haryana. These are general guidelines; for precise recommendations, a soil test is always advised.
+
+**General Nutrient Recommendations for Soybean (per acre):**
+*   Nitrogen (N): 20 kg
+*   Phosphorus (P2O5): 40-60 kg
+*   Potassium (K2O): 20-40 kg (adjust based on soil test, 20 kg is a common baseline)
+*   Sulphur (S): 20 kg
+
+**Specific Fertilizer Recommendations (per acre):**
+
+**1. Nitrogen (N):**
+*   Soybean, being a legume, fixes atmospheric nitrogen. A starter dose of nitrogen is beneficial for early growth.
+    *   **Urea**: 20-25 kg/acre (if **Diammonium Phosphate (DAP)** is not used, or if additional N is required after **DAP** application to reach 20 kg N/acre). Apply at sowing.
+    *   **Nano-Urea**: 2-4 ml/L of water, applied as a foliar spray. Two sprays are generally recommended:
+        *   First spray: At the vegetative growth stage (30-40 days after sowing).
+        *   Second spray: At the pod development stage (50-60 days after sowing).
+        *   Use 200 litres of water per acre for spraying.
+
+**2. Phosphorus (P2O5):**
+*   Phosphorus is critical for root development, nodulation, and pod formation in soybean.
+    *   **Diammonium Phosphate (DAP)**: 80-100 kg/acre. This will provide 14.4-18 kg of Nitrogen and 36.8-46 kg of P2O5. Adjust **Urea** application accordingly to meet the total N requirement. Apply at sowing.
+    *   **Single Super Phosphate (SSP)**: 250-375 kg/acre. This is an alternative to **DAP** and also provides Sulphur. Apply at sowing.
+    *   **Nano-DAP**: 2-4 ml/L of water, applied as a foliar spray. Two sprays are generally recommended:
+        *   First spray: At the vegetative growth stage (30-40 days after sowing).
+        *   Second spray: At the pod development stage (50-60 days after sowing).
+        *   Use 200 litres of water per acre for spraying.
+
+**3. Potassium (K2O):**
+*   Potassium enhances overall plant health, disease resistance, and seed filling.
+    *   **Muriate of Potash (MOP)**: 30-40 kg/acre. Apply at the time of sowing.
+
+**4. Sulphur (S):**
+*   Sulphur is essential for oil synthesis and efficient nodulation in oilseed crops like soybean.
+    *   **Elemental Sulphur (90%)**: 20-22 kg/acre. Apply at the time of sowing.
+    *   Alternatively, if **Single Super Phosphate (SSP)** is used as a phosphorus source, it will adequately cover the Sulphur requirement (250 kg **SSP** provides approximately 27.5 kg S).
+    *   **Gypsum**: 120-150 kg/acre can also be used as a source of Sulphur, especially in soils with calcium deficiency. Apply at the time of sowing.
+
+**5. NPK (Complex Fertilizers):**
+*   If using complex NPK fertilizers, the dose will depend on the specific grade and soil test recommendations.
+    *   For example, **NPK (12:32:16)**: 125 kg/acre can be applied to meet the phosphorus and potassium requirements, along with a portion of nitrogen. Adjust additional **Urea** as needed to reach the total N requirement. Apply at sowing.
+    *   **NPK (10:26:26)**: 150-200 kg/acre can be used, adjusting for N and S requirements. Apply at sowing.
+
+**Application Timing:**
+*   All basal fertilizers (**Urea**, **Diammonium Phosphate (DAP)**, **Single Super Phosphate (SSP)**, **Muriate of Potash (MOP)**, **Elemental Sulphur**, **Gypsum**, **NPK** complex fertilizers) should be applied at the time of sowing, preferably drilled below the seed.
+*   Foliar applications of **Nano-Urea** and **Nano-DAP** should be done at critical growth stages as mentioned above.
+
+**Important Note:** These recommendations are general guidelines. A comprehensive soil test report from a certified laboratory is highly recommended to determine the exact nutrient status of your field and to tailor fertilizer application for optimal yield and nutrient use efficiency.

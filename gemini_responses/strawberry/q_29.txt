@@ -1,0 +1,42 @@
+Tinda/Boll dropping is not known to affect Strawberry.
+
+Flower and fruit drop in strawberry are primarily physiological responses to various environmental stresses, nutritional imbalances, and sometimes poor pollination or pest/disease issues. Addressing these underlying causes is crucial for control.
+
+**1. Environmental Management:**
+*   **Water Stress:** Ensure consistent and adequate soil moisture. Both water deficit and waterlogging can lead to flower and fruit drop. Use drip irrigation for efficient water management.
+*   **Temperature Extremes:** Protect plants from very high temperatures (above 30°C) during flowering and fruiting, which can impair pollen viability and fruit set. Similarly, frost during flowering can cause significant damage. Consider using shade nets during hot periods and row covers for frost protection.
+*   **Light Intensity:** Ensure adequate sunlight exposure. Poor light conditions can reduce photosynthesis and lead to flower abortion.
+*   **Humidity:** Very high humidity can sometimes interfere with pollen shedding and dispersal, while very low humidity can desiccate flowers.
+
+**2. Nutritional Management:**
+*   **Balanced Fertilization:** Conduct a soil test to determine nutrient status and apply fertilizers accordingly. Deficiencies of essential nutrients, especially micronutrients, can lead to poor fruit set and drop.
+*   **Boron:** Critical for pollen germination, pollen tube growth, and fruit set.
+    *   Foliar spray of **Disodium octaborate tetrahydrate** at 1-1.5 g/L of water, applied at pre-flowering and early fruit set stages.
+*   **Calcium:** Important for cell wall integrity and fruit development, preventing disorders that can lead to drop.
+    *   Foliar spray of **Calcium nitrate** at 3-5 g/L of water, starting from flowering.
+*   **Potassium:** Essential for overall plant vigor and fruit development.
+    *   Foliar spray of **Potassium nitrate** at 5-10 g/L of water during flowering and fruiting stages.
+*   **Micronutrient Mixture:** A general chelated micronutrient mixture containing Zinc, Iron, Manganese, Copper, and Molybdenum can be beneficial if multiple deficiencies are suspected.
+    *   Foliar spray of a chelated micronutrient mixture (e.g., containing **Zinc EDTA**, **Ferrous EDTA**, **Manganese EDTA**, **Copper EDTA**, **Sodium molybdate**) at recommended rates (typically 1-2 g/L) as per product label.
+
+**3. Pollination Enhancement:**
+*   **Encourage Pollinators:** Ensure the presence of honeybees and other pollinators. Avoid spraying insecticides during the flowering period when pollinators are active.
+*   **Manual Pollination:** In protected cultivation or areas with poor natural pollination, gentle shaking of plants or using a soft brush can aid in pollen transfer.
+
+**4. Pest and Disease Management:**
+*   **Thrips:** These tiny insects feed on flowers and young fruits, causing damage that can lead to drop.
+    *   Control with insecticides like **Imidacloprid** (0.3 ml/L) or **Fipronil** (1.5 ml/L) if infestation is severe, preferably before flowering or after fruit set to protect pollinators.
+*   **Mites:** Severe mite infestations can stress plants, leading to poor fruit development and drop.
+    *   Control with acaricides like **Spiromesifen** (0.5 ml/L) or **Fenpyroximate** (0.5 ml/L).
+*   **Fungal Diseases:** Diseases affecting flowers or pedicels (e.g., Botrytis blight) can cause them to drop.
+    *   Control with fungicides like **Azoxystrobin** (1 ml/L) or **Pyraclostrobin + Metiram** (2 g/L).
+
+**5. Plant Growth Regulators (PGRs):**
+*   While not a primary solution for drop, **Gibberellic acid (GA3)** can sometimes be used to improve fruit size and overall yield, which can indirectly help in better fruit retention if the plant's hormonal balance is a limiting factor.
+    *   Foliar spray of **Gibberellic acid** at 10-20 ppm (0.01-0.02 g/L) at early flowering stage. *Caution: Use precise concentrations as higher doses can have adverse effects.*
+
+**Important Considerations:**
+*   Always follow the manufacturer's instructions for dosage and application.
+*   Ensure proper spray coverage.
+*   Rotate chemicals to prevent resistance development.
+*   Observe pre-harvest intervals (PHI) for all pesticides.

@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling viral diseases in roses:
+
+Viral diseases in roses are challenging because there is no direct chemical cure for the virus itself once a plant is infected. Management focuses primarily on prevention, sanitation, and control of vectors that transmit the viruses.
+
+Let's address the specific conditions you've mentioned:
+
+*   **Tristeza:** This is not known to affect Rose. Citrus Tristeza Virus (CTV) is a major pathogen of citrus, not roses.
+
+For **Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus** (which are symptoms or diseases known to affect roses, such as Rose Mosaic Virus, Rose Streak Virus, and Rose Rosette Virus), the control strategies are integrated and focus on the following:
+
+1.  **Use Disease-Free Planting Material:**
+    *   Always procure rose plants, rootstock, and scion wood from certified, reputable nurseries that guarantee virus-free stock. This is the most critical step, especially for graft-transmitted viruses like Rose Mosaic Virus.
+
+2.  **Sanitation and Removal of Infected Plants:**
+    *   Regularly inspect your rose plants for symptoms such as leaf distortion, mottling, yellowing, vein clearing, streaking on stems, stunted growth, or "witches' broom" (excessive, bushy growth).
+    *   Immediately rogue out (remove and destroy) any symptomatic plants. Do not compost them, as the virus can persist. Deep burial or burning is recommended.
+    *   Disinfect pruning tools (e.g., with a 10% bleach solution or rubbing alcohol) between cuts and between plants to prevent mechanical transmission of viruses.
+
+3.  **Vector Control:**
+    *   Some rose viruses are transmitted by insect or mite vectors. Controlling these vectors can help prevent the spread of the disease.
+    *   **Rose Rosette Virus (RRV):** This virus, which causes severe stunting, witches' broom, and distorted growth, is transmitted by the eriophyid mite (*Phyllocoptes fructiphilus*).
+        *   **Acaricides:** If mites are detected or RRV is prevalent in the area, apply CIBRC approved acaricides.
+            *   **Spiromesifen** 22.9% SC: 0.5 ml/L of water.
+            *   **Fenpyroximate** 5% SC: 1 ml/L of water.
+            *   **Propargite** 57% EC: 1.5-2 ml/L of water.
+        *   Ensure thorough coverage, especially on new growth and undersides of leaves. Repeat applications as per product label recommendations.
+    *   **Aphids:** While not primary vectors for major rose viruses like Rose Mosaic or Rose Rosette, aphids can transmit some other plant viruses. If aphid populations are high, control them.
+        *   **Insecticides:**
+            *   **Imidacloprid** 17.8% SL: 0.5 ml/L of water.
+            *   **Thiamethoxam** 25% WG: 0.2 g/L of water.
+
+4.  **Cultural Practices:**
+    *   Maintain good plant vigor through proper fertilization, irrigation, and pruning. Healthy plants may tolerate viral infections better, though they remain infected.
+    *   Avoid planting new roses near old, infected rose bushes or wild roses that might harbor viruses or their vectors.
+
+5.  **Resistant Varieties:**
+    *   While truly virus-resistant rose varieties are rare, some cultivars may show more tolerance to certain viral diseases. Consult local nurseries or HAU experts for recommendations on varieties known to perform well in Haryana and show some resilience.
+
+By implementing these integrated management strategies, you can significantly reduce the incidence and spread of viral diseases in your rose garden.

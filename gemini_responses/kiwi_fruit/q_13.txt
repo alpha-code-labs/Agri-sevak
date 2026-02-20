@@ -1,0 +1,25 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling these pests:
+
+### Control of Fruit Fly in Kiwi Fruit
+
+Fruit flies (primarily species of *Bactrocera*) can infest a wide range of fruits, including Kiwi Fruit, especially if other host fruits are present in the vicinity. Effective management requires an integrated approach:
+
+1.  **Orchard Sanitation:**
+    *   Regularly collect and destroy all fallen, damaged, or infested fruits by burying them deep (at least 60 cm) in the soil or immersing them in hot water. This breaks the life cycle of the pest.
+    *   Maintain general orchard hygiene.
+
+2.  **Monitoring and Mass Trapping:**
+    *   Install pheromone traps (e.g., Methyl Eugenol lures for male *Bactrocera dorsalis*) at a density of 4-5 traps per acre to monitor the population and for mass trapping. Replace lures every 3-4 weeks.
+    *   Use protein bait traps (e.g., commercial traps or homemade traps with a mixture of jaggery/molasses and water) at 10-12 traps per acre to attract and kill both male and female flies.
+
+3.  **Bait Sprays (Chemical Control):**
+    *   Apply bait sprays during the fruit development stage, targeting adult fruit flies. These are spot applications, not full cover sprays, to minimize insecticide use and impact on beneficial insects.
+    *   Mix an insecticide with a protein source (like jaggery, molasses, or protein hydrolysate) to attract and kill the flies.
+    *   Recommended options:
+        *   **Malathion** 50% EC at 2 ml/L of water mixed with 20 g/L of jaggery or protein hydrolysate.
+        *   **Deltamethrin** 2.8% EC at 0.5 ml/L of water mixed with 20 g/L of jaggery or protein hydrolysate.
+    *   Spray this mixture on small patches of foliage (e.g., 1 square meter area on 10-15% of the trees) or on gunny bags hung in the orchard. Repeat applications every 7-10 days if the infestation is severe, ensuring to observe the pre-harvest interval (PHI) as specified on the product label.
+
+### Control of Ber Fly in Kiwi Fruit
+
+This is not known to affect Kiwi Fruit. Ber fly (*Carpomyia vesuviana*) is a highly host-specific pest primarily affecting Ber (*Ziziphus mauritiana*).

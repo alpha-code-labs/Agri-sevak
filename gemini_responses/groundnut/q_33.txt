@@ -1,0 +1,59 @@
+Weed management is crucial for maximizing groundnut yield, as weeds compete for nutrients, water, and sunlight, especially during the critical initial 30-45 days after sowing. A combination of cultural and chemical methods provides the most effective control.
+
+**1. Cultural Practices:**
+*   **Timely Sowing:** Sowing at the recommended time helps the crop establish quickly and compete better with weeds.
+*   **Proper Seedbed Preparation:** Thorough ploughing and harrowing reduce the initial weed seed bank.
+*   **Inter-cultivation/Hoeing:** One or two manual weedings or inter-cultivations (e.g., 20-25 and 40-45 days after sowing) are highly effective, especially for weeds that escape herbicide application.
+*   **Crop Rotation:** Rotating groundnut with non-host crops can help manage specific weed problems.
+
+**2. Chemical Control (Herbicides):**
+
+**A. Pre-emergence Herbicides (Applied within 0-3 days after sowing, before crop and weed emergence):**
+These herbicides are effective against a wide range of annual broadleaf and narrowleaf weeds. Ensure adequate soil moisture for optimal efficacy.
+
+*   **Pendimethalin 30% EC:** Apply 3.3 - 4.2 litres per acre in 200-300 litres of water.
+    *   *Controls:* Broadleaf weeds (e.g., Bathu, Congress grass) and narrowleaf weeds (e.g., Phalaris minor, other annual grasses). Also offers some suppression of Amarbail (Cuscuta).
+*   **S-Metolachlor 96% EC:** Apply 1.0 litre per acre in 200-300 litres of water.
+    *   *Controls:* Primarily annual grasses and some broadleaf weeds.
+*   **Oxyfluorfen 23.5% EC:** Apply 1.0 litre per acre in 200-300 litres of water.
+    *   *Controls:* Many annual broadleaf weeds and some grasses.
+
+**B. Post-emergence Herbicides (Applied 20-30 days after sowing, when weeds are at 2-4 leaf stage):**
+These are applied when weeds have emerged. Ensure the crop is healthy and weeds are actively growing for best results.
+
+*   **For Broadleaf and Narrowleaf Weeds (Mixed Population):**
+    *   **Imazethapyr 10% SL:** Apply 750 - 1000 ml per acre in 200-300 litres of water.
+        *   *Controls:* A broad spectrum of annual broadleaf weeds (e.g., Bathu, Congress grass) and narrowleaf weeds (e.g., Phalaris minor, other annual grasses). This is also the most effective herbicide option for *in-crop* Amarbail (Cuscuta).
+*   **For Narrowleaf Weeds (Grasses) Only:**
+    *   **Quizalofop-P-ethyl 5% EC:** Apply 1.0 litre per acre in 200-300 litres of water.
+        *   *Controls:* Highly effective against annual and perennial grass weeds, including Phalaris minor.
+    *   **Fenoxaprop-P-ethyl 9% EC:** Apply 500 - 660 ml per acre in 200-300 litres of water.
+        *   *Controls:* Effective against a wide range of annual grass weeds.
+*   **For Broadleaf Weeds Only:**
+    *   **Bentazone 48% SL:** Apply 2.0 litres per acre in 200-300 litres of water.
+        *   *Controls:* Many broadleaf weeds, including Bathu and Congress grass.
+    *   **Chlorimuron-ethyl 25% WP:** Apply 32 - 40 grams per acre in 200-300 litres of water.
+        *   *Controls:* Effective against a range of broadleaf weeds.
+
+**3. Specific Weed Management:**
+
+*   **Amarbail (Cuscuta spp.):**
+    *   Pre-emergence application of **Pendimethalin** can offer some initial suppression.
+    *   Post-emergence, **Imazethapyr** is the most effective herbicide for *in-crop* control in groundnut.
+    *   Manual removal of Amarbail patches is highly recommended before it sets seed, as it is a parasitic weed that can severely impact yield.
+*   **Bathu (Chenopodium album) & Congress grass (Parthenium hysterophorus):**
+    *   These are broadleaf weeds effectively controlled by pre-emergence herbicides like **Pendimethalin** or **Oxyfluorfen**.
+    *   Post-emergence, **Imazethapyr**, **Bentazone**, or **Chlorimuron-ethyl** will provide good control.
+*   **Phalaris minor:**
+    *   This is a narrowleaf (grass) weed. Pre-emergence herbicides like **Pendimethalin** or **S-Metolachlor** are effective.
+    *   Post-emergence, grass-specific herbicides such as **Quizalofop-P-ethyl** or **Fenoxaprop-P-ethyl** will control it.
+*   **Orobanche (Orobanche spp.):**
+    *   This is not known to affect Groundnut.
+
+**Important Considerations for Herbicide Application:**
+*   Always use the recommended dosage and water volume.
+*   Ensure uniform spray coverage.
+*   Use a flat fan nozzle for herbicide application.
+*   Avoid spraying on windy days to prevent drift.
+*   Read and follow the instructions on the herbicide label carefully.
+*   Wear appropriate personal protective equipment (PPE) during handling and application.

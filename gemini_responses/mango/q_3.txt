@@ -1,0 +1,134 @@
+As a Senior Agronomist at HAU, Hisar, I advise on an integrated approach for managing rot diseases in mango, combining cultural practices, biological methods, and judicious use of CIBRC-approved chemical fungicides.
+
+**General Cultural and Management Practices for Rot Control:**
+
+1.  **Sanitation:** Remove and destroy all infected plant parts (leaves, twigs, fruits) to reduce inoculum.
+2.  **Drainage:** Ensure excellent soil drainage around trees. Avoid waterlogging, especially near the trunk, as most rot pathogens thrive in wet conditions.
+3.  **Pruning:** Prune trees regularly to improve air circulation within the canopy and remove dead or diseased branches. Always sterilize pruning tools.
+4.  **Wound Protection:** Protect pruning cuts and any mechanical injuries with a fungicidal paste (e.g., **Copper Oxychloride** or **Carbendazim** mixed with linseed oil or paint).
+5.  **Nutrition:** Maintain balanced tree nutrition to enhance natural resistance. Avoid excessive nitrogen, which can promote lush, susceptible growth.
+6.  **Irrigation:** Apply irrigation directly to the soil, avoiding wetting the trunk or foliage, especially in the evening.
+7.  **Healthy Planting Material:** Use disease-free seeds, rootstocks, and grafts.
+
+---
+
+**Specific Rot Types and Their Control in Mango:**
+
+Here's how to control various rot types affecting mango:
+
+### 1. Root Rot
+
+*   **Affects Mango:** Yes. Caused by various soil-borne fungi like *Phytophthora*, *Fusarium*, *Pythium*, and *Rhizoctonia*.
+*   **Control Measures:**
+    *   Improve soil drainage and avoid water stagnation.
+    *   Drench the soil around the base of the affected trees with one of the following:
+        *   **Metalaxyl-M + Mancozeb** at 2.5 g/L of water.
+        *   **Fosetyl-Al** at 2.5-3 g/L of water.
+        *   **Propamocarb hydrochloride** at 2-3 ml/L of water.
+    *   Apply biological control agents like *Trichoderma viride* (50 g/plant mixed with soil/compost) or *Pseudomonas fluorescens* (20 g/plant) to the root zone.
+
+### 2. Stem Rot
+
+*   **Affects Mango:** Yes. Often associated with dieback caused by *Botryodiplodia theobromae* or *Phytophthora* species.
+*   **Control Measures:**
+    *   Prune affected branches well below the visible symptoms into healthy wood.
+    *   Apply a fungicidal paste to the cut ends:
+        *   **Carbendazim** (50 g/kg of paint or linseed oil).
+        *   **Copper Oxychloride** (50 g/kg of paint or linseed oil).
+    *   Spray the tree with:
+        *   **Carbendazim** at 1 g/L of water.
+        *   **Thiophanate Methyl** at 1 g/L of water.
+        *   **Propiconazole** at 0.5 ml/L of water.
+
+### 3. Foot Rot
+
+*   **Affects Mango:** Yes. This refers to rot at the base of the trunk, often caused by *Phytophthora* species. It is closely related to Collar Rot.
+*   **Control Measures:**
+    *   Remove soil from around the base of the trunk to expose the affected area to air.
+    *   Scrape off infected bark carefully.
+    *   Apply a fungicidal paste or drench the affected area with:
+        *   **Metalaxyl-M + Mancozeb** at 2.5 g/L of water.
+        *   **Fosetyl-Al** at 2.5-3 g/L of water.
+        *   **Copper Oxychloride** at 3 g/L of water (as a drench or paste).
+
+### 4. Collar Rot
+
+*   **Affects Mango:** Yes. Affects the plant at the soil line, primarily caused by *Phytophthora* species.
+*   **Control Measures:**
+    *   Similar to Foot Rot. Ensure good drainage and avoid soil accumulation around the collar.
+    *   Expose the collar region to air.
+    *   Scrape off infected bark.
+    *   Apply a fungicidal paste or drench the affected area with:
+        *   **Metalaxyl-M + Mancozeb** at 2.5 g/L of water.
+        *   **Fosetyl-Al** at 2.5-3 g/L of water.
+        *   **Copper Oxychloride** at 3 g/L of water (as a drench or paste).
+
+### 5. Crown Rot
+
+*   **Affects Mango:** Yes. Affects the crown region, often below or at the soil line, similar to collar and foot rot, primarily caused by *Phytophthora* species.
+*   **Control Measures:**
+    *   Similar to Collar Rot and Foot Rot.
+    *   Drench the soil around the crown with:
+        *   **Metalaxyl-M + Mancozeb** at 2.5 g/L of water.
+        *   **Fosetyl-Al** at 2.5-3 g/L of water.
+
+### 6. Neck Rot
+
+*   **Affects Mango:** This term is generally used to describe rot in the neck region of the plant (covered by Collar/Stem Rot) or the neck of the fruit (covered by Stem-End Rot, a type of Fruit Rot). It is not a distinct disease entity in mango.
+*   **Control Measures:** Refer to control measures for **Stem Rot**, **Collar Rot**, or **Fruit Rot** (specifically Stem-End Rot).
+
+### 7. Black Rot
+
+*   **Affects Mango:** Yes, as a symptom. "Black Rot" is a descriptive term for various diseases causing black lesions or decay. In mango, this can include:
+    *   **Black Spot/Rot on Fruit:** Caused by *Alternaria alternata*.
+    *   **Stem-End Rot:** Caused by *Botryodiplodia theobromae*, which often appears black.
+    *   Severe Anthracnose (*Colletotrichum gloeosporioides*) can also lead to black lesions.
+*   **Control Measures:**
+    *   For fruit black spots/rot (e.g., *Alternaria*):
+        *   **Mancozeb** at 2.5 g/L of water.
+        *   **Azoxystrobin** at 0.5 ml/L of water.
+        *   **Tebuconazole** at 0.75 ml/L of water.
+    *   For stem-end rot (*Botryodiplodia*):
+        *   **Carbendazim** at 1 g/L of water.
+        *   **Thiophanate Methyl** at 1 g/L of water.
+        *   **Azoxystrobin** at 0.5 ml/L of water.
+    *   For general blackening due to Anthracnose, refer to Fruit Rot control.
+
+### 8. Fruit Rot
+
+*   **Affects Mango:** Yes, very common. Caused by various fungi like *Colletotrichum gloeosporioides* (Anthracnose), *Botryodiplodia theobromae* (Stem-End Rot), *Alternaria alternata*, *Aspergillus niger*, and *Phytophthora* species.
+*   **Control Measures:**
+    *   Regular pre-harvest sprays, especially during flowering and fruit development:
+        *   **Mancozeb** at 2.5 g/L of water.
+        *   **Carbendazim** at 1 g/L of water.
+        *   **Azoxystrobin** at 0.5 ml/L of water.
+        *   **Tebuconazole** at 0.75 ml/L of water.
+        *   **Copper Oxychloride** at 3 g/L of water.
+    *   Harvest fruits carefully to avoid injury.
+    *   Post-harvest hot water treatment (52°C for 5-10 minutes) can reduce post-harvest rots.
+
+### 9. Seed Rot
+
+*   **Affects Mango:** Yes, particularly during germination, caused by various soil-borne fungi.
+*   **Control Measures:**
+    *   Treat mango seeds before sowing:
+        *   **Captan** at 2-3 g/kg of seed.
+        *   **Thiram** at 2-3 g/kg of seed.
+        *   Biological seed treatment with *Trichoderma viride* at 5-10 g/kg of seed.
+    *   Use well-drained, sterilized potting mix.
+
+### 10. Seedling Rot
+
+*   **Affects Mango:** Yes, commonly known as damping-off, caused by *Pythium*, *Phytophthora*, and *Rhizoctonia*.
+*   **Control Measures:**
+    *   Use sterilized soil/potting mix for raising seedlings.
+    *   Ensure proper drainage in nursery beds/pots.
+    *   Avoid overwatering.
+    *   Drench the nursery beds/pots with:
+        *   **Metalaxyl-M + Mancozeb** at 2.5 g/L of water.
+        *   **Propamocarb hydrochloride** at 2-3 ml/L of water.
+        *   Biological drench with *Trichoderma viride* at 5 g/L of water.
+
+---
+
+Always consult with local agricultural extension services or HAU experts for specific recommendations tailored to your farm's conditions and the prevailing disease pressure. Ensure strict adherence to label instructions for all chemical applications, including dosage, safety precautions, and pre-harvest intervals.

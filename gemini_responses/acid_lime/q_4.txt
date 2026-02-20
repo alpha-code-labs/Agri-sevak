@@ -1,0 +1,60 @@
+Wilt, including Parawilt, is a serious concern for Acid Lime cultivation in Haryana, often leading to significant tree decline and mortality. It can be caused by a complex interaction of factors including soil-borne fungal pathogens (like *Phytophthora* species causing root rot, and *Fusarium* species causing vascular wilt), nematodes, physiological stress, and rootstock-scion incompatibility (especially for Parawilt).
+
+Effective control requires an integrated approach combining cultural, biological, and judicious chemical management.
+
+### Integrated Management for Wilt and Parawilt in Acid Lime:
+
+**I. Cultural and Horticultural Practices (Foundation of Control):**
+
+1.  **Site Selection and Soil Management:**
+    *   Ensure well-drained soil. Avoid planting in low-lying areas prone to waterlogging.
+    *   Improve soil structure by incorporating organic matter (e.g., well-rotted farmyard manure, compost) to enhance drainage and aeration.
+    *   Maintain optimal soil pH (6.0-7.0) for nutrient availability and root health.
+2.  **Planting Material:**
+    *   Always use healthy, certified, disease-free planting material from reputable nurseries.
+    *   If using grafted plants, ensure the rootstock is compatible with Acid Lime and has known resistance/tolerance to common soil-borne diseases in the region.
+3.  **Irrigation Management:**
+    *   Avoid over-irrigation, especially during cooler months, as excessive moisture favors *Phytophthora* root rot.
+    *   Adopt drip irrigation to deliver water directly to the root zone, minimizing wetting of the trunk base.
+    *   Ensure proper drainage around the tree base.
+4.  **Nutrition:**
+    *   Provide balanced nutrition based on soil testing to maintain tree vigor and enhance natural resistance.
+    *   Avoid excessive nitrogen, which can promote lush, susceptible growth.
+5.  **Orchard Hygiene:**
+    *   Remove and destroy severely affected or dead trees, including their root systems, to reduce inoculum in the soil.
+    *   Sterilize pruning tools with a 10% bleach solution or methylated spirit before and after pruning each tree to prevent disease spread.
+    *   Avoid mechanical injury to roots and the trunk base during intercultural operations.
+6.  **Mulching:**
+    *   Apply organic mulch around the tree base (keeping it away from the trunk) to conserve soil moisture, regulate soil temperature, and suppress weeds, which can reduce stress on the trees.
+7.  **For Parawilt Specifics:**
+    *   Parawilt is often associated with sudden physiological stress (e.g., sudden changes in soil moisture, temperature fluctuations) or rootstock incompatibility. While direct chemical control is limited, maintaining optimal growing conditions and tree health is paramount.
+    *   If a tree shows early signs of Parawilt (sudden wilting of a branch or entire tree), ensure immediate and appropriate irrigation, and check for any obvious root damage or collar rot.
+
+**II. Biological Control:**
+
+1.  **Soil Application of Antagonistic Microbes:**
+    *   Apply beneficial fungi like **Trichoderma harzianum** or bacteria like **Pseudomonas fluorescens** to the soil around the root zone. These microbes compete with pathogens, produce antifungal compounds, and enhance plant immunity.
+    *   Drench the soil with a suspension of **Trichoderma harzianum** (2.5-5.0 kg/acre mixed with 50-100 kg farmyard manure) or **Pseudomonas fluorescens** (2.5-5.0 kg/acre mixed with 50-100 kg farmyard manure) at planting and periodically thereafter, especially during favorable conditions for disease development.
+
+**III. Chemical Management (Use CIBRC approved chemicals only, as per label instructions):**
+
+Chemical intervention is crucial, especially when cultural and biological methods are insufficient or disease incidence is high.
+
+1.  **For *Phytophthora* Root and Collar Rot (leading to wilt):**
+    *   **Fosetyl-aluminium** 80% WP: Drench the soil around the tree base with 2.5-3.0 g/L water. Repeat every 30-45 days during susceptible periods.
+    *   **Propamocarb hydrochloride** 72.2% SL: Drench the soil around the tree base with 2.5-3.0 ml/L water.
+    *   **Metalaxyl-M** 31.8% ES: Drench the soil around the tree base with 1.0-1.5 ml/L water.
+    *   **Copper oxychloride** 50% WP: For collar rot, scrape off infected bark and apply a paste of **Copper oxychloride** (30-40 g in 100 ml water) to the affected area. As a soil drench, use 3.0 g/L water.
+
+2.  **For *Fusarium* Wilt (Vascular Wilt):**
+    *   **Carbendazim** 50% WP: Drench the soil around the tree base with 1.0-1.5 g/L water.
+    *   **Thiophanate-methyl** 70% WP: Drench the soil around the tree base with 1.0-1.5 g/L water.
+
+3.  **For Nematode Management (if confirmed to be a contributing factor to wilt complex):**
+    *   **Fluopyram** 17.7% SC: Apply as a soil drench at 0.625-1.25 L/acre, ensuring it reaches the root zone. This chemical also has fungicidal activity against some soil-borne pathogens.
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for all chemical products regarding dosage, application method, safety precautions, and pre-harvest intervals.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with local agricultural extension specialists or HAU experts for specific diagnosis and tailored recommendations for your orchard.

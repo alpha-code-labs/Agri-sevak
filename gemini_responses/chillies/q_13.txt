@@ -1,0 +1,27 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Fruit fly and Ber fly in Chillies in Haryana:
+
+### Control of Fruit Fly in Chillies
+
+Fruit flies (primarily species of *Bactrocera*) can cause significant damage to chilli fruits by laying eggs under the skin, leading to maggots feeding inside and causing the fruits to rot or drop prematurely. Integrated Pest Management (IPM) is crucial for effective control.
+
+**Integrated Pest Management (IPM) Strategies:**
+
+1.  **Cultural and Mechanical Control:**
+    *   **Field Sanitation:** Regularly collect and destroy all fallen and infested chilli fruits by burying them deep in the soil or burning them. This breaks the life cycle of the pest.
+    *   **Deep Ploughing:** After harvest, deep ploughing helps expose pupae in the soil to predators and harsh weather conditions, reducing the next generation's population.
+    *   **Pheromone Traps:** Install methyl eugenol-based pheromone traps at a density of 4-5 traps per acre to monitor and mass-trap male fruit flies. Replace the lure every 2-3 weeks.
+    *   **Fruit Bagging:** For small-scale cultivation or high-value varieties, individual fruits can be covered with paper or cloth bags to prevent egg-laying.
+
+2.  **Chemical Control (Use only CIBRC approved technical chemicals and follow label instructions carefully):**
+    *   **Bait Sprays:** Prepare a bait mixture by combining a protein source (e.g., jaggery or protein hydrolysate) with an insecticide. This attracts adult fruit flies, which feed on the bait and are killed.
+        *   Mix 100 g of jaggery or protein hydrolysate with 100 ml of **Malathion 50 EC** in 10 litres of water.
+        *   Spray this mixture in small patches (about 1 square meter) on the foliage of non-bearing plants or on waste plants around the chilli field, not directly on the chilli fruits, especially during fruiting stage. Repeat every 7-10 days.
+    *   **Foliar Sprays (if infestation is high):**
+        *   **Spinosad 45 SC:** Apply at a rate of 125-160 ml per acre (or 0.25-0.3 ml per litre of water).
+        *   **Lambda-cyhalothrin 5 EC:** Apply at a rate of 100-150 ml per acre (or 0.5 ml per litre of water).
+        *   **Cyantraniliprole 10.26 OD:** Apply at a rate of 180-200 ml per acre (or 0.3-0.4 ml per litre of water).
+    *   Ensure thorough coverage of the plants, especially the developing fruits. Always observe the pre-harvest interval (PHI) mentioned on the product label.
+
+### Control of Ber Fly in Chillies
+
+This is not known to affect Chillies. The Ber fly (*Carpomyia vesuviana*) is a highly host-specific pest that primarily infests fruits of *Ziziphus* species (Ber).

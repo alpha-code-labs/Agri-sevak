@@ -1,0 +1,95 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Kiwi Fruit, keeping in mind the specific conditions and CIBRC approved chemicals for Haryana, India.
+
+It is important to note that Kiwi Fruit cultivation in Haryana is relatively new and often undertaken in specific microclimates or protected environments. Integrated Disease Management (IDM) combining cultural practices with judicious chemical application is crucial.
+
+---
+
+### Fungal Diseases and Their Control in Kiwi Fruit
+
+#### 1. Alternaria (Leaf Spot/Blight)
+
+*   **Symptoms:** Appears as small, dark brown to black spots on leaves, often with concentric rings (target-spot appearance). Spots may enlarge and coalesce, leading to blight and defoliation. Can also affect fruit.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Remove and destroy infected plant debris.
+        *   Ensure proper plant spacing for good air circulation.
+        *   Avoid overhead irrigation, especially late in the day, to reduce leaf wetness.
+    *   **Chemical Control:** Apply fungicides preventively or at the first sign of symptoms.
+        *   **Mancozeb** @ 2.0-2.5 g/L of water
+        *   **Chlorothalonil** @ 2.0 g/L of water
+        *   **Azoxystrobin** @ 0.5-1.0 ml/L of water
+        *   **Tebuconazole** @ 0.75-1.0 ml/L of water
+
+#### 2. Anthracnose
+
+*   **Symptoms:** Causes dark, sunken lesions on leaves, stems, and fruit. On fruit, these lesions can be circular, water-soaked, and later become firm and black, leading to fruit rot. Pinkish spore masses may be visible in humid conditions.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Prune out and destroy infected branches and fruit.
+        *   Maintain orchard hygiene by removing fallen leaves and fruit.
+        *   Ensure good air circulation within the canopy.
+    *   **Chemical Control:**
+        *   **Mancozeb** @ 2.0-2.5 g/L of water
+        *   **Carbendazim** @ 0.5-1.0 g/L of water
+        *   **Thiophanate-methyl** @ 0.5-1.0 g/L of water
+        *   **Azoxystrobin** @ 0.5-1.0 ml/L of water
+        *   **Tebuconazole** @ 0.75-1.0 ml/L of water
+
+#### 3. Blight (General Fungal Blights, e.g., Botrytis Blight)
+
+*   **Symptoms:** Blight is a general term for rapid and extensive browning, death, and shedding of plant tissues. *Botrytis cinerea* (Grey Mould) can cause blossom blight, twig blight, and fruit rot, especially under cool, wet conditions.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Improve air circulation through proper pruning.
+        *   Remove senescent flowers, leaves, and mummified fruit.
+        *   Avoid wounding plants, as wounds provide entry points for pathogens.
+    *   **Chemical Control:**
+        *   **Chlorothalonil** @ 2.0 g/L of water
+        *   **Copper Oxychloride** @ 2.5-3.0 g/L of water (as a protective spray)
+        *   **Carbendazim** @ 0.5-1.0 g/L of water
+        *   **Thiophanate-methyl** @ 0.5-1.0 g/L of water
+        *   **Pyraclostrobin** @ 0.5-1.0 ml/L of water
+
+#### 4. Brown Spot
+
+*   **Symptoms:** Characterized by irregular to circular brown spots on leaves, which may enlarge and lead to defoliation. Can be caused by various fungi, including *Alternaria* species or *Phyllosticta actinidiae*.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Sanitation: Remove and destroy infected leaves and plant debris.
+        *   Ensure adequate spacing and air movement.
+        *   Avoid prolonged leaf wetness.
+    *   **Chemical Control:**
+        *   **Mancozeb** @ 2.0-2.5 g/L of water
+        *   **Chlorothalonil** @ 2.0 g/L of water
+        *   **Propiconazole** @ 0.5-1.0 ml/L of water
+        *   **Hexaconazole** @ 0.5-1.0 ml/L of water
+
+#### 5. Powdery Mildew
+
+*   **Symptoms:** Appears as white, powdery patches on the surface of leaves, young shoots, and sometimes fruit. Infected leaves may become distorted, curled, or stunted. Severe infections can reduce photosynthesis and fruit quality.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Prune to improve air circulation and light penetration.
+        *   Avoid excessive nitrogen fertilization, which can promote lush, susceptible growth.
+        *   Remove severely infected plant parts.
+    *   **Chemical Control:**
+        *   **Wettable Sulphur** @ 2.0-3.0 g/L of water (effective at temperatures below 30°C)
+        *   **Myclobutanil** @ 0.4-0.5 g/L of water
+        *   **Hexaconazole** @ 0.5-1.0 ml/L of water
+        *   **Propiconazole** @ 0.5-1.0 ml/L of water
+        *   **Azoxystrobin** @ 0.5-1.0 ml/L of water
+
+---
+
+### Diseases Not Known to Affect Kiwi Fruit
+
+*   **Blast (fungal):** This is not known to affect Kiwi Fruit as a specific fungal disease. (Note: Bacterial blast caused by *Pseudomonas syringae* pv. *actinidiae* (Psa) is a serious bacterial disease, but the question specifically asks about fungal diseases).
+*   **Downy mildew:** This is not known to affect Kiwi Fruit.
+*   **Grey mildew:** This is not known to affect Kiwi Fruit as a specific fungal disease. (Note: Grey mould caused by *Botrytis cinerea* is a common issue, but "Grey mildew" is not a recognized term for kiwi pathology).
+
+---
+
+**Important Considerations:**
+*   Always read and follow the label instructions for any chemical product, including dosage, application method, and pre-harvest interval (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Consult with local agricultural extension services or HAU experts for specific recommendations tailored to your farm's conditions and the latest CIBRC guidelines.

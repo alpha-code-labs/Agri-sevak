@@ -1,0 +1,94 @@
+As a Senior Agronomist at HAU, Hisar, I can provide scientifically verified advice for managing various rot types in potato, focusing on conditions prevalent in Haryana. It's important to understand that "rot" is a general term, and specific diseases cause different types of rot. Effective control requires a combination of cultural practices and judicious use of CIBRC-approved chemicals.
+
+First, let's address your specific terms:
+
+*   **Fruit Rot:** This is not known to affect Potato. Potatoes are tubers, not fruits.
+
+For the other rot types (Root, Stem, Foot, Collar, Crown, Neck, Black, Seed, and Seedling rot), these are symptoms of various fungal and bacterial diseases. Here's a comprehensive approach:
+
+### General Principles for Rot Management (Cultural & Preventive)
+
+These practices are fundamental to controlling all types of rot:
+
+1.  **Use Certified Seed Tubers:** Always plant disease-free, certified seed tubers from a reputable source. This is the most critical step to prevent seed-borne diseases.
+2.  **Crop Rotation:** Practice a 3-4 year crop rotation with non-solanaceous crops (e.g., wheat, maize, pearl millet) to reduce pathogen build-up in the soil.
+3.  **Field Sanitation:** Remove and destroy infected plant debris and volunteer potato plants.
+4.  **Proper Soil Drainage:** Ensure good soil drainage to prevent waterlogging, which favors many rot-causing pathogens.
+5.  **Balanced Nutrition:** Provide balanced fertilizer application. Avoid excessive nitrogen, which can make plants more susceptible.
+6.  **Avoid Mechanical Injury:** Minimize damage to tubers during planting, cultivation, and harvesting, as wounds serve as entry points for pathogens.
+7.  **Optimal Planting Depth and Spacing:** Follow recommended planting depths and spacing to ensure good aeration and plant vigor.
+8.  **Irrigation Management:** Avoid overhead irrigation late in the day. Use furrow irrigation where possible, and irrigate deeply but less frequently. Avoid water stress, especially during tuberization.
+9.  **Post-Harvest Handling:**
+    *   Cure tubers properly after harvest (10-15 days at 10-15°C and 85-90% relative humidity) to heal wounds.
+    *   Store tubers in cool, well-ventilated conditions.
+    *   Remove diseased tubers before storage.
+
+### Specific Rot Types and Chemical Control
+
+#### 1. Seed Rot and Seedling Rot (Damping-off, Stem Canker)
+
+These are primarily caused by fungi like *Rhizoctonia solani*, *Pythium* spp., and *Fusarium* spp., and bacteria like *Pectobacterium* spp. (causing soft rot/blackleg).
+
+*   **Symptoms:** Seed pieces rot before sprouting, seedlings emerge but collapse at the soil line (damping-off), or develop brown/black lesions on stems and stolons (stem canker).
+*   **Control Measures:**
+    *   **Seed Treatment (Most Critical):** Treat seed tubers before planting.
+        *   **For Rhizoctonia (Black Scurf/Stem Canker):**
+            *   **Pencycuron** 2.5% FS @ 2.5 ml/kg seed.
+            *   **Azoxystrobin** 23% SC @ 0.5 ml/kg seed.
+            *   **Flutolanil** 24% SC @ 2.0 ml/kg seed.
+        *   **For general fungal rots (Fusarium, Pythium):**
+            *   **Carbendazim** 50% WP @ 1-2 g/kg seed.
+            *   **Thiram** 75% WS @ 2.5-3 g/kg seed.
+            *   **Mancozeb** 75% WP @ 2.5-3 g/kg seed.
+    *   **Soil Drench (if severe seedling rot observed):**
+        *   **Propamocarb Hydrochloride** 72.2% SL @ 2.5 ml/L water, applied around the base of affected plants.
+
+#### 2. Root, Stem, Foot, Collar, Crown, and Neck Rots
+
+These terms often refer to diseases affecting the plant at or below the soil line, including:
+
+*   **Blackleg (Bacterial):** Caused by *Pectobacterium* spp. (formerly *Erwinia*). Leads to black, slimy rot of the stem base, often extending into the tuber.
+*   **Rhizoctonia Stem Canker:** Caused by *Rhizoctonia solani*. Brown to black lesions on stems, stolons, and roots.
+*   **Pink Rot:** Caused by *Phytophthora erythroseptica*. Can affect the stem base, causing a water-soaked rot.
+*   **Fusarium Wilt/Stem Rot:** Caused by *Fusarium* spp. Can cause vascular discoloration and stem rot.
+
+*   **Control Measures:**
+    *   **Cultural Practices:** Emphasize certified seed, crop rotation, good drainage, and avoiding injury.
+    *   **For Rhizoctonia Stem Canker:**
+        *   **Seed Treatment:** As mentioned above (**Pencycuron**, **Azoxystrobin**, **Flutolanil**).
+        *   **Foliar Spray (if disease pressure is high):** **Azoxystrobin** 23% SC @ 0.5 ml/L water, applied as a drench around the plant base.
+    *   **For Pink Rot (if suspected at stem base):**
+        *   **Propamocarb Hydrochloride** 72.2% SL @ 2.5 ml/L water, applied as a soil drench.
+        *   **Metalaxyl** 8% + **Mancozeb** 64% WP @ 2.5 g/L water, applied as a soil drench.
+    *   **For Bacterial Rots (Blackleg):** Chemical control is largely ineffective once symptoms appear. Focus entirely on prevention:
+        *   Use only certified, disease-free seed.
+        *   Avoid planting in waterlogged soils.
+        *   Sanitize cutting tools if cutting seed tubers.
+        *   Avoid excessive irrigation.
+
+#### 3. Black Rot (General Tuber Rot)
+
+This term is not a specific disease but can refer to various dark-colored tuber rots, including:
+
+*   **Late Blight Tuber Rot:** Caused by *Phytophthora infestans*. Irregular, purplish-brown lesions on the tuber surface, leading to reddish-brown, granular rot inside.
+*   **Soft Rot (Bacterial):** Caused by *Pectobacterium* spp. Creamy to tan, soft, watery, foul-smelling rot.
+*   **Fusarium Dry Rot:** Caused by *Fusarium* spp. Dry, sunken, brown to black lesions, often with internal cavities lined with fungal growth.
+*   **Charcoal Rot:** Caused by *Macrophomina phaseolina*. Dark, dry rot, especially in warm, dry conditions.
+
+*   **Control Measures:**
+    *   **For Late Blight Tuber Rot:**
+        *   **Foliar Sprays (preventive):** Start spraying before disease onset and continue at regular intervals.
+            *   **Mancozeb** 75% WP @ 2.5 g/L water.
+            *   **Metalaxyl** 8% + **Mancozeb** 64% WP @ 2.5 g/L water.
+            *   **Propamocarb Hydrochloride** 72.2% SL @ 2.5 ml/L water.
+        *   **Hilling:** Ensure good hilling to cover tubers and prevent spores from reaching them.
+        *   **Harvesting:** Harvest only when foliage is completely dead to avoid tuber infection from spores.
+    *   **For Soft Rot (Bacterial):**
+        *   **Prevention is key:** Avoid tuber injury, ensure proper curing, and store in well-ventilated conditions. No effective chemical treatment for established soft rot.
+    *   **For Fusarium Dry Rot:**
+        *   **Seed Treatment:** As mentioned above (**Carbendazim**, **Thiram**).
+        *   **Post-Harvest:** Avoid injury, cure tubers properly, and store at cool temperatures.
+    *   **For Charcoal Rot:**
+        *   **Cultural Practices:** Crop rotation, maintaining adequate soil moisture, and avoiding planting in very hot conditions. No highly effective chemical control once established.
+
+**Important Note:** Always read and follow the instructions on the pesticide label for dosage, application method, and safety precautions. Consult with your local agricultural extension officer for specific recommendations tailored to your farm's conditions.

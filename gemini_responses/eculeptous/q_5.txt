@@ -1,0 +1,53 @@
+Assuming "Eculeptous" is a misspelling of *Eucalyptus*, here is the scientifically verified advice for controlling these conditions in *Eucalyptus* trees in Haryana:
+
+**General Recommendations for Eucalyptus Health:**
+*   Maintain good tree vigor through proper site selection, adequate spacing, balanced nutrition, and appropriate watering practices.
+*   Regularly inspect trees for early signs of disease or pest infestation.
+*   Sanitation: Remove and destroy severely infected branches or trees to reduce inoculum sources.
+*   Disinfect pruning tools with a 10% bleach solution or methylated spirit between cuts to prevent disease spread.
+
+---
+
+### Scab in Eucalyptus
+
+Eucalyptus scab is primarily caused by the fungus *Elsinoë eucalypti*. It manifests as small, raised, corky lesions on leaves, young shoots, and sometimes fruits, leading to distortion and reduced growth.
+
+**Control Measures:**
+*   **Cultural:** Prune and destroy infected plant parts, especially during periods of new flush growth, to reduce the fungal inoculum.
+*   **Chemical:** Apply fungicides preventively during periods of high humidity and active growth of new shoots.
+    *   **Difenoconazole** 0.5 ml/L of water (or 100 ml/acre in 200 L water for foliar spray).
+    *   **Copper Oxychloride** 3 g/L of water (or 600 g/acre in 200 L water for foliar spray).
+
+### Canker in Eucalyptus
+
+Canker in Eucalyptus can be caused by various fungal pathogens, including species of *Botryosphaeria* and *Cryphonectria*. Symptoms include sunken, discolored lesions on stems and branches, often accompanied by gum exudation, leading to girdling and dieback of affected parts.
+
+**Control Measures:**
+*   **Cultural:**
+    *   Prune infected branches well below the visible canker, ensuring clean cuts.
+    *   Disinfect pruning tools thoroughly between cuts to prevent disease spread.
+    *   Apply a protective fungicidal paste (e.g., Bordeaux paste) to large wounds immediately after pruning.
+*   **Chemical:** Apply systemic fungicides as a foliar spray or drench around the base of affected trees.
+    *   **Carbendazim** 1 g/L of water (or 200 g/acre in 200 L water for foliar spray/drench).
+    *   **Propiconazole** 0.5 ml/L of water (or 100 ml/acre in 200 L water for foliar spray/drench).
+    *   **Thiophanate-methyl** 1 g/L of water (or 200 g/acre in 200 L water for foliar spray/drench).
+
+### Gummosis in Eucalyptus
+
+Gummosis is the exudation of gum from the bark, which is a physiological response of the tree rather than a disease itself. It is often a symptom of underlying stress factors such as drought, waterlogging, nutrient deficiencies, insect borers (e.g., stem borers), or fungal infections (e.g., *Phytophthora* species causing root rot, or *Botryosphaeria* species).
+
+**Control Measures:**
+*   **Identify and address the underlying cause:**
+    *   **Cultural:** Ensure proper irrigation (avoiding both drought and waterlogging), improve soil drainage, and provide balanced nutrition.
+    *   **Insect Management:** If insect borers are suspected, consult an entomologist for specific identification and appropriate insecticide recommendations.
+    *   **Fungal Management:** If fungal pathogens (e.g., *Phytophthora* causing root rot) are identified as the primary cause, apply appropriate fungicides.
+        *   **Metalaxyl + Mancozeb** (combination product) 2.5 g/L of water (or 500 g/acre in 200 L water as soil drench or foliar spray).
+        *   **Propiconazole** 0.5 ml/L of water (or 100 ml/acre in 200 L water as soil drench or foliar spray).
+
+### Lichen in Eucalyptus
+
+Lichen are symbiotic organisms composed of a fungus and an alga or cyanobacterium. They grow superficially on the bark of trees, including Eucalyptus. Lichens are generally **harmless** to the tree; they do not parasitize the tree, extract nutrients, or cause disease. Their presence often indicates good air quality.
+
+**Control Measures:**
+*   **No control measures are typically required** as lichens do not harm the tree.
+*   If their presence is aesthetically undesirable, improving tree vigor through proper nutrition and watering can sometimes reduce their growth, but direct chemical control is not recommended for tree health.

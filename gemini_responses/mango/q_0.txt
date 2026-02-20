@@ -1,0 +1,73 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for managing fungal diseases in mango orchards in Haryana. It is crucial to adopt an integrated approach combining cultural practices with timely and judicious application of CIBRC approved fungicides.
+
+Here's how to control the mentioned conditions in Mango:
+
+### Fungal Diseases Affecting Mango:
+
+1.  **Anthracnose (Caused by *Colletotrichum gloeosporioides*)**
+    *   **Affects Mango:** Yes, this is one of the most serious diseases of mango, affecting leaves, twigs, flowers, and fruits.
+    *   **Symptoms:** Appears as black, irregular spots on leaves, twigs, and flowers, leading to blossom blight and fruit drop. On fruits, it causes dark, sunken lesions that can develop into rot.
+    *   **Cultural Practices:**
+        *   Prune diseased and dead twigs regularly, especially after harvest, and destroy them.
+        *   Maintain proper tree spacing for good air circulation.
+        *   Avoid overhead irrigation, especially during flowering and fruit development.
+        *   Hot water treatment of fruits (52°C for 10 minutes) can reduce post-harvest anthracnose.
+    *   **Chemical Control (Spray during flowering and fruit development, repeat at 10-15 day intervals):**
+        *   **Carbendazim** 1.0-1.5 g/L of water
+        *   **Thiophanate Methyl** 1.0-1.5 g/L of water
+        *   **Mancozeb** 2.0-2.5 g/L of water
+        *   **Copper Oxychloride** 2.5-3.0 g/L of water
+        *   **Azoxystrobin** 0.5-1.0 ml/L of water
+        *   **Difenoconazole** 0.5-1.0 ml/L of water
+        *   **Propiconazole** 0.5-1.0 ml/L of water
+
+2.  **Powdery Mildew (Caused by *Oidium mangiferae*)**
+    *   **Affects Mango:** Yes, a very common and destructive disease, especially during the flowering stage.
+    *   **Symptoms:** Characterized by a white, powdery growth on young leaves, flower panicles, and young fruits. Infected flowers fail to set fruit, and young fruits drop prematurely.
+    *   **Cultural Practices:**
+        *   Ensure good air circulation by proper pruning.
+        *   Avoid excessive nitrogen fertilization, which can promote lush, susceptible growth.
+    *   **Chemical Control (Spray at bud break, flowering, and fruit set stages, repeat at 10-15 day intervals):**
+        *   **Sulphur (Wettable Sulphur)** 2.0-3.0 g/L of water
+        *   **Hexaconazole** 0.5-1.0 ml/L of water
+        *   **Myclobutanil** 0.4-0.6 g/L of water
+        *   **Penconazole** 0.5-1.0 ml/L of water
+        *   **Azoxystrobin** 0.5-1.0 ml/L of water
+        *   **Difenoconazole** 0.5-1.0 ml/L of water
+
+3.  **Alternaria Leaf Spot/Blight (Caused by *Alternaria alternata*)**
+    *   **Affects Mango:** Yes, it can cause leaf spots and sometimes blight-like symptoms, especially on older leaves or under humid conditions.
+    *   **Symptoms:** Irregular, dark brown spots with concentric rings on leaves, which may coalesce to form larger blighted areas.
+    *   **Cultural Practices:**
+        *   Remove and destroy fallen infected leaves.
+        *   Maintain tree vigor through proper nutrition and irrigation.
+    *   **Chemical Control (Apply if symptoms are severe, often managed by sprays for Anthracnose):**
+        *   **Mancozeb** 2.0-2.5 g/L of water
+        *   **Azoxystrobin** 0.5-1.0 ml/L of water
+        *   **Difenoconazole** 0.5-1.0 ml/L of water
+        *   **Propiconazole** 0.5-1.0 ml/L of water
+
+4.  **Blight (General term)**
+    *   **Affects Mango:** Yes, "Blight" is a general term for rapid and extensive browning, death, and wilting of plant tissues such as leaves, flowers, twigs, or stems. In mango, fungal blights can be caused by pathogens like *Alternaria* (as mentioned above) or other fungi.
+    *   **Control:** Management strategies are similar to those for Alternaria Leaf Spot/Blight, focusing on sanitation and broad-spectrum fungicides.
+
+5.  **Brown Spot (General term)**
+    *   **Affects Mango:** Yes, "Brown spot" is a general symptom caused by various fungal pathogens, including *Alternaria* and *Cercospora*.
+    *   **Control:** Management strategies are similar to those for Alternaria Leaf Spot/Blight.
+
+### Conditions Not Known to Affect Mango:
+
+*   **Blast:** This is not known to affect Mango. (Blast disease is primarily associated with rice and some other cereals).
+*   **Downy Mildew:** This is not known to affect Mango. (Downy mildew is caused by oomycetes and affects specific host plants like grapes, cucurbits, etc., but not mango as a primary disease).
+*   **Grey Mildew:** This is not known to affect Mango. (While powdery mildew can sometimes appear greyish, "Grey mildew" is not a recognized distinct fungal disease of mango).
+
+### General Integrated Disease Management (IDM) Principles:
+
+*   **Regular Monitoring:** Inspect your orchard regularly for early signs of disease.
+*   **Sanitation:** Remove and destroy all diseased plant parts (leaves, twigs, fruits) to reduce inoculum.
+*   **Pruning:** Prune trees to ensure good air circulation and light penetration, which helps reduce humidity and disease spread.
+*   **Nutrient Management:** Ensure balanced fertilization to maintain tree health and vigor, making them more resistant to diseases.
+*   **Water Management:** Avoid overhead irrigation during critical periods (flowering, fruit development) to minimize leaf wetness.
+*   **Fungicide Rotation:** Rotate fungicides with different modes of action to prevent the development of resistance in pathogens. Always adhere to the recommended dosage and pre-harvest interval (PHI) mentioned on the product label.
+
+For specific recommendations tailored to your farm's conditions, it is always advisable to consult with the local agricultural extension officer or HAU experts.

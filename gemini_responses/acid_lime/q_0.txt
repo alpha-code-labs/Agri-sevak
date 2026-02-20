@@ -1,0 +1,94 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Acid Lime (Citrus aurantifolia) in Haryana. Effective management relies on an Integrated Disease Management (IDM) approach, combining cultural practices with judicious use of CIBRC-approved fungicides.
+
+**General Cultural Practices for Disease Prevention:**
+
+1.  **Sanitation:** Regularly remove and destroy diseased plant parts (leaves, twigs, fruits) to reduce inoculum.
+2.  **Pruning:** Prune trees to ensure good air circulation within the canopy, which helps reduce humidity and fungal growth. Remove dead or diseased branches.
+3.  **Nutrition:** Ensure balanced fertilization to maintain tree vigor, as stressed trees are more susceptible to diseases.
+4.  **Irrigation:** Avoid overhead irrigation where possible, or irrigate in the morning to allow foliage to dry quickly. Avoid waterlogging.
+5.  **Weed Control:** Keep the area around trees free of weeds, which can harbor pests and diseases and increase humidity.
+
+---
+
+**Specific Fungal Diseases and Their Control in Acid Lime:**
+
+### 1. Alternaria Leaf Spot / Brown Spot (Caused by *Alternaria alternata* f. sp. *citri*)
+
+This disease primarily affects young leaves, twigs, and fruits, causing small, dark, irregular spots that can enlarge and lead to defoliation and fruit drop.
+
+**Control Measures:**
+
+*   **Cultural:** Prune out infected twigs and leaves. Ensure good air circulation.
+*   **Chemical:**
+    *   Apply systemic fungicides at the appearance of new flushes or disease symptoms.
+    *   **Azoxystrobin** 23% SC: 0.5 - 1 ml/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+    *   **Propiconazole** 25% EC: 0.5 ml/L of water.
+    *   **Mancozeb** 75% WP: 2 - 2.5 g/L of water (as a protective spray).
+
+### 2. Anthracnose (Caused by *Colletotrichum gloeosporioides*)
+
+Anthracnose affects leaves, twigs, flowers, and fruits, especially under high humidity. Symptoms include irregular brown spots on leaves, dieback of twigs, and fruit rot.
+
+**Control Measures:**
+
+*   **Cultural:** Remove dead wood and diseased plant parts. Avoid water stress.
+*   **Chemical:**
+    *   Regular protective sprays are crucial, especially during humid periods and flowering.
+    *   **Copper Oxychloride** 50% WP: 2.5 - 3 g/L of water.
+    *   **Mancozeb** 75% WP: 2 - 2.5 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5 - 1 ml/L of water.
+    *   **Carbendazim** 50% WP: 1 g/L of water.
+
+### 3. Fungal Blight (e.g., Twig Blight, Fruit Rot caused by *Phytophthora* species or other fungi)
+
+"Blight" is a general term, but fungal blights like those caused by *Phytophthora* species can lead to twig dieback, fruit rot, and gummosis.
+
+**Control Measures:**
+
+*   **Cultural:** Ensure proper drainage. Avoid injuries to the trunk and roots. Prune out blighted twigs.
+*   **Chemical:**
+    *   For *Phytophthora*-related blights, fungicides with specific activity are recommended.
+    *   **Fosetyl-Al** 80% WP: 2.5 g/L of water.
+    *   **Propamocarb Hydrochloride** 72.2% SL: 2.5 ml/L of water.
+    *   **Copper Oxychloride** 50% WP: 2.5 - 3 g/L of water (as a protective spray).
+
+### 4. Powdery Mildew (Caused by *Oidium citri*)
+
+Powdery mildew appears as white, powdery patches on young leaves, shoots, and sometimes fruits. Severe infection can lead to leaf distortion and defoliation.
+
+**Control Measures:**
+
+*   **Cultural:** Ensure good air circulation.
+*   **Chemical:**
+    *   Apply fungicides at the first sign of symptoms, especially during dry, warm periods followed by cool nights.
+    *   **Wettable Sulphur** 80% WP: 2 - 3 g/L of water.
+    *   **Hexaconazole** 5% SC: 0.5 ml/L of water.
+    *   **Myclobutanil** 10% WP: 0.4 - 0.5 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5 - 1 ml/L of water.
+
+---
+
+**Diseases Not Primarily Fungal or Not Known to Affect Acid Lime:**
+
+### 5. Blast
+
+This is not a fungal disease. Citrus Blast is caused by the bacterium *Pseudomonas syringae pv. syringae*. Control measures involve pruning infected parts and applying copper-based bactericides.
+
+### 6. Downy Mildew
+
+This is not known to significantly affect Acid Lime.
+
+### 7. Grey Mildew
+
+This is not known to affect Acid Lime.
+
+---
+
+**Important Considerations:**
+
+*   **Rotation of Fungicides:** To prevent the development of fungicide resistance, rotate fungicides with different modes of action.
+*   **Timing of Application:** Apply fungicides preventively or at the very early stages of disease development for best results.
+*   **Coverage:** Ensure thorough spray coverage of all plant parts, especially the undersides of leaves and new growth.
+*   **Safety:** Always read and follow the instructions on the fungicide label, including recommended dosage, pre-harvest interval (PHI), and safety precautions. Wear appropriate personal protective equipment (PPE).
+*   **Consultation:** For severe or unusual disease symptoms, it is advisable to consult with local agricultural extension specialists or HAU experts for accurate diagnosis and specific recommendations.

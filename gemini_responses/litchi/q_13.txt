@@ -1,0 +1,37 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide you with scientifically verified advice for controlling these pests in Litchi orchards in Haryana.
+
+### Ber Fly in Litchi
+
+This is not known to affect Litchi. The Ber fly (*Carpomyia vesuviana*) is a specific pest of Ber (*Ziziphus mauritiana*) and does not infest Litchi fruits.
+
+### Fruit Fly in Litchi
+
+Fruit flies, primarily species of the *Bactrocera dorsalis* complex, are a major pest of Litchi in Haryana. They cause significant damage by laying eggs in developing fruits, with the maggots feeding inside, leading to fruit rot, premature drop, and making the fruit unfit for consumption.
+
+An Integrated Pest Management (IPM) approach is recommended for effective and sustainable control:
+
+#### 1. Cultural Practices:
+
+*   **Orchard Sanitation:** Regularly collect and destroy all fallen, damaged, and infested fruits by burying them deep in the soil (at least 60 cm deep) or by burning. This prevents the completion of the fruit fly life cycle.
+*   **Deep Ploughing:** After harvest, deep ploughing of the orchard soil helps expose pupae to predators and sunlight, reducing the next generation's population.
+
+#### 2. Mechanical Methods:
+
+*   **Pheromone Traps:** Install methyl eugenol-based pheromone traps at a density of 10-15 traps per acre, starting from fruit set until harvest. These traps attract and kill male fruit flies, disrupting mating and reducing the population. Replace the lure every 2-3 weeks.
+*   **Fruit Bagging:** For high-value fruits or smaller orchards, individual fruit or bunch bagging with paper or non-woven fabric bags can physically protect them from fruit fly oviposition.
+
+#### 3. Chemical Control (Use only CIBRC approved technical chemicals):
+
+Chemical control should be used judiciously, preferably as bait sprays, to minimize impact on beneficial insects and the environment.
+
+*   **Bait Sprays:** These are highly effective and target-specific. Prepare a bait solution and apply it as spots on tree trunks or non-bearing branches, not directly on the fruits.
+    *   Mix **Malathion** (50% EC) at 2 ml/L of water with 10 g/L of jaggery or molasses.
+    *   Alternatively, mix **Spinosad** (45% SC) at 0.2-0.3 ml/L of water with 10 g/L of jaggery or molasses.
+    *   Apply these bait spots once every 7-10 days, starting from fruit colour change until harvest.
+
+*   **Direct Sprays (Only if infestation is severe and bait sprays are insufficient, strictly observe Pre-Harvest Interval - PHI):**
+    *   **Malathion** (50% EC) at 2 ml/L of water.
+    *   **Lambda-cyhalothrin** (5% EC) at 0.5 ml/L of water.
+    *   **Deltamethrin** (2.8% EC) at 1 ml/L of water.
+
+**Important Note:** Always read and follow the instructions on the pesticide label, especially regarding dosage, application method, and Pre-Harvest Interval (PHI) to ensure fruit safety and avoid chemical residues. Consult with your local agricultural extension officer for specific recommendations tailored to your farm's conditions.

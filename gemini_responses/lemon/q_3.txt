@@ -1,0 +1,54 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling various rot types in Lemon, focusing on practices suitable for Haryana.
+
+It is important to understand that many of these rot types, especially those affecting the root and lower stem, are often caused by the same group of pathogens, primarily *Phytophthora* species, and thus share similar control strategies.
+
+**General Cultural Practices (Crucial for all Rot Types):**
+
+1.  **Drainage:** Ensure excellent soil drainage. Lemon trees are highly susceptible to waterlogging, which creates anaerobic conditions favorable for rot pathogens. Plant on raised beds or mounds in heavy soils.
+2.  **Irrigation Management:** Avoid direct wetting of the trunk base during irrigation. Use drip irrigation or basin irrigation, keeping water away from the collar region. Do not over-irrigate.
+3.  **Weed Control:** Keep the area around the tree base free of weeds to improve air circulation and reduce humidity.
+4.  **Sanitation:** Remove and destroy all infected plant parts (leaves, twigs, fruits, severely rotted bark) to reduce inoculum sources.
+5.  **Avoid Injury:** Prevent mechanical injuries to the trunk, roots, and branches during cultivation, harvesting, or other orchard operations, as these wounds serve as entry points for pathogens.
+6.  **Nutrition:** Maintain balanced nutrition to enhance tree vigor and natural resistance.
+
+---
+
+**Specific Control Measures for Rot Types:**
+
+**1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, and Neck Rot:**
+These are often caused by *Phytophthora* species (e.g., *Phytophthora nicotianae*, *P. citrophthora*) and are collectively referred to as gummosis or foot rot complex. Neck rot in citrus is typically an extension of collar/foot rot affecting the graft union or lower trunk.
+
+*   **Cultural:**
+    *   Expose the crown and upper root system by carefully removing soil from around the trunk base (skirting) to allow drying and aeration.
+    *   Scrape off infected bark and discolored wood from lesions on the trunk. Paint the wound with a paste of **Copper oxychloride** (50 g in 100 ml water).
+*   **Chemical (Soil Drench/Foliar Spray):**
+    *   **Fosetyl-aluminium 80% WP:** Apply as a soil drench at 2.5-3.0 kg/acre or 2.5-3.0 g/L of water, ensuring the solution penetrates the root zone. Can also be used as a foliar spray at 2.5 g/L for systemic protection.
+    *   **Metalaxyl-M 31.8% ES (or Metalaxyl-M + Mancozeb combination):** Apply as a soil drench at 1.0-1.5 ml/L of water around the base of the tree, ensuring good soil penetration.
+    *   **Propamocarb hydrochloride 72.2% SL:** Apply as a soil drench at 2.0-3.0 ml/L of water around the base of the tree.
+    *   **Copper oxychloride 50% WP:** As a preventive measure, drench the soil around the tree base with 3.0-4.0 g/L of water, especially before monsoon or during periods of high humidity.
+
+**2. Black Rot and Fruit Rot:**
+Fruit rots can be caused by various pathogens, including *Phytophthora* species (brown rot), *Alternaria alternata* (black rot/navel end rot), *Penicillium* species (green/blue mold), and others.
+
+*   **Cultural:**
+    *   Harvest fruits carefully to avoid injury.
+    *   Remove all fallen and mummified fruits from the orchard floor to reduce inoculum.
+    *   Prune lower branches to prevent fruits from touching the ground.
+*   **Chemical (Foliar Spray):**
+    *   **Copper oxychloride 50% WP:** Spray at 2.5-3.0 g/L of water, especially during fruit development and before monsoon, to protect against *Phytophthora* fruit rot and some bacterial issues.
+    *   **Mancozeb 75% WP:** Spray at 2.0-2.5 g/L of water for broad-spectrum protection against various fungal fruit spots and rots.
+    *   **Azoxystrobin 23% SC:** For *Alternaria* black rot and other fungal fruit diseases, spray at 0.5-1.0 ml/L of water.
+
+**3. Seed Rot and Seedling Rot:**
+These primarily occur in nurseries and are caused by damping-off pathogens like *Pythium*, *Phytophthora*, and *Rhizoctonia*.
+
+*   **Cultural:**
+    *   Use sterilized potting mix or soil for seedbeds.
+    *   Ensure good drainage in seed trays/beds.
+    *   Avoid overwatering.
+*   **Chemical (Seed Treatment/Soil Drench):**
+    *   **Seed Treatment:** Treat seeds before sowing with **Metalaxyl-M 31.8% ES** at 1.0-2.0 ml/kg of seed, or **Thiram 75% WS** at 2.0-3.0 g/kg of seed (ensure specific approval for citrus seed treatment).
+    *   **Soil Drench (for seedlings):** Drench the nursery beds or seedling trays with **Propamocarb hydrochloride 72.2% SL** at 2.0-3.0 ml/L of water or **Metalaxyl-M 31.8% ES** at 1.0-1.5 ml/L of water immediately after sowing or at the first sign of disease.
+    *   **Biological Control:** Incorporate **Trichoderma viride 1% WP** (2.5-5.0 kg/acre or 5-10 g/kg of potting mix) into the soil or potting media, or use as a seed treatment (5-10 g/kg of seed).
+
+Always follow the specific instructions and safety precautions mentioned on the product labels for dosage, application method, and pre-harvest intervals. Regular monitoring of your orchard is key to early detection and effective management of these diseases.

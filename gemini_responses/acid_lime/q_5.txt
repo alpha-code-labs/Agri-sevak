@@ -1,0 +1,74 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Acid Lime, keeping in mind the conditions prevalent in Haryana.
+
+---
+
+### Control Measures for Acid Lime Conditions:
+
+#### 1. Scab (Citrus Scab)
+
+This disease is caused by the fungus *Elsinoë fawcettii* and is known to affect Acid Lime, causing characteristic raised, corky lesions on leaves, twigs, and fruits.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Prune infected twigs and branches during dry periods to remove inoculum sources.
+    *   Ensure proper air circulation within the canopy through judicious pruning.
+    *   Avoid overhead irrigation, which can spread spores.
+*   **Chemical Control:**
+    *   Apply fungicides at the time of new flush emergence and fruit set.
+    *   **Carbendazim** 50% WP: 1 gram per litre of water.
+    *   **Mancozeb** 75% WP: 2.5 grams per litre of water.
+    *   **Copper Oxychloride** 50% WP: 3 grams per litre of water.
+    *   Rotate fungicides to prevent resistance development.
+
+#### 2. Canker (Citrus Canker)
+
+This highly contagious bacterial disease, caused by *Xanthomonas citri subsp. citri*, is a significant threat to Acid Lime, leading to characteristic raised, corky lesions with a water-soaked margin and yellow halo on leaves, stems, and fruits.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Plant disease-free nursery stock.
+    *   Prune and destroy infected branches immediately, especially after windstorms or heavy rains, to reduce inoculum. Disinfect pruning tools with a 10% bleach solution between cuts.
+    *   Establish windbreaks around orchards to minimize wound creation and bacterial spread.
+    *   Avoid working in the orchard when trees are wet.
+    *   Use resistant rootstocks if available, though Acid Lime itself is highly susceptible.
+*   **Chemical Control:**
+    *   Regular application of copper-based bactericides is crucial, especially during periods of new flush and after rainfall.
+    *   **Copper Oxychloride** 50% WP: 3 grams per litre of water.
+    *   Spray thoroughly to cover all plant parts. Multiple applications may be required, particularly during monsoon season and new growth flushes.
+
+#### 3. Gummosis (Phytophthora Gummosis)
+
+This disease is caused by *Phytophthora* species (e.g., *P. citrophthora*, *P. parasitica*) and is known to affect Acid Lime, characterized by gum exudation from the trunk and branches, bark decay, and eventual tree decline.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Avoid planting trees too deep; the bud union should be well above the soil line.
+    *   Ensure good drainage in the orchard to prevent waterlogging around the tree base.
+    *   Avoid mechanical injuries to the trunk and roots.
+    *   Do not allow irrigation water to directly contact the tree trunk.
+    *   Remove soil from around the base of the trunk (skirting) to expose the root collar to air and sunlight.
+    *   Scrape off infected bark and disinfest the wound.
+*   **Chemical Control:**
+    *   **Trunk Paint/Paste:** After scraping off infected bark, apply a paste of:
+        *   **Copper Oxychloride** 50% WP: 50 grams in 1 litre of water.
+    *   **Foliar Spray/Soil Drench:**
+        *   **Phosphorous acid** (e.g., as Potassium Phosphonate): 2-3 ml per litre of water (foliar spray) or higher concentration for soil drench/trunk injection as per product label. This can be used preventively or therapeutically.
+
+#### 4. Lichen
+
+Lichens are symbiotic organisms (fungus and alga) that grow on the bark of trees. They are generally **not parasitic** and do not directly harm the Acid Lime tree by feeding on it. Their presence often indicates good air quality and can sometimes suggest reduced tree vigor or high humidity, as they thrive in stable, undisturbed environments.
+
+**Control Measures:**
+
+*   **This is not known to affect Acid Lime as a disease or pest.**
+*   Since lichens are not parasitic, chemical control is generally not recommended or necessary.
+*   If their presence is aesthetically undesirable or if they are excessively covering the bark (which is rare to the point of causing harm), focus on improving overall tree health and vigor:
+    *   Ensure proper nutrition and irrigation.
+    *   Prune to improve air circulation and light penetration within the canopy.
+    *   Physical removal by gently scrubbing with a soft brush and water can be done, but it's usually not required.
+
+---
+*Disclaimer: Always read and follow the instructions on the pesticide label carefully before use. Consult with local agricultural extension services for specific recommendations tailored to your farm's conditions.*

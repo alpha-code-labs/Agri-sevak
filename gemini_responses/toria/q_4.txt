@@ -1,0 +1,42 @@
+Wilt, including Parawilt, can be a significant concern in Toria (Indian Mustard/Rapeseed) cultivation in Haryana. It can be caused by various factors, including fungal pathogens like *Sclerotinia sclerotiorum* (leading to stem rot and wilting) and *Fusarium oxysporum* (causing Fusarium wilt), as well as complex physiological stresses often termed "Parawilt." An integrated approach is crucial for effective management.
+
+Here's a scientifically verified approach to control Wilt in Toria:
+
+### Integrated Management of Wilt (including Parawilt) in Toria
+
+**1. Cultural Practices (Foundation of Disease Management):**
+
+*   **Crop Rotation:** Practice a strict crop rotation with non-host crops (e.g., wheat, barley, maize) for at least 2-3 years. Avoid continuous cultivation of Brassica crops in the same field to reduce pathogen inoculum in the soil.
+*   **Resistant/Tolerant Varieties:** Consult with HAU, Hisar, for the availability and recommendation of Toria varieties that show tolerance or resistance to wilt diseases prevalent in your region.
+*   **Field Sanitation:** Remove and destroy infected plant debris from the field after harvest. Deep ploughing during summer can help bury sclerotia (resting bodies of *Sclerotinia*) and expose them to solar radiation, reducing their viability.
+*   **Timely Sowing:** Sow Toria at the recommended time to ensure vigorous plant growth and avoid periods when the crop is most susceptible to disease or environmental stress.
+*   **Water Management:** Ensure proper field drainage to prevent waterlogging, which can stress plants and favor the development of root rot and wilt pathogens. Irrigate judiciously, especially during critical growth stages.
+*   **Balanced Nutrition:** Apply balanced fertilizers based on soil test recommendations. Avoid excessive nitrogen, which can lead to lush, susceptible growth. Adequate potassium can enhance plant vigor and disease resistance.
+
+**2. Biological Control:**
+
+*   **Seed Treatment:**
+    *   Treat seeds with bio-fungicides like **Trichoderma viride** or **Trichoderma harzianum** @ 4-5 g/kg seed. This helps protect seedlings from soil-borne pathogens causing damping-off and early wilt.
+
+**3. Chemical Control (CIBRC Approved):**
+
+*   **Seed Treatment (Preventive):**
+    *   Treat Toria seeds before sowing with systemic fungicides to protect against seed-borne and early soil-borne infections.
+        *   **Carbendazim** 50% WP @ 1-2 g/kg seed.
+        *   **Thiram** 75% WS @ 2.5-3 g/kg seed.
+        *   **Tebuconazole** 2% DS @ 2.5 g/kg seed.
+        *   (A combination of **Carbendazim** and **Thiram** is often more effective for broad-spectrum protection).
+
+*   **Foliar Spray / Soil Drench (Curative, if disease symptoms appear):**
+    *   If wilt symptoms appear in the field, especially those associated with *Sclerotinia* stem rot or *Fusarium* wilt, targeted application may be necessary.
+    *   For *Sclerotinia* related wilting/stem rot:
+        *   Foliar spray with **Tebuconazole** 25.9% EC @ 250-300 ml/acre (in 200-300 L water) at the initial appearance of symptoms.
+        *   Foliar spray with **Azoxystrobin** 23% SC @ 200 ml/acre (in 200-300 L water) can also be effective.
+    *   For *Fusarium* wilt (soil-borne):
+        *   Drenching the soil around the base of affected plants with **Carbendazim** 50% WP @ 1-2 g/L water can help manage the disease spread.
+
+**Important Considerations:**
+
+*   Always read and strictly follow the instructions on the fungicide label regarding dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of fungicide resistance.
+*   Consult your local HAU extension specialist for specific recommendations tailored to your farm's conditions and the prevailing disease pressure in your area.

@@ -1,0 +1,75 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I emphasize that micronutrient deficiencies can significantly impact onion yield and quality. Accurate diagnosis, preferably through soil and plant tissue analysis, is crucial before applying any corrective measures. Visual symptoms can be indicative but are not always definitive.
+
+Here's how to address the specified micronutrient deficiencies in Onion:
+
+**General Recommendation:**
+Always conduct a comprehensive soil test before planting and a plant tissue analysis during the growing season to precisely identify specific deficiencies and their severity. This allows for targeted and efficient nutrient management.
+
+---
+
+### 1. Zinc (Zn)
+
+*   **Role & Symptoms:** Zinc is vital for enzyme activation, protein synthesis, and hormone production. Deficiency leads to stunted growth, yellowing of older leaves (interveinal chlorosis), reduced leaf size, and poor bulb development.
+*   **Correction:**
+    *   **Foliar Application:** For quick correction, spray 2-3 times at 10-15 day intervals, starting 30-40 days after transplanting.
+        *   Apply **Zinc sulphate heptahydrate** at 2.5-5 g/L of water (500-1000 g per 200 L water per acre).
+        *   Alternatively, apply **Zinc EDTA** at 0.5-1 g/L of water (100-200 g per 200 L water per acre).
+    *   **Soil Application:** If soil test indicates severe deficiency, apply before planting.
+        *   Apply **Zinc sulphate heptahydrate** at 10-25 kg/acre, mixed with soil or basal fertilizer.
+
+### 2. Iron (Fe) / Ferrous
+
+*   **Role & Symptoms:** Iron is essential for chlorophyll formation and respiration. Deficiency causes distinct interveinal chlorosis (yellowing between veins, while veins remain green) primarily on young leaves. In severe cases, leaves may turn almost white.
+*   **Correction:**
+    *   **Foliar Application:** Spray 2-3 times at 10-15 day intervals, especially during active growth.
+        *   Apply **Ferrous sulphate** at 5 g/L of water (1 kg per 200 L water per acre).
+        *   Alternatively, apply **Ferrous EDTA** at 0.5-1 g/L of water (100-200 g per 200 L water per acre).
+    *   **Soil Application:** For persistent deficiencies in alkaline soils.
+        *   Apply **Ferrous sulphate** at 10-20 kg/acre, mixed with soil.
+
+### 3. Boron (B)
+
+*   **Role & Symptoms:** Boron is crucial for cell wall formation, sugar transport, and pollen viability. Deficiency can lead to stunted growth, thickening and brittleness of young leaves, cracking of petioles, poor bulb development, and hollow stems.
+*   **Correction:**
+    *   **Foliar Application:** Spray 1-2 times during vegetative growth and bulb initiation.
+        *   Apply **Disodium octaborate tetrahydrate** (e.g., Solubor) at 1-2 g/L of water (200-400 g per 200 L water per acre).
+    *   **Soil Application:** If soil test indicates deficiency, apply before planting.
+        *   Apply **Borax** (Sodium tetraborate decahydrate) at 4-6 kg/acre, mixed thoroughly with soil. *Caution: Boron can be toxic in excess, so apply precisely based on soil test.*
+
+### 4. Calcium (Ca)
+
+*   **Role & Symptoms:** Calcium is vital for cell wall structure, membrane integrity, and root growth. Deficiency can manifest as tip burn of young leaves, poor storage quality, and soft bulbs.
+*   **Correction:**
+    *   **Foliar Application:** Spray 2-3 times during bulb development.
+        *   Apply **Calcium chloride** at 5-10 g/L of water (1-2 kg per 200 L water per acre).
+        *   Alternatively, apply **Calcium nitrate** at 5-10 g/L of water (1-2 kg per 200 L water per acre).
+    *   **Soil Application:** Ensure adequate calcium in the soil through liming (if pH is low) or gypsum application (if pH is high and calcium is deficient).
+
+### 5. Magnesium (Mg)
+
+*   **Role & Symptoms:** Magnesium is the central atom in chlorophyll and an activator for many enzymes. Deficiency typically appears as interveinal chlorosis on older leaves (yellowing between veins, while veins remain green), sometimes followed by purplish discoloration.
+*   **Correction:**
+    *   **Foliar Application:** Spray 2-3 times during vegetative growth.
+        *   Apply **Magnesium sulphate** at 5-10 g/L of water (1-2 kg per 200 L water per acre).
+    *   **Soil Application:** If soil test indicates deficiency.
+        *   Apply **Magnesium sulphate** at 10-20 kg/acre, mixed with soil.
+
+### 6. Manganese (Mn)
+
+*   **Role & Symptoms:** Manganese is involved in photosynthesis, enzyme activation, and nitrogen metabolism. Deficiency symptoms are similar to iron, showing interveinal chlorosis on young leaves, often accompanied by small necrotic spots, and stunted growth.
+*   **Correction:**
+    *   **Foliar Application:** Spray 2-3 times during active growth.
+        *   Apply **Manganese sulphate** at 2.5-5 g/L of water (500-1000 g per 200 L water per acre).
+    *   **Soil Application:** If soil test indicates deficiency.
+        *   Apply **Manganese sulphate** at 5-10 kg/acre, mixed with soil.
+
+---
+
+**Important Considerations:**
+
+*   **Timing:** Foliar applications are most effective when applied during cooler parts of the day (early morning or late evening) to avoid scorching and maximize absorption.
+*   **Coverage:** Ensure thorough coverage of the foliage for effective absorption.
+*   **Adjuvants:** A non-ionic surfactant can be added to foliar sprays to improve spreading and penetration, as per product recommendations.
+*   **Integrated Nutrient Management:** Micronutrient application should be part of a holistic nutrient management plan, considering macronutrients and soil health.
+*   **Water Quality:** Use clean water for spraying.
+*   **Consultation:** For specific field conditions and severe deficiencies, always consult with HAU extension specialists for tailored advice.

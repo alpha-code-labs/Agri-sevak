@@ -1,0 +1,43 @@
+Mango Wilt, primarily caused by the fungus *Ceratocystis fimbriata*, and Parawilt, which can be triggered by various factors including environmental stress, root damage, or sometimes secondary fungal infections, are serious threats to mango orchards in Haryana. Effective management requires an integrated approach combining cultural practices with judicious use of CIBRC-approved chemicals.
+
+Here's how to control Wilt (including Parawilt) in Mango:
+
+**I. Cultural and Preventive Measures (Foundation of Management):**
+
+1.  **Sanitation:**
+    *   **Remove Infected Trees:** Immediately remove and destroy severely infected or dead trees, including their root systems, to prevent the spread of the pathogen. Do not leave infected wood in the orchard.
+    *   **Pruning:** Prune out infected branches showing early symptoms (dieback, leaf yellowing). Sterilize pruning tools with a 10% bleach solution or methylated spirit after each cut to prevent pathogen transmission.
+2.  **Wound Management:**
+    *   **Avoid Injuries:** Minimize any mechanical injuries to the trunk and roots during inter-cultivation, harvesting, or other orchard operations, as wounds serve as entry points for the pathogen.
+    *   **Wound Protection:** After pruning or accidental injury, immediately apply a fungicidal paste to the wound.
+3.  **Vector Control:**
+    *   **Bark Beetles:** Control bark beetles and other insect vectors that can carry the fungal spores and create wounds. Consult HAU for specific insecticide recommendations if vector infestation is observed.
+4.  **Soil Health and Tree Vigor:**
+    *   **Balanced Nutrition:** Ensure proper nutrient management to maintain tree vigor and resilience.
+    *   **Irrigation:** Provide adequate and timely irrigation, especially during dry periods, to reduce water stress, which can predispose trees to Parawilt. Avoid waterlogging.
+    *   **Drainage:** Ensure good drainage in the orchard to prevent water stagnation around the root zone.
+5.  **Rootstock Selection:**
+    *   Where possible, use rootstocks known for their tolerance or resistance to wilt, if available and suitable for Haryana conditions.
+
+**II. Chemical Management (CIBRC Approved):**
+
+Chemical control is most effective when applied preventively or at the very early stages of infection. Severely wilted trees are difficult to revive.
+
+1.  **Fungicides (for Soil Drenching and Wound Application):**
+    *   **For Soil Drenching (around the root zone of affected or adjacent trees):**
+        *   **Carbendazim**: Apply 1-2 g/L of water. For a mature tree, drench 5-10 litres of this solution around the root zone. Repeat after 3-4 weeks if necessary.
+        *   **Thiophanate-methyl**: Apply 1-2 g/L of water. Drench 5-10 litres of solution per mature tree around the root zone.
+        *   **Propiconazole**: Apply 1 ml/L of water. Drench 5-10 litres of solution per mature tree around the root zone.
+    *   **For Wound Paste (after pruning or injury):**
+        *   Mix **Carbendazim** or **Thiophanate-methyl** with a small amount of water to form a thick paste and apply directly to the cut surface or wound.
+
+2.  **Bio-control Agents (for Soil Application):**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: These beneficial fungi compete with and parasitize pathogenic fungi in the soil.
+        *   Apply 2.5 kg/acre mixed with 50-100 kg of well-decomposed farmyard manure (FYM) or compost. Apply this mixture around the root zone of trees, especially before monsoon or during periods of active growth.
+        *   Alternatively, drench with a solution of 5-10 g/L of water around the root zone.
+
+**Important Considerations:**
+
+*   **Early Detection:** Regularly monitor your orchard for early symptoms of wilt (e.g., dull green leaves, sudden wilting of a branch, gum exudation from the trunk).
+*   **Integrated Approach:** No single method is completely effective. A combination of cultural practices and chemical treatments is crucial for successful management.
+*   **Consult Experts:** For specific recommendations tailored to your orchard's conditions, always consult with the experts at Haryana Agricultural University (HAU) or your local agricultural extension office.

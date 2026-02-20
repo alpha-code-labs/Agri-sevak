@@ -1,0 +1,54 @@
+Wilt, including symptoms often referred to as 'Parawilt' (which can encompass various causes of sudden wilting), is a serious concern for Orange (Citrus sinensis) cultivation in Haryana. It can be caused by various factors, including fungal pathogens (like *Fusarium* species, *Verticillium* species, or *Phytophthora* species causing root rot), bacterial infections, or severe physiological stress (e.g., waterlogging, drought, nutrient imbalances, root damage). A precise diagnosis is crucial for effective management.
+
+Here's a scientifically verified approach to control wilt in Orange:
+
+**I. Integrated Management Strategy**
+
+An integrated approach combining cultural, biological, and chemical methods is most effective for managing wilt.
+
+**A. Cultural Practices (Foundation for Prevention and Management)**
+
+1.  **Resistant Rootstocks:** Where available and suitable for Haryana's conditions, planting on resistant rootstocks is the most sustainable long-term solution. Rootstocks like Rangpur lime, Trifoliate orange, Troyer citrange, and Carrizo citrange show varying degrees of resistance to different soil-borne diseases. Consult with HAU experts for the most suitable rootstock for your specific soil and disease pressure.
+2.  **Soil Health and Drainage:**
+    *   Ensure excellent soil drainage. Orange trees are highly susceptible to root rot and wilting in waterlogged conditions. Avoid planting in low-lying areas prone to water accumulation.
+    *   Incorporate well-decomposed farmyard manure (FYM) or compost (10-15 kg per tree annually) to improve soil structure, aeration, and microbial activity.
+3.  **Irrigation Management:**
+    *   Irrigate judiciously. Avoid both over-irrigation (which leads to waterlogging and root rot) and under-irrigation (which causes drought stress and wilting).
+    *   Use drip irrigation to deliver water directly to the root zone, minimizing water wastage and reducing humidity around the trunk.
+    *   Monitor soil moisture regularly and irrigate based on plant needs and weather conditions.
+4.  **Nutrient Management:**
+    *   Maintain balanced nutrition. Deficiencies or excesses of certain nutrients can predispose trees to stress and disease. Conduct soil and leaf analysis to determine specific nutrient requirements.
+    *   Ensure adequate levels of micronutrients, especially zinc, iron, and manganese.
+5.  **Sanitation:**
+    *   Remove and destroy severely infected or dead trees and plant parts to reduce inoculum sources.
+    *   Disinfect pruning tools with a 1% sodium hypochlorite solution or 70% alcohol between trees to prevent disease spread.
+6.  **Weed Control:** Keep the area around the tree base free of weeds, which can compete for nutrients and harbor pests/diseases.
+7.  **Avoid Root Injury:** Be careful during inter-cultivation practices to prevent damage to the root system, which can create entry points for pathogens.
+8.  **Soil Solarization:** In severely affected areas or for new plantings, soil solarization during hot summer months (May-June) for 4-6 weeks can significantly reduce soil-borne pathogen populations.
+
+**B. Biological Control**
+
+1.  **Trichoderma spp. Application:**
+    *   Apply **Trichoderma viride** or **Trichoderma harzianum** (liquid or powder formulation) to the soil around the root zone. These beneficial fungi act as antagonists against various soil-borne pathogens.
+    *   **Dosage:** 2.5-5 kg of powder formulation or 5-10 litres of liquid formulation per acre, mixed with 100-200 kg of well-decomposed FYM/compost and applied as a soil drench or incorporated into the soil. For individual trees, drench with a solution of 5-10 ml/g per litre of water (5-10 litres per tree, depending on tree size). Repeat every 3-4 months, especially during periods of stress.
+
+**C. Chemical Control (For Confirmed Fungal Wilts)**
+
+Chemical control should be used as a targeted measure, especially when fungal pathogens are confirmed. Always follow label instructions and safety precautions.
+
+1.  **For Fusarium/Verticillium Wilt:**
+    *   **Carbendazim 50% WP:** Drench the soil around the affected tree with a solution of **Carbendazim** at 1-2 grams per litre of water. Apply 5-10 litres of this solution per tree, depending on its size and age. Repeat after 15-20 days if symptoms persist.
+    *   **Thiophanate-methyl 70% WP:** Alternatively, drench the soil with **Thiophanate-methyl** at 1-1.5 grams per litre of water. Apply 5-10 litres of solution per tree.
+
+2.  **For Phytophthora Root Rot (leading to wilting):**
+    *   **Copper Oxychloride 50% WP:** Drench the soil around the tree with **Copper Oxychloride** at 2-3 grams per litre of water. Apply 5-10 litres of solution per tree. This can also be applied as a paste to the trunk base if gummosis is present.
+    *   **Propiconazole 25% EC:** Drench the soil with **Propiconazole** at 1-2 ml per litre of water. Apply 5-10 litres of solution per tree.
+
+**II. Important Considerations**
+
+*   **Early Diagnosis:** Accurate identification of the cause of wilt is paramount. If possible, consult with HAU plant pathology experts for laboratory diagnosis of soil and plant samples.
+*   **Preventive Measures:** Focus on preventive cultural practices, as treating established wilt can be challenging.
+*   **Rotation:** While not directly applicable to perennial orchards, maintaining good soil health and avoiding stress are key.
+*   **Monitoring:** Regularly inspect your orchard for early signs of wilting to initiate control measures promptly.
+
+By implementing these scientifically verified strategies, you can effectively manage and control wilt in your Orange orchard in Haryana.

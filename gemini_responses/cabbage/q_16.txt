@@ -1,0 +1,55 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Cabbage cultivation in Haryana, based on scientific research and best practices. The general recommendation for Cabbage is 120 kg Nitrogen (N), 60 kg Phosphorus (P2O5), and 60 kg Potassium (K2O) per acre, along with Sulphur.
+
+Here are the recommended doses for various fertilizers:
+
+### Recommended Fertilizer Doses for Cabbage (per acre)
+
+**1. Basal Application (at the time of transplanting):**
+Apply the full dose of Phosphorus, Potassium, Sulphur, and one-third of the Nitrogen requirement as a basal dose.
+
+*   **Phosphorus (P2O5):** 60 kg P2O5
+    *   This can be supplied by:
+        *   **130 kg Diammonium phosphate** (DAP, 18% N, 46% P2O5)
+        *   *OR* **375 kg Single superphosphate** (SSP, 16% P2O5, 11% S) - *If using SSP, the Sulphur requirement will largely be met.*
+*   **Potassium (K2O):** 60 kg K2O
+    *   This can be supplied by:
+        *   **100 kg Muriate of potash** (MOP, 60% K2O)
+*   **Nitrogen (N):** 40 kg N (1/3rd of total N)
+    *   If using DAP: DAP provides approximately 23 kg N (from 130 kg DAP). The remaining 17 kg N should come from **Urea**.
+        *   **37 kg Urea** (46% N)
+    *   If using SSP: The full 40 kg N should come from **Urea**.
+        *   **87 kg Urea** (46% N)
+*   **Sulphur (S):** 20-25 kg S
+    *   If using SSP, the Sulphur requirement is largely met (approx. 41 kg S from 375 kg SSP).
+    *   If using DAP, additional Sulphur is required:
+        *   **20-25 kg Elemental sulphur** (90% S)
+        *   *OR* **100 kg Gypsum** (13% S)
+
+**2. Top Dressing (remaining Nitrogen):**
+Apply the remaining two-thirds of the Nitrogen in two equal splits.
+
+*   **First Top Dressing (20-30 days after transplanting):** 40 kg N
+    *   **87 kg Urea** (46% N)
+*   **Second Top Dressing (40-50 days after transplanting):** 40 kg N
+    *   **87 kg Urea** (46% N)
+
+### Nano Fertilizers (Foliar Application)
+
+Nano fertilizers are designed for foliar application and can supplement or partially replace conventional fertilizers, improving nutrient use efficiency.
+
+*   **Nano-Urea:**
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Application:** 2-3 foliar sprays. The first spray can be given 20-30 days after transplanting, and subsequent sprays at 15-20 day intervals. Nano-Urea can potentially replace up to 50% of the conventional Urea requirement.
+*   **Nano-DAP:**
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Application:** 2 foliar sprays. The first spray can be given 20-30 days after transplanting, and the second spray 15-20 days later. Nano-DAP can potentially replace up to 25-50% of the conventional DAP requirement.
+
+### NPK Complex Fertilizers
+
+NPK complex fertilizers (e.g., NPK 12:32:16, NPK 10:26:26, NPK 19:19:19) can be used to supply a part of the basal NPK requirement. The specific dose will depend on the grade of the complex fertilizer and the remaining NPK needed to meet the recommended targets. For example, if using NPK 12:32:16, you would calculate how much of the P2O5 and K2O is supplied and then adjust the DAP/SSP, MOP, and Urea accordingly.
+
+### Important Considerations:
+
+*   **Soil Testing:** These recommendations are general. A soil test is highly recommended to determine the exact nutrient status of your field and tailor fertilizer application for optimal results and to avoid over-fertilization.
+*   **Organic Manures:** Incorporating 10-15 tonnes of well-decomposed Farm Yard Manure (FYM) or compost per acre significantly improves soil health and nutrient availability, reducing the need for chemical fertilizers.
+*   **Micronutrients:** Cabbage also requires micronutrients like Boron, Molybdenum, and Zinc. If soil tests indicate deficiencies, apply appropriate micronutrient fertilizers as per recommendations. For example, **Borax** (10-15 kg/acre) or **Zinc sulphate** (20-25 kg/acre) can be applied as basal.

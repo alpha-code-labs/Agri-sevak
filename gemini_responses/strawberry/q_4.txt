@@ -1,0 +1,44 @@
+Wilt, including Parawilt, is a significant concern in strawberry cultivation in Haryana, often leading to substantial yield losses. It can be caused by various factors, primarily soil-borne fungal pathogens such as *Verticillium dahliae* (Verticillium wilt), *Fusarium oxysporum* f. sp. *fragariae* (Fusarium wilt), and *Phytophthora cactorum* (Phytophthora crown rot/wilt). Parawilt is often a complex condition, sometimes associated with environmental stress (heat, waterlogging, nutrient deficiencies) or mild root damage, which can mimic or exacerbate pathogenic wilts.
+
+Effective management requires an integrated approach combining cultural, biological, and chemical methods.
+
+**1. Cultural Practices (Foundation of Wilt Management):**
+
+*   **Disease-Free Planting Material:** Always use certified, disease-free runners or plants from reputable nurseries. This is the most critical step to prevent introduction of pathogens.
+*   **Site Selection and Soil Preparation:**
+    *   Choose well-drained fields. Avoid areas with a history of wilt diseases.
+    *   Improve soil drainage by incorporating organic matter and creating raised beds.
+    *   Ensure proper soil pH (5.5-6.5) and balanced nutrition to promote strong plant growth and resilience.
+*   **Crop Rotation:** Avoid planting strawberries in fields where solanaceous crops (like tomato, potato, brinjal) or other susceptible crops have been grown in the last 3-5 years, as they can host *Verticillium*. Rotate with non-host crops like cereals.
+*   **Soil Solarization:** In hot summer months, covering moist soil with clear plastic sheets for 4-6 weeks can significantly reduce soil-borne pathogen populations, including wilt fungi.
+*   **Water Management:** Avoid overwatering, which can create anaerobic conditions favorable for *Phytophthora* and stress roots, making them susceptible. Use drip irrigation to deliver water directly to the root zone.
+*   **Weed Control:** Weeds can act as alternate hosts for pathogens and compete for nutrients.
+*   **Sanitation:** Promptly remove and destroy any wilted or diseased plants to prevent the spread of pathogens. Disinfect tools after working with infected plants.
+
+**2. Biological Control:**
+
+*   **Bio-fungicides:** Application of beneficial microbial antagonists can help suppress soil-borne pathogens.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply as a soil drench or mix with farmyard manure (FYM) before planting.
+        *   **Dosage:** 2.5 kg/acre mixed with 50-100 kg FYM, applied at the time of planting or as a drench around established plants.
+
+**3. Chemical Control (Fungicides):**
+
+Chemical control should be used judiciously and as part of an integrated strategy, especially for confirmed pathogenic wilts. Soil drenching is the most effective method for soil-borne diseases.
+
+*   **For Fusarium and Verticillium Wilt (if suspected):**
+    *   **Carbendazim** 50% WP: Drench the soil around the base of the plants with a solution of 1-2 g/L water. Repeat after 15-20 days if symptoms persist.
+    *   **Thiophanate Methyl** 70% WP: Drench the soil around the base of the plants with a solution of 1-1.5 g/L water. Repeat after 15-20 days if necessary.
+
+*   **For Phytophthora Crown Rot/Wilt (if suspected, characterized by sudden collapse, reddish-brown discoloration in crown):**
+    *   **Propamocarb Hydrochloride** 72.2% SL: Drench the soil around the base of the plants with a solution of 2-3 ml/L water.
+    *   **Metalaxyl** 8% + **Mancozeb** 64% WP: Drench the soil around the base of the plants with a solution of 2-2.5 g/L water.
+    *   **Fosetyl-Al** 80% WP: Drench the soil around the base of the plants with a solution of 2-3 g/L water.
+
+**Important Considerations:**
+
+*   **Diagnosis:** Accurate diagnosis of the specific cause of wilt is crucial for effective management. If possible, send samples to a diagnostic lab at HAU for confirmation.
+*   **Timing:** Apply fungicides preventively if there's a history of wilt, or at the first sign of symptoms.
+*   **Resistance Management:** Rotate different classes of fungicides to prevent the development of resistance in pathogens.
+*   **Safety:** Always follow label instructions for dosage, application, pre-harvest interval (PHI), and safety precautions. Wear appropriate personal protective equipment (PPE).
+
+By implementing these measures, strawberry growers in Haryana can significantly reduce the incidence and severity of wilt diseases and ensure healthy, productive crops.

@@ -1,0 +1,34 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice regarding rust diseases in Rocket salad (Eruca sativa/vesicaria) for Haryana.
+
+Regarding the specific rust diseases mentioned:
+
+*   **Black Rust, Brown Rust, Yellow Rust, and Red Rust:** These true rust fungi (e.g., *Puccinia* species) are primarily known to affect cereal crops like wheat, barley, and some other specific hosts. **This is not known to affect Rocket salad.**
+
+*   **White Rust:** While not a true rust fungus, "White Rust" caused by the oomycete *Albugo candida* is a common and significant disease of brassicas, including Rocket salad. It is often colloquially referred to as white rust due to its appearance.
+
+Here's how to control White Rust (*Albugo candida*) in Rocket salad:
+
+**Integrated Pest Management (IPM) Approach for White Rust:**
+
+1.  **Cultural Practices (Prevention and Management):**
+    *   **Crop Rotation:** Avoid planting Rocket salad or other brassica crops in the same field for at least 2-3 years. Rotate with non-brassica crops to break the disease cycle.
+    *   **Sanitation:** Remove and destroy infected plant debris immediately after harvest to reduce inoculum sources.
+    *   **Weed Control:** Control cruciferous weeds (e.g., wild mustard, shepherd's purse) in and around the field, as they can act as alternative hosts for the pathogen.
+    *   **Proper Spacing:** Ensure adequate plant spacing to improve air circulation, which helps reduce leaf wetness and fungal development.
+    *   **Irrigation Management:** Use drip irrigation or furrow irrigation instead of overhead sprinklers to minimize leaf wetness, especially during evening hours. If overhead irrigation is necessary, do it in the morning to allow leaves to dry quickly.
+    *   **Disease-Free Seeds:** Use certified disease-free seeds or treat seeds with appropriate fungicides if seed-borne infection is suspected.
+
+2.  **Chemical Control (If cultural practices are insufficient and disease pressure is high):**
+    *   Fungicides effective against oomycetes should be used. Always follow the manufacturer's instructions regarding dosage, application timing, and pre-harvest interval (PHI).
+
+    *   **For Protective/Preventive Application:**
+        *   **Mancozeb 75% WP:** Apply at a rate of 2.5-3.0 g/L of water.
+        *   **Propineb 70% WP:** Apply at a rate of 2.5-3.0 g/L of water.
+
+    *   **For Curative/Systemic Application (when disease symptoms appear):**
+        *   **Metalaxyl 8% + Mancozeb 64% WP:** Apply at a rate of 2.0 g/L of water.
+        *   **Azoxystrobin 23% SC:** Apply at a rate of 0.5-1.0 ml/L of water.
+
+    *   **Application:** Ensure thorough coverage of the foliage. Repeat applications as per label recommendations, typically at 7-14 day intervals, depending on disease severity and weather conditions.
+
+Always consult the specific product label for the most accurate and up-to-date information regarding dosage, application methods, safety precautions, and pre-harvest intervals (PHI) relevant to your region and crop.

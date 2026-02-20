@@ -1,0 +1,48 @@
+Wilt, including Parawilt, is a significant and often devastating condition affecting Jack Fruit (*Artocarpus heterophyllus*) in various regions, including potentially Haryana, especially under conditions of stress or poor drainage.
+
+**Symptoms of Wilt/Parawilt:**
+*   Initial symptoms include sudden drooping and yellowing of leaves, often starting from one side of the tree or a few branches.
+*   Leaves may turn brown and dry but remain attached to the tree for some time.
+*   Progressive wilting of branches, eventually leading to the entire tree.
+*   Infected trees show discoloration (brownish streaks) in the vascular tissues when the bark is peeled or the stem is cut.
+*   Root rot is often observed, particularly in Parawilt, where roots become soft and discolored.
+*   Ultimately, the tree declines rapidly and dies within a few weeks to months.
+
+**Causes:**
+Wilt in Jack Fruit is primarily caused by soil-borne fungal pathogens.
+*   **Wilt:** Often associated with fungi like *Fusarium oxysporum* f.sp. *artocarpi*, *Phytophthora palmivora*, or *Rhizoctonia solani*.
+*   **Parawilt:** This term is often used for a sudden, severe wilting, frequently linked to *Phytophthora palmivora*, especially under conditions of waterlogging, poor drainage, or root injury. Physiological stress can also contribute.
+
+**Control Measures:**
+
+An integrated approach combining cultural, biological, and chemical methods is most effective for managing Wilt and Parawilt in Jack Fruit.
+
+**1. Cultural and Horticultural Practices:**
+*   **Site Selection and Drainage:** Plant Jack Fruit in well-drained, elevated areas. Avoid low-lying fields or heavy clay soils prone to waterlogging. If planting in such areas, create raised beds or mounds.
+*   **Soil Health:** Improve soil structure and aeration by incorporating ample amounts of well-decomposed Farm Yard Manure (FYM) or compost (15-20 kg per tree annually for mature trees).
+*   **Avoid Root Injury:** Exercise caution during inter-cultivation, weeding, or any activity near the tree base to prevent damage to the root system, which can serve as entry points for pathogens.
+*   **Water Management:** Irrigate judiciously. Avoid over-watering, especially during the monsoon season or in areas with poor drainage. Ensure proper drainage channels are maintained.
+*   **Sanitation:** Remove and destroy severely infected or dead trees, including their root systems, to reduce the inoculum load in the soil. Disinfect tools after working on infected trees.
+*   **Nutrient Management:** Provide balanced nutrition to enhance tree vigor and natural resistance. A soil test can guide precise fertilizer application.
+
+**2. Biological Control:**
+*   **Trichoderma Application:** Apply bio-control agents like *Trichoderma viride* or *Trichoderma harzianum* to the soil around the root zone. These fungi act as antagonists against soil-borne pathogens.
+    *   **Dosage:** Mix 2-5 kg of *Trichoderma* formulation (containing 2x10^6 CFU/g) with 100 kg of well-decomposed Farm Yard Manure (FYM) or compost. Apply this mixture uniformly around the base of the tree, covering the root zone (up to 1-meter radius for mature trees), and lightly incorporate it into the soil. Repeat application annually, preferably before the monsoon or during early spring.
+
+**3. Chemical Control (CIBRC Approved):**
+For effective control, chemical applications should be done as a drench around the root zone.
+
+*   **For *Phytophthora*-induced Wilt/Parawilt:**
+    *   **Metalaxyl-M 3.3% + Mancozeb 66.7% WP:** Drench the soil around the base of the tree with a solution of 2.5-3 g/L of water. For mature trees, apply 5-10 litres of solution per tree, ensuring it penetrates the root zone. Repeat after 15-20 days if symptoms persist or conditions are conducive.
+    *   **Propamocarb hydrochloride 72.2% SL:** Drench the soil around the affected trees with a solution of 2-3 ml/L of water. Apply 5-10 litres per tree depending on size.
+    *   **Fosetyl-aluminium 80% WP:** Drench the soil with a solution of 2.5-3 g/L of water. This systemic fungicide is effective against oomycetes like *Phytophthora*.
+
+*   **For *Fusarium*-induced Wilt:**
+    *   **Carbendazim 50% WP:** Drench the soil around the base of the tree with a solution of 1-2 g/L of water. Apply 5-10 litres per tree.
+    *   **Thiophanate methyl 70% WP:** Drench the soil with a solution of 1-1.5 g/L of water. Apply 5-10 litres per tree.
+
+**Important Considerations:**
+*   **Early Intervention:** Timely detection and application of control measures are critical for saving affected trees.
+*   **Rotation of Fungicides:** To prevent the development of fungicide resistance, rotate fungicides with different modes of action.
+*   **Integrated Approach:** Combining cultural, biological, and chemical methods provides the most sustainable and effective long-term management.
+*   **Consultation:** For accurate diagnosis and specific recommendations tailored to your farm's conditions, it is always advisable to consult with the plant pathology or horticulture experts at Haryana Agricultural University (HAU) or your local agricultural extension office.

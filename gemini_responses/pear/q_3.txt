@@ -1,0 +1,72 @@
+As a Senior Agronomist at HAU, Hisar, I can provide you with scientifically verified advice for controlling various rot types in Pear. It's crucial to implement an integrated disease management approach, combining cultural practices with judicious use of CIBRC-approved fungicides.
+
+Here's how to control the specified rot types in Pear:
+
+### General Cultural Practices for Rot Prevention:
+
+*   **Site Selection & Drainage:** Plant pears in well-drained soils. Avoid low-lying areas prone to waterlogging, which creates ideal conditions for many rot pathogens.
+*   **Sanitation:** Regularly remove and destroy fallen fruit, mummified fruit on trees, and diseased branches. This reduces inoculum sources.
+*   **Pruning:** Prune trees to improve air circulation within the canopy, which helps reduce humidity and fungal growth. Ensure clean cuts and sterilize pruning tools between trees.
+*   **Irrigation Management:** Avoid overhead irrigation where possible, or irrigate early in the day to allow foliage to dry quickly. Prevent water from pooling around the tree base.
+*   **Nutrient Management:** Maintain balanced nutrition to promote tree vigor, but avoid excessive nitrogen, which can lead to lush, susceptible growth.
+*   **Rootstock Selection:** Where available, choose rootstocks known for resistance to specific root and collar rot pathogens.
+*   **Wound Protection:** Protect tree trunks from mechanical injuries (e.g., from mowers, cultivators) as wounds serve as entry points for pathogens.
+
+### Specific Control Measures for Rot Types:
+
+#### 1. Root Rot, Collar Rot, Crown Rot, Stem Rot, and Foot Rot
+
+These are often caused by soil-borne pathogens like *Phytophthora* species (*Phytophthora cactorum*, *P. syringae*) and sometimes *Armillaria mellea*. They manifest as decay of roots, bark at the soil line (collar), crown, or lower stem/foot.
+
+*   **Cultural Control:**
+    *   Improve soil drainage.
+    *   Avoid planting too deep.
+    *   Remove soil from around the crown and upper roots of affected trees to allow drying.
+    *   For *Armillaria* rot, remove infected trees and roots, and create a trench barrier around infected areas.
+*   **Chemical Control (Drench/Soil Application):**
+    *   **Fosetyl-Al** (80% WP): Apply as a soil drench at 2.5-3.0 g/L water around the base of the tree. Repeat as necessary.
+    *   **Propamocarb Hydrochloride** (72.2% SL): Apply as a soil drench at 2.5-3.0 ml/L water around the base of the tree.
+    *   **Metalaxyl** (35% WS) or **Metalaxyl-M** (4% G): Can be used as a soil drench or granular application around the base of susceptible trees, following label recommendations for specific rates (e.g., 2-3 g/L water for drench or specific kg/acre for granular).
+
+#### 2. Neck Rot
+
+This is not known to affect Pear. Neck rot is primarily a disease of bulb crops like onions and garlic.
+
+#### 3. Black Rot & Fruit Rot
+
+These can be caused by various fungi including *Alternaria alternata* (causing black rot symptoms, especially post-harvest), *Monilinia fructicola/fructigena* (Brown Rot), *Botrytis cinerea* (Grey Mould), *Penicillium expansum* (Blue Mould), and *Colletotrichum gloeosporioides* (Bitter Rot). Black rot in apples (*Botryosphaeria obtusa*) is distinct, but *Botryosphaeria dothidea* can cause cankers and fruit rot in pears.
+
+*   **Cultural Control:**
+    *   Remove all mummified fruit from trees and the ground.
+    *   Prune out dead or diseased branches and cankers.
+    *   Harvest fruit carefully to avoid injury, which provides entry points for pathogens.
+    *   Cool fruit rapidly after harvest.
+*   **Chemical Control (Foliar Sprays, Pre-harvest):**
+    *   **Captan** (50% WP): Apply at 2.0-2.5 g/L water, starting from petal fall and repeating at regular intervals.
+    *   **Mancozeb** (75% WP): Apply at 2.0-2.5 g/L water, especially during periods of high humidity.
+    *   **Thiophanate Methyl** (70% WP): Apply at 0.5-1.0 g/L water.
+    *   **Azoxystrobin** (23% SC): Apply at 0.5-1.0 ml/L water.
+    *   **Tebuconazole** (25.9% EC): Apply at 0.75-1.0 ml/L water.
+    *   **Pyraclostrobin + Metiram** (5.5% + 55% WG): Apply at 1.5-2.0 g/L water.
+    *   **Fluxapyroxad + Pyraclostrobin** (6.25% + 6.25% SC): Apply at 1.0-1.5 ml/L water.
+
+#### 4. Seed Rot and Seedling Rot (Damping-off)
+
+These are common issues during pear propagation in nurseries, caused by soil-borne fungi like *Pythium*, *Phytophthora*, *Rhizoctonia*, and *Fusarium*.
+
+*   **Cultural Control:**
+    *   Use sterilized potting mix or seedbeds.
+    *   Ensure good drainage in propagation trays/beds.
+    *   Avoid overwatering and maintain proper spacing for good air circulation.
+    *   Plant high-quality, viable seeds.
+*   **Chemical Control (Seed Treatment & Drench):**
+    *   **Seed Treatment:**
+        *   **Thiram** (75% WS): Treat seeds at 2-3 g/kg seed.
+        *   **Captan** (50% WP): Treat seeds at 2-3 g/kg seed.
+        *   **Carbendazim** (50% WP): Treat seeds at 1-2 g/kg seed.
+        *   **Metalaxyl** (35% WS): Treat seeds at 2-3 g/kg seed, especially effective against *Pythium* and *Phytophthora*.
+    *   **Seedling Drench:**
+        *   **Propamocarb Hydrochloride** (72.2% SL): Apply as a drench at 2.5-3.0 ml/L water to the seedling trays/beds.
+        *   **Carbendazim** (50% WP): Apply as a drench at 0.5-1.0 g/L water.
+
+**Important Note:** Always read and follow the specific instructions and safety precautions on the fungicide labels. The efficacy of chemical treatments can be influenced by environmental conditions, disease pressure, and application timing. Consult with your local agricultural extension specialist for precise recommendations tailored to your specific farm conditions in Haryana.

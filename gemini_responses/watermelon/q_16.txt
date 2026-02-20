@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Watermelon cultivation in Haryana. Please note that these are general recommendations, and a soil test is always advisable for precise nutrient management tailored to your specific field conditions.
+
+**Recommended Fertilizer Doses for Watermelon (per acre):**
+
+**I. Conventional Fertilizers:**
+
+**A. Basal Application (at the time of planting/sowing):**
+Apply the following fertilizers and mix them well into the soil before planting.
+
+*   **DAP (Di-Ammonium Phosphate):** 100 kg/acre
+    *   *Provides 18 kg Nitrogen and 46 kg Phosphorus (P2O5)*
+*   **SSP (Single Super Phosphate):** 215 kg/acre
+    *   *Provides 34 kg Phosphorus (P2O5) and 23 kg Sulphur*
+*   **Muriate of Potash (MOP):** 135 kg/acre
+    *   *Provides 80 kg Potassium (K2O)*
+*   **Urea:** 60 kg/acre
+    *   *Provides 27.6 kg Nitrogen*
+
+**B. Top Dressing (Split Applications):**
+These applications are crucial for meeting the crop's nitrogen demand during critical growth stages.
+
+*   **First Top Dressing (30-35 days after planting, at flowering initiation):**
+    *   **Urea:** 60 kg/acre
+        *   *Provides 27.6 kg Nitrogen*
+*   **Second Top Dressing (50-55 days after planting, at fruit setting):**
+    *   **Urea:** 60 kg/acre
+        *   *Provides 27.6 kg Nitrogen*
+
+**Summary of Total Conventional Fertilizers (per acre):**
+*   **Urea:** 180 kg (Total N: 82.8 kg)
+*   **DAP:** 100 kg (Total N: 18 kg, Total P2O5: 46 kg)
+*   **SSP:** 215 kg (Total P2O5: 34 kg, Total S: 23 kg)
+*   **Muriate of Potash (MOP):** 135 kg (Total K2O: 80 kg)
+*   **Sulphur:** The Sulphur requirement (approx. 20-25 kg S/acre) is adequately met by the application of **SSP**. If **SSP** is not used, then 20-25 kg **Bentonite Sulphur** (90% S) can be applied basally.
+
+**II. Nano Fertilizers (as supplements to conventional fertilizers):**
+
+Nano fertilizers are highly efficient and are typically applied as foliar sprays to supplement nutrient uptake.
+
+*   **Nano-Urea:**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Application:** Apply as a foliar spray at critical growth stages such as vegetative growth, pre-flowering, and fruit development. Two to three sprays are generally recommended at 15-20 day intervals.
+*   **Nano-DAP:**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Application:** Apply as a foliar spray at critical growth stages, particularly during pre-flowering and fruit development stages. One to two sprays may be beneficial.
+
+**III. NPK Fertilizers:**
+
+If using complex NPK fertilizers (e.g., 12:32:16, 10:26:26, 19:19:19), the dose will vary significantly based on the specific grade and the nutrient content. These are often used as a basal application or through fertigation systems. For example:
+
+*   If using **NPK (12:32:16)**: To meet the phosphorus requirement of 80 kg P2O5/acre, you would need approximately 250 kg of **NPK (12:32:16)**. This would provide 30 kg N and 40 kg K2O, requiring additional supplementation of Nitrogen and Potassium from **Urea** and **Muriate of Potash (MOP)** respectively.
+    *   It is generally more economical and precise to use straight fertilizers (**Urea**, **DAP**, **SSP**, **Muriate of Potash**) for basal application to meet the bulk nutrient requirements. NPK complex fertilizers are often preferred for fertigation or specific growth stages where a balanced nutrient supply is needed.

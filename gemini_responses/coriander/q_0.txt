@@ -1,0 +1,88 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Coriander in Haryana.
+
+Effective management of fungal diseases in coriander requires an integrated approach combining cultural practices and judicious use of CIBRC-approved fungicides.
+
+**General Integrated Disease Management Principles:**
+
+1.  **Use Disease-Free Seeds:** Always source certified disease-free seeds. Seed treatment can be beneficial.
+2.  **Crop Rotation:** Avoid continuous cultivation of coriander or other susceptible crops in the same field. Rotate with non-host crops for at least 2-3 years.
+3.  **Field Sanitation:** Remove and destroy infected plant debris after harvest to reduce inoculum for the next season.
+4.  **Proper Spacing:** Maintain adequate plant spacing to ensure good air circulation, which helps reduce humidity and fungal growth.
+5.  **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can promote lush, susceptible growth. Ensure balanced nutrient supply.
+6.  **Irrigation Management:** Irrigate in the morning to allow foliage to dry quickly. Avoid overhead irrigation late in the day.
+
+---
+
+**Specific Control Measures for Fungal Diseases in Coriander:**
+
+Here's how to address the mentioned diseases:
+
+*   **Alternaria (Alternaria Blight/Leaf Spot):**
+    This is a common and significant disease in coriander, causing dark, concentric spots on leaves, stems, and umbels, leading to blight.
+    *   **Cultural:** Use resistant varieties if available. Practice good field sanitation.
+    *   **Chemical:**
+        *   Spray with **Mancozeb** (75% WP) at 2.0-2.5 kg/acre (2.5 g/L water).
+        *   Alternatively, use **Chlorothalonil** (75% WP) at 2.0 kg/acre (2.5 g/L water).
+        *   For systemic action, consider **Azoxystrobin** (23% SC) at 200 ml/acre (0.5 ml/L water) or **Propiconazole** (25% EC) at 200 ml/acre (0.5 ml/L water).
+        *   Repeat sprays at 10-15 day intervals depending on disease severity.
+
+*   **Anthracnose:**
+    Caused by *Colletotrichum gloeosporioides*, this disease leads to sunken lesions on stems, leaves, and fruits, often with pinkish spore masses in humid conditions.
+    *   **Cultural:** Use disease-free seeds. Practice crop rotation.
+    *   **Chemical:**
+        *   Spray with **Mancozeb** (75% WP) at 2.0-2.5 kg/acre (2.5 g/L water).
+        *   Alternatively, use **Chlorothalonil** (75% WP) at 2.0 kg/acre (2.5 g/L water).
+        *   For systemic control, **Azoxystrobin** (23% SC) at 200 ml/acre (0.5 ml/L water) or **Tebuconazole** (25.9% EC) at 200 ml/acre (0.5 ml/L water) can be effective.
+        *   Initiate sprays at the first sign of disease and repeat as necessary.
+
+*   **Blast:**
+    This is not known to affect Coriander.
+
+*   **Blight (General Blight, e.g., Cercospora Blight):**
+    Blight is a general term for rapid and extensive browning, death, and wilting of plant tissues. *Cercospora leaf spot* can also cause blight-like symptoms.
+    *   **Cultural:** As mentioned above for Alternaria.
+    *   **Chemical:**
+        *   Fungicides effective against Alternaria and Anthracnose are generally effective against other blights and leaf spots.
+        *   Spray with **Mancozeb** (75% WP) at 2.0-2.5 kg/acre (2.5 g/L water).
+        *   Alternatively, use **Chlorothalonil** (75% WP) at 2.0 kg/acre (2.5 g/L water).
+        *   Systemic options include **Propiconazole** (25% EC) at 200 ml/acre (0.5 ml/L water) or **Tebuconazole** (25.9% EC) at 200 ml/acre (0.5 ml/L water).
+
+*   **Brown Spot (e.g., Cercospora Leaf Spot, Ramularia Leaf Spot):**
+    These diseases cause distinct brown spots on leaves, which can coalesce and lead to defoliation.
+    *   **Cultural:** Use disease-free seeds. Remove infected plant debris.
+    *   **Chemical:**
+        *   Similar to blight control, contact fungicides like **Mancozeb** (75% WP) at 2.0-2.5 kg/acre (2.5 g/L water) or **Chlorothalonil** (75% WP) at 2.0 kg/acre (2.5 g/L water) are effective.
+        *   Systemic options like **Propiconazole** (25% EC) at 200 ml/acre (0.5 ml/L water) or **Tebuconazole** (25.9% EC) at 200 ml/acre (0.5 ml/L water) can also be used.
+
+*   **Downy Mildew:**
+    Caused by *Peronospora coriandri*, this disease appears as yellowish spots on the upper leaf surface and a grayish-purple, downy growth on the corresponding lower surface.
+    *   **Cultural:** Use resistant varieties. Ensure good air circulation. Avoid overhead irrigation.
+    *   **Chemical:**
+        *   For preventive and early stage control, **Mancozeb** (75% WP) at 2.0-2.5 kg/acre (2.5 g/L water).
+        *   For curative and systemic action, use a combination product like **Metalaxyl + Mancozeb** (e.g., 8% + 64% WP) at 500 g/acre (1.5-2.0 g/L water).
+        *   Another effective combination is **Dimethomorph + Mancozeb** (e.g., 9% + 60% WP) at 1.0 kg/acre (2.5 g/L water).
+        *   **Propamocarb Hydrochloride** (72.2% SL) at 1.0-1.5 L/acre (2.5-3.0 ml/L water) is also effective.
+        *   Start spraying as soon as symptoms appear or when conditions are favorable for disease development.
+
+*   **Powdery Mildew:**
+    Caused by *Erysiphe polygoni* or *Leveillula taurica*, this disease manifests as white, powdery patches on leaves, stems, and flower parts, leading to reduced photosynthesis and yield.
+    *   **Cultural:** Use resistant varieties. Maintain proper plant spacing.
+    *   **Chemical:**
+        *   **Wettable Sulphur** (80% WP) at 2.0-2.5 kg/acre (2.5-3.0 g/L water) is a traditional and effective option.
+        *   **Dinocarb** (48% EC) at 200-250 ml/acre (0.5 ml/L water).
+        *   **Myclobutanil** (10% WP) at 120 g/acre (0.3 g/L water).
+        *   **Penconazole** (10% EC) at 100-150 ml/acre (0.25-0.3 ml/L water).
+        *   **Azoxystrobin** (23% SC) at 200 ml/acre (0.5 ml/L water) also provides good control.
+        *   **Tebuconazole** (25.9% EC) at 200 ml/acre (0.5 ml/L water).
+        *   Apply at the first sign of the disease and repeat at 10-15 day intervals.
+
+*   **Grey Mildew:**
+    This is not known to affect Coriander. (Note: *Botrytis cinerea* causes Grey Mold, which is a different disease and typically affects senescing tissues or during storage).
+
+---
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the fungicide label, including dosage, pre-harvest interval (PHI), and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Consult with your local agricultural extension officer or HAU experts for specific recommendations tailored to your field conditions and current disease pressure.

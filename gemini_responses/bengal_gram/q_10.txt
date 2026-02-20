@@ -1,0 +1,33 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling pests in Bengal Gram (Chickpea) in Haryana:
+
+### Control of Borers and Caterpillars (specifically Pod Borer, *Helicoverpa armigera*)
+
+The most significant borer/caterpillar pest affecting Bengal Gram is the Pod Borer (*Helicoverpa armigera*). Effective management involves an integrated approach:
+
+1.  **Monitoring:**
+    *   Install pheromone traps at a rate of 4-5 traps per acre to monitor adult moth activity. This helps in timely decision-making for control measures.
+    *   Regularly scout fields to check for egg laying and larval incidence. Economic Threshold Level (ETL) is typically 1-2 larvae per meter row length or 5-10% pod damage.
+
+2.  **Biological Control:**
+    *   Utilize biological pesticides when larvae are young (1st and 2nd instar).
+    *   Spray *Helicoverpa armigera* Nuclear Polyhedrosis Virus (**HaNPV**) at a dose of 250 Larval Equivalents (LE) per acre, mixed with 200-250 litres of water. Add a sticker/spreader for better efficacy.
+
+3.  **Chemical Control:**
+    *   If the pest population crosses the ETL, chemical intervention may be necessary. Rotate insecticides with different modes of action to prevent resistance development.
+    *   **Indoxacarb** 14.5% SC at 200 ml/acre
+    *   **Chlorantraniliprole** 18.5% SC at 60 ml/acre
+    *   **Emamectin benzoate** 5% SG at 80-100 g/acre
+    *   **Flubendiamide** 20% WG at 100 g/acre
+    *   **Lambda-cyhalothrin** 5% EC at 200 ml/acre
+    *   **Thiodicarb** 75% WP at 500 g/acre
+    *   **Quinalphos** 25% EC at 600 ml/acre
+
+    Ensure thorough spray coverage, especially on the underside of leaves and developing pods.
+
+### Diamondback Moth
+
+This is not known to affect Bengal Gram. Diamondback moth (*Plutella xylostella*) is primarily a pest of cruciferous crops (e.g., cabbage, cauliflower, mustard).
+
+### Leaf Folder
+
+This is not known to affect Bengal Gram as a significant pest. While general defoliators might occasionally be present, a specific "leaf folder" species causing economic damage in Bengal Gram is not commonly reported in Haryana. The control measures for Pod Borer often manage general caterpillar populations.

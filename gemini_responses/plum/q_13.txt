@@ -1,0 +1,36 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling fruit flies in Plum, and address your query regarding Ber fly:
+
+**Ber fly (*Carpomyia vesuviana*) is not known to affect Plum.** This pest is highly specific to Ber (*Ziziphus mauritiana*).
+
+For **Fruit fly** control in Plum (primarily species like *Bactrocera dorsalis* complex and *Bactrocera zonata*), an integrated pest management (IPM) approach is most effective:
+
+**1. Cultural and Mechanical Control:**
+
+*   **Orchard Sanitation:** Regularly collect and destroy all fallen, infested, and over-ripe fruits daily. This is crucial to break the life cycle of the fruit fly by preventing larvae from pupating in the soil. Burying deep (at least 60 cm) or burning the infested fruits are effective methods.
+*   **Deep Ploughing:** After harvest, deep ploughing of the orchard soil can expose pupae to predators and adverse environmental conditions, reducing the pest population for the next season.
+*   **Bagging of Fruits:** For small-scale orchards or high-value fruits, individual bagging of fruits with paper or cloth bags can prevent fruit fly oviposition.
+
+**2. Trapping:**
+
+*   **Pheromone Traps:** Install methyl eugenol traps (for male *Bactrocera dorsalis*) at a density of 10-15 traps per acre, starting from fruit set until harvest. These traps attract and kill male flies, disrupting mating. Replace the lure every 2-3 weeks.
+*   **Protein Bait Traps:** Prepare traps using a mixture of protein hydrolysate or jaggery solution (20 g/L water) with an insecticide (e.g., **Malathion** 50% EC @ 2 ml/L). Place this mixture in plastic bottles with holes and hang them in the orchard.
+
+**3. Chemical Control (as a last resort or when infestation is high):**
+
+*   **Bait Sprays:** This is a highly effective and targeted method. Mix an insecticide with a protein source to attract and kill adult fruit flies.
+    *   Prepare a bait spray using **Malathion** 50% EC @ 2 ml/L of water mixed with 10 g/L of jaggery or protein hydrolysate.
+    *   Alternatively, use **Spinosad** 45% SC @ 0.25 ml/L of water mixed with 10 g/L of jaggery or protein hydrolysate.
+    *   Apply these bait sprays as spot applications on tree trunks, non-bearing branches, or on polythene sheets hung in the orchard, rather than a full canopy spray. This reduces the overall pesticide load and impact on beneficial insects. Apply during morning or evening hours.
+
+*   **Foliar Sprays (only if infestation is severe and bait sprays are insufficient):**
+    *   **Malathion** 50% EC @ 2 ml/L of water.
+    *   **Deltamethrin** 2.8% EC @ 0.5 ml/L of water.
+    *   **Dimethoate** 30% EC @ 1.0 ml/L of water. (Note: Be mindful of the pre-harvest interval (PHI) for Dimethoate, which can be longer).
+
+**Important Considerations:**
+
+*   **Pre-Harvest Interval (PHI):** Always strictly observe the pre-harvest interval (PHI) mentioned on the label of any chemical used to ensure fruit safety.
+*   **Rotation of Chemicals:** To prevent the development of resistance, rotate insecticides with different modes of action if multiple applications are needed.
+*   **Timing of Application:** Apply insecticides when fruit flies are most active, typically during warmer parts of the day, but avoid spraying during peak flowering to protect pollinators. Bait sprays are often more effective in the morning or evening.
+
+For specific recommendations tailored to your orchard's conditions, please consult with the local Krishi Vigyan Kendra (KVK) or HAU extension specialists.

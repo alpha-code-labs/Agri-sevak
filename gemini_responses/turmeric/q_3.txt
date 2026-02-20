@@ -1,0 +1,65 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling rot diseases in Turmeric, specifically for conditions prevalent in Haryana.
+
+It is important to understand that many of the rot types you listed are symptoms of a few primary disease complexes affecting Turmeric, mainly Rhizome Rot and Black Rot.
+
+*   **Fruit Rot** and **Seed Rot** are not known to affect Turmeric, as Turmeric is propagated vegetatively by rhizomes, not seeds or fruits in the botanical sense.
+*   **Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, and Seedling Rot** are generally manifestations of the **Rhizome Rot Complex**.
+
+Here's how to control these rot types in Turmeric:
+
+**I. Rhizome Rot Complex (covering Root, Stem, Foot, Collar, Crown, Neck, and Seedling Rot)**
+This complex is primarily caused by soil-borne fungi such as *Pythium aphanidermatum*, *Phytophthora palmivora*, *Sclerotium rolfsii*, and *Fusarium oxysporum* f. sp. *zingiberi*. Symptoms include yellowing of leaves, water-soaked lesions on pseudostems near the soil line, rotting of rhizomes, and eventual plant collapse.
+
+**A. Cultural and Agronomic Practices:**
+1.  **Selection of Planting Material:** Use only healthy, disease-free rhizomes from reliable sources. Inspect rhizomes thoroughly before planting.
+2.  **Field Selection and Preparation:**
+    *   Ensure good drainage in the field. Avoid waterlogging, as it favors rot pathogens. Raised beds can be beneficial.
+    *   Practice crop rotation with non-host crops (e.g., cereals, legumes) for at least 3-4 years to reduce pathogen inoculum in the soil.
+    *   Solarize the soil during the hot summer months (May-June) by covering it with transparent polythene sheets for 4-6 weeks. This helps reduce soil-borne pathogen load.
+3.  **Planting:**
+    *   Avoid planting in fields with a history of severe rot diseases.
+    *   Plant at the recommended spacing to ensure good air circulation.
+4.  **Water Management:** Irrigate judiciously. Avoid excessive irrigation, especially during periods of high humidity.
+5.  **Sanitation:**
+    *   Remove and destroy infected plants and rhizomes immediately to prevent further spread. Do not compost infected material.
+    *   Clean farm tools and equipment after use in infected fields.
+
+**B. Biological Control:**
+1.  **Rhizome Treatment:** Treat rhizomes before planting by dipping them in a suspension of:
+    *   **_Trichoderma viride_** or **_Trichoderma harzianum_**: 10 g/kg of rhizomes.
+    *   **_Pseudomonas fluorescens_**: 10 g/kg of rhizomes.
+    *   Allow rhizomes to air dry in shade before planting.
+2.  **Soil Application:** Apply **_Trichoderma viride_** or **_Trichoderma harzianum_** (2.5 kg/acre) mixed with 50 kg of farmyard manure (FYM) or compost, and apply to the soil before planting or as a drench around the base of plants.
+
+**C. Chemical Control (CIBRC Approved):**
+1.  **Rhizome Treatment (Pre-planting):**
+    *   Dip rhizomes for 30 minutes in a solution of **Carbendazim** 12% + **Mancozeb** 63% WP (2 g/L of water) or **Propiconazole** 25% EC (1 ml/L of water).
+    *   Alternatively, use **Metalaxyl-M** 3.3% + **Mancozeb** 66.7% WP (2.5 g/L of water).
+    *   Allow rhizomes to air dry in shade before planting.
+2.  **Soil Drenching (Post-emergence, upon symptom appearance):**
+    *   Drench the soil around the base of affected plants with **Metalaxyl-M** 3.3% + **Mancozeb** 66.7% WP (2.5 g/L of water) at 2-3 L per plant, depending on plant size. Repeat if necessary after 15-20 days.
+    *   Alternatively, drench with **Propiconazole** 25% EC (1 ml/L of water).
+    *   For *Sclerotium rolfsii* (collar rot), drench with **Validamycin** 3% L (2 ml/L of water).
+    *   For general fungal rot, **Copper Oxychloride** 50% WP (3 g/L of water) can also be used as a soil drench.
+
+**II. Black Rot**
+Black rot is a distinct disease, often caused by *Colletotrichum capsici* or *Curvularia lunata*, leading to dark, sunken lesions on rhizomes, which can spread and cause decay.
+
+**A. Cultural and Agronomic Practices:**
+*   Similar to Rhizome Rot, use healthy planting material and practice good field sanitation.
+*   Avoid injuring rhizomes during cultivation.
+
+**B. Biological Control:**
+*   **_Trichoderma viride_** or **_Trichoderma harzianum_** as rhizome treatment and soil application can offer some protection.
+
+**C. Chemical Control (CIBRC Approved):**
+1.  **Rhizome Treatment (Pre-planting):**
+    *   Dip rhizomes for 30 minutes in a solution of **Carbendazim** 12% + **Mancozeb** 63% WP (2 g/L of water) or **Propiconazole** 25% EC (1 ml/L of water).
+2.  **Foliar Spray/Soil Drench (if symptoms appear):**
+    *   For systemic control, spray or drench with **Propiconazole** 25% EC (1 ml/L of water).
+    *   **Carbendazim** 50% WP (1 g/L of water) can also be used as a drench or spray.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the pesticide label carefully, including dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Integrated Disease Management (IDM), combining cultural, biological, and chemical methods, is the most effective approach for sustainable disease control.

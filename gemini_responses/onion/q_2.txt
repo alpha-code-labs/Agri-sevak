@@ -1,0 +1,39 @@
+Rust diseases are a significant concern for onion cultivation in Haryana, primarily caused by *Puccinia allii*. While various rusts exist, the common onion rust is typically referred to as such, and its management strategies are similar regardless of the specific "color" designation.
+
+Here's a scientifically verified approach for controlling rust diseases in onion:
+
+**Integrated Disease Management Strategy:**
+
+An integrated approach combining cultural practices and judicious chemical application is most effective.
+
+**1. Cultural Practices:**
+
+*   **Crop Rotation:** Avoid planting onions or other *Allium* species (garlic, leek, chives) in the same field for at least 2-3 years. This helps break the disease cycle by reducing inoculum in the soil.
+*   **Field Sanitation:** Remove and destroy all infected plant debris after harvest. Volunteer onion plants should also be removed as they can serve as a source of inoculum.
+*   **Optimum Spacing:** Ensure adequate plant spacing to improve air circulation within the canopy. This reduces humidity, which is favorable for rust development.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, as it can lead to lush, succulent growth that is more susceptible to fungal diseases. Provide balanced NPK as per soil test recommendations.
+*   **Irrigation Management:** Use furrow irrigation or drip irrigation if possible. If overhead irrigation is used, irrigate in the morning to allow foliage to dry quickly, reducing the period of leaf wetness.
+*   **Resistant Varieties:** Where available and suitable for Haryana conditions, choose onion varieties known to have some level of resistance or tolerance to rust.
+
+**2. Chemical Control:**
+
+Fungicide application should be initiated at the first appearance of rust symptoms or when environmental conditions (moderate temperatures, high humidity, and leaf wetness) are highly favorable for disease development. Rotate fungicides with different modes of action to prevent the development of resistance.
+
+*   **Early Stage/Preventive/Rotation:**
+    *   **Mancozeb 75% WP:** Apply at 2.5 g/L of water (or 1 kg/acre in 400 L water). This is a broad-spectrum protectant fungicide.
+*   **Systemic Fungicides (for curative and protective action):**
+    *   **Propiconazole 25% EC:** Apply at 0.5 ml/L of water (or 200 ml/acre in 400 L water).
+    *   **Difenoconazole 25% EC:** Apply at 0.5 ml/L of water (or 200 ml/acre in 400 L water).
+    *   **Tebuconazole 25% EC:** Apply at 0.75 ml/L of water (or 300 ml/acre in 400 L water).
+    *   **Azoxystrobin 23% SC:** Apply at 0.5 ml/L of water (or 200 ml/acre in 400 L water).
+    *   **Pyraclostrobin 5% + Metiram 55% WG:** Apply at 2.5 g/L of water (or 1 kg/acre in 400 L water). This is a combination product offering both systemic and contact action.
+
+**Application Guidelines:**
+
+*   **Timing:** Start spraying immediately upon observing the first rust pustules.
+*   **Frequency:** Repeat sprays at 10-15 day intervals, depending on disease severity and weather conditions.
+*   **Coverage:** Ensure thorough coverage of the foliage, including the undersides of leaves, for effective control.
+*   **Rotation:** Always rotate fungicides from different chemical groups (e.g., Triazoles like Propiconazole/Difenoconazole/Tebuconazole with Strobilurins like Azoxystrobin or protectants like Mancozeb) to manage resistance.
+*   **Safety:** Always follow the manufacturer's instructions regarding dosage, pre-harvest interval (PHI), and safety precautions (wearing personal protective equipment - PPE).
+
+For specific local recommendations and the latest CIBRC approvals, it is always advisable to consult with the local agricultural extension officer or scientists at HAU, Hisar.

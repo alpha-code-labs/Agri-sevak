@@ -1,0 +1,37 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice on managing viral diseases in celery.
+
+It is important to understand that viral diseases in celery, like in most crops, do not have direct chemical cures once a plant is infected. Therefore, management strategies primarily focus on preventing infection by controlling the insect vectors that transmit these viruses and implementing robust cultural practices.
+
+Let's address each condition you've mentioned:
+
+### Viral Diseases Affecting Celery:
+
+*   **Leaf curl, Mosaic, and Yellow vein clearing:**
+    These symptoms are commonly associated with various viruses affecting celery, such as Celery Mosaic Virus (CeMV), Celery Yellow Spot Virus (CYSV), and others. These viruses are primarily transmitted by sucking insect pests like aphids, whiteflies, and leafhoppers.
+
+    **Control Measures:**
+
+    1.  **Vector Management (Insecticide Application):**
+        Regular monitoring for insect vectors is crucial. If vectors are present, apply CIBRC approved insecticides. Always follow label instructions for specific dosages, safety precautions, and pre-harvest intervals.
+
+        *   For Aphids, Whiteflies, and Leafhoppers (common vectors):
+            *   **Imidacloprid** (e.g., 0.5-1 ml/L of 17.8% SL formulation or 0.1-0.2 g/L of 70% WG formulation)
+            *   **Thiamethoxam** (e.g., 0.1-0.2 g/L of 25% WG formulation)
+            *   **Acetamiprid** (e.g., 0.2-0.4 g/L of 20% SP formulation)
+            *   **Spirotetramat** (e.g., 0.75-1 ml/L of 150 OD formulation)
+            *   **Flonicamid** (e.g., 0.3-0.4 g/L of 50% WG formulation, primarily effective against aphids)
+
+    2.  **Cultural Practices:**
+        *   **Use Virus-Free Planting Material:** Always source certified virus-free seeds or transplants from reputable suppliers.
+        *   **Roguing:** Promptly remove and destroy (by burning or deep burying) any plants showing viral symptoms to prevent further spread of the virus and its vectors.
+        *   **Weed Management:** Control weeds in and around the celery field, as many weeds can act as alternative hosts for viruses and their insect vectors.
+        *   **Crop Rotation:** Practice crop rotation with non-host crops to break the disease cycle and reduce the build-up of virus inoculum and vector populations.
+        *   **Sanitation:** Clean farm tools, equipment, and hands regularly, especially after handling infected plants, to prevent mechanical transmission of viruses.
+        *   **Physical Barriers:** In small-scale cultivation, using insect-proof nets or row covers can help exclude insect vectors from the crop.
+        *   **Resistant Varieties:** Where available, plant celery varieties known to be resistant or tolerant to common celery viruses prevalent in your region.
+
+### Viral Diseases Not Known to Affect Celery:
+
+*   **Stripe:** This is not known to affect Celery.
+*   **Tristeza:** This is not known to affect Celery.
+*   **Stunt virus:** This is not known to affect Celery.

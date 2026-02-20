@@ -1,0 +1,40 @@
+Wilt, including Parawilt, is a significant challenge in onion cultivation in Haryana, often leading to substantial yield losses. These conditions can be caused by various soil-borne pathogens, primarily *Fusarium oxysporum f. sp. cepae* (causing Fusarium Basal Rot/Wilt) and sometimes *Phytophthora* species (contributing to sudden wilting or 'Parawilt' symptoms, especially under waterlogged conditions). An integrated approach combining cultural, biological, and chemical methods is crucial for effective management.
+
+**1. Cultural and Agronomic Practices:**
+
+*   **Crop Rotation:** Practice a long crop rotation (at least 3-5 years) with non-host crops like cereals, maize, or sugarcane to reduce soil inoculum.
+*   **Resistant Varieties:** Where available and suitable for Haryana's agro-climatic conditions, choose onion varieties known for tolerance or resistance to wilt.
+*   **Soil Health and Drainage:** Ensure well-drained soils. Avoid heavy, waterlogged conditions which favor *Phytophthora* and stress plants, making them susceptible. Improve soil structure by incorporating organic matter.
+*   **Sanitation:** Remove and destroy infected plant debris and bulbs immediately to prevent pathogen spread within the field.
+*   **Balanced Nutrition:** Provide balanced nutrients based on soil test reports. Avoid excessive nitrogen, which can make plants more susceptible. Ensure adequate potassium.
+*   **Water Management:** Irrigate judiciously. Avoid over-irrigation, especially during critical growth stages. Drip irrigation can help manage soil moisture effectively and reduce pathogen spread.
+*   **Deep Ploughing/Solarization:** Deep ploughing during summer can expose soil-borne pathogens to sunlight. Soil solarization (covering moist soil with clear polyethylene sheets during hot months for 4-6 weeks) can significantly reduce pathogen inoculum.
+*   **Healthy Seedlings:** Use healthy, disease-free seedlings for transplanting. Inspect seedlings thoroughly before planting.
+
+**2. Biological Control:**
+
+*   **Bio-fungicides:**
+    *   **Seed Treatment:** Treat onion seeds with *Trichoderma viride* or *Trichoderma harzianum* at 5-10 g/kg of seed.
+    *   **Seedling Root Dip:** For transplanted onions, dip seedling roots in a solution of *Trichoderma viride* or *Trichoderma harzianum* (250 g per 10 litres of water) for 30 minutes before transplanting.
+    *   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* at 2.5 kg/acre mixed with 50-100 kg of well-decomposed farmyard manure (FYM) or compost, and apply to the soil before planting or at the time of transplanting.
+
+**3. Chemical Control:**
+
+*   **Seed Treatment (Crucial for early protection):**
+    *   For *Fusarium* wilt: Treat seeds with **Carbendazim** at 1-2 g/kg of seed.
+    *   Alternatively, for *Fusarium* wilt: Treat seeds with **Thiophanate methyl** at 2 g/kg of seed.
+    *   For broad-spectrum protection against damping-off and early root rots (including *Phytophthora* if suspected): Treat seeds with a combination of **Carbendazim** at 1 g/kg + **Thiram** at 2 g/kg of seed.
+    *   For *Phytophthora* and other oomycetes: Treat seeds with **Metalaxyl-M** at 1 g/kg of seed.
+
+*   **Soil Drench/Drip Application (for standing crop, if symptoms appear):**
+    *   For *Fusarium* wilt: Drench the soil around the base of affected plants with **Carbendazim** at 1 g/L of water. Repeat if necessary, following label instructions.
+    *   Alternatively, for *Fusarium* wilt: Drench the soil around the base of affected plants with **Thiophanate methyl** at 1 g/L of water.
+    *   For *Phytophthora* related wilting (Parawilt), especially under wet conditions: Drench the soil with **Propamocarb hydrochloride** at 2-3 ml/L of water.
+    *   Alternatively, for *Phytophthora* related wilting: Drench the soil with a combination product of **Metalaxyl-M** + **Mancozeb** at 2.5 g/L of water. Ensure thorough wetting of the root zone.
+    *   For broad-spectrum control against both *Fusarium* and *Phytophthora* species: Drench the soil with **Azoxystrobin** at 0.5-1 ml/L of water.
+
+**Important Considerations:**
+
+*   Always read and strictly follow the manufacturer's instructions, dosage rates, and safety precautions on the product label.
+*   Rotate fungicides with different modes of action to prevent the development of pathogen resistance.
+*   Consult with local agricultural extension specialists at HAU for specific recommendations tailored to your farm's conditions and the prevailing disease pressure.

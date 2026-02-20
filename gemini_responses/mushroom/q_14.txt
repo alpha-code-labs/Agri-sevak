@@ -1,0 +1,6 @@
+This is not known to affect Mushroom.
+
+Mushrooms are fungi and are cultivated on specific substrates (like compost, straw, wood logs, etc.), not in soil in the traditional sense.
+
+*   **Termites** primarily feed on cellulose (wood, straw, paper) and are not known to directly infest or damage mushroom mycelium or fruiting bodies. While they might damage wooden structures *around* a mushroom farm, they are not pests of the mushroom crop itself.
+*   **Root-knot nematodes (Meloidogyne spp.)** are obligate parasites of plant roots and cause galls on them. Since mushrooms do not have roots, root-knot nematodes cannot affect them. While some nematodes can be mycophagous (fungus-feeding), root-knot nematodes specifically target plant roots.

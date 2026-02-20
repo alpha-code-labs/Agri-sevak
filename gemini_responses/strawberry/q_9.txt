@@ -1,0 +1,37 @@
+Mites, specifically Red Spider Mite (*Tetranychus urticae*) and Rust Mite (*Steneotarsonemus pallidus*, also known as Cyclamen Mite), are significant pests of strawberry in Haryana and other regions. Effective management requires an integrated approach.
+
+**Integrated Pest Management (IPM) for Mites in Strawberry:**
+
+1.  **Monitoring:** Regularly inspect the underside of leaves, especially new growth and older leaves, for mites, eggs, and webbing (Red Spider Mite). Rust mites are microscopic and cause bronzing, stunting, and distortion of leaves and flowers, often requiring a hand lens to confirm.
+2.  **Cultural Practices:**
+    *   **Weed Control:** Remove weeds around strawberry beds as they can host mites.
+    *   **Proper Irrigation:** Avoid water stress, which can make plants more susceptible to mite infestations. Overhead irrigation can sometimes help dislodge mites, but be mindful of fungal disease risks.
+    *   **Nutrient Management:** Maintain balanced nutrition; excessive nitrogen can promote lush growth that is attractive to mites.
+    *   **Sanitation:** Remove and destroy heavily infested plant parts or entire plants to reduce mite populations.
+3.  **Biological Control:** Encourage natural enemies like predatory mites (e.g., *Amblyseius* species) and lacewings. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+**Chemical Control (Acaricides):**
+
+When mite populations reach damaging levels, chemical intervention with CIBRC approved acaricides may be necessary. It is crucial to rotate acaricides with different modes of action to prevent the development of resistance. Always ensure thorough coverage, especially on the undersides of leaves.
+
+Here are some CIBRC approved technical chemical names and their recommended dosages for mite control in strawberry:
+
+*   **For Red Spider Mite and Rust Mite:**
+    *   **Abamectin 1.8% EC:** 0.5 - 0.75 ml per litre of water. (Effective against both spider mites and has some activity against rust mites).
+    *   **Spiromesifen 22.9% SC:** 0.5 - 0.75 ml per litre of water. (Effective against spider mites and has good activity against tarsonemid mites like rust mites).
+
+*   **Primarily for Red Spider Mite:**
+    *   **Fenpyroximate 5% SC:** 1.0 - 1.5 ml per litre of water.
+    *   **Propargite 57% EC:** 1.0 - 1.5 ml per litre of water.
+    *   **Fenazaquin 10% SC:** 1.0 ml per litre of water.
+    *   **Pyridaben 10% WP:** 1.0 - 1.5 g per litre of water.
+
+*   **Primarily for Rust Mite (and also has fungicidal properties):**
+    *   **Wettable Sulphur 80% WP:** 2.0 - 3.0 g per litre of water. (Apply when temperatures are moderate, avoid application during very hot weather as it can cause phytotoxicity).
+
+**Important Considerations:**
+
+*   **Rotation:** Always rotate between different classes of acaricides (different modes of action) to prevent resistance development. For example, do not use Abamectin repeatedly; alternate with Spiromesifen, Fenpyroximate, or Wettable Sulphur.
+*   **Timing:** Apply acaricides at the first sign of infestation or when monitoring indicates threshold levels. Repeat applications may be necessary based on product label recommendations and pest pressure.
+*   **Pre-Harvest Interval (PHI):** Always observe the specified Pre-Harvest Interval (PHI) mentioned on the product label to ensure the safety of the harvested fruit.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) during mixing and application. Follow all safety instructions and disposal guidelines on the product label.

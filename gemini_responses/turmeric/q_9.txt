@@ -1,0 +1,28 @@
+Mites, including Red spider mite (*Tetranychus urticae*) and various Rust mites (Eriophyid mites), are significant pests of Turmeric, especially during dry and warm periods. They feed on the sap, causing yellowing, bronzing, and stippling of leaves, which can severely impact photosynthesis and yield.
+
+Here's how to control them:
+
+**Integrated Pest Management (IPM) Strategies:**
+
+1.  **Monitoring:** Regularly inspect the undersides of leaves for mites, their eggs, and webbing (for spider mites). Early detection is crucial.
+2.  **Cultural Practices:**
+    *   Maintain good field hygiene by removing weeds, which can act as alternate hosts for mites.
+    *   Overhead irrigation or strong water sprays can physically dislodge mites from the undersides of leaves, especially for spider mites.
+    *   Ensure proper plant nutrition to enhance plant vigor and tolerance to mite damage.
+3.  **Biological Control:** Encourage natural predators like predatory mites (*Amblyseius* spp.) and ladybird beetles, which feed on pest mites. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+**Chemical Control (Acaricides):**
+When mite populations are high and causing economic damage, chemical control may be necessary. Always rotate acaricides with different modes of action to prevent resistance development. Ensure thorough coverage, especially on the undersides of leaves.
+
+The following CIBRC approved technical chemicals can be used:
+
+*   **Spiromesifen** (22.9% SC): Apply at a rate of 0.5 ml/L of water (approximately 125 ml/acre). This is effective against all life stages of spider mites and has some activity against eriophyid mites.
+*   **Propargite** (57% EC): Apply at a rate of 2-3 ml/L of water (approximately 1-1.5 L/acre). This is a specific acaricide effective against a wide range of mites.
+*   **Fenpyroximate** (5% SC): Apply at a rate of 1-1.5 ml/L of water (approximately 200-300 ml/acre). It provides quick knockdown and residual control against various mite species.
+*   **Abamectin** (1.9% EC): Apply at a rate of 0.5 ml/L of water (approximately 150-200 ml/acre). It has translaminar action, providing control of mites feeding on the undersides of leaves.
+*   **Wettable Sulphur** (80% WP): Apply at a rate of 2-3 g/L of water (approximately 2-2.5 kg/acre). This is particularly effective against rust mites and also has fungicidal properties. However, avoid application during very hot weather (above 30-32°C) as it can cause phytotoxicity.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the product label for specific dosages, application methods, and safety precautions.
+*   Ensure proper safety gear (gloves, mask, protective clothing) is used during mixing and application.
+*   Observe the pre-harvest interval (PHI) specified on the label before harvesting.

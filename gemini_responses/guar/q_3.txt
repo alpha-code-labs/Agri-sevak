@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Guar (Cluster Bean) in Haryana.
+
+Many of the rot types you've listed (Root, Stem, Foot, Collar, Crown, Neck, Seed, and Seedling rot) are often caused by a complex of soil-borne fungal pathogens such as *Rhizoctonia solani*, *Fusarium spp.*, *Sclerotium rolfsii*, and *Pythium spp.* These pathogens can cause similar symptoms depending on the plant part affected and environmental conditions.
+
+Here's an integrated approach to manage these rot types:
+
+**1. Rot Types Affecting Guar (Root, Stem, Foot, Collar, Crown, Neck, Seed, and Seedling Rot):**
+These rots are primarily caused by soil-borne fungi and manifest as decay of seeds, seedlings, roots, and the stem/collar region of mature plants.
+
+**A. Cultural Practices (Preventive Measures):**
+*   **Crop Rotation:** Practice rotation with non-host crops (e.g., cereals like wheat, barley) for at least 2-3 years to reduce pathogen inoculum in the soil.
+*   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent pathogen carry-over.
+*   **Soil Solarization:** During summer, deep plough the field and cover it with transparent polyethylene sheets for 4-6 weeks to reduce soil-borne pathogen populations.
+*   **Proper Drainage:** Ensure good field drainage to avoid waterlogging, which favors fungal growth and root damage.
+*   **Optimum Sowing:** Sow seeds at the recommended depth and spacing to ensure healthy plant growth and air circulation. Avoid very dense planting.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can make plants more susceptible to some rots.
+*   **Resistant Varieties:** Where available, choose Guar varieties known for their tolerance or resistance to common root and collar rots.
+
+**B. Biological Control:**
+*   **Seed Treatment:**
+    *   **Trichoderma viride** 1% WP: 4-5 g/kg seed.
+    *   **Pseudomonas fluorescens** 1% WP: 5-10 g/kg seed.
+    *   Mix the bio-agent with a small amount of water to make a slurry and coat the seeds evenly before sowing.
+*   **Soil Application/Drenching:**
+    *   **Trichoderma viride** 1% WP: 2.5 kg/acre mixed with 50-100 kg of Farm Yard Manure (FYM) or compost, and broadcast evenly in the field before sowing or at the time of first irrigation.
+    *   For standing crops showing symptoms, drench the soil around the base of affected plants with a solution of **Trichoderma viride** 1% WP at 5 g/L water (100-200 ml solution per plant).
+
+**C. Chemical Control:**
+*   **Seed Treatment (Essential for Seed Rot, Seedling Rot, and early stage Root/Collar Rots):**
+    *   **Carbendazim** 50% WP: 2 g/kg seed.
+    *   **Thiram** 75% WS: 2.5-3 g/kg seed.
+    *   **Captan** 50% WP: 2.5-3 g/kg seed.
+    *   **Tebuconazole** 2% DS: 2.5 g/kg seed.
+    *   **Carboxin** 37.5% + **Thiram** 37.5% DS: 2.5 g/kg seed.
+    *   Treat seeds thoroughly before sowing.
+*   **Soil Drenching (For Root Rot, Collar Rot, Stem Rot, Foot Rot, Crown Rot, Neck Rot in standing crops):**
+    *   **Carbendazim** 50% WP: 1-2 g/L water. Drench 100-200 ml of solution around the base of each affected plant.
+    *   **Propiconazole** 25% EC: 1 ml/L water. Drench around the base of affected plants.
+    *   **Hexaconazole** 5% SC: 2 ml/L water. Drench around the base of affected plants.
+    *   **Validamycin** 3% L: 2-3 ml/L water. Drench around the base of affected plants, particularly effective against *Rhizoctonia* and *Sclerotium*.
+    *   **Copper Oxychloride** 50% WP: 2-3 g/L water. Drench around the base of affected plants.
+
+**2. Black Rot:**
+This is not known to affect Guar.
+
+**3. Fruit Rot:**
+A specific disease termed 'Fruit Rot' is not a primary, distinct disease of Guar. However, under prolonged high humidity and wet conditions, pods can be susceptible to general fungal infections leading to decay. If such conditions prevail and pod rot becomes evident, a broad-spectrum fungicide spray may be considered:
+*   **Mancozeb** 75% WP: 2.5 g/L water.
+*   **Chlorothalonil** 75% WP: 2 g/L water.
+
+Always ensure proper coverage and follow label instructions for all chemical applications. Integrated management combining cultural, biological, and chemical methods provides the most effective and sustainable control.

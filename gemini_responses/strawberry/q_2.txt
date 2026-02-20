@@ -1,0 +1,34 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can confirm the following regarding rust diseases in Strawberry:
+
+*   **Black Rust, Brown Rust, and Yellow Rust:** This is not known to affect Strawberry. These rusts primarily affect cereal crops like wheat.
+*   **White Rust:** This is not known to affect Strawberry. While "white rust" (caused by *Albugo* species) affects some plants, it is not a common or significant disease of strawberry.
+*   **Red Rust:** If you are referring to the true Strawberry Rust, which is caused by the fungus *Phragmidium potentillae* (or sometimes *Phragmidium fragariae*), then control measures are necessary. This disease can cause reddish-orange pustules on the underside of leaves, leading to defoliation and reduced plant vigour.
+
+Here's how to control Strawberry Rust (*Phragmidium potentillae*):
+
+**I. Cultural and Preventive Measures (Integrated Pest Management - IPM):**
+
+1.  **Resistant Varieties:** Where available and suitable for Haryana's climate, choose strawberry varieties known for resistance to rust diseases.
+2.  **Sanitation:** Regularly remove and destroy infected leaves, plant debris, and weeds from around the strawberry plants. This reduces the inoculum source.
+3.  **Proper Spacing:** Ensure adequate spacing between plants to promote good air circulation, which helps to dry leaf surfaces and reduce humidity, making conditions less favourable for fungal growth.
+4.  **Irrigation Management:** Avoid overhead irrigation, especially late in the day. Drip irrigation is preferred. If overhead irrigation is unavoidable, do it in the morning so leaves can dry quickly.
+5.  **Nutrient Management:** Avoid excessive nitrogen fertilization, as it can promote lush, succulent growth that is more susceptible to fungal diseases. Maintain a balanced nutrient program.
+6.  **Weed Control:** Keep the strawberry beds free of weeds, as some weeds can act as alternative hosts for rust fungi or impede air circulation.
+
+**II. Chemical Control (Fungicides):**
+
+For effective control, especially during periods favourable for disease development (moderate temperatures and high humidity), chemical intervention may be necessary. Always rotate fungicides with different modes of action to prevent the development of resistance. Apply fungicides as per label instructions, ensuring proper coverage.
+
+Here are some CIBRC approved technical chemical names effective against rusts, along with their typical dosages:
+
+*   **Difenoconazole** 25% EC: Apply at a rate of **0.5 ml/L** of water.
+*   **Azoxystrobin** 23% SC: Apply at a rate of **0.5 - 1 ml/L** of water.
+*   **Propiconazole** 25% EC: Apply at a rate of **0.5 ml/L** of water.
+*   **Tebuconazole** 25.9% EC: Apply at a rate of **0.75 - 1 ml/L** of water.
+*   **Chlorothalonil** 75% WP: Apply at a rate of **2 g/L** of water. This is a contact fungicide and is best used as a protective spray before infection or in rotation with systemic fungicides.
+
+**Important Considerations:**
+
+*   Always read and follow the specific instructions on the fungicide label for dosage, application timing, pre-harvest interval (PHI), and safety precautions.
+*   Consult with your local agricultural extension officer or HAU experts for the most current recommendations and specific product availability in your area of Haryana.
+*   Implement an integrated approach combining cultural practices with judicious use of fungicides for sustainable disease management.

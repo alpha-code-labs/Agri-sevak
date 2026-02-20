@@ -1,0 +1,107 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for managing fungal diseases in Lemon (Citrus limon) in Haryana. Effective management involves a combination of cultural practices and timely application of CIBRC-approved fungicides.
+
+**General Cultural Practices for Fungal Disease Management:**
+
+1.  **Sanitation:** Regularly remove and destroy fallen leaves, twigs, and diseased fruits from the orchard floor. Prune out dead or diseased branches, ensuring clean cuts.
+2.  **Pruning:** Maintain an open canopy through judicious pruning to improve air circulation and light penetration, which reduces humidity and fungal growth.
+3.  **Nutrition:** Ensure balanced fertilization. Avoid excessive nitrogen, which can promote lush, susceptible growth.
+4.  **Irrigation:** Avoid overhead irrigation, especially during flowering and fruit development, as wet foliage promotes fungal diseases. Drip irrigation is preferred.
+5.  **Weed Control:** Keep the orchard floor free of weeds, which can harbor pathogens and increase humidity.
+6.  **Resistant Varieties:** Where possible, choose disease-tolerant lemon varieties.
+
+---
+
+Here's the specific advice for the fungal diseases you've mentioned:
+
+### 1. Alternaria Brown Spot (Caused by *Alternaria alternata* f. sp. *citri*)
+
+This disease primarily affects young leaves, twigs, and fruits, causing brown to black spots with a yellow halo, leading to defoliation, twig dieback, and fruit drop.
+
+**Control Measures:**
+
+*   **Cultural:** Prune out infected twigs and branches.
+*   **Chemical:**
+    *   Spray at new flush emergence and repeat every 10-15 days during susceptible periods.
+    *   **Mancozeb** 75% WP: 2.5 g/L of water.
+    *   **Copper Oxychloride** 50% WP: 3 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5-1 ml/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+    *   **Propiconazole** 25% EC: 0.5 ml/L of water.
+
+### 2. Anthracnose (Caused by *Colletotrichum gloeosporioides*)
+
+Anthracnose affects leaves, twigs, flowers, and fruits, especially under high humidity. Symptoms include irregular brown spots on leaves, twig dieback, blossom blight, and tear staining or rot on fruits.
+
+**Control Measures:**
+
+*   **Cultural:** Remove dead wood and mummified fruits. Improve air circulation.
+*   **Chemical:**
+    *   Apply protective sprays during periods of high humidity or rain, especially during flowering and fruit set.
+    *   **Carbendazim** 50% WP: 1 g/L of water.
+    *   **Mancozeb** 75% WP: 2.5 g/L of water.
+    *   **Copper Oxychloride** 50% WP: 3 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5-1 ml/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+
+### 3. Blast
+
+This is not known to affect Lemon as a fungal disease. Citrus Blast is a bacterial disease caused by *Pseudomonas syringae*.
+
+### 4. Blight (General Fungal Blights, e.g., Twig Blight, Phytophthora Blight)
+
+Blight is a general term for rapid browning, death, and shriveling of plant tissues. In lemons, various fungi like *Phytophthora* species (causing gummosis and twig blight) or *Diplodia* species (causing twig blight) can cause blight symptoms.
+
+**Control Measures:**
+
+*   **Cultural:** Prune out all blighted twigs and branches well into healthy wood. Ensure good drainage to prevent waterlogging, especially for *Phytophthora* related issues.
+*   **Chemical:**
+    *   Apply protective sprays, especially after pruning or during wet periods.
+    *   **Copper Oxychloride** 50% WP: 3 g/L of water (effective against *Phytophthora* and general protective).
+    *   **Mancozeb** 75% WP: 2.5 g/L of water.
+    *   **Carbendazim** 50% WP: 1 g/L of water (for *Diplodia* and similar twig blights).
+
+### 5. Brown Spot
+
+This is often synonymous with Alternaria Brown Spot in citrus. Please refer to the control measures for **Alternaria Brown Spot** above.
+
+### 6. Downy Mildew
+
+This is not known to affect Lemon.
+
+### 7. Powdery Mildew (Caused by *Oidium citri* or similar species)
+
+While less common and severe than other fungal diseases in mature lemon orchards, powdery mildew can occur, especially on young leaves and shoots, appearing as white, powdery patches.
+
+**Control Measures:**
+
+*   **Cultural:** Ensure good air circulation.
+*   **Chemical:**
+    *   Apply at the first sign of disease and repeat as necessary.
+    *   **Wettable Sulphur** 80% WP: 2-3 g/L of water.
+    *   **Hexaconazole** 5% SC: 1 ml/L of water.
+    *   **Myclobutanil** 10% WP: 0.4-0.5 g/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+
+### 8. Grey Mildew (Likely referring to Grey Mold, caused by *Botrytis cinerea*)
+
+Grey mold can affect citrus, particularly flowers and fruits, especially under cool, wet, and humid conditions, causing blossom blight or fruit rot with a characteristic grey fuzzy growth.
+
+**Control Measures:**
+
+*   **Cultural:** Improve air circulation, avoid overhead irrigation, and remove plant debris.
+*   **Chemical:**
+    *   Apply during flowering or fruit development if conditions are conducive.
+    *   **Carbendazim** 50% WP: 1 g/L of water.
+    *   **Thiophanate Methyl** 70% WP: 1 g/L of water.
+    *   **Azoxystrobin** 23% SC: 0.5-1 ml/L of water.
+
+---
+
+**Important Considerations:**
+
+*   **Rotation of Fungicides:** To prevent the development of fungicide resistance, it is crucial to rotate fungicides with different modes of action. Do not use the same chemical repeatedly.
+*   **Adherence to Label Instructions:** Always read and strictly follow the instructions on the fungicide label regarding dosage, application method, pre-harvest interval (PHI), and safety precautions.
+*   **Safety:** Wear appropriate personal protective equipment (PPE) during mixing and spraying.
+*   **Timing:** Timely application is key. Prophylactic sprays (before disease onset) are often more effective than curative sprays.
+
+For any further specific concerns or to confirm disease diagnosis, please consult with the plant pathology experts at HAU, Hisar.

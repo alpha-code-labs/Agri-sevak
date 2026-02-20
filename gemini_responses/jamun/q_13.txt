@@ -1,0 +1,34 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling fruit flies in Jamun and address your query regarding Ber fly:
+
+**Ber fly (*Carpomyia vesuviana*)**
+This is not known to affect Jamun. Ber fly is primarily a pest of Ber (*Ziziphus mauritiana*).
+
+**Fruit fly (*Bactrocera* species, e.g., *B. dorsalis*, *B. zonata*) in Jamun**
+Fruit flies are a major pest of Jamun, causing significant damage by laying eggs in developing fruits, leading to maggot infestation and fruit rot. An integrated approach is recommended for effective control:
+
+**1. Cultural Control:**
+*   **Orchard Sanitation:** Regularly collect and destroy all fallen and infested fruits by burying them deep in the soil (at least 60 cm deep) or by burning. This breaks the life cycle of the pest.
+*   **Deep Ploughing:** After harvest, deep ploughing of the orchard soil helps expose and destroy pupae present in the soil.
+
+**2. Mechanical Control:**
+*   **Pheromone Traps:** Install methyl eugenol-based pheromone traps at a density of 10-12 traps per acre, starting from fruit development stage. These traps attract and kill male fruit flies, reducing the population. Replace the lure every 2-3 weeks.
+*   **Bagging:** For small orchards or individual trees, bagging developing fruits with paper or cloth bags can provide physical protection against fruit fly oviposition.
+
+**3. Chemical Control (Use only CIBRC approved technical chemicals):**
+Chemical control should be initiated at the fruit ripening stage, preferably using bait sprays to minimize pesticide residue on the fruits.
+
+*   **Bait Sprays:**
+    *   Prepare a bait solution by mixing 100 ml of **Malathion 50% EC** with 1 kg of jaggery (gur) or protein hydrolysate in 10 litres of water.
+    *   Alternatively, use 50 ml of **Deltamethrin 2.8% EC** with 1 kg of jaggery or protein hydrolysate in 10 litres of water.
+    *   Apply this bait solution as spot sprays on the foliage (not directly on the fruits) of 10-15 trees per acre, preferably in the morning. Repeat every 7-10 days, especially during peak fruit ripening.
+
+*   **Foliar Sprays (if infestation is severe and bait sprays are insufficient):**
+    *   Spray with **Malathion 50% EC** at 2 ml per litre of water.
+    *   Alternatively, use **Spinosad 45% SC** at 0.25 ml per litre of water. Spinosad is highly effective and has a favourable environmental profile.
+    *   Ensure thorough coverage of the fruit-bearing canopy. Always observe the pre-harvest interval (PHI) specified for the chosen chemical to ensure fruit safety.
+
+**Important Considerations:**
+*   **Timing:** Start control measures as soon as fruit development begins and continue until harvest.
+*   **Pre-Harvest Interval (PHI):** Always check and strictly adhere to the pre-harvest interval (the time between the last pesticide application and harvest) for any chemical used to ensure the safety of the harvested fruit.
+*   **Rotation of Chemicals:** To prevent the development of pesticide resistance, it is advisable to rotate insecticides with different modes of action.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) during mixing and application of pesticides. Follow all label instructions carefully.

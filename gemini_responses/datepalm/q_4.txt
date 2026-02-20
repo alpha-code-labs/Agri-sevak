@@ -1,0 +1,43 @@
+Wilt, including Fusarium Wilt (caused by *Fusarium oxysporum f. sp. canariensis*) and conditions often referred to as Parawilt, are serious concerns for Date Palm cultivation. Fusarium Wilt is a specific vascular disease, while Parawilt can be a more general term for sudden decline, sometimes linked to environmental stress, root issues, or other pathogens. Effective control requires an integrated approach.
+
+Here's how to control Wilt and Parawilt in Date Palm:
+
+**I. Cultural and Preventive Measures (Essential for long-term management):**
+
+1.  **Disease-Free Planting Material:** Always use healthy, certified, tissue-cultured plantlets from reputable sources.
+2.  **Sanitation:**
+    *   Remove and destroy (preferably by burning) all infected and dead palm trees immediately to prevent the spread of inoculum.
+    *   Disinfect all tools (pruning shears, shovels, etc.) with a 10% bleach solution or methylated spirit before moving from one tree to another, especially after working on infected palms.
+3.  **Soil Management:**
+    *   Avoid planting Date Palms in areas with a history of wilt diseases.
+    *   Improve soil drainage to prevent waterlogging, which can stress roots and make palms more susceptible to root rot and wilt pathogens.
+    *   Maintain proper soil pH (slightly acidic to neutral, 6.5-7.5) and fertility to promote strong, healthy growth.
+4.  **Irrigation:** Practice judicious irrigation. Over-irrigation can lead to root rot, while severe water stress can predispose palms to decline.
+5.  **Nutrient Management:** Ensure balanced nutrition. Deficiencies or excesses of certain nutrients can weaken the palm.
+6.  **Avoid Root Damage:** Be careful during inter-cultivation to avoid damaging the root system, as wounds can provide entry points for pathogens.
+7.  **Resistant Varieties:** If available and suitable for Haryana conditions, consider planting varieties known to have some level of resistance to Fusarium Wilt.
+
+**II. Biological Control:**
+
+*   **Trichoderma viride** or **Trichoderma harzianum**: These bio-fungicides are effective antagonists against soil-borne fungal pathogens like *Fusarium*.
+    *   **Application:** Mix 5-10 kg of **Trichoderma viride** (or **Trichoderma harzianum**) formulation with 100 kg of well-decomposed Farm Yard Manure (FYM) or compost. Keep the mixture moist for 7-10 days in a shaded place, then apply 1-2 kg of this enriched mixture per palm around the root zone. Alternatively, drench the root zone with a suspension of 5-10 g/L of **Trichoderma viride** (or **Trichoderma harzianum**) in water. Repeat every 3-6 months.
+
+**III. Chemical Control (For existing infections and as a preventive measure in high-risk areas):**
+
+For soil-borne wilt pathogens, drenching the root zone is the most effective method.
+
+1.  **Carbendazim:**
+    *   **Application:** Drench the soil around the base of the affected palm with a solution of **Carbendazim 50% WP** at 1-2 g/L of water. Apply 5-10 litres of this solution per palm, depending on its size. Repeat every 2-3 months, especially during susceptible periods.
+2.  **Thiophanate Methyl:**
+    *   **Application:** Similar to Carbendazim, drench the soil around the palm with a solution of **Thiophanate Methyl 70% WP** at 1-2 g/L of water. Use 5-10 litres per palm. Repeat as needed.
+3.  **Copper Oxychloride:**
+    *   **Application:** For general root protection and to manage collar rot symptoms often associated with decline, drench the soil around the base of the palm with **Copper Oxychloride 50% WP** at 2-3 g/L of water. Apply 5-10 litres per palm.
+4.  **Propiconazole:**
+    *   **Application:** As a systemic fungicide that can be absorbed by roots, **Propiconazole 25% EC** can be used as a soil drench at 1 ml/L of water. Apply 5-10 litres per palm.
+
+**Important Considerations:**
+
+*   For Parawilt, if the cause is not primarily fungal (e.g., severe environmental stress, nutrient deficiency, or root damage), chemical fungicides may have limited efficacy. Focus on improving overall palm health and addressing the underlying stress factors.
+*   Always read and follow the instructions on the product label for specific dosage, application methods, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with HAU experts for specific diagnosis and tailored recommendations for your farm.

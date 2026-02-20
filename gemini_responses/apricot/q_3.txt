@@ -1,0 +1,88 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an integrated approach combining cultural practices and judicious use of CIBRC-approved chemicals for effective management of rot diseases in Apricot.
+
+Here's how to control various rot types:
+
+### 1. Root, Collar, Crown, Foot, and Stem Rots
+
+These rots often affect the plant at or below the soil line, leading to wilting, yellowing, and eventual death of the tree. Common pathogens include *Phytophthora* species, *Armillaria mellea*, *Rhizoctonia* species, and *Fusarium* species.
+
+**Cultural Practices:**
+*   **Site Selection:** Plant Apricot in well-drained soils. Avoid low-lying areas prone to waterlogging.
+*   **Irrigation Management:** Apply irrigation judiciously. Avoid overwatering, especially around the trunk base. Drip irrigation is preferred to keep the collar region dry.
+*   **Planting Depth:** Ensure trees are planted at the correct depth, avoiding deep planting which can predispose them to collar rot. The graft union should be well above the soil line.
+*   **Soil Health:** Improve soil structure and drainage by incorporating organic matter.
+*   **Wound Prevention:** Avoid mechanical injuries to the trunk and roots during cultivation.
+*   **Sanitation:** Remove and destroy severely infected trees and roots to reduce inoculum in the soil.
+*   **Resistant Rootstocks:** Where available and suitable for Haryana conditions, use rootstocks known for resistance to *Phytophthora* or *Armillaria*.
+
+**Chemical Control:**
+*   **For *Phytophthora* Rots (Collar, Crown, Root Rot):**
+    *   **Soil Drench/Foliar Spray:**
+        *   **Fosetyl-aluminium** 80% WP at 2.5-3.0 kg/acre (or 5 g/L water) as a soil drench around the base of the tree or foliar spray.
+        *   **Propamocarb hydrochloride** 72.2% SL at 2.5-3.0 ml/L water as a soil drench.
+        *   **Metalaxyl-M** 3.3% + **Chlorothalonil** 33.1% SC at 2.5 ml/L water as a soil drench or foliar spray.
+        *   **Metalaxyl-M** 4% + **Mancozeb** 64% WP at 2.5 g/L water as a soil drench or foliar spray.
+*   **For General Fungal Rots (including *Rhizoctonia*, *Fusarium*):**
+    *   **Soil Drench:**
+        *   **Thiophanate-methyl** 70% WP at 1.0-1.5 g/L water as a soil drench around the base of the tree.
+*   **Trunk Paste/Paint (for Collar/Stem Rot lesions):**
+    *   Prepare a paste of **Copper oxychloride** 50% WP (e.g., 50 g in 100 ml water) and apply directly to scraped lesions on the trunk.
+
+### 2. Fruit Rots (including Brown Rot, Soft Rot, etc.)
+
+Apricot fruits are susceptible to various rots, especially Brown Rot (*Monilinia* species), Grey Mold (*Botrytis cinerea*), and other post-harvest rots caused by *Alternaria* and *Colletotrichum* species.
+
+**Cultural Practices:**
+*   **Orchard Sanitation:** Remove and destroy all mummified fruits from trees and the orchard floor, as they serve as a primary source of inoculum.
+*   **Pruning:** Prune trees to ensure good air circulation within the canopy, which helps reduce humidity and fungal growth.
+*   **Weed Control:** Keep the orchard floor free of weeds to improve air circulation and reduce humidity.
+*   **Harvesting:** Harvest fruits carefully to avoid injury, as wounds provide entry points for pathogens.
+*   **Rapid Cooling:** After harvest, rapidly cool fruits to slow down the development of post-harvest rots.
+
+**Chemical Control (Pre-harvest and Post-harvest):**
+*   **For Brown Rot (*Monilinia* spp.):**
+    *   **Pre-bloom/Bloom/Petal Fall Sprays:**
+        *   **Thiophanate-methyl** 70% WP at 0.5-0.7 g/L water.
+        *   **Carbendazim** 50% WP at 0.5-1.0 g/L water.
+        *   **Propiconazole** 25% EC at 0.5 ml/L water.
+        *   **Difenoconazole** 25% EC at 0.5 ml/L water.
+        *   **Azoxystrobin** 23% SC at 0.5 ml/L water.
+    *   **Pre-harvest Sprays (7-14 days before harvest):**
+        *   **Captan** 50% WP at 2.0 g/L water.
+        *   **Mancozeb** 75% WP at 2.0 g/L water.
+        *   **Azoxystrobin** 23% SC at 0.5 ml/L water.
+*   **For Grey Mold (*Botrytis cinerea*) and other general fruit rots:**
+    *   **Pre-harvest Sprays:**
+        *   **Pyraclostrobin** 13.3% + **Boscalid** 26.7% WG at 1.0-1.5 g/L water.
+        *   **Captan** 50% WP at 2.0 g/L water.
+
+### 3. Seed and Seedling Rots
+
+These rots are critical during the propagation stage in nurseries, affecting seed germination and seedling survival. Common pathogens include *Pythium* species, *Phytophthora* species, *Rhizoctonia* species, and *Fusarium* species.
+
+**Cultural Practices:**
+*   **Sterilized Media:** Use sterilized potting mix or nursery soil to prevent pathogen introduction.
+*   **Good Drainage:** Ensure nursery beds and pots have excellent drainage.
+*   **Proper Watering:** Avoid overwatering seeds and seedlings. Water early in the day to allow surfaces to dry.
+*   **Seed Quality:** Use healthy, viable seeds from reputable sources.
+*   **Spacing:** Provide adequate spacing between seedlings to improve air circulation.
+
+**Chemical Control:**
+*   **Seed Treatment:**
+    *   **Thiram** 75% WS at 2.5-3.0 g/kg seed.
+    *   **Carbendazim** 50% WP at 1.0-2.0 g/kg seed.
+    *   **Metalaxyl-M** 31.8% ES at 3.0-4.0 ml/kg seed (specifically for oomycetes like *Pythium* and *Phytophthora*).
+*   **Nursery Drench (for damping-off):**
+    *   **Propamocarb hydrochloride** 72.2% SL at 2.5-3.0 ml/L water as a drench after sowing or at the first sign of disease.
+    *   **Metalaxyl-M** 3.3% + **Chlorothalonil** 33.1% SC at 2.5 ml/L water as a drench.
+
+### 4. Specific Rot Types Not Known to Affect Apricot as Distinct Primary Diseases
+
+*   **Black Rot:** This is not known to affect Apricot as a distinct primary disease. While some rots may cause blackening of fruit, "Black Rot" as a specific disease name is primarily associated with other crops like grapes or apples.
+*   **Neck Rot:** This is not known to affect Apricot as a distinct primary disease. The term "neck rot" is typically used for bulb crops. Issues at the base of the trunk in Apricot are covered under collar or stem rots.
+
+**Important Considerations:**
+*   Always read and follow the label instructions for any chemical product.
+*   Observe pre-harvest intervals (PHI) for all fungicides applied to fruits.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your farm's conditions and current disease pressure.

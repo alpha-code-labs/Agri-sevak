@@ -1,0 +1,47 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling pests in FingerMillet (Ragi) in Haryana:
+
+First, let's address each pest specifically:
+
+**1. Diamondback Moth (*Plutella xylostella*)**
+This is not known to affect FingerMillet (Ragi). Diamondback moth is a specific pest of cruciferous crops (e.g., cabbage, cauliflower, mustard).
+
+**2. Borers (e.g., Stem Borer, Shoot Borer, Earhead Borer), Caterpillars (e.g., Armyworm, Fall Armyworm, Cutworms), and Leaf Folder**
+These pests are primarily lepidopteran (moth larvae) and often share similar control strategies. Key pests in FingerMillet include:
+*   **Borers:** Finger Millet Shoot Borer (*Sesamia inferens*), Stem Borer (*Chilo partellus*), Earhead Borer (*Helicoverpa armigera*, *Mythimna separata*).
+*   **Caterpillars:** Armyworm (*Mythimna separata*), Fall Armyworm (*Spodoptera frugiperda*), Cutworms (*Agrotis ipsilon*).
+*   **Leaf Folder:** Finger Millet Leaf Folder (*Marasmia trapezalis*).
+
+For effective control of these lepidopteran pests, an Integrated Pest Management (IPM) approach is recommended, combining cultural, biological, and chemical methods.
+
+**Integrated Pest Management (IPM) Strategies:**
+
+*   **Cultural Practices:**
+    *   Timely sowing to avoid peak pest incidence.
+    *   Field sanitation: Remove and destroy crop residues and weeds that can harbor pests.
+    *   Deep ploughing after harvest to expose pupae and larvae to predators and sunlight.
+*   **Biological Control:**
+    *   Conserve natural enemies like parasitic wasps (*Trichogramma* spp.) and predatory insects.
+    *   Application of bio-pesticides like **Bacillus thuringiensis (Bt)** formulations as per label instructions (e.g., 1 kg/acre).
+*   **Mechanical Control:**
+    *   Hand-picking and destroying visible larvae in small areas.
+    *   Installation of pheromone traps for monitoring and mass trapping of adult moths (e.g., for stem borers, armyworms) at 4-5 traps per acre.
+*   **Chemical Control (as a last resort, when pest incidence crosses Economic Threshold Level):**
+    When chemical intervention is necessary, use CIBRC approved insecticides. Ensure thorough coverage and follow safety guidelines.
+
+**Recommended CIBRC Approved Insecticides for Borers, Caterpillars, and Leaf Folder in FingerMillet:**
+
+*   **For early stage borers (stem/shoot borer) and cutworms (soil application):**
+    *   **Fipronil 0.3% GR:** 6.6 - 10 kg/acre (Apply in whorl or broadcast and lightly incorporate into soil).
+*   **For foliar feeding caterpillars (including armyworm, fall armyworm, leaf folder) and later stage borers:**
+    *   **Chlorantraniliprole 18.5% SC:** 60 ml/acre
+    *   **Emamectin Benzoate 5% SG:** 88 g/acre
+    *   **Lambda-cyhalothrin 5% EC:** 100 - 120 ml/acre
+    *   **Cartap Hydrochloride 50% SP:** 400 g/acre
+    *   **Indoxacarb 14.5% SC:** 200 ml/acre
+    *   **Quinalphos 25% EC:** 1.2 - 1.6 L/acre
+
+**Important Considerations:**
+*   Always read and follow the instructions on the insecticide label carefully, including dosage, timing, and pre-harvest interval.
+*   Use appropriate spray volume (e.g., 200-400 litres of water per acre for foliar sprays) to ensure good coverage.
+*   Rotate insecticides with different modes of action to prevent the development of pesticide resistance.
+*   Consult with your local agricultural extension officer for specific recommendations based on current pest pressure and local conditions in Haryana.

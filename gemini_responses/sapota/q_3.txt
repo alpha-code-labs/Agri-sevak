@@ -1,0 +1,89 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU), Hisar, I can provide you with scientifically verified advice for managing various rot types in Sapota (Manilkara zapota) in Haryana. Rot diseases, affecting different parts of the plant, are a significant concern and can be caused by a range of fungal and oomycete pathogens. An integrated disease management (IDM) approach is crucial for effective control.
+
+Here's how to control various rot types in Sapota:
+
+### Integrated Disease Management (IDM) for Rot Diseases
+
+**A. Cultural and Horticultural Practices (Preventive Measures):**
+
+1.  **Site Selection and Soil Management:**
+    *   **Well-drained Soil:** Plant Sapota in well-drained soils to prevent waterlogging, which is a primary predisposing factor for root, collar, and foot rots. Avoid heavy clay soils or areas prone to water stagnation.
+    *   **Raised Beds:** In areas with poor drainage, planting on raised beds can significantly reduce the incidence of root and collar rot.
+    *   **Soil Health:** Maintain good soil organic matter content and aeration.
+
+2.  **Irrigation Management:**
+    *   **Avoid Over-irrigation:** Irrigate judiciously, especially during the rainy season. Over-irrigation creates anaerobic conditions favorable for many rot pathogens.
+    *   **Drip Irrigation:** Use drip irrigation to deliver water directly to the root zone, minimizing wetting of the collar region and reducing overall soil moisture saturation.
+
+3.  **Planting Material:**
+    *   **Healthy Seedlings:** Always use healthy, disease-free seedlings from a reputable nursery. Inspect seedlings for any signs of rot or lesions before planting.
+    *   **Seed Treatment (for nursery/direct sowing):** Treat seeds before sowing to prevent seed and seedling rot (damping-off).
+
+4.  **Sanitation and Hygiene:**
+    *   **Remove Infected Parts:** Regularly inspect trees and promptly remove and destroy any infected plant parts (leaves, branches, fruits, or entire plants showing severe rot symptoms). Do not compost infected material near the orchard.
+    *   **Orchard Cleanliness:** Keep the orchard floor free of weeds and plant debris, which can harbor pathogens.
+
+5.  **Pruning and Canopy Management:**
+    *   **Proper Pruning:** Prune trees to ensure good air circulation within the canopy, which helps reduce humidity and the incidence of fruit and stem rots.
+    *   **Wound Protection:** Protect pruning wounds with a Bordeaux paste or a fungicidal paste to prevent pathogen entry.
+
+6.  **Nutrition:**
+    *   **Balanced Fertilization:** Provide balanced nutrition to enhance plant vigor and resistance. Avoid excessive nitrogen, which can lead to lush, soft growth more susceptible to disease.
+
+7.  **Avoid Injury:**
+    *   **Mechanical Injury:** Be careful during intercultural operations to avoid injuring the roots, collar, or stem, as these wounds serve as entry points for pathogens.
+
+**B. Biological Control:**
+
+1.  **Soil Application:**
+    *   **Trichoderma viride:** Apply *Trichoderma viride* (2.5 kg/acre) mixed with 50-100 kg of farmyard manure (FYM) or compost, especially around the root zone of trees, to suppress soil-borne pathogens causing root, collar, and foot rots.
+    *   **Pseudomonas fluorescens:** Apply *Pseudomonas fluorescens* (2.5 kg/acre) similarly for its antagonistic effects against various fungal pathogens.
+
+2.  **Seed Treatment (for nursery/direct sowing):**
+    *   **Trichoderma viride:** Treat seeds with *Trichoderma viride* (4-5 g/kg seed) before sowing.
+
+**C. Chemical Control:**
+
+Chemical control should be used judiciously and as part of an IDM strategy. Always follow label instructions for dosage and safety.
+
+**1. For Seed Rot and Seedling Rot (Damping-off) in Nursery:**
+
+*   **Seed Treatment:**
+    *   **Carbendazim** (1-2 g/kg seed)
+    *   **Thiram** (2-3 g/kg seed)
+*   **Nursery Soil Drench:**
+    *   **Propamocarb hydrochloride** (2-3 ml/L water)
+    *   **Metalaxyl-M + Mancozeb** (2-2.5 g/L water)
+
+**2. For Root Rot, Collar Rot, Stem Rot, Foot Rot, Crown Rot, and Neck Rot (Established Trees):**
+
+These rots are often caused by soil-borne pathogens like *Phytophthora*, *Pythium*, *Fusarium*, and *Rhizoctonia*.
+
+*   **Soil Drenching (around the base of the tree):**
+    *   **Metalaxyl-M + Mancozeb** (2-2.5 g/L water). Apply 5-10 litres of solution per tree, depending on tree size and severity, ensuring it penetrates the root zone. Repeat if necessary, especially after heavy rains.
+    *   **Fosetyl-Al** (2.5-3 g/L water). Apply as a drench similar to Metalaxyl-M + Mancozeb.
+    *   **Copper Oxychloride** (3-4 g/L water). Apply as a drench.
+    *   **Carbendazim** (1-2 g/L water). Effective against *Fusarium* and *Rhizoctonia* related rots.
+
+*   **Trunk Paint/Paste (for collar/stem lesions):**
+    *   Prepare a thick paste of **Copper Oxychloride** (e.g., 100 g in 100 ml water) and apply it directly to the affected collar or stem lesions after scraping off the diseased tissue.
+    *   Alternatively, use a paste of **Carbendazim** (e.g., 20-30 g in 100 ml water).
+
+**3. For Black Rot and Fruit Rot:**
+
+These can be caused by various fungi like *Colletotrichum*, *Alternaria*, *Diplodia*, *Phytophthora*, etc.
+
+*   **Foliar Sprays (preventive and curative):**
+    *   **Mancozeb** (2-2.5 g/L water). Spray pre-bloom and at fruit set, and repeat at 10-15 day intervals, especially during humid weather.
+    *   **Chlorothalonil** (2 g/L water).
+    *   **Azoxystrobin** (0.5-1 ml/L water). Broad-spectrum fungicide, effective against many fruit rot pathogens.
+    *   **Propiconazole** (0.5 ml/L water).
+
+**Important Considerations:**
+
+*   **Rotation of Fungicides:** To prevent the development of fungicide resistance, rotate fungicides with different modes of action.
+*   **Timing:** Timely application of fungicides is critical for effective control.
+*   **Water Quality:** Use clean water for preparing spray solutions.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) while handling and applying chemicals.
+
+By implementing these integrated strategies, you can effectively manage and control various rot diseases in your Sapota orchard. For specific local outbreaks or unusual symptoms, it is always advisable to consult with the plant pathology department at HAU, Hisar, for precise diagnosis and tailored recommendations.

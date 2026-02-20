@@ -1,0 +1,59 @@
+Wilt in Mint can be caused by a fungal pathogen (Verticillium Wilt) or by physiological stress (often referred to as Parawilt). Effective management requires identifying the specific cause.
+
+---
+
+### 1. Verticillium Wilt (Caused by *Verticillium dahliae* or *Verticillium albo-atrum*)
+
+This is a serious soil-borne fungal disease that can significantly reduce mint yield and quality.
+
+*   **Symptoms:** Stunting, yellowing of lower leaves, wilting of shoots (often on one side of the plant), and eventual death. A key diagnostic feature is dark brown discoloration in the vascular tissue when the stem is cut open.
+
+*   **Control Measures:**
+
+    *   **Cultural Practices (Most Critical):**
+        *   **Resistant Varieties:** Where available, plant mint varieties known to have resistance or tolerance to Verticillium wilt.
+        *   **Crop Rotation:** Avoid planting mint or other susceptible crops (e.g., potato, tomato, brinjal, cotton, chilli) in affected fields for at least 3-5 years. Rotate with non-host crops like cereals (wheat, rice, maize) or legumes (chickpea, lentil).
+        *   **Soil Solarization:** During the hot summer months, after harvesting a crop, prepare the land, irrigate it to field capacity, and cover it with transparent polyethylene sheets (100-micron thick) for 4-6 weeks. This raises soil temperature sufficiently to kill fungal inoculum.
+        *   **Sanitation:** Promptly remove and destroy all infected plant debris to reduce the inoculum load in the soil. Clean farm tools and equipment thoroughly after working in infested areas to prevent disease spread.
+        *   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can make plants more susceptible. Ensure adequate potassium and other micronutrients based on soil test recommendations.
+        *   **Water Management:** Ensure proper drainage and avoid waterlogging, as stressed plants are more vulnerable.
+        *   **Deep Ploughing:** Summer deep ploughing can expose fungal resting structures (microsclerotia) to sunlight, reducing their viability.
+
+    *   **Biological Control:**
+        *   Application of beneficial fungi can help suppress the pathogen.
+            *   **Trichoderma viride** / **Trichoderma harzianum**: Apply 2.5 kg/acre mixed with 50 kg of well-decomposed farmyard manure (FYM) or compost, and broadcast evenly before planting or as a soil drench at 5-10 g/L water around existing plants.
+
+    *   **Chemical Control (Limited Efficacy for Established Disease):**
+        *   **Pre-plant Soil Treatment:** In severely infested fields, soil fumigation can be considered before planting, but it requires specialized application and safety precautions.
+            *   **Metam sodium**: As a soil fumigant, apply according to manufacturer's instructions for pre-plant soil sterilization. This is generally for high-value crops or nurseries and not for existing plantations.
+        *   **Soil Drenching:** For existing plants, drenching with certain fungicides might offer some temporary relief, but rarely cures the disease completely.
+            *   **Carbendazim** 50% WP: Drench the soil around affected plants at a concentration of 1-2 g/L water. Repeat if necessary, following label instructions.
+
+---
+
+### 2. Parawilt (Physiological Wilt)
+
+This is a non-pathogenic condition, meaning it is not caused by a disease-causing organism, but rather by environmental or physiological stress factors.
+
+*   **Symptoms:** Sudden wilting of plants, often without clear vascular discoloration. Plants may show some recovery during cooler parts of the day (e.g., morning or evening).
+
+*   **Causes:**
+    *   **Waterlogging:** Excess water in the root zone suffocates roots, leading to root damage and impaired water absorption.
+    *   **High Soil Temperature:** Can directly damage roots and increase the plant's water demand beyond its absorption capacity.
+    *   **Root Damage:** Physical damage to roots from cultivation practices, transplant shock, or pest activity (e.g., nematodes).
+    *   **Nutrient Imbalance:** Deficiencies or excesses of certain nutrients can stress plants.
+    *   **Sudden Environmental Changes:** Abrupt shifts in temperature, humidity, or light intensity.
+
+*   **Control Measures:**
+
+    *   **Improved Drainage:** Ensure good soil drainage to prevent waterlogging. Avoid over-irrigation, especially in heavy soils.
+    *   **Proper Irrigation:** Irrigate adequately but not excessively. Check soil moisture levels before irrigating. Provide irrigation during cooler parts of the day.
+    *   **Mulching:** Apply organic mulch (e.g., straw, dry leaves, crop residues) around plants. This helps regulate soil temperature, conserves soil moisture, and reduces weed competition.
+    *   **Avoid Root Damage:** Exercise caution during weeding and inter-cultivation to minimize damage to the delicate root system of mint.
+    *   **Nematode Management:** If plant-parasitic nematodes are suspected to be causing root damage, implement appropriate control measures such as crop rotation with non-host crops or, if severe, consider CIBRC-approved nematicides.
+    *   **Balanced Fertilization:** Provide balanced nutrients based on soil test recommendations. Avoid sudden changes in fertilizer application.
+    *   **Stress Alleviation:** During periods of extreme heat, light overhead irrigation (misting) during midday can help reduce plant stress.
+
+---
+
+For specific recommendations tailored to your field conditions, it is always advisable to consult with the local agricultural extension office or HAU experts.

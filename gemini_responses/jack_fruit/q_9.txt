@@ -1,0 +1,35 @@
+Mites, including Red Spider Mite (*Tetranychus* spp.) and Rust Mite (*Eriophyes* spp.), are known to affect Jack Fruit (*Artocarpus heterophyllus*), particularly during dry and warm periods in Haryana. They can cause significant damage if not controlled effectively.
+
+Here's a comprehensive approach to control mites in Jack Fruit:
+
+**1. Identification of Mite Infestation:**
+
+*   **Red Spider Mite:** Look for fine white or yellowish stippling on the upper surface of leaves. On the underside, you might see tiny reddish or yellowish mites, their eggs, and fine silken webbing in severe infestations. Leaves may turn bronze, yellow, or reddish and eventually drop.
+*   **Rust Mite:** These mites are microscopic and not visible to the naked eye. Their presence is indicated by a characteristic russeting, bronzing, or browning of the fruit surface and leaves. Affected fruits may develop a rough, scabby texture, and leaves might appear leathery or distorted.
+
+**2. Integrated Pest Management (IPM) Strategies:**
+
+*   **Monitoring:** Regularly inspect your Jack Fruit trees, especially the undersides of leaves and developing fruits, for early signs of mite infestation. Early detection is key to effective control.
+*   **Cultural Practices:**
+    *   **Water Management:** Ensure adequate irrigation, especially during dry spells, as water stress can make trees more susceptible to mite attacks. Overhead irrigation can sometimes help wash off mites.
+    *   **Pruning:** Remove and destroy severely infested leaves, branches, or fruits to reduce mite populations. Ensure good air circulation within the canopy.
+    *   **Weed Control:** Keep the area around the trees free of weeds, as some weeds can act as alternate hosts for mites.
+*   **Biological Control:** Encourage natural enemies of mites, such as predatory mites (e.g., *Amblyseius* spp.), ladybird beetles, lacewings, and minute pirate bugs. Avoid broad-spectrum insecticides that can harm these beneficial insects.
+
+**3. Chemical Control (Acaricides):**
+
+When mite populations are high and causing economic damage, chemical control using CIBRC-approved acaricides is necessary. Always rotate acaricides with different modes of action to prevent the development of resistance. Ensure thorough spray coverage, especially on the underside of leaves and fruit surfaces.
+
+*   **For Red Spider Mite and Rust Mite:**
+    *   **Spiromesifen 22.9% SC:** Apply at a concentration of **0.5 ml per litre of water**.
+    *   **Propargite 57% EC:** Apply at a concentration of **1.25 ml per litre of water**.
+    *   **Abamectin 1.9% EC:** Apply at a concentration of **0.4 ml per litre of water**.
+    *   **Wettable Sulphur 80% WP:** Apply at a concentration of **2.5 grams per litre of water**. This is particularly effective against rust mites and also helps control powdery mildew. Avoid spraying sulphur when temperatures are very high (above 30-32°C) as it can cause phytotoxicity.
+
+**Important Considerations:**
+
+*   **Spray Timing:** Apply acaricides when mites are actively feeding and before populations become too high. Repeat application may be necessary based on the severity of infestation and the residual action of the chosen chemical.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) such as gloves, masks, and protective clothing while handling and spraying chemicals.
+*   **Pre-Harvest Interval (PHI):** Strictly observe the pre-harvest interval mentioned on the product label to ensure the safety of the fruit for consumption.
+*   **Resistance Management:** Rotate between different classes of acaricides (those with different modes of action) to prevent mites from developing resistance to a particular chemical.
+*   **Consultation:** For specific recommendations tailored to your farm's conditions and the current pest pressure, it is always advisable to consult with the local agricultural extension officer or experts at Haryana Agricultural University (HAU).

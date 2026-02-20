@@ -1,0 +1,9 @@
+This is not known to affect Tomato. True rust diseases (caused by fungi like *Puccinia* or *Uromyces* species) are highly host-specific and are not recognized as pathogens of tomato (*Solanum lycopersicum*).
+
+If you are observing reddish-brown spots or lesions on your tomato plants, it is more likely to be another disease such as:
+*   **Early Blight** (*Alternaria solani*)
+*   **Late Blight** (*Phytophthora infestans*)
+*   **Bacterial Spot** (*Xanthomonas campestris pv. vesicatoria*)
+*   Or a physiological disorder.
+
+For accurate diagnosis and appropriate management, it is recommended to bring a sample to the plant pathology lab at HAU, Hisar, or consult with your local agricultural extension officer.

@@ -1,0 +1,31 @@
+Wilt, including symptoms sometimes referred to as "Parawilt," can affect Broccoli, primarily caused by soil-borne fungal pathogens like *Fusarium oxysporum f. sp. conglutinans* (Fusarium Wilt) or *Verticillium dahliae* (Verticillium Wilt). While "Parawilt" is not a distinct disease entity in broccoli in the same way it is in some other crops, sudden wilting can occur due to severe root damage, water stress, or advanced stages of these fungal wilts. Effective management requires an integrated approach.
+
+Here's how to control Wilt in Broccoli:
+
+1.  **Cultural Practices (Most Important):**
+    *   **Resistant Varieties:** Where available, choose broccoli varieties known to have resistance or tolerance to Fusarium or Verticillium wilts.
+    *   **Crop Rotation:** Implement a strict 3-4 year crop rotation with non-brassica crops (e.g., cereals, maize, legumes) to reduce pathogen build-up in the soil. Avoid planting broccoli or other brassicas in the same field year after year.
+    *   **Soil Solarization:** In hot summer months, cover the prepared field with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, effectively killing many soil-borne pathogens, including wilt fungi.
+    *   **Field Sanitation:** Remove and destroy all infected plant debris after harvest. Do not compost diseased material.
+    *   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can make plants more susceptible. Ensure adequate potassium and phosphorus.
+    *   **Proper Drainage:** Ensure good soil drainage to prevent waterlogging, which stresses roots and can exacerbate wilt symptoms.
+    *   **Sterilized Seedbeds:** For nursery raising, use sterilized soil mix or solarized soil to prevent early infection of seedlings.
+    *   **Avoid Root Injury:** Minimize root damage during transplanting and intercultural operations, as wounds can provide entry points for pathogens.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+        *   **Trichoderma viride** (10 g/kg seed)
+        *   **Pseudomonas fluorescens** (10 g/kg seed)
+    *   **Soil Application/Drench:** Apply bio-control agents to the soil or drench around the root zone at transplanting or early growth stages.
+        *   **Trichoderma viride** (2.5 kg/acre mixed with 50 kg farmyard manure)
+        *   **Pseudomonas fluorescens** (2.5 kg/acre mixed with 50 kg farmyard manure)
+
+3.  **Chemical Control (As a last resort and in conjunction with other methods):**
+    *   **Seed Treatment:**
+        *   **Carbendazim** (50% WP) at 2 g/kg seed.
+        *   **Thiophanate Methyl** (70% WP) at 2 g/kg seed.
+    *   **Soil Drench (at transplanting or early symptom appearance):**
+        *   **Carbendazim** (50% WP) at 1-2 g/L of water, drenching 50-100 ml solution per plant around the root zone.
+        *   **Thiophanate Methyl** (70% WP) at 1 g/L of water, drenching 50-100 ml solution per plant around the root zone.
+
+Always follow the manufacturer's instructions and safety precautions when using any chemical. Consult with your local agricultural extension officer for specific recommendations tailored to your farm's conditions.

@@ -1,0 +1,42 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling viral diseases in Guava in Haryana:
+
+It is crucial to understand that there are no direct chemical treatments (viricides) to cure viral diseases in plants once infected. Management strategies focus on prevention, controlling the vectors that transmit the viruses, and removing infected plants to limit further spread.
+
+Let's address each condition:
+
+*   **Guava Leaf Curl, Mosaic, Yellow Vein Clearing, and Stunt Virus:**
+    These symptoms (leaf curl, mosaic patterns, yellowing of veins, and stunted growth) in guava are primarily associated with infections by begomoviruses, such as the *Guava Leaf Curl Virus* (GLCV). These viruses are predominantly transmitted by whiteflies (*Bemisia tabaci*). Stunting is a common symptom of severe viral infections.
+
+    **Control Measures for Viral Diseases (Leaf Curl, Mosaic, Yellow Vein Clearing, Stunt) in Guava:**
+
+    1.  **Use Healthy Planting Material:**
+        *   Always procure certified virus-free saplings from reputable nurseries. This is the most critical preventive step.
+
+    2.  **Vector Management (Whitefly Control):**
+        Since whiteflies are the primary vectors, their effective control is paramount.
+        *   **Monitoring:** Regularly inspect plants for whitefly presence, especially on the undersides of leaves.
+        *   **Cultural Practices:**
+            *   Remove weeds from around the orchard, as they can serve as alternate hosts for both viruses and whiteflies.
+            *   Maintain proper plant spacing to ensure good air circulation.
+        *   **Chemical Control (Apply when whitefly populations are observed):**
+            *   **Buprofezin** 25% SC: 1.25 ml per litre of water.
+            *   **Spiromesifen** 22.9% SC: 0.5 ml per litre of water.
+            *   **Flonicamid** 50% WG: 0.3 g per litre of water.
+            *   **Thiamethoxam** 25% WG: 0.2 g per litre of water.
+            *   **Imidacloprid** 17.8% SL: 0.3 ml per litre of water.
+            *   *Note:* Rotate insecticides with different modes of action to prevent resistance development. Always follow the manufacturer's instructions and pre-harvest intervals.
+
+    3.  **Roguing of Infected Plants:**
+        *   Promptly identify and remove (rogue) any plants showing clear symptoms of viral infection (leaf curl, mosaic, severe yellowing, stunting). Uproot these plants and destroy them away from the orchard to prevent the virus from spreading to healthy plants.
+
+    4.  **Nutrient and Water Management:**
+        *   Ensure balanced nutrition and adequate irrigation to maintain plant vigour, which can help plants tolerate stress better.
+
+    5.  **Physical Barriers (for nurseries):**
+        *   In nursery settings, using insect-proof nets can effectively prevent whitefly entry and subsequent viral transmission.
+
+*   **Stripe Virus:**
+    This is not known to affect Guava.
+
+*   **Tristeza Virus:**
+    This is not known to affect Guava. (Tristeza primarily affects citrus).

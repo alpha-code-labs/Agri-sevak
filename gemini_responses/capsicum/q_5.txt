@@ -1,0 +1,53 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide scientifically verified advice for managing the conditions you've mentioned in Capsicum cultivation in Haryana.
+
+---
+
+Here's how to address Scab, Canker, Gummosis, and Lichen in Capsicum:
+
+### 1. Scab in Capsicum
+
+Scab in Capsicum is primarily caused by fungi such as *Cladosporium capsici* or *Sphaceloma capsici*. It manifests as small, raised, corky lesions on leaves, stems, and fruits, which can reduce marketability and yield.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Use disease-free seeds or seedlings.
+    *   Practice crop rotation with non-solanaceous crops.
+    *   Ensure proper plant spacing for good air circulation.
+    *   Remove and destroy infected plant debris to reduce inoculum.
+    *   Avoid overhead irrigation, especially late in the day, to minimize leaf wetness.
+*   **Chemical Control (Fungicides):**
+    *   For preventive and early curative action, apply systemic and contact fungicides.
+    *   **Mancozeb:** 2.5 g/L of water, as a foliar spray.
+    *   **Chlorothalonil:** 2 g/L of water, as a foliar spray.
+    *   **Azoxystrobin:** 0.5-1 ml/L of water, as a foliar spray.
+
+### 2. Canker in Capsicum
+
+Canker-like symptoms in Capsicum can be caused by various pathogens. Bacterial spot (*Xanthomonas campestris pv. vesicatoria*) can cause dark, sunken lesions on stems that resemble cankers. Additionally, *Phytophthora capsici* (Phytophthora blight), a major concern in Haryana, can cause stem cankers and collar rot.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Plant resistant or tolerant varieties if available.
+    *   Ensure good field sanitation; remove and destroy infected plants.
+    *   Avoid working in fields when plants are wet to prevent pathogen spread.
+    *   Improve soil drainage to prevent waterlogging, which favors *Phytophthora*.
+    *   Practice drip irrigation instead of overhead irrigation.
+*   **Chemical Control (Bactericides/Fungicides):**
+    *   For bacterial canker-like symptoms:
+        *   **Streptomycin sulphate:** 0.1-0.2 g/L of water, often mixed with **Copper oxychloride**.
+        *   **Copper oxychloride:** 2.5-3 g/L of water, as a foliar spray.
+    *   For cankers caused by *Phytophthora capsici*:
+        *   **Propamocarb hydrochloride:** 2-3 ml/L of water, as a drench or foliar spray.
+        *   **Dimethomorph:** 1 ml/L of water, as a foliar spray.
+        *   **Fenamidone:** 0.5-1 ml/L of water, as a foliar spray.
+        *   **Cymoxanil + Mancozeb** (pre-mix): 2.5-3 g/L of water, as a foliar spray.
+
+### 3. Gummosis in Capsicum
+
+This is not known to affect Capsicum. Gummosis is typically a condition associated with woody perennial plants, particularly fruit trees, where gum exudes from the bark in response to stress or disease. Capsicum is an herbaceous plant and does not exhibit gummosis as a distinct disease or physiological disorder.
+
+### 4. Lichen in Capsicum
+
+This is not known to affect Capsicum. Lichens are symbiotic organisms (fungus and alga) that grow on surfaces like tree bark, rocks, or soil. They are epiphytes and do not parasitize or cause disease in the host plant. They are not a pest or disease of Capsicum and do not require control measures in this crop.

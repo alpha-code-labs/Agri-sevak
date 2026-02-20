@@ -1,0 +1,74 @@
+Namaste, Kisan bhaiyon! As a Senior Agronomist from Haryana Agricultural University (HAU, Hisar), I understand your concerns regarding fungal diseases in Chillies. Effective management is crucial for a healthy crop and good yield.
+
+Before delving into specific chemical controls, it's important to emphasize an Integrated Disease Management (IDM) approach. This includes:
+*   **Resistant Varieties:** Where available and suitable for your region, choose varieties with known resistance to common diseases.
+*   **Crop Rotation:** Avoid planting chillies or other solanaceous crops (like tomato, brinjal, potato) in the same field year after year. A 2-3 year rotation with non-host crops helps break disease cycles.
+*   **Field Sanitation:** Remove and destroy infected plant debris, weeds, and volunteer plants that can harbor pathogens.
+*   **Proper Spacing:** Ensure adequate plant spacing to improve air circulation, which reduces humidity and fungal growth.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can make plants more susceptible to some diseases.
+*   **Water Management:** Avoid overhead irrigation late in the day, which leaves foliage wet for extended periods. Drip irrigation is highly recommended.
+
+Here's how to control the fungal diseases you've mentioned, based on scientifically verified methods and CIBRC-approved chemicals for Haryana:
+
+### Fungal Disease Control in Chillies:
+
+1.  **Alternaria (Early Blight/Leaf Spot)**
+    This disease causes dark, concentric spots on leaves, stems, and fruits, leading to defoliation and reduced yield.
+    *   **Mancozeb** (75% WP): 2-2.5 g/L water
+    *   **Chlorothalonil** (75% WP): 2 g/L water
+    *   **Azoxystrobin** (23% SC): 0.5-1 ml/L water
+    *   **Difenoconazole** (25% EC): 0.5 ml/L water
+    *   **Tebuconazole** (25% WG): 0.75-1 g/L water
+
+2.  **Anthracnose**
+    A severe disease, especially on fruits, causing sunken, circular spots with black fruiting bodies. It also affects leaves and stems.
+    *   **Carbendazim** (50% WP): 1 g/L water
+    *   **Thiophanate-methyl** (70% WP): 1 g/L water
+    *   **Mancozeb** (75% WP): 2-2.5 g/L water (for protective action)
+    *   **Azoxystrobin** (23% SC): 0.5-1 ml/L water
+    *   **Difenoconazole** (25% EC): 0.5 ml/L water
+    *   **Tebuconazole** (25% WG): 0.75-1 g/L water
+    *   **Pyraclostrobin + Metiram** (5.5% + 55% WG): 2-2.5 g/L water
+
+3.  **Blast**
+    This is not known to affect Chillies.
+
+4.  **Blight (Phytophthora Blight)**
+    *Phytophthora capsici* causes rapid wilting, stem rot, fruit rot, and damping-off of seedlings, especially under wet and humid conditions.
+    *   **Mancozeb** (75% WP): 2-2.5 g/L water (protective spray)
+    *   **Propineb** (70% WP): 2-2.5 g/L water (protective spray)
+    *   **Cymoxanil + Mancozeb** (8% + 64% WP): 2.5 g/L water
+    *   **Metalaxyl-M + Mancozeb** (4% + 64% WP): 2.5 g/L water
+    *   **Fenamidone + Propamocarb Hydrochloride** (10% + 37.5% SC): 2 ml/L water (for drenching or spraying)
+    *   **Fluopicolide + Propamocarb Hydrochloride** (6.25% + 62.5% SC): 2 ml/L water (for drenching or spraying)
+
+5.  **Brown Spot (Cercospora Leaf Spot)**
+    Caused by *Cercospora capsici*, this disease produces circular to angular brown spots with light grey centers on leaves, leading to defoliation.
+    *   **Carbendazim** (50% WP): 1 g/L water
+    *   **Mancozeb** (75% WP): 2-2.5 g/L water
+    *   **Chlorothalonil** (75% WP): 2 g/L water
+    *   **Azoxystrobin** (23% SC): 0.5-1 ml/L water
+    *   **Difenoconazole** (25% EC): 0.5 ml/L water
+    *   **Tebuconazole** (25% WG): 0.75-1 g/L water
+
+6.  **Downy/Powdery Mildew**
+    *   **Downy Mildew:** This is not known to affect Chillies.
+    *   **Powdery Mildew:** Caused by *Leveillula taurica*, this disease appears as white, powdery patches on the underside of leaves, leading to yellowing and defoliation.
+        *   **Sulphur** (80% WP/WDG): 2-3 g/L water
+        *   **Azoxystrobin** (23% SC): 0.5-1 ml/L water
+        *   **Difenoconazole** (25% EC): 0.5 ml/L water
+        *   **Tebuconazole** (25% WG): 0.75-1 g/L water
+        *   **Myclobutanil** (10% WP): 0.5 g/L water
+        *   **Penconazole** (10% EC): 0.5 ml/L water
+        *   **Hexaconazole** (5% EC): 1 ml/L water
+
+7.  **Grey Mildew**
+    This is not known to affect Chillies.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the product label for dosage, application method, and pre-harvest interval (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   For best results, apply fungicides preventively or at the very first sign of disease.
+*   Consult your local agricultural extension officer or HAU experts for specific recommendations tailored to your field conditions and current disease pressure.
+
+By adopting these practices, you can effectively manage fungal diseases and ensure a healthy and productive chilli crop.

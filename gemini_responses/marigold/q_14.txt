@@ -1,0 +1,44 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an integrated approach for managing soil pests like termites and root-knot nematodes in Marigold, focusing on cultural, biological, and judicious chemical methods.
+
+**I. General Integrated Pest Management (IPM) Principles:**
+
+*   **Field Sanitation:** Remove all crop residues, weeds, and other organic debris that can harbor pests.
+*   **Soil Health:** Improve soil organic matter and microbial activity through farmyard manure (FYM) or compost application.
+*   **Monitoring:** Regularly inspect plants for early signs of pest damage.
+
+**II. Termite Control:**
+
+Termites (e.g., *Odontotermes obesus*, *Microtermes obesi*) can cause significant damage by feeding on roots and stems, leading to wilting and plant death.
+
+*   **Cultural Practices:**
+    *   Remove dead wood, stumps, and other cellulosic material from the field before planting.
+    *   Ensure proper irrigation to maintain soil moisture, as termites prefer dry conditions.
+*   **Chemical Control (Pre-planting/At Planting):**
+    *   **Soil Treatment:** Apply one of the following CIBRC approved technical chemicals to the soil before planting or as a drench at planting:
+        *   **Chlorpyrifos** 20% EC: Apply at 2.0-2.5 L per acre mixed with sufficient water for soil drenching or incorporation.
+        *   **Fipronil** 0.3% GR: Apply at 6.0-8.0 kg per acre by broadcasting and incorporating into the soil before planting.
+
+**III. Root-Knot Nematode (*Meloidogyne* spp.) Control:**
+
+Root-knot nematodes cause characteristic galls or knots on roots, impairing water and nutrient uptake, leading to stunted growth, yellowing, and reduced flower yield.
+
+*   **Cultural Practices:**
+    *   **Crop Rotation:** Rotate Marigold with non-host crops like cereals (wheat, maize, sorghum) for at least 2-3 years. Avoid continuous cultivation of susceptible crops.
+    *   **Solarization:** During hot summer months (May-June), cover moist soil with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and kill nematodes.
+    *   **Use of Healthy Seedlings:** Ensure seedlings are free from nematode infestation.
+    *   **Removal of Infected Plants:** Uproot and destroy severely infected plants to prevent further spread.
+*   **Biological Control:**
+    *   **Bio-nematicides:** Apply CIBRC approved bio-agents that parasitize or antagonize nematodes:
+        *   **Purpureocillium lilacinum** (formerly *Paecilomyces lilacinus*): Apply at 2.5-5.0 kg per acre mixed with FYM or compost and incorporate into the soil before planting or as a drench around established plants.
+        *   **Trichoderma harzianum** / **Trichoderma viride**: While primarily a bio-fungicide, it improves soil health and can indirectly help manage nematodes. Apply at 2.5-5.0 kg per acre mixed with FYM or compost.
+*   **Chemical Control (Pre-planting/At Planting):**
+    *   **Soil Application:** Apply one of the following CIBRC approved technical chemicals to the soil before planting or at the time of planting:
+        *   **Fluensulfone** 2% GR: Apply at 10.0 kg per acre by broadcasting and incorporating into the soil.
+        *   **Cadusafos** 10% GR: Apply at 10.0 kg per acre by broadcasting and incorporating into the soil.
+        *   **Phorate** 10% GR: Apply at 4.0 kg per acre by broadcasting and incorporating into the soil. (Use with extreme caution due to high toxicity and follow all safety guidelines).
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the product label carefully.
+*   Wear appropriate personal protective equipment (PPE) during application.
+*   Consult with local agricultural extension officers for specific recommendations tailored to your field conditions and current CIBRC guidelines.

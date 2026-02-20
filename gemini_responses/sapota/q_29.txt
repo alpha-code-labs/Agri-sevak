@@ -1,0 +1,83 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding flower and fruit drop in Sapota (Chikoo). While "Tinda/Boll dropping" is not a specific term used for Sapota, we will address the general phenomenon of premature shedding of flowers and fruits, which can significantly impact yield.
+
+Flower and fruit drop in Sapota is a complex issue, often resulting from a combination of physiological, environmental, nutritional, and sometimes pest or disease factors. A comprehensive approach is necessary for effective control.
+
+Here's a scientifically verified guide to control dropping in Sapota:
+
+**I. Understanding the Causes of Dropping:**
+
+1.  **Physiological Stress:**
+    *   **Water Stress:** Both excessive (waterlogging) and insufficient (drought) moisture can lead to shedding.
+    *   **Temperature Extremes:** Very high or very low temperatures during flowering and fruit set.
+    *   **Poor Pollination:** Inadequate transfer of pollen can result in unfertilized flowers or fruits that drop prematurely.
+    *   **Heavy Fruit Load:** The tree naturally sheds excess flowers/fruits to balance its resources.
+    *   **Lack of Sunlight:** Shading within the canopy can reduce fruit retention.
+
+2.  **Nutritional Deficiencies:**
+    *   Deficiencies of micronutrients like Boron, Zinc, and Calcium are commonly associated with poor fruit set and increased dropping.
+    *   Imbalance of major nutrients (N, P, K).
+
+3.  **Hormonal Imbalance:**
+    *   Insufficient levels of natural auxins (plant hormones) are often linked to premature fruit drop.
+
+4.  **Pests:**
+    *   **Fruit Flies:** Larval feeding inside the fruit can cause premature ripening and drop.
+    *   **Sucking Pests:** Severe infestations of mealybugs or scale insects can weaken the plant, leading to stress and dropping.
+
+5.  **Diseases:**
+    *   While not a primary cause, certain fungal diseases (e.g., anthracnose, stem end rot) can weaken the fruit stalk or fruit itself, leading to premature shedding.
+
+**II. Control Measures for Dropping in Sapota:**
+
+A multi-pronged strategy involving cultural practices, nutritional management, hormonal applications, and pest/disease control is recommended.
+
+**1. Cultural and Agronomic Practices:**
+
+*   **Water Management:**
+    *   Maintain consistent soil moisture, especially during flowering and fruit development.
+    *   Avoid both waterlogging and severe drought stress. Drip irrigation is highly recommended for efficient water use.
+    *   Apply organic mulch (e.g., straw, dry leaves) around the tree base to conserve soil moisture, regulate soil temperature, and suppress weeds.
+*   **Pollination Enhancement:**
+    *   Encourage natural pollinators (bees) by avoiding insecticide sprays during peak flowering hours.
+    *   Plant pollinator-friendly plants nearby.
+*   **Pruning:**
+    *   Regularly prune to remove dead, diseased, or overcrowded branches. This improves light penetration and air circulation within the canopy, promoting healthier fruit development.
+*   **Weed Control:**
+    *   Keep the tree basin free of weeds to reduce competition for water and nutrients.
+
+**2. Nutritional Management:**
+
+*   **Soil Testing:** Conduct regular soil tests (every 2-3 years) to identify specific nutrient deficiencies and tailor fertilizer applications.
+*   **Micronutrient Application:**
+    *   **Boron:** Deficiency is a common cause of flower and fruit drop.
+        *   Foliar spray: **Borax** at 1-1.5 g/L water, applied at pre-flowering and fruit set stages.
+        *   Soil application: **Disodium Octaborate Tetrahydrate** at 10-15 g per tree, once a year.
+    *   **Zinc:** Essential for hormone synthesis and overall plant vigor.
+        *   Foliar spray: **Zinc Sulphate** at 2-3 g/L water, along with 0.5 g/L **Calcium Hydroxide** (lime) to prevent phytotoxicity. Apply at new flush and pre-flowering.
+        *   Soil application: **Zinc Sulphate** at 20-30 g per tree, once a year.
+    *   **Calcium:** Important for cell wall integrity and fruit firmness.
+        *   Foliar spray: **Calcium Nitrate** at 5 g/L water, applied during fruit development.
+        *   Soil application: **Calcium Nitrate** at 50-100 g per tree, during fruit development.
+*   **Balanced Fertilization:** Ensure adequate and balanced application of Nitrogen (N), Phosphorus (P), and Potassium (K) based on soil test recommendations and the age/size of the tree.
+
+**3. Hormonal Management (Plant Growth Regulators - PGRs):**
+
+*   **Naphthalene Acetic Acid (NAA):** This auxin is highly effective in preventing premature fruit drop.
+    *   Apply **Naphthalene Acetic Acid** at 10-20 ppm (10-20 mg/L water) as a foliar spray.
+    *   **First spray:** At the full bloom stage.
+    *   **Second spray:** Approximately 15-20 days after the first spray, or when fruits are pea-sized.
+    *   *Caution:* Adhere strictly to recommended dosages, as higher concentrations can lead to fruit thinning.
+*   **Gibberellic Acid (GA3):** Can improve fruit set and retention, and also increase fruit size.
+    *   Apply **Gibberellic Acid** at 25-50 ppm (25-50 mg/L water) as a foliar spray at the time of flowering and fruit set.
+
+**4. Pest and Disease Management (if contributing to drop):**
+
+*   **Fruit Flies:**
+    *   Use pheromone traps (e.g., methyl eugenol traps) for monitoring and mass trapping.
+    *   If infestation is severe, spray with **Malathion** at 2 ml/L water or **Dimethoate** at 1.5 ml/L water. Ensure to observe the pre-harvest interval (PHI) strictly.
+*   **Sucking Pests (Mealybugs, Scale Insects):**
+    *   For severe infestations, spray with **Imidacloprid** at 0.3-0.5 ml/L water or **Buprofezin** at 1.25 ml/L water.
+*   **Fungal Diseases (e.g., Anthracnose, Stem End Rot):**
+    *   As a preventive measure or at the first sign of disease, apply fungicides like **Carbendazim** at 1 g/L water or **Mancozeb** at 2.5 g/L water.
+
+By implementing these integrated management strategies, you can significantly reduce flower and fruit drop in your Sapota orchard and ensure a healthy, productive yield. Always consult with local agricultural extension services for specific recommendations tailored to your farm's conditions.

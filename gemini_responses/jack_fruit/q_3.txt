@@ -1,0 +1,68 @@
+Dear Farmer,
+
+Controlling various rot types in Jackfruit (Artocarpus heterophyllus) requires an integrated approach, as these diseases can significantly impact tree health and yield. Many of these rot types, including Root, Stem, Foot, Collar, Crown, Neck, Black, Fruit, Seed, and Seedling rot, are indeed known to affect Jackfruit, particularly under conditions of high humidity, poor drainage, or mechanical injury. The primary pathogens involved are often fungi and oomycetes such as *Phytophthora*, *Pythium*, *Fusarium*, *Rhizoctonia*, *Botryodiplodia*, and *Rhizopus*.
+
+Here's a comprehensive strategy for their control:
+
+**I. Cultural and Management Practices (Foundation of Control):**
+
+1.  **Site Selection and Drainage:** Plant Jackfruit in well-drained soils. Avoid waterlogging, which is a major predisposing factor for root, collar, and foot rots. If drainage is poor, plant on raised beds or mounds.
+2.  **Sanitation:**
+    *   Regularly remove and destroy all infected plant parts (leaves, branches, fruits) from the orchard.
+    *   Prune dead or diseased branches during dry periods and apply a Bordeaux paste or a fungicidal paste to the cut ends.
+3.  **Proper Irrigation:** Avoid over-irrigation, especially around the base of the tree. Use drip irrigation to minimize water contact with the trunk.
+4.  **Weed Control:** Keep the area around the tree base free of weeds to improve air circulation and reduce humidity.
+5.  **Avoid Injury:** Protect the trunk and roots from mechanical injuries during cultivation, as these serve as entry points for pathogens.
+6.  **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can lead to lush, soft growth more susceptible to disease.
+7.  **Air Circulation:** Maintain adequate spacing between trees to ensure good air circulation within the canopy.
+8.  **Nursery Management (for Seed and Seedling Rot):**
+    *   Use sterilized potting mix for raising seedlings.
+    *   Ensure good drainage in nursery beds/pots.
+    *   Avoid overcrowding of seedlings.
+
+**II. Biological Control:**
+
+1.  **Soil Application:** Apply beneficial microbial antagonists to the soil, especially around the root zone of young plants and established trees.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) or compost, or as a soil drench at 5-10 g/L water.
+    *   **Pseudomonas fluorescens**: Apply 2.5 kg/acre mixed with 50 kg FYM or compost, or as a soil drench at 5-10 g/L water.
+    These bio-agents help suppress soil-borne pathogens causing root, collar, foot, and seedling rots.
+
+**III. Chemical Control (CIBRC Approved Fungicides):**
+
+*Note: Always follow the manufacturer's instructions for dosage and safety precautions.*
+
+**A. For Root, Stem, Foot, Collar, Crown, and Neck Rots (Soil-borne rots):**
+These rots are often caused by *Phytophthora*, *Pythium*, *Fusarium*, and *Rhizoctonia*.
+
+1.  **Soil Drenching:**
+    *   **Metalaxyl 8% + Mancozeb 64% WP**: Drench the soil around the base of the affected tree with a solution of **Metalaxyl 8% + Mancozeb 64% WP** at 2-2.5 g/L water. Apply 5-10 L solution per tree depending on its size. Repeat if necessary, especially before monsoon.
+    *   **Fosetyl-Aluminium 80% WP**: Drench the soil around the base of the tree with a solution of **Fosetyl-Aluminium 80% WP** at 2.5-3 g/L water.
+    *   **Propamocarb Hydrochloride 72.2% SL**: Drench the soil around the base of the tree with a solution of **Propamocarb Hydrochloride 72.2% SL** at 2-3 ml/L water.
+2.  **Trunk Application (for Stem/Collar Rot):**
+    *   **Copper Oxychloride 50% WP**: Prepare a thick paste (Bordeaux paste) by mixing **Copper Oxychloride 50% WP** with water and apply it directly to the affected trunk/collar region after scraping off diseased tissue. Alternatively, spray the lower trunk with **Copper Oxychloride 50% WP** at 3 g/L water.
+
+**B. For Fruit Rot and Black Rot (on fruits):**
+These are often caused by *Phytophthora*, *Rhizopus*, *Botryodiplodia*, and *Colletotrichum*.
+
+1.  **Foliar/Fruit Spray:**
+    *   **Mancozeb 75% WP**: Spray at 2.5 g/L water, especially during fruit development and monsoon season.
+    *   **Copper Oxychloride 50% WP**: Spray at 3 g/L water.
+    *   **Azoxystrobin 23% SC**: Spray at 0.5-1 ml/L water for broad-spectrum control.
+    *   **Pyraclostrobin 20% WG**: Spray at 0.75-1 g/L water.
+    *   **Carbendazim 50% WP**: Spray at 1 g/L water.
+    *   **Tebuconazole 25.9% EC**: Spray at 0.75-1 ml/L water.
+    *   **Chlorothalonil 75% WP**: Spray at 2 g/L water.
+    *   Rotate fungicides with different modes of action to prevent resistance development. Start spraying before the onset of monsoon or at the first sign of disease.
+
+**C. For Seed Rot and Seedling Rot (in nurseries):**
+
+1.  **Seed Treatment:**
+    *   **Carbendazim 50% WP**: Treat seeds at 2 g/kg of seed.
+    *   **Thiram 75% WS**: Treat seeds at 2-3 g/kg of seed.
+    *   **Captan 50% WP**: Treat seeds at 2-3 g/kg of seed.
+    *   **Metalaxyl 35% WS**: Treat seeds at 6 g/kg of seed, particularly effective against oomycete pathogens.
+2.  **Nursery Drenching (for Seedling Rot/Damping-off):**
+    *   **Metalaxyl 8% + Mancozeb 64% WP**: Drench nursery beds/pots with a solution of **Metalaxyl 8% + Mancozeb 64% WP** at 2 g/L water.
+    *   **Propamocarb Hydrochloride 72.2% SL**: Drench nursery beds/pots with a solution of **Propamocarb Hydrochloride 72.2% SL** at 2 ml/L water.
+
+By implementing these integrated measures, you can effectively manage and control various rot diseases in your Jackfruit orchard. Regular monitoring for early signs of disease is crucial for timely intervention.

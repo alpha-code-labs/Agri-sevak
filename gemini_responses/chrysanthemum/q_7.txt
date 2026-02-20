@@ -1,0 +1,37 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Dieback, Twig Blight, and Tikka disease in Chrysanthemum in Haryana.
+
+It is crucial to adopt an Integrated Disease Management (IDM) approach, combining cultural practices with judicious use of CIBRC-approved chemicals.
+
+### Control of Dieback and Twig Blight in Chrysanthemum
+
+Dieback and Twig Blight are often symptoms caused by various fungal pathogens such as *Botrytis cinerea* (Grey Mould), *Phoma chrysanthemicola*, *Alternaria* species, or even *Fusarium* species, often exacerbated by environmental stress.
+
+**1. Cultural Practices (Preventive and Curative):**
+*   **Sanitation:** Regularly inspect plants and promptly remove and destroy all infected plant parts (twigs, leaves, flowers) to reduce inoculum sources.
+*   **Pruning:** Prune affected branches well below the visible symptoms into healthy tissue. Always sterilize pruning tools (e.g., with a 10% bleach solution or rubbing alcohol) between cuts and between plants to prevent disease spread.
+*   **Air Circulation:** Ensure adequate plant spacing to promote good air circulation, which helps in drying foliage and reducing humidity around plants, thereby discouraging fungal growth.
+*   **Water Management:** Avoid overhead irrigation, especially late in the day, as wet foliage for prolonged periods favors disease development. Water at the base of the plants in the morning. Ensure proper drainage to prevent waterlogging.
+*   **Nutrition:** Provide balanced nutrition to maintain plant vigor and resistance to diseases. Avoid excessive nitrogen, which can lead to lush, susceptible growth.
+*   **Site Selection:** Choose well-drained sites for planting.
+
+**2. Chemical Control (Fungicides):**
+In cases of severe infection or as a preventive measure during high-risk periods, CIBRC-approved fungicides can be applied. It is recommended to rotate fungicides with different modes of action to prevent the development of resistance.
+
+*   For **Botrytis** and general blights:
+    *   Spray with **Chlorothalonil** at 2-2.5 g/L of water.
+    *   Alternatively, spray with **Carbendazim** at 0.5-1 g/L of water.
+    *   **Azoxystrobin** at 0.5-1 ml/L or g/L of water can also be effective.
+*   For **Phoma** and other stem blights:
+    *   Apply **Carbendazim** at 0.5-1 g/L of water.
+    *   **Mancozeb** at 2-2.5 g/L of water can be used as a protective spray.
+*   For **Alternaria** blight:
+    *   Spray with **Mancozeb** at 2-2.5 g/L of water.
+    *   **Chlorothalonil** at 2-2.5 g/L of water is also effective.
+    *   **Propiconazole** at 0.5-1 ml/L of water can be used.
+*   **Copper Oxychloride (COC)** at 2-3 g/L of water can be used as a broad-spectrum protective fungicide, especially effective against blights.
+
+Apply fungicides thoroughly, ensuring good coverage of all plant parts. Repeat applications as per label instructions, typically every 7-14 days, depending on disease pressure and weather conditions.
+
+### Control of Tikka Disease in Chrysanthemum
+
+This is not known to affect Chrysanthemum. "Tikka disease" is a specific term primarily associated with leaf spot diseases in groundnut (peanut), caused by *Cercospora arachidicola* and *Passalora personata*. Chrysanthemum can suffer from various leaf spot diseases (e.g., *Cercospora leaf spot*, *Septoria leaf spot*, *Alternaria leaf spot*), but not "Tikka disease" by that specific name. If you are observing leaf spots on your Chrysanthemum, please provide more details or samples for accurate diagnosis. Control measures for general leaf spots in Chrysanthemum would involve similar cultural practices and fungicide applications as mentioned above for blights, targeting the specific pathogen identified.

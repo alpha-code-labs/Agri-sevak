@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling pests in Capsicum in Haryana:
+
+It is crucial to adopt an Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods for sustainable and effective pest control.
+
+### General IPM Principles for Lepidopteran Pests in Capsicum:
+
+*   **Monitoring:** Regularly scout fields for egg masses, larvae, and adult moths. Use pheromone traps for monitoring adult moth populations (e.g., *Helicoverpa armigera*, *Spodoptera litura*) to time interventions effectively.
+*   **Cultural Practices:**
+    *   Field sanitation: Remove and destroy crop residues after harvest.
+    *   Deep ploughing: Exposes pupae to predators and sunlight.
+    *   Hand picking: Collect and destroy egg masses and early instar larvae, especially in small holdings.
+    *   Installation of bird perches: Attracts predatory birds.
+*   **Biological Control:** Utilize natural enemies like parasitoids and predators.
+
+### Specific Pest Control Measures:
+
+#### 1. Borers (Primarily Fruit Borers like *Helicoverpa armigera* and *Spodoptera litura*)
+
+These caterpillars bore into the developing fruits, causing significant damage.
+
+*   **Biological Control:**
+    *   Release of **Trichogramma chilonis** (egg parasitoid) @ 50,000-100,000 adults per acre, 3-4 releases at weekly intervals, starting from the flowering stage.
+    *   Application of **Bacillus thuringiensis var. kurstaki** (Bt) @ 1-2 kg/acre or 1-2 g/L of water, especially effective against early instar larvae.
+    *   Application of **Nuclear Polyhedrosis Virus (NPV)** specific to *Helicoverpa armigera* (HaNPV) @ 250-500 LE (Larval Equivalents) per acre.
+*   **Chemical Control (Spray volume: 200-400 L/acre depending on crop canopy):**
+    *   **Chlorantraniliprole** 18.5% SC @ 60 ml/acre (0.3 ml/L).
+    *   **Emamectin benzoate** 5% SG @ 80 g/acre (0.4 g/L).
+    *   **Flubendiamide** 20% WG @ 100 g/acre (0.5 g/L).
+    *   **Indoxacarb** 14.5% SC @ 200 ml/acre (1 ml/L).
+
+#### 2. Caterpillars (Leaf-eating caterpillars like *Spodoptera litura*, *Spodoptera exigua*, and also fruit borers)
+
+These caterpillars feed on leaves, flowers, and fruits.
+
+*   **Biological Control:**
+    *   Application of **Bacillus thuringiensis var. kurstaki** (Bt) @ 1-2 kg/acre or 1-2 g/L of water.
+    *   Application of **Nuclear Polyhedrosis Virus (NPV)** specific to *Spodoptera litura* (SlNPV) @ 250-500 LE per acre.
+*   **Chemical Control (Spray volume: 200-400 L/acre depending on crop canopy):**
+    *   **Emamectin benzoate** 5% SG @ 80 g/acre (0.4 g/L).
+    *   **Chlorantraniliprole** 18.5% SC @ 60 ml/acre (0.3 ml/L).
+    *   **Flubendiamide** 20% WG @ 100 g/acre (0.5 g/L).
+    *   **Indoxacarb** 14.5% SC @ 200 ml/acre (1 ml/L).
+    *   **Lufenuron** 5.4% EC @ 300 ml/acre (1.5 ml/L).
+    *   **Novaluron** 10% EC @ 300 ml/acre (1.5 ml/L).
+
+#### 3. Diamondback moth (*Plutella xylostella*)
+
+This is not known to affect Capsicum. Diamondback moth is a major pest primarily of cruciferous crops (e.g., cabbage, cauliflower, mustard).
+
+#### 4. Leaf folder
+
+This is not known to affect Capsicum as a specific or significant pest. While some generalist caterpillars might occasionally cause minor leaf folding, there isn't a distinct "leaf folder" pest of economic importance in Capsicum. Control measures for general caterpillars would address any such incidental damage.

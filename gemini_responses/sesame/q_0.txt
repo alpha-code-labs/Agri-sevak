@@ -1,0 +1,73 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified control measures for fungal diseases in Sesame (Til) in Haryana:
+
+---
+
+### 1. Alternaria Leaf Spot (Caused by *Alternaria sesami*)
+
+*   **Symptoms:** Small, dark brown spots with concentric rings, often surrounded by a yellow halo, appearing on leaves, stems, and capsules. Severe infection leads to defoliation and significant yield loss.
+*   **Control Measures:**
+    *   **Cultural:** Use resistant varieties, practice crop rotation, and remove infected plant debris after harvest.
+    *   **Chemical:**
+        *   Spray **Mancozeb** 75% WP at 2.5 kg/acre in 500-750 L of water.
+        *   Alternatively, spray **Carbendazim** 50% WP at 500 g/acre in 500-750 L of water.
+        *   For severe cases, a combination of **Carbendazim** 12% + **Mancozeb** 63% WP at 500 g/acre in 500-750 L of water can be effective.
+        *   **Propiconazole** 25% EC at 200 ml/acre in 500-750 L of water.
+
+### 2. Anthracnose (Caused by *Colletotrichum gloeosporioides*)
+
+*   **Symptoms:** Irregular, water-soaked lesions on leaves, stems, and capsules, which turn dark brown to black. Can cause damping-off in seedlings and blight in older plants.
+*   **Control Measures:**
+    *   **Cultural:** Use disease-free seeds, practice good field sanitation, and implement crop rotation.
+    *   **Chemical:**
+        *   Seed treatment with **Carbendazim** 50% WP at 2 g/kg seed.
+        *   Foliar spray with **Carbendazim** 50% WP at 500 g/acre in 500-750 L of water.
+        *   Alternatively, spray **Mancozeb** 75% WP at 2.5 kg/acre in 500-750 L of water.
+        *   **Azoxystrobin** 23% SC at 200 ml/acre in 500-750 L of water.
+
+### 3. Blast (Caused by *Pyricularia grisea*)
+
+*   **Symptoms:** Spindle-shaped lesions with grey centers and dark margins on leaves, often leading to blighting. Can also affect stems and capsules.
+*   **Control Measures:**
+    *   **Cultural:** Use resistant varieties and maintain proper plant spacing to improve air circulation.
+    *   **Chemical:**
+        *   Spray **Tebuconazole** 25% WG at 250 g/acre in 500-750 L of water.
+        *   Alternatively, spray **Azoxystrobin** 23% SC at 200 ml/acre in 500-750 L of water.
+
+### 4. Blight (Specifically Phytophthora Blight, caused by *Phytophthora parasitica* or *P. nicotianae*)
+
+*   **Symptoms:** Water-soaked lesions on leaves, stems, and capsules, rapidly expanding and causing wilting, defoliation, and stem rot. Can lead to significant plant death.
+*   **Control Measures:**
+    *   **Cultural:** Improve field drainage, avoid waterlogging, practice crop rotation, and use resistant varieties.
+    *   **Chemical:**
+        *   Seed treatment with **Metalaxyl-M** 31.8% ES at 3 ml/kg seed.
+        *   Foliar spray with **Metalaxyl** 8% + **Mancozeb** 64% WP at 500 g/acre in 500-750 L of water.
+        *   Alternatively, spray **Copper Oxychloride** 50% WP at 1.25 kg/acre in 500-750 L of water.
+
+### 5. Brown Spot (Cercospora Leaf Spot, caused by *Cercospora sesami*)
+
+*   **Symptoms:** Small, angular to irregular brown spots with a reddish-purple margin on leaves, often coalescing to form larger necrotic areas. Severe infection causes premature defoliation.
+*   **Control Measures:**
+    *   **Cultural:** Use resistant varieties, remove infected plant debris, and practice crop rotation.
+    *   **Chemical:**
+        *   Spray **Carbendazim** 50% WP at 500 g/acre in 500-750 L of water.
+        *   Alternatively, spray **Mancozeb** 75% WP at 2.5 kg/acre in 500-750 L of water.
+        *   **Propiconazole** 25% EC at 200 ml/acre in 500-750 L of water.
+        *   **Hexaconazole** 5% SC at 400 ml/acre in 500-750 L of water.
+
+### 6. Powdery Mildew (Caused by *Oidium sesami* or *Golovinomyces cichoracearum*)
+
+*   **Symptoms:** White, powdery patches primarily on the upper surface of leaves, stems, and capsules. Severe infection leads to yellowing, distortion, and premature drying of leaves.
+*   **Control Measures:**
+    *   **Cultural:** Maintain proper plant spacing for good air circulation and remove severely infected plant parts.
+    *   **Chemical:**
+        *   Spray **Wettable Sulphur** 80% WP at 1.5-2 kg/acre in 500-750 L of water.
+        *   Alternatively, spray **Hexaconazole** 5% SC at 400 ml/acre in 500-750 L of water.
+        *   **Propiconazole** 25% EC at 200 ml/acre in 500-750 L of water.
+        *   **Azoxystrobin** 23% SC at 200 ml/acre in 500-750 L of water.
+
+---
+
+### Diseases Not Known to Affect Sesame:
+
+*   **Downy Mildew:** This is not known to affect Sesame.
+*   **Grey Mildew:** This is not known to affect Sesame.

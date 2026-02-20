@@ -1,0 +1,22 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), here are the recommended cultivation practices for Apricot:
+
+Apricot is primarily propagated through budding or grafting onto suitable rootstocks, rather than direct seed sowing for establishing commercial orchards. Seeds are typically used for raising rootstock seedlings or for breeding purposes. Therefore, the "sowing method" refers to the planting of grafted saplings.
+
+*   **Sowing method/pattern (Planting Method):**
+    *   **Method:** Planting of one-year-old grafted or budded saplings. Pits are dug well in advance (1-2 months) and exposed to sunlight, then refilled with a mixture of topsoil, farmyard manure, and sand (if soil is heavy).
+    *   **Pattern:** Square system or Rectangular system are commonly adopted for apricot orchards.
+
+*   **Planting depth:**
+    *   The grafted sapling should be planted in the center of the pit such that the **graft union remains 15-20 cm above the soil surface**. This prevents scion rooting and ensures the benefits of the rootstock are fully utilized.
+
+*   **Spacing:**
+    *   Spacing depends on the cultivar, rootstock, and training system. For standard apricot cultivars grown in Haryana, a common spacing is:
+        *   **6 meters (plant-to-plant) x 6 meters (row-to-row)**
+    *   This spacing allows for adequate sunlight penetration, air circulation, and ease of orchard operations.
+
+*   **Seed dose (Number of Plants per Acre):**
+    *   As apricot orchards are established using grafted saplings, the term "seed dose" is not applicable. Instead, we calculate the number of plants required per acre based on the recommended spacing.
+    *   For a spacing of 6 meters x 6 meters:
+        *   Number of plants per acre = (Area of 1 acre in square meters) / (Plant-to-plant distance in meters x Row-to-row distance in meters)
+        *   1 acre = 4046.86 square meters
+        *   Number of plants = 4046.86 / (6 x 6) = 4046.86 / 36 ≈ **112 plants per acre**.

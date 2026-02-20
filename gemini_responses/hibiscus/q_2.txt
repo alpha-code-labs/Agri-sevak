@@ -1,0 +1,30 @@
+While Hibiscus is susceptible to rust disease (primarily caused by *Kuehneola malvicola*), the specific rust types you mentioned – Black rust (*Puccinia graminis*), Brown rust (*Puccinia recondita*), Yellow rust (*Puccinia striiformis*), and White rust (*Albugo candida*) – are primarily known to affect cereal crops and crucifers, respectively, and are not typically known to affect Hibiscus. Red rust (*Cephaleuros virescens*) is an algal disease, not a true fungal rust, and also does not commonly affect Hibiscus.
+
+However, if your Hibiscus plants are showing symptoms of rust (small, raised, powdery pustules, usually orange to brown, on the undersides of leaves, leading to yellowing and premature leaf drop), here's how to manage it:
+
+**Integrated Management for Hibiscus Rust:**
+
+**1. Cultural Practices:**
+*   **Sanitation:** Regularly inspect plants. As soon as symptoms appear, carefully remove and destroy infected leaves, stems, and fallen plant debris to reduce the source of inoculum. Do not compost infected material.
+*   **Air Circulation:** Ensure adequate spacing between plants to promote good air circulation, which helps dry leaf surfaces and reduces the conditions favorable for rust development.
+*   **Watering:** Avoid overhead irrigation, especially late in the day. Water the soil directly at the base of the plant to keep foliage dry. If overhead watering is unavoidable, do it in the morning so leaves can dry quickly.
+*   **Pruning:** Prune plants to remove dense growth and improve air movement within the canopy.
+*   **Nutrient Management:** Maintain plant vigor with balanced fertilization, as stressed plants can be more susceptible.
+
+**2. Chemical Control (CIBRC Approved):**
+For effective control, apply fungicides preventively if rust is a recurring problem, or at the first sign of disease. Rotate fungicides with different modes of action to prevent resistance development.
+
+*   **For Protective/Preventive Control:**
+    *   **Mancozeb 75% WP**: Apply at a rate of 2.0-2.5 g per litre of water. Repeat application every 7-10 days, especially during humid conditions.
+
+*   **For Curative/Systemic Control (at first sign of disease):**
+    *   **Propiconazole 25% EC**: Apply at a rate of 0.5-1.0 ml per litre of water.
+    *   **Hexaconazole 5% SC**: Apply at a rate of 1.0-2.0 ml per litre of water.
+    *   **Tebuconazole 25.9% EC**: Apply at a rate of 0.75-1.0 ml per litre of water.
+    *   **Azoxystrobin 23% SC**: Apply at a rate of 0.5-1.0 ml per litre of water.
+
+**Application Notes:**
+*   Ensure thorough coverage of both upper and lower leaf surfaces.
+*   Always read and follow the label instructions for any pesticide product before use.
+*   Wear appropriate personal protective equipment (PPE) during mixing and application.
+*   Consult with your local agricultural extension office for specific recommendations tailored to your region and current disease pressure.

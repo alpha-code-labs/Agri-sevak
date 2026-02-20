@@ -1,0 +1,49 @@
+Regarding your query about Wilt (including Parawilt) in Pear:
+
+**Parawilt:**
+This is not known to affect Pear. Parawilt is a specific physiological disorder primarily associated with Mango.
+
+**Wilt in Pear:**
+Pear trees can be affected by various forms of wilt, primarily caused by fungal pathogens that disrupt the plant's vascular system or damage the root system, leading to wilting symptoms. The most common causes include *Verticillium* wilt and *Phytophthora* root rot.
+
+**Symptoms of Wilt in Pear:**
+*   Sudden wilting or drooping of leaves, often starting from one side of the tree or a single branch.
+*   Yellowing and browning of leaves, followed by premature defoliation.
+*   Dieback of branches or entire limbs.
+*   Stunted growth.
+*   In some cases, discoloration (streaking) in the vascular tissue (xylem) when affected stems or branches are cut open.
+*   For *Phytophthora* root rot, symptoms may also include collar rot at the soil line, poor vigor, and eventual tree collapse.
+
+**Control Measures for Wilt in Pear:**
+
+**I. Cultural and Preventive Measures:**
+These are crucial for managing wilt diseases, especially *Verticillium* wilt, where chemical control is often less effective in established trees.
+
+*   **Site Selection:** Plant pears in well-drained soils. Avoid areas with a history of wilt diseases or where susceptible crops (like cotton, brinjal, tomato, potato) were previously grown, as *Verticillium* can persist in the soil for many years.
+*   **Resistant Rootstocks:** Where available and suitable for Haryana conditions, use pear rootstocks known for resistance or tolerance to *Verticillium* wilt and *Phytophthora* root rot.
+*   **Soil Health:** Improve soil structure and drainage by incorporating organic matter. Avoid waterlogging, which favors *Phytophthora* development.
+*   **Sanitation:**
+    *   Remove and destroy severely infected trees or branches to reduce inoculum.
+    *   Disinfect pruning tools with a 10% bleach solution or alcohol between cuts, especially when working on infected trees.
+*   **Irrigation Management:** Provide adequate but not excessive irrigation. Drip irrigation can help manage soil moisture effectively and reduce water splash, which can spread pathogens.
+*   **Nutrient Management:** Maintain balanced nutrition to promote tree vigor and resilience. Avoid excessive nitrogen fertilization, which can make trees more susceptible.
+*   **Weed Control:** Keep the area around the trees free of weeds, as some weeds can act as alternate hosts for wilt pathogens.
+*   **Avoid Injury:** Minimize root and trunk injuries during cultivation, as these can provide entry points for pathogens.
+*   **Soil Solarization:** In fallow land before planting, soil solarization during hot summer months can help reduce soil-borne pathogen populations, including *Verticillium*.
+
+**II. Chemical Control (CIBRC Approved):**
+Chemical control is generally more effective for *Phytophthora* root rot than for *Verticillium* wilt in established trees. For *Verticillium* wilt, chemicals are often used as a preventive measure or to suppress the disease in early stages.
+
+*   **For *Phytophthora* Root Rot (causing wilting):**
+    *   **Fosetyl-Aluminium** (80% WP): Apply as a foliar spray at 2.5-3.0 g/L of water, or as a soil drench around the base of affected trees. Repeat applications as per label recommendations.
+    *   **Propamocarb Hydrochloride** (72.2% SL): Apply as a soil drench at 2.5-3.0 ml/L of water around the base of affected trees.
+    *   **Metalaxyl-M 4% + Mancozeb 64% WP:** Apply as a soil drench at 2.5 g/L of water around the base of affected trees.
+
+*   **For *Verticillium* Wilt (as a preventive or early stage measure):**
+    *   **Carbendazim** (50% WP): Apply as a soil drench at 1.0-2.0 g/L of water around the base of affected trees. This can help in reducing the fungal load in the soil and may offer some systemic protection, but its efficacy against established *Verticillium* wilt in mature trees is often limited.
+    *   **Thiophanate Methyl** (70% WP): Apply as a soil drench at 1.0-1.5 g/L of water around the base of affected trees. Similar to Carbendazim, it offers systemic action but is more effective as a preventive or early intervention.
+
+**Important Considerations:**
+*   Always read and follow the label instructions for any chemical product regarding dosage, application method, safety precautions, and pre-harvest intervals.
+*   Integrated Pest Management (IPM) approach, combining cultural, biological, and judicious chemical methods, is recommended for sustainable disease management.
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your farm's conditions and the prevailing disease pressure in Haryana.

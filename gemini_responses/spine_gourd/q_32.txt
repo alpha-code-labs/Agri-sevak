@@ -1,0 +1,60 @@
+Drying up of branches, leaves, fruits, and flowers in Spine Gourd (Parwal/Teasle Gourd) is a serious concern that can significantly reduce yield. This widespread drying typically indicates a systemic problem affecting the plant's vascular system or root health. Proper diagnosis is crucial for effective management.
+
+Here are the most common causes and their scientifically verified management strategies for Haryana conditions:
+
+**1. Fungal Wilts and Root Rots (e.g., Fusarium Wilt, Phytophthora Root Rot)**
+
+*   **Symptoms:** Initial yellowing and wilting of lower leaves, progressing upwards. The entire plant may eventually wilt and dry. In Fusarium wilt, a brownish discoloration can often be observed in the vascular tissue when the stem is cut longitudinally. Phytophthora root rot causes sudden wilting, collapse, and rotting of roots and crown, especially in waterlogged conditions.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Practice crop rotation with non-cucurbit crops for at least 2-3 years.
+        *   Ensure good field sanitation by removing and destroying infected plant debris.
+        *   Improve soil drainage to prevent waterlogging, which favors root rot pathogens.
+        *   Solarize the soil during the hot summer months to reduce pathogen inoculum.
+    *   **Biological Control:**
+        *   Apply bio-agents like *Trichoderma viride* or *Pseudomonas fluorescens* as seed treatment (10 g/kg seed) or soil drench (2.5 kg/acre mixed with 50-100 kg farmyard manure).
+    *   **Chemical Control (CIBRC Approved):**
+        *   **Seed Treatment:** Treat seeds with **Carbendazim** (1-2 g/kg seed) or **Thiram** (2-3 g/kg seed) to protect against seed-borne and early soil-borne pathogens.
+        *   **Soil Drench/Drip Application:**
+            *   For Fusarium wilt: Drench the soil around the base of affected plants with **Carbendazim** (1 g/L water) or **Thiophanate Methyl** (1 g/L water).
+            *   For Phytophthora root rot: Drench with **Propamocarb hydrochloride** (2-3 ml/L water) or **Metalaxyl + Mancozeb** (2.5 g/L water). Repeat if necessary, following label instructions.
+
+**2. Root-Knot Nematodes (*Meloidogyne* spp.)**
+
+*   **Symptoms:** Stunted growth, yellowing, wilting, and drying of plants, especially under moisture stress. Examination of roots will reveal characteristic galls or knots. Nematode damage impairs water and nutrient uptake, making plants more susceptible to wilts.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Implement long-term crop rotation with non-host crops (e.g., marigold, cereals).
+        *   Incorporate organic matter (e.g., neem cake at 200 kg/acre) into the soil, which can suppress nematode populations.
+        *   Solarize the soil during fallow periods.
+    *   **Biological Control:**
+        *   Apply *Purpureocillium lilacinum* (formerly *Paecilomyces lilacinus*) or *Verticillium chlamydosporium* as a soil application (2.5 kg/acre mixed with 50-100 kg farmyard manure) at the time of planting or as a drench.
+    *   **Chemical Control (CIBRC Approved):**
+        *   **Soil Application (Granular):** Apply **Carbofuran** (3G) at 10 kg/acre or **Phorate** (10G) at 4 kg/acre at the time of planting or as a side dressing, ensuring proper incorporation into the soil. *Note: These are restricted-use pesticides and should be handled with extreme care and as per label instructions.*
+        *   **Drench/Drip Application:** **Fluopyram** (0.625 ml/L water) can be applied as a soil drench or through drip irrigation.
+
+**3. Stem Borers (e.g., Fruit and Shoot Borer)**
+
+*   **Symptoms:** Wilting and drying of individual branches or vines, often with visible boreholes and frass (excreta) near the entry point. The larvae tunnel inside the stem, disrupting water and nutrient flow.
+*   **Management:**
+    *   **Cultural Practices:**
+        *   Regularly inspect plants and prune and destroy affected vines/branches immediately.
+        *   Maintain field sanitation.
+    *   **Chemical Control (CIBRC Approved):**
+        *   Spray with **Chlorantraniliprole** (0.3 ml/L water), **Flubendiamide** (0.2 ml/L water), or **Emamectin benzoate** (0.2 g/L water) when initial symptoms or pest activity are observed. Ensure thorough coverage, especially on stems and growing points.
+
+**4. Physiological Stress (Severe Water Stress or Waterlogging)**
+
+*   **Symptoms:** General wilting, scorching, and drying of leaves and branches across the entire plant.
+    *   **Water Stress:** Leaves may turn crispy and brown.
+    *   **Waterlogging:** Roots may rot, leading to wilting and collapse, similar to root rot diseases.
+*   **Management:**
+    *   **Proper Irrigation:** Maintain consistent and adequate soil moisture. Avoid both drought and excessive irrigation.
+    *   **Drainage:** Ensure good soil drainage. For heavy soils, consider raised beds.
+    *   **Mulching:** Apply organic mulch around the base of plants to conserve soil moisture and regulate soil temperature.
+
+**Important Considerations:**
+
+*   **Accurate Diagnosis:** It is crucial to correctly identify the primary cause of drying. Observe symptoms carefully, check roots for galls or rot, and inspect stems for vascular discoloration or boreholes.
+*   **Integrated Pest Management (IPM):** Always prioritize a combination of cultural, biological, and chemical methods for sustainable and effective management.
+*   **Safety:** When using chemical pesticides, always wear appropriate personal protective equipment (PPE) and follow the manufacturer's instructions and safety guidelines strictly. Adhere to pre-harvest intervals (PHI).

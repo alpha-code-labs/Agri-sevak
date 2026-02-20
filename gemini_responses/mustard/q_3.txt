@@ -1,0 +1,110 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Mustard (Raya/Sarson) in Haryana. It's important to understand that many "rot" terms describe similar symptoms caused by a few key pathogens, especially soil-borne fungi.
+
+An Integrated Disease Management (IDM) approach, combining cultural, biological, and chemical methods, is crucial for effective control.
+
+### General Integrated Disease Management Principles for Rot Diseases:
+
+1.  **Crop Rotation:** Avoid planting mustard or other susceptible crops (like sunflower, chickpea, lentil, cabbage, cauliflower) in the same field for at least 3-4 years. Rotate with non-host crops like wheat, barley, or maize.
+2.  **Field Sanitation:** Remove and destroy infected plant debris from the previous season to reduce inoculum.
+3.  **Deep Ploughing:** Deep summer ploughing can expose fungal sclerotia to sunlight, reducing their viability.
+4.  **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can lead to lush growth more susceptible to disease. Ensure adequate potassium.
+5.  **Proper Drainage:** Ensure good field drainage to prevent waterlogging, which favors many soil-borne pathogens.
+6.  **Resistant Varieties:** Where available, choose mustard varieties known for resistance or tolerance to specific rot diseases.
+7.  **Certified Seeds:** Always use healthy, certified, disease-free seeds.
+
+### Specific Rot Types and Control Measures:
+
+Many of the rot types you mentioned (Root, Stem, Foot, Collar, Crown, Neck, Seedling rot) are often caused by a complex of soil-borne fungi.
+
+#### 1. Root, Stem, Foot, Collar, Crown, Neck, and Seedling Rot (Fungal Complex)
+
+These are primarily caused by fungi such as *Sclerotinia sclerotiorum* (White Mold/Stem Rot), *Rhizoctonia solani* (Root/Collar Rot, Damping-off), *Sclerotium rolfsii* (Collar Rot), and *Pythium* spp. (Damping-off, Seedling Rot). "Neck rot" in mustard is generally a manifestation of collar or stem rot occurring at the base of the plant.
+
+**Symptoms:**
+*   **Seedling Rot/Damping-off:** Seeds fail to germinate, or young seedlings collapse and rot at the soil line before or after emergence.
+*   **Collar/Foot/Crown Rot:** Water-soaked lesions develop at the soil line, girdling the stem, leading to wilting and plant death. White fungal growth and small, round, mustard-seed-like black structures (sclerotia) may be visible with *Sclerotinia* or *Sclerotium*.
+*   **Stem Rot:** Lesions appear on the stem, often higher up, leading to wilting of branches or the entire plant. Stems may become hollow with sclerotia inside (*Sclerotinia*).
+*   **Root Rot:** Roots turn brown/black and decay, leading to wilting and plant death.
+
+**Control Measures:**
+
+*   **Cultural & Biological:** Implement general IDM principles mentioned above.
+    *   Seed treatment with bio-agents: **Trichoderma viride** or **Trichoderma harzianum** @ 5-10 g/kg seed.
+    *   Soil application of **Trichoderma viride** or **Trichoderma harzianum** @ 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) before sowing.
+*   **Chemical (Seed Treatment):** To protect against seedling rot and early-stage infections.
+    *   **Thiram 75% WS** @ 2.5-3 g/kg seed.
+    *   **Carbendazim 50% WP** @ 2 g/kg seed.
+    *   **Captan 75% WS** @ 2.5 g/kg seed.
+    *   For specific *Pythium* control (damping-off): **Metalaxyl 35% WS** @ 6 g/kg seed.
+*   **Chemical (Foliar Spray/Soil Drench):** For established plants showing symptoms or as a preventive spray.
+    *   For *Sclerotinia* stem rot:
+        *   **Carbendazim 50% WP** @ 500 g/acre (dissolved in 200-250 L water).
+        *   **Thiophanate Methyl 70% WP** @ 500 g/acre (dissolved in 200-250 L water).
+        *   **Boscalid + Pyraclostrobin (25.2% + 12.8% WG)** @ 300-400 g/acre (dissolved in 200-250 L water).
+        *   **Fluopyram + Trifloxystrobin (17.7% + 17.7% SC)** @ 200-250 ml/acre (dissolved in 200-250 L water).
+        *   Apply at flowering stage or at the first appearance of symptoms.
+    *   For *Rhizoctonia* or *Sclerotium* collar/root rot (as a soil drench around affected plants):
+        *   **Carbendazim 50% WP** @ 1-2 g/L water.
+        *   **Metalaxyl-M + Mancozeb (3.3% + 66.7% WP)** @ 2.5 g/L water.
+
+#### 2. Black Rot
+
+This is a significant bacterial disease caused by *Xanthomonas campestris pv. campestris*.
+
+**Symptoms:**
+*   V-shaped yellow lesions appear at the leaf margins, extending inwards.
+*   Veins within the lesions turn black.
+*   Systemic infection can lead to blackening of vascular tissues in stems and petioles, wilting, and stunting.
+*   Can also affect pods, causing shriveling and blackening.
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Use disease-free, certified seeds. Hot water treatment of seeds (50°C for 20-30 minutes) can reduce seed-borne inoculum, but this requires careful temperature control.
+    *   Practice strict crop rotation with non-cruciferous crops for at least 2-3 years.
+    *   Avoid overhead irrigation, which can spread bacteria.
+    *   Remove and destroy infected plant debris.
+*   **Chemical (Foliar Spray):**
+    *   **Streptomycin Sulphate + Tetracycline Hydrochloride (90% + 10% SP)** @ 6 g/10 L water, mixed with **Copper Oxychloride 50% WP** @ 25 g/10 L water. Apply at the first sign of symptoms and repeat if necessary.
+
+#### 3. Pod Rot (Addressing "Fruit Rot")
+
+Mustard produces siliques (pods), not true fruits. Pod rot can be caused by various pathogens, primarily *Alternaria brassicae* (Alternaria Blight) and *Sclerotinia sclerotiorum*.
+
+**Symptoms:**
+*   **Alternaria Blight:** Dark, concentric spots with a yellow halo on pods, leading to shriveling and premature ripening. Seeds inside may be shriveled and discolored.
+*   **Sclerotinia:** Water-soaked lesions on pods, often with white fungal growth and sclerotia inside or on the surface, leading to pod decay.
+
+**Control Measures:**
+
+*   **Cultural:** Implement general IDM principles.
+*   **Chemical (Foliar Spray):**
+    *   For *Alternaria* pod blight:
+        *   **Mancozeb 75% WP** @ 1.5-2 kg/acre (dissolved in 200-250 L water).
+        *   **Propiconazole 25% EC** @ 200-250 ml/acre (dissolved in 200-250 L water).
+        *   **Azoxystrobin 23% SC** @ 200 ml/acre (dissolved in 200-250 L water).
+        *   **Tebuconazole 25.9% EC** @ 250-300 ml/acre (dissolved in 200-250 L water).
+        *   **Iprodione 50% WP** @ 500 g/acre (dissolved in 200-250 L water).
+        *   Start spraying at the flowering stage or when symptoms first appear, and repeat at 10-15 day intervals if disease pressure is high.
+    *   For *Sclerotinia* pod infection: The same fungicides recommended for *Sclerotinia* stem rot (e.g., **Carbendazim**, **Thiophanate Methyl**, **Boscalid + Pyraclostrobin**, **Fluopyram + Trifloxystrobin**) can be effective if applied preventively during flowering.
+
+#### 4. Seed Rot
+
+Seed rot refers to the decay of seeds before or during germination, often leading to poor stand establishment. It is typically caused by various seed-borne or soil-borne fungi like *Alternaria*, *Rhizoctonia*, *Sclerotinia*, and *Pythium*.
+
+**Symptoms:**
+*   Seeds fail to germinate.
+*   Seeds become soft, discolored, and disintegrate in the soil.
+
+**Control Measures:**
+
+*   **Cultural:**
+    *   Use healthy, certified seeds from reputable sources.
+    *   Ensure optimal soil moisture and temperature for rapid germination.
+*   **Chemical (Seed Treatment):** This is the most effective control for seed rot.
+    *   **Thiram 75% WS** @ 2.5-3 g/kg seed.
+    *   **Carbendazim 50% WP** @ 2 g/kg seed.
+    *   **Captan 75% WS** @ 2.5 g/kg seed.
+    *   For broad-spectrum protection, a combination of fungicides can be used, e.g., **Carbendazim 12% + Mancozeb 63% WP** @ 2.5 g/kg seed.
+
+Always read and follow the instructions on the pesticide label for safe and effective use. Consult your local agricultural extension office for the most current recommendations specific to your region and mustard variety.

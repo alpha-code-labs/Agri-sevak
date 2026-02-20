@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an integrated approach combining cultural practices, biological methods, and judicious use of CIBRC-approved chemicals for effective management of rot diseases in Cabbage.
+
+Here's how to control the various rot types:
+
+### General Rot Types (Root, Stem, Foot, Collar, Crown, Neck, Seed, Seedling, and Head Rot)
+
+These rots are primarily caused by soil-borne fungal pathogens such as *Pythium* spp., *Phytophthora* spp., *Rhizoctonia solani*, *Sclerotinia sclerotiorum*, and *Fusarium* spp. "Fruit rot" is not known to affect Cabbage in the botanical sense; however, if it refers to the rotting of the cabbage head, the following measures apply.
+
+**1. Cultural Practices:**
+*   **Crop Rotation:** Practice a 2-3 year rotation with non-cruciferous crops to reduce pathogen build-up in the soil.
+*   **Disease-Free Seeds:** Always use certified, disease-free seeds from reputable sources.
+*   **Soil Drainage:** Ensure good soil drainage to prevent waterlogging, which favors fungal growth. Raised beds can be beneficial.
+*   **Proper Spacing:** Maintain optimal plant spacing to ensure good air circulation and reduce humidity around plants.
+*   **Sanitation:** Promptly remove and destroy infected plant debris and diseased plants to prevent further spread.
+*   **Field Preparation:** Deep ploughing and summer solarization (covering moist soil with transparent polythene sheets for 4-6 weeks during hot months) can reduce soil-borne inoculum.
+*   **Nutrient Management:** Avoid excessive nitrogen fertilization, which can lead to lush, soft growth more susceptible to rot.
+
+**2. Biological Control:**
+*   **Seed Treatment:**
+    *   *Trichoderma viride* or *Pseudomonas fluorescens* @ 5-10 g/kg seed.
+*   **Soil Application/Drench:**
+    *   *Trichoderma viride* or *Pseudomonas fluorescens* @ 2.5 kg/acre mixed with 50-100 kg well-decomposed farmyard manure, applied before planting or as a drench @ 5 g/L water around the root zone.
+
+**3. Chemical Control:**
+*   **Seed Treatment (for Seed and Seedling Rot prevention):**
+    *   **Thiram** @ 2-3 g/kg seed.
+    *   **Carbendazim** @ 1-2 g/kg seed.
+    *   **Metalaxyl-M** @ 1-2 g/kg seed (especially effective against *Pythium* and *Phytophthora*).
+*   **Soil Drench/Foliar Spray (for Root, Stem, Foot, Collar, Crown, Neck, and Head Rot):**
+    *   **Propamocarb hydrochloride** @ 2-3 ml/L water as a drench around the base of the plants.
+    *   **Metalaxyl-M + Mancozeb** (combination product) @ 2-2.5 g/L water as a drench or foliar spray.
+    *   **Carbendazim** @ 1-1.5 g/L water as a drench.
+    *   **Validamycin** @ 2-3 ml/L water as a drench, particularly effective against *Rhizoctonia*.
+
+### Black Rot
+
+Black rot is a serious bacterial disease caused by *Xanthomonas campestris pv. campestris*.
+
+**1. Cultural Practices:**
+*   **Disease-Free Seeds:** Use certified disease-free seeds. Hot water treatment of seeds (50°C for 25-30 minutes) can reduce seed-borne bacteria, but may affect germination, so test a small batch first.
+*   **Crop Rotation:** Implement a strict 3-year crop rotation with non-cruciferous crops.
+*   **Sanitation:** Immediately remove and destroy infected plants and plant debris.
+*   **Irrigation:** Avoid overhead irrigation, especially when plants are wet, as water splash can spread bacteria. Drip irrigation is preferred.
+*   **Tool Hygiene:** Sanitize all farm tools and equipment regularly.
+
+**2. Chemical Control:**
+*   **Foliar Spray:**
+    *   **Streptomycin sulphate + Tetracycline hydrochloride** (antibiotic mixture) @ 0.5-1 g/L water, applied at early stages of infection.
+    *   **Copper oxychloride** @ 2.5-3 g/L water.
+    *   **Kasugamycin** @ 2-2.5 ml/L water.
+
+Always follow the manufacturer's instructions for dosage and safety precautions when using any chemical. Regular scouting for disease symptoms is crucial for timely intervention.

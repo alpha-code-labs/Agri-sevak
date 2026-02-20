@@ -1,0 +1,86 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding various rot types in Fig (Ficus carica). It's important to note that many of these "rot types" refer to the location of the disease rather than distinct pathogens, and they often share common causal agents and management strategies.
+
+The primary pathogens causing rots in Fig are often soil-borne fungi and oomycetes, thriving in conditions of poor drainage and high humidity. An integrated approach combining cultural, biological, and chemical methods is crucial for effective control.
+
+Here's a comprehensive guide:
+
+### General Management Principles for All Rot Types
+
+Prevention is key. Implement these cultural practices diligently:
+
+1.  **Site Selection and Soil Preparation:**
+    *   Choose well-drained soils. Avoid heavy clay soils prone to waterlogging.
+    *   Improve soil drainage by incorporating organic matter (farmyard manure, compost) or by planting on raised beds, especially in areas with poor drainage.
+2.  **Irrigation Management:**
+    *   Avoid over-irrigation and standing water around the plant base.
+    *   Use drip irrigation to deliver water directly to the root zone, minimizing wetting of the collar region and foliage.
+    *   Irrigate in the morning to allow foliage and soil surface to dry.
+3.  **Planting Material:**
+    *   Use healthy, disease-free cuttings or seedlings from reputable sources.
+    *   Ensure proper planting depth; avoid burying the graft union (if applicable) or the collar region too deep.
+4.  **Sanitation:**
+    *   Remove and destroy infected plant parts (leaves, fruits, branches) immediately to reduce inoculum.
+    *   Keep the area around the trees free of weeds, which can harbor pests and diseases and impede air circulation.
+    *   Sterilize pruning tools before and after use, especially when working with infected plants.
+5.  **Nutrition:**
+    *   Provide balanced nutrition to enhance plant vigor and resistance. Avoid excessive nitrogen, which can promote lush, susceptible growth.
+6.  **Air Circulation:**
+    *   Prune trees to ensure good air circulation within the canopy, which helps in drying foliage and fruits, reducing humidity.
+7.  **Avoid Injury:**
+    *   Be careful during cultural operations (weeding, pruning, harvesting) to avoid mechanical injuries to roots, stems, and fruits, as these can serve as entry points for pathogens.
+
+### Specific Control Measures for Rot Types
+
+#### 1. Root, Stem, Foot, Collar, Crown, and Neck Rots
+
+These rots primarily affect the underground parts, the root-stem junction, and the lower stem. They are often caused by soil-borne pathogens like *Phytophthora* species (oomycetes), *Fusarium* species, and *Rhizoctonia solani*.
+
+*   **Symptoms:** Wilting, yellowing of leaves, stunted growth, bark discoloration, cankers, and rotting of roots, collar, or stem base.
+*   **Biological Control:**
+    *   Apply **Trichoderma viride** or **Pseudomonas fluorescens** formulations to the soil around the plant base.
+        *   **Trichoderma viride:** 2.5 kg/acre mixed with 50-100 kg of farmyard manure or compost, applied as a soil drench or incorporated into the soil.
+        *   **Pseudomonas fluorescens:** 2.5 kg/acre mixed with 50-100 kg of farmyard manure or compost, applied as a soil drench or incorporated into the soil.
+*   **Chemical Control (Soil Drench):**
+    *   For rots caused by oomycetes (*Phytophthora*):
+        *   **Fosetyl-aluminium:** Drench the soil around the plant base with a solution of 2-3 g/L of water. Repeat after 15-20 days if necessary.
+        *   **Propamocarb hydrochloride:** Drench the soil around the plant base with a solution of 2-3 ml/L of water. Repeat after 15-20 days if necessary.
+    *   For rots caused by fungi (*Fusarium*, *Rhizoctonia*):
+        *   **Carbendazim:** Drench the soil around the plant base with a solution of 1-2 g/L of water.
+        *   **Thiophanate methyl:** Drench the soil around the plant base with a solution of 1-1.5 g/L of water.
+
+#### 2. Black Rot and Fruit Rot
+
+These rots affect the developing or mature fruits and can sometimes extend to twigs. Common pathogens include *Aspergillus niger* (Black Fig Mold), *Alternaria* species, *Botrytis cinerea* (Gray Mold), and *Rhizopus* species.
+
+*   **Symptoms:** Darkening, softening, and decay of fruits, often with visible fungal growth (black, gray, or white mold).
+*   **Biological Control:**
+    *   Foliar sprays of **Bacillus subtilis** formulations can help as a preventive measure, especially during fruit development.
+        *   **Bacillus subtilis:** 5 ml/L or 5 g/L of water, sprayed at regular intervals during fruit development.
+*   **Chemical Control (Foliar Spray):**
+    *   **Azoxystrobin:** Spray at a concentration of 0.5-1 ml/L of water, starting from fruit set and repeating every 10-14 days, especially during humid conditions.
+    *   **Tebuconazole:** Spray at a concentration of 0.75-1 ml/L of water, following similar timings as Azoxystrobin.
+    *   **Mancozeb:** As a broad-spectrum protectant, spray at 2-2.5 g/L of water, particularly before anticipated rain or high humidity.
+    *   **Chlorothalonil:** As a broad-spectrum protectant, spray at 2-2.5 g/L of water.
+
+#### 3. Seed Rot and Seedling Rot (Damping-off)
+
+While commercial fig propagation in Haryana primarily uses cuttings, if seeds are used, these rots can be an issue. They are caused by various soil-borne fungi and oomycetes (*Pythium*, *Phytophthora*, *Rhizoctonia*, *Fusarium*).
+
+*   **Symptoms:** Seeds fail to germinate (seed rot), or young seedlings collapse at the soil line (damping-off).
+*   **Cultural Practices:** Use sterilized potting mix, ensure good drainage in seed trays, and avoid overwatering.
+*   **Biological Control:**
+    *   Treat seeds with **Trichoderma viride** or **Pseudomonas fluorescens** formulations.
+        *   **Trichoderma viride:** 5-10 g/kg of seed.
+        *   **Pseudomonas fluorescens:** 5-10 g/kg of seed.
+*   **Chemical Control (Seed Treatment):**
+    *   **Captan:** Treat seeds at 2-3 g/kg of seed.
+    *   **Thiram:** Treat seeds at 2-3 g/kg of seed.
+    *   **Carbendazim:** Treat seeds at 1-2 g/kg of seed.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the chemical label for dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Observe the pre-harvest interval (PHI) for any chemical applied to fruiting plants.
+
+By implementing these integrated strategies, you can effectively manage and control various rot types in your fig orchard. For specific diagnosis and tailored advice, it is always recommended to consult with the plant pathology department at HAU, Hisar, or your local agricultural extension officer.

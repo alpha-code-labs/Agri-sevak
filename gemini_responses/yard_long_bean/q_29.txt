@@ -1,0 +1,24 @@
+Dropping (flower drop and fruit drop) in Yard Long Bean is a common physiological issue that can significantly reduce yield. It is often caused by a combination of environmental stresses, nutritional deficiencies, and hormonal imbalances. "Tinda/Boll dropping" is not relevant to Yard Long Bean, as Tinda is a different crop (Praecitrullus fistulosus) and "boll" refers to cotton (Gossypium spp.).
+
+Here are scientifically verified methods to control flower and fruit drop in Yard Long Bean:
+
+**1. Optimize Agronomic Practices:**
+
+*   **Water Management:** Maintain consistent soil moisture, especially during flowering and pod development. Avoid both waterlogging (which can lead to root rot and stress) and severe drought stress. Irrigate deeply when the topsoil feels dry to the touch.
+*   **Temperature Management:** Plant at appropriate times to avoid extreme temperatures (above 35°C or below 15°C) during the critical flowering and fruiting stages, as these can cause pollen sterility and flower abortion.
+*   **Nutrient Management:** Conduct a soil test to identify specific nutrient deficiencies. Ensure balanced fertilization based on the test results.
+    *   Apply adequate Phosphorus and Potassium as per soil test recommendations, as these are crucial for flowering and fruiting.
+    *   Ensure sufficient micronutrients, particularly Boron and Molybdenum, which are vital for pollen viability, fertilization, and overall reproductive health.
+*   **Sunlight:** Ensure the plants receive at least 6-8 hours of direct sunlight daily. Shading or overcrowding can lead to poor flowering and increased drop.
+*   **Plant Spacing:** Maintain optimal plant spacing to ensure good air circulation and light penetration, reducing competition for resources among plants.
+*   **Pest and Disease Control:** Promptly manage any significant pest infestations (e.g., aphids, thrips, mites) or diseases that can weaken the plant and indirectly contribute to flower and fruit drop.
+
+**2. Chemical Interventions (CIBRC approved technical names):**
+
+*   **Micronutrient Application:**
+    *   **Boron:** If Boron deficiency is suspected or confirmed by soil test, apply **Disodium octaborate tetrahydrate** (e.g., 1.5-2.0 g/L of water as a foliar spray) or **Sodium tetraborate decahydrate** (Borax) (e.g., 2.0-3.0 kg/acre as soil application before planting, or 1.0-1.5 g/L of water as a foliar spray).
+    *   **Molybdenum:** If Molybdenum deficiency is suspected, apply **Sodium molybdate** or **Ammonium molybdate** (e.g., 0.5-1.0 g/L of water as a foliar spray).
+    *   **Zinc:** If Zinc deficiency is observed, apply **Zinc sulphate heptahydrate** (e.g., 0.5% solution, 5 g/L of water as a foliar spray).
+
+*   **Plant Growth Regulators (PGRs):**
+    *   **Naphthalene Acetic Acid (NAA):** Apply **Naphthalene Acetic Acid** at a concentration of 10-20 ppm (e.g., 0.2-0.4 ml of 4.5% SL formulation per litre of water) as a foliar spray. The first spray should be given at the pre-flowering stage, followed by a second spray at the full-flowering stage. This helps in preventing the formation of the abscission layer, thereby reducing flower and fruit drop and promoting better fruit set.

@@ -1,0 +1,43 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice regarding rust diseases in Toria for Haryana.
+
+First, it is important to clarify which rust diseases affect Toria:
+
+*   **Black Rust (Stem Rust), Brown Rust (Leaf Rust), Yellow Rust (Stripe Rust), and Red Rust** are primarily diseases of cereal crops like wheat and are **not known to affect Toria**.
+
+*   However, **White Rust (caused by *Albugo candida*)** is a significant and common disease of Toria and other cruciferous crops in Haryana. It can cause considerable yield losses if not managed properly.
+
+### Control of White Rust (*Albugo candida*) in Toria
+
+White Rust manifests as white, creamy, raised pustules primarily on the underside of leaves, stems, and floral parts. Severe infection can lead to hypertrophy and distortion of inflorescence, forming "stagheads," which are sterile and reduce yield.
+
+An integrated approach combining cultural practices and chemical control is recommended for effective management:
+
+**1. Cultural Practices:**
+
+*   **Crop Rotation:** Avoid continuous cultivation of Toria or other cruciferous crops in the same field. A rotation with non-host crops helps reduce inoculum in the soil.
+*   **Sanitation:** Remove and destroy infected plant debris after harvest to reduce the primary inoculum source for the next season.
+*   **Resistant Varieties:** Where available and recommended by HAU, cultivate varieties known to possess resistance or tolerance to White Rust.
+*   **Timely Sowing:** Sowing at the optimal time can help the crop escape peak disease conditions.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, as it can make the crop more susceptible to disease. Ensure adequate phosphorus and potassium.
+
+**2. Chemical Control (Fungicides):**
+
+For effective chemical control, apply fungicides at the appearance of initial symptoms or as a prophylactic measure if the disease is historically severe in the area. Always ensure thorough spray coverage.
+
+*   **Metalaxyl 8% + Mancozeb 64% WP**
+    *   **Dosage:** 2.5 kg/acre
+    *   **Application:** Mix the recommended quantity in 500-600 litres of water and spray uniformly. This is a systemic and contact fungicide combination effective against oomycetes like *Albugo*.
+
+*   **Azoxystrobin 23% SC**
+    *   **Dosage:** 200 ml/acre
+    *   **Application:** Mix the recommended quantity in 200-300 litres of water and spray uniformly. Azoxystrobin is a strobilurin fungicide with protective, curative, eradicant, and systemic properties.
+
+*   **Propineb 70% WP**
+    *   **Dosage:** 1.5-2.0 kg/acre
+    *   **Application:** Mix the recommended quantity in 500-600 litres of water and spray uniformly. Propineb is a broad-spectrum contact fungicide that provides good protective action.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the fungicide label, including dosage, mixing instructions, safety precautions, and pre-harvest interval (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of fungicide resistance.
+*   Consult with your local agricultural extension officer or HAU experts for the most current recommendations specific to your region and prevailing disease pressure.

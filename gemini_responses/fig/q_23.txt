@@ -1,0 +1,46 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified recommendations for Fig (*Ficus carica*) cultivation in Haryana:
+
+### Seed Treatment for Fig
+
+For commercial cultivation of Fig (*Ficus carica*) in Haryana, propagation is predominantly done through vegetative cuttings (e.g., hardwood cuttings) rather than seeds. Therefore, a dedicated seed treatment process is generally **not recommended or practiced** for fig cultivation. If, in rare cases, seeds are used (e.g., for breeding purposes or specific rootstock development), a basic fungicidal treatment could be considered to prevent damping-off, but this is not a standard commercial recommendation for fig orchards.
+
+### Soil Treatment Process for Fig
+
+Soil treatment for fig focuses on preparing the soil before planting and managing soil-borne issues in established orchards.
+
+#### 1. Pre-Plant Soil Treatment (Before planting cuttings/saplings)
+
+*   **Soil Solarization:** This is a highly effective non-chemical method, especially suitable for Haryana's climate.
+    *   Moisten the soil thoroughly.
+    *   Cover the prepared land with a transparent polyethylene sheet (100-200 micron thickness) for 4-6 weeks during the hot summer months (May-June).
+    *   This process helps in reducing populations of soil-borne pathogens (fungi, bacteria), nematodes, and weed seeds by increasing soil temperature.
+*   **Organic Matter Incorporation:**
+    *   Incorporate well-decomposed farmyard manure (FYM) or compost @ 20-30 kg per planting pit, at least 2-3 weeks before planting. This improves soil structure, water retention, and provides essential nutrients.
+*   **Bio-agent Enrichment:**
+    *   Mix 2-4 kg of **Trichoderma viride** (2 x 10^6 CFU/g) and 2-4 kg of **Pseudomonas fluorescens** (2 x 10^8 CFU/g) with 100 kg of well-decomposed FYM/compost.
+    *   Apply this mixture @ 50-100 g per planting pit or 200-400 kg/acre (mixed with FYM) 7-10 days before planting. This helps in establishing beneficial microbial populations that suppress soil-borne diseases.
+
+#### 2. Post-Plant Soil Treatment (For established Fig orchards)
+
+*   **Nematode Management (e.g., Root-knot nematodes - *Meloidogyne* spp.):**
+    *   **Cultural Practices:** Maintain high levels of soil organic matter. Avoid planting susceptible intercrops.
+    *   **Biological Control:**
+        *   Drench the root zone with **Purpureocillium lilacinum** (2 x 10^6 CFU/g) @ 2-4 kg/acre, mixed with 100 kg of FYM/compost. Apply near the root zone and irrigate. Repeat every 6-12 months based on infestation levels.
+    *   **Chemical Control (only if severe infestation is diagnosed and justified):**
+        *   Apply **Carbofuran** 3G @ 10-15 kg/acre (granular) or **Fipronil** 0.3G @ 20-30 kg/acre (granular) near the root zone and irrigate immediately. *Note: Carbofuran is a restricted use pesticide and should be used with extreme caution and as per label instructions.*
+
+*   **Soil-borne Fungal Diseases (e.g., Root Rot, Wilt):**
+    *   **Cultural Practices:** Ensure excellent soil drainage to prevent waterlogging. Avoid mechanical injury to roots.
+    *   **Biological Control:**
+        *   Drench the root zone with **Trichoderma harzianum** (2 x 10^6 CFU/g) @ 2-4 kg/acre, mixed with 100 kg of FYM/compost. Apply near the root zone and irrigate. Repeat as needed, especially during periods conducive to disease development.
+    *   **Chemical Control (only if severe and diagnosed):**
+        *   Drench the root zone with **Propamocarb hydrochloride** 72.2% SL @ 2.5 ml/L of water, or **Metalaxyl 8% + Mancozeb 64% WP** @ 2.5 g/L of water. Ensure thorough wetting of the root zone around affected plants.
+
+*   **Soil Health and Nutrient Mobilization:**
+    *   **Organic Matter:** Regularly apply well-decomposed FYM/compost @ 20-30 kg per plant annually to maintain soil health and fertility.
+    *   **Bio-fertilizers:**
+        *   Apply **Bacillus megaterium** (PSB - Phosphate Solubilizing Bacteria) @ 2-4 kg/acre.
+        *   Apply **Frateuria aurantia** (KMB - Potash Mobilizing Bacteria) @ 2-4 kg/acre.
+        *   Mix these bio-fertilizers with 100 kg of FYM/compost and apply near the root zone annually, preferably during the monsoon season or post-harvest.
+
+Always ensure proper diagnosis of any pest or disease problem before applying chemical treatments. Integrated Pest and Disease Management (IPDM) approaches, prioritizing cultural and biological methods, are highly recommended for sustainable fig cultivation.

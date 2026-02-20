@@ -1,0 +1,42 @@
+As a Senior Agronomist at HAU, Hisar, I must emphasize that there are no direct chemical treatments to cure viral diseases in plants once they are infected. The control strategies for viral diseases in strawberry primarily focus on prevention, managing insect vectors, and cultural practices.
+
+Here's how to control the mentioned conditions in Strawberry:
+
+1.  **Tristeza:**
+    *   This is not known to affect Strawberry. *Citrus Tristeza Virus* (CTV) is specific to citrus plants.
+
+2.  **Leaf curl, Mosaic, Yellow vein clearing, and Stunt virus:**
+    These are common symptoms or disease complexes in strawberry caused by various viruses (e.g., Strawberry mottle virus, Strawberry mild yellow edge virus, Strawberry crinkle virus, Strawberry vein banding virus, Strawberry latent ringspot virus, etc.). The control measures are largely similar for all of them.
+
+    **Primary Control Measures (Cultural & Horticultural):**
+    *   **Use Certified Virus-Free Planting Material:** Always source strawberry runners or plants from reputable, certified nurseries that guarantee virus-free stock. This is the most critical step.
+    *   **Rogueing and Destruction of Infected Plants:** Regularly inspect your strawberry beds. Any plant showing symptoms of viral infection (stunting, leaf distortion, mosaic patterns, yellowing, vein clearing, curling) should be immediately removed and destroyed (preferably by burning or deep burial) to prevent the spread of the virus to healthy plants.
+    *   **Weed Management:** Many weeds can act as alternative hosts for viruses and their insect vectors. Keep the strawberry beds and surrounding areas free of weeds.
+    *   **Crop Rotation:** While strawberries are perennial, rotating the planting site every few years can help reduce the build-up of soil-borne viruses and vectors.
+    *   **Resistant Varieties:** If available and suitable for Haryana's climate, choose strawberry varieties known to have resistance or tolerance to common viral diseases.
+    *   **Sanitation:** Clean tools and equipment regularly, especially after working with infected plants, to prevent mechanical transmission of viruses.
+
+    **Vector Control (Chemical - CIBRC Approved):**
+    Many strawberry viruses are transmitted by insect vectors, primarily aphids, but also mites and nematodes for some specific viruses. Controlling these vectors is crucial to prevent the spread of the disease.
+
+    *   **For Aphids (common vectors for most strawberry viruses):**
+        *   **Imidacloprid 17.8% SL:** Apply at 0.5-1 ml/L of water as a foliar spray, or 125-150 ml/acre.
+        *   **Thiamethoxam 25% WG:** Apply at 0.2-0.4 g/L of water as a foliar spray, or 50-100 g/acre.
+        *   **Acetamiprid 20% SP:** Apply at 0.2-0.4 g/L of water as a foliar spray, or 50-100 g/acre.
+        *   **Flonicamid 50% WG:** Apply at 0.4-0.6 g/L of water as a foliar spray, or 100-150 g/acre.
+        *   **Spirotetramat 150 OD:** Apply at 0.8-1 ml/L of water as a foliar spray, or 200-250 ml/acre.
+
+    *   **For Mites (if they are identified as vectors for specific viruses in your area):**
+        *   **Spiromesifen 22.9% SC:** Apply at 0.6-0.8 ml/L of water as a foliar spray, or 150-200 ml/acre.
+        *   **Fenpyroximate 5% SC:** Apply at 0.8-1.2 ml/L of water as a foliar spray, or 200-300 ml/acre.
+
+    *   **For Nematodes (if a specific soil-borne, nematode-transmitted virus like Tobacco Ringspot Virus or Tomato Ringspot Virus is suspected):**
+        *   **Fluensulfone 2% GR:** Apply at 10-15 kg/acre as a granular application to the soil before planting or around existing plants, followed by light irrigation.
+
+3.  **Stripe:**
+    While a specific "Stripe virus" is not a primary disease name for strawberry, some viral infections can cause streaking or line patterns on leaves or petioles. If such symptoms are observed, the control measures would be similar to those outlined above for other viral diseases affecting strawberry, focusing on prevention and vector control.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the pesticide label for correct dosage, application method, safety precautions, and pre-harvest intervals.
+*   Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods, is recommended for sustainable control.
+*   Regular monitoring of your strawberry plants for early signs of disease or pest infestation is key to effective management.

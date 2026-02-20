@@ -1,0 +1,47 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an Integrated Pest Management (IPM) approach for controlling sucking pests in Kaner (Nerium oleander). This involves a combination of cultural, mechanical, biological, and chemical methods.
+
+While Aphids, Leafhoppers, Whiteflies, and Thrips are common sucking pests of Kaner, Psylla is not widely reported as a significant pest of Kaner (Nerium oleander) in Haryana. However, the chemical control measures recommended for other sucking pests would also be effective against Psylla if they were to occur.
+
+### Integrated Pest Management (IPM) Strategies:
+
+1.  **Regular Monitoring:** Inspect your Kaner plants frequently, especially new shoots and the undersides of leaves, to detect pest infestations early.
+2.  **Cultural Practices:**
+    *   **Pruning:** Remove heavily infested leaves or branches to reduce pest populations.
+    *   **Sanitation:** Keep the area around the plants free of weeds, which can harbor pests.
+    *   **Proper Nutrition & Watering:** Healthy plants are more resilient to pest attacks. Avoid excessive nitrogen fertilization, which can promote lush, soft growth attractive to sucking pests.
+3.  **Mechanical Control:**
+    *   For small infestations, a strong jet of water can dislodge aphids and whiteflies from the plant.
+    *   Hand-picking can be effective for visible clusters of pests.
+4.  **Biological Control:** Encourage natural enemies like ladybird beetles, lacewings, and hoverfly larvae, which prey on aphids and other soft-bodied insects. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+### Chemical Control (When Necessary):
+
+If infestations are severe and other methods are insufficient, CIBRC-approved insecticides can be used. Always rotate insecticides with different modes of action to prevent the development of resistance. Apply sprays thoroughly, ensuring coverage on the undersides of leaves where many sucking pests reside.
+
+Here are some recommended CIBRC-approved technical chemicals:
+
+*   **For mild to moderate infestations, or as a preventive measure:**
+    *   **Azadirachtin 1500 ppm (Neem-based formulation):** 5 ml/L of water.
+        *   *Mode of Action:* Antifeedant, repellent, insect growth regulator. Effective against early stages of pests.
+
+*   **For moderate to severe infestations:**
+    *   **Imidacloprid 17.8% SL:** 0.5 - 0.75 ml/L of water.
+        *   *Mode of Action:* Systemic neonicotinoid, effective against a wide range of sucking pests.
+    *   **Thiamethoxam 25% WG:** 0.3 - 0.4 g/L of water.
+        *   *Mode of Action:* Systemic neonicotinoid, similar to Imidacloprid, good for resistance management rotation.
+    *   **Acetamiprid 20% SP:** 0.3 - 0.4 g/L of water.
+        *   *Mode of Action:* Systemic neonicotinoid, effective against aphids, whiteflies, and thrips.
+    *   **Flonicamid 50% WG:** 0.3 g/L of water.
+        *   *Mode of Action:* Selective feeding blocker, highly effective against aphids and whiteflies.
+    *   **Buprofezin 25% SC:** 1.25 ml/L of water.
+        *   *Mode of Action:* Insect growth regulator, particularly effective against whitefly nymphs and mealybugs.
+    *   **Diafenthiuron 50% WP:** 1 g/L of water.
+        *   *Mode of Action:* Pro-insecticide, effective against whiteflies, thrips, and also mites.
+
+### Important Considerations:
+
+*   **Timing of Application:** Apply insecticides during cooler parts of the day (early morning or late evening) to minimize evaporation and maximize efficacy, and to protect pollinators if any are active.
+*   **Thorough Coverage:** Ensure complete coverage of the plant, especially the undersides of leaves, where pests often hide.
+*   **Safety Precautions:** Always wear appropriate personal protective equipment (gloves, mask, eye protection) while handling and applying pesticides. Read and follow the instructions on the product label carefully.
+*   **Resistance Management:** Do not use the same insecticide repeatedly. Rotate between different classes of insecticides (those with different modes of action) to prevent pests from developing resistance.
+*   **Consult Local Experts:** For specific recommendations tailored to your local conditions and pest pressure, it is always advisable to consult with the agricultural extension services at HAU or your local Krishi Vigyan Kendra (KVK).

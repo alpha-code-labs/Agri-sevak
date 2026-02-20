@@ -1,0 +1,62 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Chillies in Haryana, based on scientific research and best practices. It is crucial to emphasize that **soil testing is the most accurate method** to determine precise nutrient requirements for your specific field. The recommendations below are general guidelines for soils of average fertility.
+
+**General NPK Recommendation for Chillies:**
+*   **Nitrogen (N):** 100-120 kg/acre
+*   **Phosphorus (P2O5):** 60 kg/acre
+*   **Potassium (K2O):** 60 kg/acre
+
+**Fertilizer Recommendations and Application Schedule:**
+
+**1. Basal Application (At the time of transplanting/sowing):**
+
+*   **Option A: Using Diammonium Phosphate (DAP) for Phosphorus**
+    *   **Diammonium Phosphate (DAP):** 130 kg/acre (This provides 60 kg P2O5 and approximately 23.4 kg N).
+    *   **Muriate of Potash (Potassium Chloride):** 50 kg/acre (This provides 30 kg K2O).
+    *   **Elemental Sulphur (90%):** 20-25 kg/acre (If not using SSP, Sulphur is essential).
+    *   **Urea:** 55-70 kg/acre (This provides approximately 25-32 kg N, making up 1/3rd of the remaining N requirement after DAP).
+
+*   **Option B: Using Single Super Phosphate (SSP) for Phosphorus**
+    *   **Single Super Phosphate (SSP):** 375 kg/acre (This provides 60 kg P2O5 and approximately 41 kg Sulphur).
+    *   **Muriate of Potash (Potassium Chloride):** 50 kg/acre (This provides 30 kg K2O).
+    *   **Urea:** 70-85 kg/acre (This provides approximately 33-40 kg N, making up 1/3rd of the total N requirement).
+
+**2. Top Dressing (Split Applications for Nitrogen and Potassium):**
+
+*   **First Top Dressing (30-45 Days After Transplanting - DAT):**
+    *   **Urea:** 85-105 kg/acre (If using DAP in basal, this provides 38-48 kg N, which is 1/3rd of the remaining N).
+    *   **Urea:** 70-85 kg/acre (If using SSP in basal, this provides 33-40 kg N, which is 1/3rd of the total N).
+    *   **Muriate of Potash (Potassium Chloride):** 50 kg/acre (This provides the remaining 30 kg K2O).
+
+*   **Second Top Dressing (60-75 DAT):**
+    *   **Urea:** 85-105 kg/acre (If using DAP in basal, this provides the final 1/3rd of the remaining N).
+    *   **Urea:** 70-85 kg/acre (If using SSP in basal, this provides the final 1/3rd of the total N).
+
+**3. Nano-Fertilizers (As Supplements):**
+
+Nano-fertilizers are excellent for enhancing nutrient use efficiency and providing quick nutrient boosts, but they are **supplements** and not complete replacements for conventional basal fertilizer applications.
+
+*   **Nano-Urea (4% N):**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Application:** 2-3 foliar sprays, starting from 30-45 DAT, at an interval of 15-20 days.
+
+*   **Nano-DAP (8% N, 16% P2O5):**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Application:** 2-3 foliar sprays, starting from 30-45 DAT, at an interval of 15-20 days. Can be combined with Nano-Urea sprays.
+
+**4. NPK (Complex Fertilizers):**
+
+If you choose to use complex NPK fertilizers (e.g., NPK 12:32:16, NPK 10:26:26), adjust the doses to meet the elemental N, P2O5, and K2O requirements as specified above. Any remaining nutrient deficit should be supplemented with straight fertilizers like **Urea** or **Muriate of Potash (Potassium Chloride)**.
+
+**5. Micronutrients:**
+
+Chillies are sensitive to micronutrient deficiencies, especially Boron, Zinc, and Iron.
+*   **Zinc Sulphate (33% Zn):** 10-15 kg/acre as basal application, or foliar spray of **Zinc EDTA (12% Zn)** at 0.5 g/L water.
+*   **Borax (10.5% B):** 5-10 kg/acre as basal application, or foliar spray of **Disodium Octaborate Tetrahydrate (20% B)** at 1 g/L water.
+*   **Ferrous Sulphate (19% Fe):** 10-15 kg/acre as basal application, or foliar spray of **Ferrous EDTA (12% Fe)** at 0.5 g/L water.
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test to get precise recommendations tailored to your field's nutrient status.
+*   **Organic Matter:** Incorporate 8-10 tonnes/acre of well-decomposed Farm Yard Manure (FYM) or compost during land preparation to improve soil health and nutrient availability.
+*   **Irrigation:** Ensure adequate and timely irrigation, especially after fertilizer application, to facilitate nutrient uptake.
+*   **Method of Application:** Basal fertilizers should be thoroughly mixed into the soil before transplanting. Top-dressed fertilizers should be broadcast near the plant base and lightly incorporated, followed by irrigation.

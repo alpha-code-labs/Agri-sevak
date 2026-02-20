@@ -1,0 +1,29 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling these pests in Snap Melon:
+
+### Control of Fruit Fly (*Bactrocera cucurbitae*) in Snap Melon
+
+The Melon Fruit Fly (*Bactrocera cucurbitae*) is a major pest of cucurbits, including Snap Melon, in Haryana. Its larvae bore into the developing fruits, causing significant damage and making them unfit for consumption. An Integrated Pest Management (IPM) approach is crucial for effective control.
+
+**1. Cultural Practices:**
+*   **Field Sanitation:** Regularly collect and destroy (bury deep or burn) all infested, fallen, or damaged fruits. This is critical to break the pest's life cycle by eliminating the larvae and pupae.
+*   **Deep Ploughing:** After harvest, deep ploughing of the field can expose pupae in the soil to predators and adverse weather conditions, reducing the population for the next season.
+*   **Crop Rotation:** Avoid planting cucurbits in successive seasons in the same field to reduce pest build-up.
+*   **Early Harvesting:** Harvest fruits as soon as they reach maturity to prevent the flies from laying eggs in overripe fruits.
+
+**2. Mechanical Methods:**
+*   **Pheromone Traps:** Install specific pheromone traps (e.g., methyl eugenol traps) at a density of 10-12 traps per acre, starting from the flowering stage. These traps attract and kill male fruit flies, disrupting mating. Replace the lures every 2-3 weeks.
+*   **Fruit Bagging:** For high-value crops or small-scale cultivation, individual fruits can be covered with paper or cloth bags at an early stage of development to prevent the flies from laying eggs.
+
+**3. Chemical Control (as a last resort and judiciously):**
+*   **Poison Bait Sprays:** This is the most effective and environmentally friendly chemical method for fruit flies, as it targets adult flies without widespread spraying on the crop.
+    *   Prepare a bait solution by mixing 100 g of jaggery or molasses with 10 ml of **Malathion** 50% EC in 1 litre of water.
+    *   Apply this bait solution as small droplets (not a full spray) on the leaves of non-fruiting plants or on trap crops (like castor) around the field, preferably in the morning hours.
+    *   Target 50-100 spots per acre, ensuring the bait is accessible to adult flies. Repeat at 7-10 day intervals, especially during peak activity.
+*   **Foliar Sprays (only if infestation is severe and bait sprays are insufficient, and with caution regarding pre-harvest interval):**
+    *   **Deltamethrin** 2.8% EC at 0.5 ml/L of water.
+    *   **Lambda-cyhalothrin** 5% EC at 0.5 ml/L of water.
+    *   *Note: Always check the pre-harvest interval (PHI) for any insecticide used on fruiting vegetables to ensure food safety.*
+
+### Control of Ber Fly (*Carpomyia vesuviana*) in Snap Melon
+
+This is not known to affect Snap Melon. The Ber fly (*Carpomyia vesuviana*) is a host-specific pest primarily affecting Ber (*Ziziphus mauritiana*) fruits.

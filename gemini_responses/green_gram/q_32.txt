@@ -1,0 +1,91 @@
+Namaste Kisan Bhaiyon,
+
+The symptom of "drying up" (drying branches, leaves, fruits, and flowers) in Green Gram (Moong bean) is a general indication of severe stress or disease. As a Senior Agronomist, I advise a thorough examination to identify the specific cause, as management strategies vary significantly.
+
+Here are the potential causes and their management strategies:
+
+**I. Diseases**
+
+1.  **Wilt/Root Rot (e.g., Fusarium Wilt, Sclerotium Rot):**
+    *   **Symptoms:** Plants show sudden wilting, yellowing, and drying, often in patches. The stem base or roots may show rotting, discoloration, or white fungal growth with mustard-seed-like structures (sclerotia) in the case of Sclerotium rot.
+    *   **Management:**
+        *   **Cultural Practices:**
+            *   Use disease-free seeds and resistant varieties (if available).
+            *   Practice proper crop rotation with non-host crops.
+            *   Ensure good field drainage to prevent waterlogging.
+            *   Remove and destroy infected plant debris.
+        *   **Chemical Control:**
+            *   **Seed Treatment:** Treat seeds before sowing with **Carbendazim 50% WP** @ 2 g/kg seed or **Thiram 75% WS** @ 2.5 g/kg seed.
+            *   **Soil Drenching (for established plants):** If symptoms appear in patches, drench the affected area with a solution of **Carbendazim 50% WP** @ 1 g/L water or **Propiconazole 25% EC** @ 1 ml/L water.
+
+2.  **Bacterial Blight:**
+    *   **Symptoms:** Water-soaked spots on leaves that enlarge and become angular, turning brown or black, leading to drying and scorching of leaves.
+    *   **Management:**
+        *   **Cultural Practices:**
+            *   Use disease-free seeds.
+            *   Practice crop rotation.
+            *   Avoid overhead irrigation if possible, as it can spread bacteria.
+        *   **Chemical Control:**
+            *   Foliar spray with **Copper Oxychloride 50% WP** @ 2.5 g/L water.
+
+3.  **Mungbean Yellow Mosaic Virus (MYMV):**
+    *   **Symptoms:** While primarily causing yellow mottling of leaves, severe infection can lead to stunted growth, reduced pod formation, and premature drying of the entire plant. The virus is transmitted by whiteflies.
+    *   **Management:**
+        *   **Cultural Practices:**
+            *   Use resistant/tolerant varieties.
+            *   Remove and destroy infected plants early to prevent spread.
+            *   Maintain field hygiene.
+        *   **Vector Control (Whiteflies):**
+            *   Spray with **Imidacloprid 17.8% SL** @ 0.5 ml/L water or **Thiamethoxam 25% WG** @ 0.2 g/L water or **Acetamiprid 20% SP** @ 0.2 g/L water.
+
+**II. Pests**
+
+1.  **Nematodes (e.g., Root-knot Nematodes):**
+    *   **Symptoms:** Plants appear stunted, yellow, and wilt easily, especially during hot periods, leading to premature drying. Examination of roots reveals galls or swellings.
+    *   **Management:**
+        *   **Cultural Practices:**
+            *   Practice deep summer ploughing to expose nematodes to sunlight.
+            *   Implement crop rotation with non-host crops (e.g., cereals).
+            *   Use organic amendments like neem cake.
+        *   **Chemical Control (Soil Application at Sowing):**
+            *   Apply **Carbofuran 3% G** @ 10 kg/acre or **Phorate 10% G** @ 4 kg/acre in the soil at the time of sowing. (Use with extreme caution and follow safety guidelines).
+
+2.  **Sucking Pests (Aphids, Whiteflies, Thrips):**
+    *   **Symptoms:** Heavy infestation can lead to direct sap depletion, causing leaves to curl, crinkle, turn yellow, and eventually dry up. They also transmit viruses like MYMV.
+    *   **Management:**
+        *   **Chemical Control:**
+            *   Spray with **Imidacloprid 17.8% SL** @ 0.5 ml/L water or **Thiamethoxam 25% WG** @ 0.2 g/L water or **Flonicamid 50% WG** @ 0.3 g/L water.
+
+**III. Physiological/Environmental Factors**
+
+1.  **Water Stress (Drought or Waterlogging):**
+    *   **Symptoms:**
+        *   **Drought:** Leaves wilt, turn yellow, scorch, and dry prematurely. Flowers and pods may drop.
+        *   **Waterlogging:** Roots are deprived of oxygen, leading to root rot, yellowing, wilting, and eventual drying of the plant.
+    *   **Management:**
+        *   **Drought:** Provide timely and adequate irrigation, especially during critical growth stages (flowering and pod development). Use mulching to conserve soil moisture.
+        *   **Waterlogging:** Ensure proper field drainage. Avoid planting in low-lying areas prone to water accumulation.
+
+2.  **Nutrient Deficiencies:**
+    *   **Symptoms:** General poor growth, specific leaf discoloration (e.g., yellowing, purpling), stunted development, and premature drying.
+    *   **Management:**
+        *   Conduct soil testing to identify specific deficiencies.
+        *   Apply balanced fertilizers as per recommendations.
+        *   Foliar application of micronutrients (e.g., Zinc, Iron) if deficiency is confirmed.
+
+3.  **Heat Stress:**
+    *   **Symptoms:** High temperatures can cause scorching of leaves, wilting, flower and pod abortion, and premature drying of plants.
+    *   **Management:**
+        *   Select heat-tolerant varieties.
+        *   Ensure adequate irrigation to help plants cope with heat.
+        *   Adjust sowing time to avoid peak heat periods during sensitive growth stages.
+
+4.  **Herbicide Injury:**
+    *   **Symptoms:** Accidental drift or overdose of herbicides can cause severe damage, leading to yellowing, necrosis, distortion, and drying of plant parts.
+    *   **Management:**
+        *   Use herbicides strictly as per recommended dosages and application methods.
+        *   Ensure proper calibration of sprayers and avoid drift to non-target crops.
+
+**Recommendation:**
+
+Carefully observe the affected plants. Look for patterns (scattered plants vs. patches), examine roots and stems for any discoloration, rotting, or galls, and check for the presence of pests. This detailed observation will help in accurate diagnosis and selection of the most appropriate management strategy. If unsure, collect samples and consult with the experts at HAU, Hisar for precise identification.

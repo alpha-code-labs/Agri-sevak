@@ -1,0 +1,108 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Indian Squash (Tinda) in Haryana.
+
+Effective management of rot diseases in Tinda requires an integrated approach combining cultural practices, biological controls, and judicious use of CIBRC-approved chemical fungicides.
+
+### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot
+*(Caused by pathogens such as *Pythium* spp., *Phytophthora* spp., *Fusarium* spp., *Sclerotium rolfsii*, and *Rhizoctonia solani*)*
+
+These diseases often manifest similarly, affecting the plant at or below the soil line, leading to wilting, yellowing, and eventual plant death.
+
+*   **Cultural Practices:**
+    *   Ensure excellent field drainage to prevent waterlogging, which favors rot pathogens.
+    *   Practice crop rotation with non-cucurbit crops for at least 2-3 years.
+    *   Avoid planting in fields with a history of severe rot diseases.
+    *   Maintain proper plant spacing to improve air circulation around the plant base.
+    *   Remove and destroy infected plant debris promptly to reduce inoculum.
+    *   Solarize soil during hot summer months to reduce pathogen load.
+    *   Avoid deep planting of seedlings.
+
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with *Trichoderma viride* or *Trichoderma harzianum* (4-6 g/kg seed) or *Pseudomonas fluorescens* (10 g/kg seed).
+    *   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* (2.5 kg/acre mixed with 50 kg well-decomposed farmyard manure) at the time of planting or transplanting.
+
+*   **Chemical Control:**
+    *   **Seed Treatment (Preventive):**
+        *   **Thiram** (2-3 g/kg seed)
+        *   **Captan** (2-3 g/kg seed)
+        *   **Metalaxyl-M** (3-6 g/kg seed, often in combination with other fungicides)
+    *   **Drenching/Foliar Application (for established plants, at first sign of disease):**
+        *   **Propamocarb hydrochloride** (2-3 ml/L water for drenching)
+        *   **Metalaxyl-M** (0.5-1 g/L water for drenching or foliar spray, often in combination with Mancozeb)
+        *   **Fosetyl-aluminium** (2-3 g/L water for drenching or foliar spray)
+        *   **Copper oxychloride** (2-3 g/L water for drenching)
+        *   **Validamycin** (2-3 ml/L water for drenching, particularly effective against *Rhizoctonia* and *Sclerotium*)
+        *   **Carbendazim** (1-1.5 g/L water for drenching)
+        *   **Thiophanate-methyl** (1-1.5 g/L water for drenching)
+
+### 2. Neck Rot
+This is not known to affect Indian Squash (Tinda).
+
+### 3. Black Rot (Gummy Stem Blight)
+*(Caused by *Didymella bryoniae*)*
+
+This disease affects leaves, stems, and fruits, causing dark, water-soaked lesions, often with gummy exudates on stems.
+
+*   **Cultural Practices:**
+    *   Use disease-free, certified seeds.
+    *   Practice crop rotation with non-cucurbit crops.
+    *   Remove and destroy infected plant parts and crop debris promptly.
+    *   Avoid overhead irrigation, which can facilitate spore dispersal.
+    *   Ensure good air circulation within the plant canopy.
+
+*   **Chemical Control (Foliar Spray, at first sign of disease):**
+    *   **Azoxystrobin** (0.5-1 ml/L water)
+    *   **Pyraclostrobin** (0.5-1 ml/L water, often in combination with Metiram)
+    *   **Tebuconazole** (0.5-1 ml/L water)
+    *   **Difenoconazole** (0.5 ml/L water)
+    *   **Mancozeb** (2-2.5 g/L water)
+    *   **Chlorothalonil** (2 g/L water)
+
+### 4. Fruit Rot
+*(Caused by various pathogens including *Phytophthora* spp., *Pythium* spp., *Didymella bryoniae*, *Colletotrichum* spp.)*
+
+Rotting of fruits can occur at any stage, often starting from contact with wet soil or through wounds.
+
+*   **Cultural Practices:**
+    *   Prevent fruits from direct contact with wet soil by using mulching (e.g., straw, plastic mulch).
+    *   Harvest fruits carefully to avoid injury, which can create entry points for pathogens.
+    *   Remove and destroy diseased fruits immediately to prevent spread.
+    *   Ensure good field sanitation.
+
+*   **Chemical Control (Foliar Spray, as a preventive measure or at first sign):**
+    *   The fungicides recommended for Root/Stem/Collar Rot and Black Rot will also help in managing fruit rots if applied systemically or protectively.
+    *   **Mancozeb** (2-2.5 g/L water)
+    *   **Copper oxychloride** (2-3 g/L water)
+    *   **Azoxystrobin** (0.5-1 ml/L water)
+
+### 5. Seed Rot and Seedling Rot (Damping-off)
+*(Caused by *Pythium* spp., *Phytophthora* spp., *Rhizoctonia solani*, *Fusarium* spp.)*
+
+Seed rot prevents germination, while seedling rot causes young seedlings to collapse at or below the soil line.
+
+*   **Cultural Practices:**
+    *   Use healthy, certified, disease-free seeds.
+    *   Plant seeds at the correct depth and spacing.
+    *   Ensure well-drained soil or nursery media.
+    *   Avoid overwatering, especially immediately after sowing.
+    *   Sterilize nursery media (e.g., by solarization or steaming) before use.
+    *   Maintain optimal soil temperature for quick germination.
+
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with *Trichoderma viride* or *Trichoderma harzianum* (4-6 g/kg seed) or *Pseudomonas fluorescens* (10 g/kg seed).
+    *   **Nursery Media Application:** Incorporate *Trichoderma viride* or *Trichoderma harzianum* into nursery media.
+
+*   **Chemical Control:**
+    *   **Seed Treatment (most effective for prevention):**
+        *   **Thiram** (2-3 g/kg seed)
+        *   **Captan** (2-3 g/kg seed)
+        *   **Metalaxyl-M** (3-6 g/kg seed, often in combination with other fungicides)
+        *   **Carbendazim** (1-2 g/kg seed)
+    *   **Drenching (if damping-off appears in nursery):**
+        *   **Propamocarb hydrochloride** (2-3 ml/L water)
+        *   **Metalaxyl-M** (0.5-1 g/L water)
+        *   **Validamycin** (2-3 ml/L water)
+
+**Important Considerations:**
+*   Always read and strictly follow the label instructions for any chemical product regarding dosage, application method, safety precautions, and pre-harvest interval (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of pathogen resistance.
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your farm's conditions and current disease pressure.

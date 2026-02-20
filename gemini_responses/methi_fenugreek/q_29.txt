@@ -1,0 +1,53 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding dropping in Methi (Fenugreek).
+
+Firstly, it's important to clarify that "Tinda/Boll dropping" is a term typically associated with crops like cotton. In Methi (Fenugreek), the phenomenon you are observing would be referred to as **flower drop** and **pod drop**.
+
+Dropping of flowers and young pods in Methi is a complex issue, often caused by a combination of physiological, environmental, nutritional, and sometimes pest/disease factors. It is rarely due to a single cause.
+
+Here's a scientifically verified approach to manage and control flower and pod dropping in Methi:
+
+**I. Agronomic and Cultural Practices (Preventive Measures):**
+
+These practices are fundamental for healthy plant growth and stress reduction, which indirectly minimizes dropping.
+
+*   **Optimal Sowing Time:** Ensure Methi is sown at the recommended time for your region in Haryana to avoid extreme temperatures (both high and low) during flowering and pod development stages. Stress from heat or cold can significantly increase dropping.
+*   **Balanced Nutrition:**
+    *   **Phosphorus (P) and Potassium (K):** Ensure adequate supply of P and K, which are crucial for flowering and pod development. Apply as per soil test recommendations.
+    *   **Micronutrients:** Deficiencies of micronutrients like Boron (B) and Zinc (Zn) can severely impact flower and pod retention.
+        *   **Boron:** Apply **Borax** (10.5% B) at 10-15 kg/acre as a soil application before sowing, or foliar spray **Disodium Octaborate Tetrahydrate** (20% B) at 1-1.5 g/L of water at pre-flowering and pod initiation stages.
+        *   **Zinc:** Apply **Zinc Sulphate Heptahydrate** (21% Zn) at 10-12 kg/acre as a soil application before sowing, or foliar spray at 0.5% (5 g/L water) at 30-40 days after sowing.
+*   **Water Management:**
+    *   **Avoid Water Stress:** Both drought and waterlogging can lead to severe flower and pod drop. Maintain consistent soil moisture, especially during flowering and pod development. Irrigate judiciously based on soil type and weather conditions.
+    *   **Light Irrigation:** If the soil is dry, provide a light irrigation before flowering to reduce stress.
+*   **Weed Control:** Weeds compete for nutrients, water, and light, stressing the Methi plants and contributing to dropping. Implement timely weed control measures.
+*   **Plant Spacing:** Maintain optimal plant spacing to ensure proper light penetration and air circulation, reducing competition and stress.
+
+**II. Hormonal Management (Direct Intervention):**
+
+Plant growth regulators can be effective in reducing flower and pod drop by influencing the plant's hormonal balance.
+
+*   **Naphthalene Acetic Acid (NAA):**
+    *   **Application:** Foliar spray of **Naphthalene Acetic Acid** (4.5% SL formulation) at a concentration of 20-40 ppm (parts per million). This typically translates to 0.5-1 ml of the 4.5% SL formulation per litre of water.
+    *   **Timing:** Apply at the initiation of flowering and repeat if necessary after 10-15 days, especially if environmental stress persists. NAA helps in preventing the formation of the abscission layer, thereby retaining flowers and young pods.
+
+**III. Pest and Disease Management (Indirect Causes):**
+
+While not direct causes of dropping, severe infestations of certain pests or diseases can stress the plant, leading to flower and pod drop.
+
+*   **Sucking Pests (Aphids, Jassids, Thrips):** These pests suck sap from tender parts, weakening the plant and potentially causing stress-induced dropping.
+    *   Control with foliar sprays of CIBRC approved insecticides like:
+        *   **Imidacloprid** (17.8% SL) at 0.25-0.5 ml/L of water.
+        *   **Thiamethoxam** (25% WG) at 0.2 g/L of water.
+        *   **Acetamiprid** (20% SP) at 0.2 g/L of water.
+*   **Fungal Diseases (e.g., Powdery Mildew, Rust):** Severe foliar diseases can reduce photosynthetic efficiency, leading to plant stress and dropping.
+    *   Control with CIBRC approved fungicides like:
+        *   **Mancozeb** (75% WP) at 2-2.5 g/L of water.
+        *   **Carbendazim** (50% WP) at 0.5-1 g/L of water.
+
+**Summary of Recommendations:**
+
+1.  **Prioritize good agronomic practices:** Ensure optimal sowing time, balanced nutrition (especially Boron and Zinc), and proper water management.
+2.  **Consider hormonal intervention:** If dropping is significant, a foliar spray of **Naphthalene Acetic Acid** (20-40 ppm) at flowering can be highly beneficial.
+3.  **Address pest and disease issues promptly:** Control sucking pests and foliar diseases if they are present and causing stress.
+
+By adopting an integrated approach combining these strategies, you can significantly reduce flower and pod dropping and improve the yield of your Methi crop. Always consult your local agricultural extension office for specific recommendations tailored to your farm's conditions.

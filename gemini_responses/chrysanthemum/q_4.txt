@@ -1,0 +1,36 @@
+Wilt, including Parawilt, is a significant disease complex affecting Chrysanthemum, primarily caused by soil-borne fungal pathogens such as *Fusarium oxysporum f. sp. chrysanthemi* and *Verticillium dahliae*, and sometimes by bacterial pathogens like *Ralstonia solanacearum*. Effective management requires an integrated approach combining cultural, biological, and chemical strategies.
+
+### Integrated Management Strategies for Wilt in Chrysanthemum:
+
+**1. Cultural Practices:**
+*   **Resistant Varieties:** Where available, select and plant chrysanthemum varieties known to be resistant or tolerant to wilt diseases.
+*   **Soil Sterilization/Solarization:** Before planting, sterilize the soil using steam or practice soil solarization during hot summer months (May-June in Haryana) for 4-6 weeks to reduce pathogen inoculum.
+*   **Sanitation:** Promptly remove and destroy infected plants, including their root systems, to prevent the spread of pathogens. Disinfect tools and equipment (e.g., with 1% sodium hypochlorite solution) regularly.
+*   **Crop Rotation:** Avoid planting Chrysanthemum or other susceptible crops (e.g., tomato, potato, brinjal) in the same field for at least 3-5 years. Rotate with non-host crops like cereals (e.g., wheat, maize).
+*   **Proper Drainage:** Ensure excellent soil drainage to prevent waterlogging, which can stress plants and favor pathogen development. Raised beds can be beneficial.
+*   **Balanced Nutrition:** Provide balanced nutrition to plants to enhance their natural resistance. Avoid excessive nitrogen, which can make plants more susceptible.
+*   **Disease-Free Planting Material:** Always use healthy, disease-free cuttings or plantlets from reputable sources.
+*   **Water Management:** Avoid overhead irrigation, which can splash soil and pathogens onto plants. Drip irrigation is preferred.
+
+**2. Biological Control:**
+*   **Trichoderma viride/harzianum:** Soil application or drenching with formulations of *Trichoderma viride* or *Trichoderma harzianum* (e.g., 2.5 kg/acre mixed with 50-100 kg farmyard manure or as a drench at 5-10 g/L of water) can help suppress soil-borne pathogens by competing for resources and producing antifungal compounds. Apply at planting or early stages.
+*   **Pseudomonas fluorescens:** Similar to *Trichoderma*, *Pseudomonas fluorescens* (e.g., 2.5 kg/acre mixed with FYM or as a drench at 5-10 g/L of water) can be used as a soil drench or root dip to promote plant growth and suppress pathogens.
+
+**3. Chemical Control:**
+Chemical control is often necessary, especially in areas with a history of wilt. It is most effective when applied preventively or at the very early stages of disease development. Always follow label instructions for dosage and application.
+
+*   **For Fungal Wilts (*Fusarium*, *Verticillium*):**
+    *   **Carbendazim:** Apply as a soil drench at 1-2 g/L of water, 2-3 times at 10-15 day intervals, starting from early stages or immediately after planting.
+    *   **Thiophanate-methyl:** Apply as a soil drench at 1-1.5 g/L of water, 2-3 times at 10-15 day intervals.
+    *   **Tebuconazole:** Apply as a soil drench at 0.75-1 ml/L of water, 2-3 times at 10-15 day intervals.
+    *   **Azoxystrobin:** Apply as a soil drench at 0.5-1 ml/L of water, 2-3 times at 10-15 day intervals.
+
+*   **For Bacterial Wilt (*Ralstonia*):**
+    *   **Streptomycin sulfate + Tetracycline hydrochloride:** Apply as a soil drench at 0.5-1 g/L of water (or as per product specific recommendation), 2-3 times at 7-10 day intervals.
+    *   **Copper Oxychloride:** Apply as a soil drench at 2-3 g/L of water, 2-3 times at 7-10 day intervals. This can also have some fungicidal effect.
+
+**Important Considerations:**
+*   **Accurate Diagnosis:** It is crucial to accurately identify the specific pathogen causing wilt, as control measures can vary. Consider sending plant samples to a plant pathology laboratory for diagnosis.
+*   **Integrated Approach:** Relying solely on chemical control is not sustainable. An integrated approach combining cultural, biological, and judicious chemical methods is most effective for long-term management.
+*   **Resistance Management:** Rotate different classes of fungicides/bactericides to prevent the development of pathogen resistance.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) when handling chemicals and follow all safety guidelines and pre-harvest intervals.

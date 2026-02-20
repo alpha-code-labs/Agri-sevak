@@ -1,0 +1,98 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide scientifically verified advice for controlling fungal diseases in Pigeon pea (Arhar/Tur) relevant to Haryana.
+
+Here's a breakdown of the diseases you've mentioned and their control measures:
+
+### 1. Alternaria Blight (Caused by *Alternaria cajani*)
+
+This is a significant fungal disease of Pigeon pea, especially during humid and warm conditions.
+
+*   **Symptoms:** Small, dark brown, circular spots with concentric rings appear on leaves, stems, and pods. Severe infection leads to defoliation and premature drying of plants.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Use resistant or tolerant varieties recommended for Haryana.
+        *   Maintain proper plant spacing to ensure good air circulation.
+        *   Remove and destroy infected plant debris after harvest.
+    *   **Chemical Control:**
+        *   **Seed Treatment:** Treat seeds with **Carbendazim** 1 g/kg seed + **Thiram** 2 g/kg seed, or **Tebuconazole** 1.5 ml/kg seed.
+        *   **Foliar Spray:**
+            *   Initiate spraying at the first appearance of symptoms.
+            *   Spray with **Mancozeb** at 2.5 kg/acre (dissolved in 200-400 L water) or 2.5 g/L water.
+            *   Alternatively, use **Chlorothalonil** at 2 kg/acre (dissolved in 200-400 L water) or 2 g/L water.
+            *   Systemic fungicides like **Propiconazole** at 1 ml/L water or **Tebuconazole** at 0.75 ml/L water can also be effective, especially in severe cases. Repeat sprays at 10-15 day intervals if necessary.
+
+### 2. Anthracnose (Caused by *Colletotrichum truncatum*)
+
+Anthracnose is a common disease in Pigeon pea, particularly in areas with high humidity and rainfall.
+
+*   **Symptoms:** Dark, sunken lesions with reddish-brown margins appear on leaves, stems, and pods. Severe infection can lead to twig dieback and pod rot.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Use disease-free seeds.
+        *   Practice crop rotation with non-host crops.
+        *   Ensure good field sanitation.
+    *   **Chemical Control:**
+        *   **Seed Treatment:** Treat seeds with **Carbendazim** 1 g/kg seed + **Thiram** 2 g/kg seed.
+        *   **Foliar Spray:**
+            *   Spray with **Carbendazim** at 0.5 g/L water or **Mancozeb** at 2.5 g/L water at the onset of symptoms.
+            *   Combination products containing **Pyraclostrobin** + **Epoxiconazole** or **Azoxystrobin** + **Difenoconazole** can also be effective, following label recommendations for dosage (e.g., 0.5-1 ml/L water).
+
+### 3. Blast
+
+This is not known to affect Pigeon pea.
+
+### 4. Blight (General, including Phytophthora Blight caused by *Phytophthora drechsleri f.sp. cajani*)
+
+Blight can cause significant damage, especially during prolonged wet periods.
+
+*   **Symptoms:** Water-soaked lesions on leaves and stems, leading to wilting, stem rot, and plant collapse.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Plant resistant varieties.
+        *   Improve field drainage to avoid waterlogging.
+        *   Avoid planting in low-lying areas prone to water accumulation.
+        *   Maintain wider row spacing to improve air circulation.
+    *   **Chemical Control:**
+        *   **Seed Treatment:** Treat seeds with **Metalaxyl-M** (e.g., as part of a combination product) at 1-2 g/kg seed, or **Captan** at 2.5 g/kg seed.
+        *   **Foliar Spray:**
+            *   For early blight symptoms, spray with **Mancozeb** at 2.5 g/L water.
+            *   For Phytophthora blight, systemic fungicides like **Metalaxyl-M** + **Mancozeb** (combination product) at 2.5 g/L water or **Propamocarb Hydrochloride** at 2-3 ml/L water can be effective.
+
+### 5. Brown spot
+
+This is not known to affect Pigeon pea as a distinct disease.
+
+### 6. Downy mildew
+
+This is not known to affect Pigeon pea.
+
+### 7. Powdery Mildew (Caused by *Erysiphe cajani*)
+
+This disease is common during dry periods with moderate temperatures.
+
+*   **Symptoms:** White, powdery patches appear on leaves, stems, and pods. Severe infection can lead to yellowing, distortion, and premature defoliation.
+*   **Control Measures:**
+    *   **Cultural Practices:**
+        *   Use resistant varieties.
+        *   Ensure adequate plant spacing.
+    *   **Chemical Control:**
+        *   **Foliar Spray:**
+            *   Spray with wettable **Sulphur** at 2-3 g/L water.
+            *   Alternatively, use **Dinocap** at 1 ml/L water or **Azoxystrobin** at 0.5 ml/L water.
+            *   Systemic fungicides like **Tebuconazole** at 0.75 ml/L water or **Propiconazole** at 1 ml/L water are also effective. Repeat sprays at 10-15 day intervals if needed.
+
+### 8. Grey mildew
+
+This is not known to affect Pigeon pea as a distinct disease. (Note: Grey mold, caused by *Botrytis cinerea*, can affect pigeon pea, but "Grey mildew" is not a standard term for it.)
+
+---
+
+**General Recommendations for Fungal Disease Management:**
+
+*   **Integrated Pest Management (IPM):** Always combine cultural, biological, and chemical methods for sustainable disease control.
+*   **Scouting:** Regularly monitor your fields for early signs of disease to enable timely intervention.
+*   **Resistance:** Prioritize the use of disease-resistant or tolerant varieties suitable for Haryana's agro-climatic conditions.
+*   **Water Management:** Avoid overhead irrigation late in the day, which can prolong leaf wetness and favor fungal growth.
+*   **Adjuvants:** Always use a good quality spreader/sticker (adjuvant) with foliar sprays to improve coverage and efficacy, especially during rainy periods.
+*   **Safety:** Always read and follow the instructions on the fungicide label regarding dosage, application method, pre-harvest interval (PHI), and safety precautions.
+
+This comprehensive approach will help in effectively managing fungal diseases in your Pigeon pea crop.

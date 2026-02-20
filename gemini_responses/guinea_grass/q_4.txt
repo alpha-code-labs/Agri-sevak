@@ -1,0 +1,31 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling wilt in Guinea Grass in Haryana.
+
+**Regarding Parawilt:**
+This is not known to affect Guinea Grass. Parawilt is a specific disease primarily affecting maize (*Zea mays*).
+
+**Regarding General Wilt in Guinea Grass:**
+Wilting in Guinea Grass can be a symptom of various underlying issues, including fungal diseases (e.g., root rots, vascular wilts), nematode infestations, or abiotic stresses (e.g., waterlogging, drought, nutrient deficiencies). A precise diagnosis is crucial for effective management. However, if a pathogenic cause, particularly fungal, is suspected, the following integrated management strategies are recommended:
+
+**1. Cultural and Agronomic Practices:**
+*   **Improve Drainage:** Ensure good soil drainage to prevent waterlogging, which can predispose plants to root rot pathogens.
+*   **Balanced Nutrition:** Provide adequate and balanced nutrients to enhance plant vigor and resistance. Avoid excessive nitrogen, which can make plants more susceptible.
+*   **Use Healthy Planting Material:** Always use disease-free seeds or vegetative planting material.
+*   **Crop Rotation:** Where feasible, rotate Guinea Grass with non-host crops to break the disease cycle, especially in perennial systems where replanting occurs.
+*   **Soil Health:** Promote healthy soil through organic matter addition and minimal tillage to encourage beneficial microbial activity.
+*   **Avoid Mechanical Injury:** Minimize damage to roots during inter-cultivation, as wounds can serve as entry points for pathogens.
+
+**2. Biological Control:**
+*   **Seed/Sett Treatment:** Treat seeds or vegetative planting material with bio-agents to protect against soil-borne pathogens.
+    *   **_Trichoderma viride_**: Apply at 1-2 kg/acre mixed with 50 kg Farm Yard Manure (FYM) or 10 g/kg seed for treatment.
+    *   **_Pseudomonas fluorescens_**: Apply at 1-2 kg/acre mixed with 50 kg FYM or 10 g/kg seed for treatment.
+*   **Soil Application:** Apply bio-agents to the soil at the time of planting or as a drench.
+
+**3. Chemical Control (If fungal wilt is confirmed and severe):**
+*   **Seed/Sett Treatment:** To protect young seedlings/plants from soil-borne fungal pathogens.
+    *   Treat seeds with **Carbendazim 50% WP** at 2 g/kg seed.
+    *   Alternatively, treat seeds with **Thiram 75% WS** at 2.5 g/kg seed.
+*   **Soil Drench/Application:** For established plants showing symptoms, if the cause is confirmed as a soil-borne fungus.
+    *   Drench the soil around the affected plants with **Carbendazim 50% WP** at 1 g/L of water.
+    *   Alternatively, drench with **Propamocarb hydrochloride 72.2% SL** at 2.5 ml/L of water.
+
+**Important Note:** Before applying any chemical, it is highly recommended to get a proper diagnosis of the specific pathogen causing the wilt. Indiscriminate use of chemicals can be ineffective and harmful to the environment. For suspected nematode issues, soil testing is essential, and specific nematicides would be considered only after confirmation and if cultural/biological methods are insufficient.

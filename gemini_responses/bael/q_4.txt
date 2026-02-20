@@ -1,0 +1,49 @@
+Wilt, including Parawilt, is a serious concern for Bael cultivation in Haryana, often leading to significant plant mortality and yield losses. The primary cause of wilt in Bael is typically a fungal pathogen, *Fusarium oxysporum* f. sp. *belii*, which affects the vascular system. "Parawilt" often refers to a sudden wilting that can be triggered by a combination of factors including root damage, nutrient imbalances, water stress, or early stages of fungal infection, making an integrated management approach crucial.
+
+Here's a scientifically verified approach for its control:
+
+### Integrated Management Strategy for Wilt in Bael
+
+An integrated approach combining cultural, biological, and chemical methods is most effective for managing wilt.
+
+#### 1. Cultural Practices:
+*   **Resistant Rootstock/Varieties:** Where available, planting Bael on resistant rootstocks or using tolerant varieties can significantly reduce disease incidence. Consult with HAU for region-specific recommendations.
+*   **Site Selection and Soil Preparation:**
+    *   Choose well-drained soils. Avoid heavy clay soils prone to waterlogging.
+    *   Improve soil structure and drainage by incorporating ample organic matter (e.g., well-decomposed farmyard manure or compost) at 10-15 kg per plant during planting.
+    *   Ensure proper land leveling to prevent water stagnation around the tree base.
+*   **Water Management:**
+    *   Avoid over-irrigation, especially during the monsoon season or in heavy soils.
+    *   Apply irrigation judiciously, ensuring the soil dries out slightly between irrigations.
+    *   Use drip irrigation to deliver water directly to the root zone and minimize soil moisture fluctuations.
+*   **Nutrient Management:**
+    *   Maintain balanced nutrition. Potassium deficiency can sometimes exacerbate wilt symptoms. Conduct soil testing to determine specific nutrient requirements.
+    *   Avoid excessive nitrogen application, which can promote lush growth susceptible to disease.
+*   **Sanitation:**
+    *   Remove and destroy severely infected plants or plant parts immediately to prevent the spread of inoculum.
+    *   Disinfect pruning tools with a 1% sodium hypochlorite solution or 70% alcohol before moving from one tree to another.
+    *   Avoid planting Bael in fields with a history of severe wilt for at least 3-5 years.
+*   **Weed Control:** Keep the area around the tree base free of weeds, which can compete for nutrients and harbor pests or diseases.
+
+#### 2. Biological Control:
+Biological agents can help suppress the pathogen in the soil and promote plant health.
+*   **Soil Application:**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply 50-100 g of bio-fungicide formulation (containing 2x10^6 CFU/g) per plant, mixed with 5-10 kg of well-decomposed farmyard manure or compost. Apply near the root zone at the time of planting and annually thereafter.
+    *   **Pseudomonas fluorescens**: Apply 50-100 g of bio-bactericide formulation (containing 2x10^8 CFU/g) per plant, mixed with 5-10 kg of well-decomposed farmyard manure or compost. This can be used in conjunction with *Trichoderma*.
+*   **Drenching:**
+    *   Prepare a suspension of **Trichoderma viride** or **Trichoderma harzianum** at 5-10 g/L of water and drench the soil around the affected plants. Repeat every 2-3 months, especially during periods of high humidity or stress.
+
+#### 3. Chemical Control:
+Chemical fungicides should be used judiciously, primarily as soil drenching treatments, especially at the first sign of symptoms. Always follow label instructions for application rates and safety precautions.
+
+*   **For Soil Drenching (at the base of the plant):**
+    *   **Carbendazim 50% WP**: Drench the soil around the affected plant with a solution of **Carbendazim** at 1-2 g/L of water. For a mature tree, apply 10-15 litres of the solution depending on the canopy size. Repeat after 15-20 days if symptoms persist.
+    *   **Thiophanate-methyl 70% WP**: Drench the soil around the affected plant with a solution of **Thiophanate-methyl** at 1-2 g/L of water. Apply 10-15 litres per mature tree. Repeat after 15-20 days if necessary.
+    *   **Propiconazole 25% EC**: Drench the soil around the affected plant with a solution of **Propiconazole** at 0.5-1 ml/L of water. Apply 10-15 litres per mature tree. Repeat after 15-20 days if necessary.
+
+**Important Considerations:**
+*   **Early Detection:** Monitor plants regularly for early symptoms like yellowing of leaves, drooping, or wilting of branches. Early intervention is key to successful management.
+*   **Rotation of Chemicals:** To prevent the development of fungicide resistance, rotate between different classes of fungicides (e.g., Carbendazim and Propiconazole).
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) while handling and applying chemicals.
+
+By implementing these integrated strategies, Bael growers in Haryana can effectively manage wilt and parawilt, ensuring healthier trees and better yields.

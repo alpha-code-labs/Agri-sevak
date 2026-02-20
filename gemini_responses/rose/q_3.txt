@@ -1,0 +1,57 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling various rot types in roses, focusing on practices suitable for Haryana.
+
+It is important to understand that many "rot" terms describe symptoms rather than a single disease, and often multiple pathogens can cause similar symptoms. An integrated approach combining cultural practices and judicious use of CIBRC-approved fungicides is crucial.
+
+Here's how to control the relevant rot types in roses:
+
+**1. General Cultural Practices (Prevention for all Rot Types):**
+Prevention is the most effective strategy against rot diseases.
+
+*   **Improve Soil Drainage:** Roses require well-drained soil. Amend heavy clay soils with organic matter (e.g., well-rotted farmyard manure, compost) and sand to improve drainage and aeration. Raised beds can also be beneficial.
+*   **Proper Watering:** Avoid overwatering, especially in heavy soils. Water deeply but infrequently, allowing the topsoil to dry out between waterings. Avoid overhead irrigation that keeps foliage and stems wet for prolonged periods, as this can encourage fungal growth. Water at the base of the plant.
+*   **Correct Planting Depth:** Ensure roses are planted at the correct depth. The bud union (graft union) should be slightly above or at the soil line, depending on the rootstock and local recommendations. Planting too deep can lead to collar and crown rot.
+*   **Sanitation:** Remove and destroy infected plant parts (leaves, stems, roots) immediately to reduce inoculum. Sterilize pruning tools between plants.
+*   **Healthy Planting Material:** Always use healthy, disease-free planting material (cuttings, grafted plants, seeds).
+*   **Soil Sterilization/Solarization:** For nursery beds or small areas, soil solarization during hot summer months or chemical sterilization can reduce soil-borne pathogen inoculum.
+*   **Avoid Plant Injury:** Wounds provide entry points for pathogens. Handle plants carefully during planting, pruning, and cultivation.
+
+**2. Specific Rot Types in Rose and their Control:**
+
+*   **Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot:**
+    These rot types often affect the plant at or below the soil line, or the lower stem, and are commonly caused by soil-borne fungi like *Phytophthora spp.*, *Pythium spp.*, *Rhizoctonia solani*, and *Fusarium spp.*
+
+    *   **Symptoms:** Wilting, yellowing of leaves, stunted growth, discolored (brown/black) roots, soft and mushy bark at the collar/crown region, cankers or lesions on the stem near the soil line, eventual plant collapse.
+    *   **Cultural Control:** Implement all general cultural practices mentioned above. Ensure good air circulation around the base of the plant. Avoid piling mulch directly against the stem.
+    *   **Chemical Control (Soil Drench):**
+        For established plants showing symptoms, or as a preventive measure in susceptible areas:
+        *   For *Phytophthora* and *Pythium* (Oomycetes):
+            *   **Propamocarb hydrochloride** (72.2% SL) at 2-3 ml/L of water, applied as a soil drench around the base of the plant.
+            *   **Metalaxyl-M** (31.8% ES) at 0.5-1 ml/L of water, applied as a soil drench.
+            *   **Fosetyl-aluminium** (80% WP) at 2-3 g/L of water, applied as a soil drench.
+        *   For *Rhizoctonia* and *Fusarium* (Basidiomycetes/Ascomycetes):
+            *   **Carbendazim** (50% WP) at 1-2 g/L of water, applied as a soil drench.
+            *   **Thiophanate-methyl** (70% WP) at 1-1.5 g/L of water, applied as a soil drench.
+            *   **Validamycin** (3% L) at 2-3 ml/L of water, applied as a soil drench.
+        *   **Combination products** containing fungicides effective against both groups (e.g., Metalaxyl + Mancozeb) can also be used as per label recommendations.
+
+*   **Black Rot:**
+    This is not known to affect Rose as a distinct disease entity. However, symptoms of blackening and decay can be part of other rot complexes (e.g., stem rot, cankers) or black spot disease.
+
+*   **Fruit Rot:**
+    This is not known to affect Rose as a primary disease of economic significance. While rose hips (fruits) can decay if damaged or overripe, it is not a major disease problem in rose cultivation.
+
+*   **Seed Rot and Seedling Rot (Damping-off):**
+    These are common issues during rose propagation from seeds, caused by *Pythium spp.*, *Rhizoctonia solani*, and *Fusarium spp.*
+
+    *   **Symptoms:** Seeds fail to germinate, seedlings emerge but collapse at the soil line (damping-off), water-soaked lesions on hypocotyl, root decay.
+    *   **Cultural Control:** Use sterilized potting mix or growing media. Ensure proper drainage in seed trays. Avoid overwatering. Maintain optimal temperature and humidity for germination.
+    *   **Chemical Control (Seed Treatment & Drench):**
+        *   **Seed Treatment:** Treat rose seeds before sowing with:
+            *   **Thiram** (75% WS) at 2-3 g/kg of seed.
+            *   **Carbendazim** (50% WP) at 1-2 g/kg of seed.
+            *   **Captan** (50% WP) at 2-3 g/kg of seed.
+        *   **Seedling Drench:** If damping-off occurs, drench the soil around seedlings with:
+            *   **Propamocarb hydrochloride** (72.2% SL) at 2-3 ml/L of water.
+            *   **Carbendazim** (50% WP) at 1-2 g/L of water.
+
+Always read and follow the instructions on the fungicide label for specific dosages, application methods, and safety precautions. Rotate fungicides with different modes of action to prevent resistance development.

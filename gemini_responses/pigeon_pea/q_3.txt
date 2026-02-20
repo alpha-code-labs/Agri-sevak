@@ -1,0 +1,82 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Pigeon pea (Arhar/Tur) in Haryana. Effective management relies on an Integrated Disease Management (IDM) approach, combining cultural, biological, and chemical methods.
+
+**General Integrated Disease Management (IDM) Principles for Rot Control:**
+
+1.  **Resistant Varieties:** Always use disease-resistant or tolerant pigeon pea varieties recommended for Haryana.
+2.  **Crop Rotation:** Practice long crop rotations (3-4 years) with non-host crops (e.g., cereals like wheat, maize, or pearl millet) to reduce pathogen inoculum in the soil.
+3.  **Field Sanitation:** Remove and destroy infected plant debris from the field after harvest.
+4.  **Balanced Nutrition:** Ensure optimal soil fertility and balanced nutrient application to enhance plant vigor and resistance.
+5.  **Drainage:** Improve field drainage to prevent waterlogging, as most rot pathogens thrive in wet conditions. Avoid planting in low-lying, poorly drained areas.
+6.  **Timely Sowing:** Adhere to recommended sowing dates to avoid periods conducive to disease development.
+7.  **Deep Summer Ploughing:** Expose soil-borne pathogens to solar radiation, reducing their survival.
+
+---
+
+**Specific Rot Types and Their Control Measures:**
+
+The various rot types you mentioned are often symptoms caused by a few key fungal and oomycete pathogens. Here's how to manage them:
+
+**1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot**
+These terms describe the location of rot on the plant, primarily caused by pathogens like *Phytophthora drechsleri f. sp. cajani* (Phytophthora Blight), *Fusarium udum* (Wilt), and *Macrophomina phaseolina* (Charcoal Rot).
+
+*   **Phytophthora Blight (Causes Stem Rot, Collar Rot, Foot Rot, Crown Rot, Neck Rot, and Seedling Rot)**
+    *   **Pathogen:** *Phytophthora drechsleri f. sp. cajani*
+    *   **Symptoms:** Water-soaked lesions on stems, petioles, and leaves, often leading to girdling of the stem at the soil line (collar region), causing wilting and plant death. Seedlings can also be affected (damping-off).
+    *   **Control Measures:**
+        *   **Cultural:** Ensure excellent field drainage. Avoid planting in low-lying, waterlogged areas. Use resistant varieties.
+        *   **Chemical:**
+            *   **Seed Treatment:**
+                *   **Metalaxyl-M** 35% WS @ 2 g/kg seed.
+                *   **Pyraclostrobin** 5% + **Fluxapyroxad** 5% FS @ 2 ml/kg seed.
+            *   **Foliar Spray / Soil Drench (for standing crop):**
+                *   **Metalaxyl-M** 4% + **Mancozeb** 64% WP @ 2.5 kg/acre (dissolve in 500-600 L water for spray) or @ 2.5-3 g/L water for drenching around the base of affected plants.
+                *   **Copper Oxychloride** 50% WP @ 1.25 kg/acre (dissolve in 500-600 L water).
+
+*   **Wilt (Causes Root Rot)**
+    *   **Pathogen:** *Fusarium udum*
+    *   **Symptoms:** Gradual yellowing and wilting of leaves, starting from the lower ones. Darkening of vascular tissues in the stem and roots when split open. Plants eventually die.
+    *   **Control Measures:**
+        *   **Cultural:** Use resistant varieties (e.g., HAU recommended varieties like Manak, Asha, Pusa 992). Practice long crop rotation (4-5 years) with non-host crops. Deep summer ploughing.
+        *   **Biological:**
+            *   Seed treatment with *Trichoderma viride* or *Trichoderma harzianum* @ 4-5 g/kg seed.
+            *   Soil application of *Trichoderma* formulation @ 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) before sowing.
+        *   **Chemical:**
+            *   **Seed Treatment:**
+                *   **Carbendazim** 50% WP @ 2 g/kg seed.
+                *   **Thiophanate Methyl** 70% WP @ 2 g/kg seed.
+
+*   **Charcoal Rot (Causes Root Rot, Stem Rot, and Seedling Rot)**
+    *   **Pathogen:** *Macrophomina phaseolina*
+    *   **Symptoms:** Darkening and shredding of root and stem tissues, especially at the collar region. Tiny black sclerotia (microsclerotia) visible on infected tissues. Plants wilt and die, particularly under hot and dry conditions.
+    *   **Control Measures:**
+        *   **Cultural:** Maintain adequate soil moisture during critical growth stages. Crop rotation with non-host crops.
+        *   **Biological:** Seed treatment with *Trichoderma viride* or *Trichoderma harzianum* @ 4-5 g/kg seed.
+        *   **Chemical:**
+            *   **Seed Treatment:**
+                *   **Thiram** 75% WS @ 2.5 g/kg seed.
+                *   **Carbendazim** 50% WP @ 2 g/kg seed.
+
+**2. Seed Rot and Seedling Rot (Damping-off)**
+*   **Pathogens:** Primarily *Pythium* spp., *Rhizoctonia solani*, *Fusarium* spp., and *Phytophthora* spp.
+*   **Symptoms:** Seeds fail to germinate (pre-emergence damping-off) or seedlings emerge but collapse soon after, with water-soaked lesions at the collar region (post-emergence damping-off).
+*   **Control Measures:**
+    *   **Cultural:** Use healthy, certified seeds. Ensure proper seedbed preparation and good drainage. Avoid excessive irrigation immediately after sowing.
+    *   **Chemical (Seed Treatment is crucial):**
+        *   **Thiram** 75% WS @ 2.5 g/kg seed.
+        *   **Captan** 50% WP @ 2.5 g/kg seed.
+        *   **Carbendazim** 50% WP @ 2 g/kg seed (effective against *Fusarium* and *Rhizoctonia*).
+        *   **Metalaxyl-M** 35% WS @ 2 g/kg seed (effective against *Pythium* and *Phytophthora*).
+        *   A combination of fungicides can be highly effective, e.g., **Carbendazim** + **Thiram** @ 1:2 ratio, total 3 g/kg seed.
+
+**3. Black Rot and Fruit Rot**
+*   **Clarification:** "Black Rot" and "Fruit Rot" are not standard, distinct disease names for Pigeon pea. However, symptoms resembling these can occur due to other known pathogens:
+    *   **Blackening of stem/root:** This is often a symptom of Charcoal Rot (*Macrophomina phaseolina*) or severe Phytophthora Blight. Control measures for these diseases will address such symptoms.
+    *   **Pod/Fruit lesions:** Pod blight, caused by pathogens like *Phytophthora drechsleri f. sp. cajani* or *Alternaria alternata*, can lead to dark, sunken lesions on pods, sometimes causing them to rot.
+*   **Control Measures (if symptoms appear on pods):**
+    *   **For Phytophthora-related pod blight:**
+        *   **Metalaxyl-M** 4% + **Mancozeb** 64% WP @ 2.5 kg/acre (dissolve in 500-600 L water).
+    *   **For general fungal pod blights:**
+        *   **Propiconazole** 25% EC @ 200 ml/acre (dissolve in 200 L water).
+        *   **Azoxystrobin** 23% SC @ 200 ml/acre (dissolve in 200 L water).
+
+Always follow label instructions for chemical application rates and safety precautions. Regular field monitoring is essential to detect diseases early and implement timely control measures.

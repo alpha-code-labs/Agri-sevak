@@ -1,0 +1,71 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Long Melon in Haryana.
+
+---
+
+### Scab in Long Melon
+
+Scab in cucurbits, including Long Melon (*Cucumis melo* var. *flexuosus*), is caused by the fungus *Cladosporium cucumerinum*.
+
+**Symptoms:**
+*   Small, water-soaked spots appear on leaves, stems, and fruits.
+*   These spots enlarge, become sunken, and often develop an olive-green, velvety growth, especially on fruits.
+*   Severely affected fruits can become malformed and unmarketable.
+
+**Control Measures:**
+*   **Cultural Practices:**
+    *   Use resistant varieties if available.
+    *   Practice crop rotation with non-cucurbit crops for at least 2-3 years.
+    *   Ensure good field sanitation by removing and destroying infected plant debris.
+    *   Avoid overhead irrigation, especially late in the day, to reduce leaf wetness.
+*   **Chemical Control (Fungicides):**
+    *   Apply fungicides at the first sign of disease and repeat at 7-10 day intervals, depending on disease severity and weather conditions.
+    *   **Mancozeb** at 2.5 g/L of water.
+    *   **Chlorothalonil** at 2 g/L of water.
+    *   **Azoxystrobin** at 0.5 ml/L of water.
+    *   **Difenoconazole** at 0.5 ml/L of water.
+
+### Canker in Long Melon
+
+In Long Melon and other cucurbits, canker-like symptoms are often associated with diseases like Gummy Stem Blight (caused by *Didymella bryoniae* / *Stagonosporopsis cucurbitacearum*) or bacterial diseases.
+
+**Symptoms:**
+*   **Gummy Stem Blight:** Water-soaked lesions appear on stems, often at nodes, which later turn tan to brown and may exude amber-colored gum. These lesions can girdle the stem, leading to wilting and collapse of the plant.
+*   **Bacterial Canker:** Sunken, water-soaked lesions on stems and fruits, sometimes with bacterial ooze.
+
+**Control Measures:**
+*   **Cultural Practices:**
+    *   Use certified disease-free seeds.
+    *   Practice strict field sanitation and crop rotation.
+    *   Avoid mechanical injuries to plants, as these can provide entry points for pathogens.
+    *   Ensure proper plant spacing for good air circulation.
+*   **Chemical Control (Fungicides/Bactericides):**
+    *   For fungal cankers (Gummy Stem Blight):
+        *   **Carbendazim** at 1 g/L of water.
+        *   **Thiophanate Methyl** at 1 g/L of water.
+        *   **Azoxystrobin** + **Difenoconazole** (pre-mix) at 1 ml/L of water.
+    *   For suspected bacterial cankers:
+        *   **Copper Oxychloride** at 2.5 g/L of water.
+
+### Gummosis in Long Melon
+
+Gummosis in Long Melon is primarily a symptom, often indicating the presence of Gummy Stem Blight (*Didymella bryoniae*) or other stresses.
+
+**Symptoms:**
+*   Exudation of amber-colored, sticky gum from stems, particularly at nodes or sites of injury. This is often accompanied by lesions on the stem.
+
+**Control Measures:**
+*   As gummosis is a symptom, the control measures are directed at the underlying cause, most commonly Gummy Stem Blight.
+*   **Cultural Practices:**
+    *   Use disease-free seeds.
+    *   Practice crop rotation and field sanitation.
+    *   Avoid plant injuries.
+    *   Maintain optimal plant nutrition and avoid water stress.
+*   **Chemical Control (Fungicides):**
+    *   Apply fungicides as recommended for Gummy Stem Blight (see Canker section).
+    *   **Carbendazim** at 1 g/L of water.
+    *   **Thiophanate Methyl** at 1 g/L of water.
+    *   **Azoxystrobin** + **Difenoconazole** (pre-mix) at 1 ml/L of water.
+
+### Lichen in Long Melon
+
+This is not known to affect Long Melon. Lichens are symbiotic organisms that typically grow on the bark of perennial trees or rocks and are not parasitic to herbaceous annual crops like Long Melon. They do not cause disease or damage to the plant.

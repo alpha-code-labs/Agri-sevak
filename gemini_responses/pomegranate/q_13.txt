@@ -1,0 +1,29 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling these pests in Pomegranate in Haryana:
+
+### Control of Fruit Fly in Pomegranate
+
+Fruit flies (primarily species like *Bactrocera dorsalis* and *Bactrocera zonata*) are a major pest of pomegranate, causing significant damage by laying eggs in developing fruits, leading to maggot infestation and fruit rot. An integrated approach is crucial for effective management.
+
+**1. Cultural and Mechanical Practices:**
+*   **Orchard Sanitation:** Regularly collect and destroy all fallen, damaged, and infested fruits. Bury them deep (at least 60 cm) or burn them to kill the maggots and pupae. This is the most critical step.
+*   **Deep Ploughing:** After harvest, deep ploughing of the orchard soil helps expose fruit fly pupae to predators and adverse weather conditions, reducing the next generation's population.
+*   **Bagging of Fruits:** For high-value fruits or smaller orchards, individual fruit bagging with paper or cloth bags can prevent fruit fly oviposition.
+*   **Avoid Host Plants:** Minimize planting other fruit fly host plants (like guava, mango, peach, ber) in close proximity to pomegranate orchards.
+
+**2. Monitoring and Mass Trapping:**
+*   **Pheromone Traps:** Install **Methyl eugenol** pheromone traps at a density of 5-10 traps per acre, starting from fruit set stage. These traps attract and kill male fruit flies, helping to monitor population levels and reduce mating. Replace the lure every 2-3 weeks.
+*   **Protein Bait Traps:** Use protein bait traps (e.g., a mixture of jaggery solution and an insecticide) to attract both male and female fruit flies.
+
+**3. Chemical Control (Apply only when necessary, based on trap catches and fruit damage):**
+*   **Bait Sprays:** These are highly effective and reduce the amount of insecticide applied to the entire canopy. Prepare a bait solution by mixing a protein source (e.g., protein hydrolysate or jaggery 10 g/L) with an insecticide. Apply this mixture as spot sprays on the foliage (not directly on fruits) in patches, especially on the underside of leaves, at 7-10 day intervals during the fruit development stage.
+    *   **Malathion** 50% EC: 2 ml/L of water (in bait spray).
+    *   **Deltamethrin** 2.8% EC: 0.5 ml/L of water (in bait spray).
+*   **Foliar Sprays (for severe infestations):**
+    *   **Spinosad** 45% SC: 0.2 - 0.3 ml/L of water.
+    *   **Lambda-cyhalothrin** 5% EC: 0.5 ml/L of water.
+    *   **Fipronil** 5% SC: 1.0 - 1.5 ml/L of water.
+    *   Ensure thorough coverage, especially during the fruit development and ripening stages. Always observe the pre-harvest interval (PHI) for any chemical applied.
+
+### Control of Ber Fly in Pomegranate
+
+This is not known to affect Pomegranate. The Ber fruit fly (*Carpomyia vesuviana*) is a highly specific pest primarily affecting Ber (*Ziziphus mauritiana*) fruits.

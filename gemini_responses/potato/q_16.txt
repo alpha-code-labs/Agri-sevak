@@ -1,0 +1,57 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Potato cultivation in Haryana. These are general recommendations and should ideally be adjusted based on a comprehensive soil test report for your specific field.
+
+For a target yield of 30-40 tonnes per acre, the general nutrient recommendation for Potato in Haryana, in the absence of a soil test, is:
+*   Nitrogen (N): 120-150 kg/acre
+*   Phosphorus (P2O5): 60-80 kg/acre
+*   Potassium (K2O): 100-120 kg/acre
+*   Sulphur (S): 20-30 kg/acre
+
+Here are the recommended doses for specific fertilizers:
+
+*   **Urea (46% N)**
+    *   **Recommended Dose:** 260-325 kg/acre.
+    *   **Application:** Apply 1/3rd of the total Nitrogen (approx. 85-110 kg **Urea**) as a basal dose at planting. The remaining 2/3rd (approx. 175-215 kg **Urea**) should be applied in two equal splits as top dressing, first at earthing up (30-35 days after planting) and second at tuber initiation (45-50 days after planting).
+
+*   **Nano-Urea (Liquid, 4% N)**
+    *   **Recommended Dose:** 2-4 ml/L water.
+    *   **Application:** Apply as a foliar spray. Typically, 2-3 sprays are recommended.
+        *   First spray: 40-50 days after planting (tuber initiation stage).
+        *   Second spray: 15-20 days after the first spray.
+        *   (Optional) Third spray: If deficiency persists or for yield enhancement.
+    *   **Note:** **Nano-Urea** is a supplement and does not replace the full basal requirement of conventional **Urea**. For an acre, typically 500 ml per spray is mixed with 200-300 L of water.
+
+*   **Di-ammonium Phosphate (DAP, 18% N, 46% P2O5)**
+    *   **Recommended Dose:** 130-175 kg/acre.
+    *   **Application:** Apply as a basal dose at the time of planting.
+    *   **Note:** If **Di-ammonium Phosphate** is used, the Nitrogen supplied by it (approx. 23-31 kg N/acre) should be reduced from the total **Urea** requirement.
+
+*   **Nano-DAP (Liquid, 8% N, 16% P2O5)**
+    *   **Recommended Dose:** 2-4 ml/L water.
+    *   **Application:** Apply as a foliar spray. Typically, 2 sprays are recommended.
+        *   First spray: At early vegetative growth/tuber initiation.
+        *   Second spray: 15-20 days after the first spray.
+    *   **Note:** **Nano-DAP** is a supplement and does not replace the full basal requirement of conventional **Di-ammonium Phosphate** or **Single Super Phosphate**. For an acre, typically 500 ml per spray is mixed with 200-300 L of water.
+
+*   **NPK (Complex Fertilizers, e.g., 12:32:16, 10:26:26)**
+    *   **Recommended Dose:** 150-250 kg/acre (depending on the specific grade and nutrient balance).
+    *   **Application:** Apply as a basal dose at the time of planting.
+    *   **Note:** If a complex **NPK** fertilizer is used, the quantities of **Urea**, **Di-ammonium Phosphate** (or **Single Super Phosphate**), and **Muriate of Potash** need to be adjusted to meet the remaining nutrient requirements. For example, if using 150 kg of **12:32:16 NPK**, it provides 18 kg N, 48 kg P2O5, and 24 kg K2O. The remaining N, P, and K would then be supplied by other fertilizers.
+
+*   **Single Super Phosphate (SSP, 16% P2O5, 11% S)**
+    *   **Recommended Dose:** 375-500 kg/acre.
+    *   **Application:** Apply as a basal dose at the time of planting.
+    *   **Note:** **Single Super Phosphate** is a good source of both Phosphorus and Sulphur. If **Single Super Phosphate** is used, separate Sulphur application might not be needed, and **Di-ammonium Phosphate** would not be required for Phosphorus.
+
+*   **Potash (Muriate of Potash - MOP, 60% K2O)**
+    *   **Recommended Dose:** 165-200 kg/acre.
+    *   **Application:** Apply 50% as a basal dose at planting and the remaining 50% at the time of earthing up (30-35 days after planting).
+
+*   **Sulphur (Elemental Sulphur 90% or Bentonite Sulphur 90%)**
+    *   **Recommended Dose:** 20-30 kg/acre.
+    *   **Application:** Apply as a basal dose at the time of planting.
+    *   **Note:** If **Single Super Phosphate** is used as the Phosphorus source, it typically provides sufficient Sulphur (40-55 kg S/acre with 375-500 kg **Single Super Phosphate**), and separate Sulphur application may not be necessary. If **Di-ammonium Phosphate** or **NPK** complex is used, then Sulphur needs to be applied separately.
+
+**Important Considerations:**
+*   **Soil Testing:** Always prioritize soil testing to get precise fertilizer recommendations tailored to your field's specific nutrient status.
+*   **Integrated Nutrient Management:** Consider incorporating farmyard manure (FYM) or compost (10-15 tonnes/acre) to improve soil health and nutrient availability, which can help reduce chemical fertilizer requirements.
+*   **Micronutrients:** Potato also requires micronutrients like Zinc, Boron, and Manganese. If soil tests indicate deficiencies, apply them as per recommendations.

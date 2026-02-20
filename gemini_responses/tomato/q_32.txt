@@ -1,0 +1,118 @@
+Namaste! "Drying up" of branches, leaves, fruits, and flowers in tomato plants is a serious symptom that can be caused by a variety of factors, both biotic (diseases, pests) and abiotic (environmental stress, nutritional deficiencies). As a Senior Agronomist, my first recommendation is always to accurately diagnose the root cause, as the management strategy will depend entirely on it.
+
+Here are the common causes and their management strategies for Haryana conditions:
+
+### I. Abiotic Factors (Environmental & Cultural)
+
+These are often the first things to rule out.
+
+1.  **Water Stress:**
+    *   **Symptoms:**
+        *   **Under-watering/Drought:** Leaves wilt, turn yellow, crisp, and dry. Flowers and fruits may drop or shrivel.
+        *   **Over-watering/Poor Drainage:** Roots suffocate and rot, leading to wilting and drying of the entire plant, mimicking drought stress.
+    *   **Management:**
+        *   Maintain consistent soil moisture. Irrigate regularly, especially during flowering and fruiting.
+        *   Check soil moisture before irrigating; the top 2-3 cm should feel dry.
+        *   Ensure good drainage in the field to prevent waterlogging. Raised beds can be beneficial.
+        *   Apply mulch (straw, dry leaves) around the base of plants to conserve soil moisture and regulate soil temperature.
+
+2.  **Nutrient Imbalance:**
+    *   **Symptoms:**
+        *   **Potassium Deficiency:** Yellowing and browning/scorching of leaf margins, starting from older leaves. Can lead to overall plant weakness and reduced fruit quality.
+        *   **Calcium Deficiency:** Primarily causes Blossom End Rot (BER) in fruits, but severe deficiency can affect overall plant vigor.
+        *   **Boron Deficiency:** Stunted growth, brittle leaves, poor fruit set, and sometimes drying of growing points.
+    *   **Management:**
+        *   Conduct regular soil testing to determine nutrient levels and pH.
+        *   Apply balanced fertilizers based on soil test recommendations.
+        *   For potassium deficiency, apply **Muriate of Potash (Potassium Chloride)** or **Sulphate of Potash (Potassium Sulphate)** as per recommendations (e.g., 60-80 kg K2O/acre).
+        *   For calcium deficiency, ensure consistent watering and consider foliar sprays of **Calcium Nitrate** (5 g/L water).
+
+3.  **Heat Stress/Sun Scald:**
+    *   **Symptoms:** Leaves may wilt during the hottest part of the day, turn yellow, and eventually dry out. Fruits can develop white or yellow patches that later turn papery and dry.
+    *   **Management:**
+        *   Provide partial shade during extreme summer heat using shade nets (30-50%).
+        *   Ensure adequate irrigation to help plants cope with heat.
+        *   Plant heat-tolerant varieties.
+
+4.  **Salinity:**
+    *   **Symptoms:** Stunted growth, marginal leaf burn/drying, reduced yield.
+    *   **Management:**
+        *   Soil testing for salinity levels.
+        *   Leaching salts with good quality water if possible.
+        *   Use salt-tolerant tomato varieties.
+        *   Improve soil organic matter.
+
+### II. Biotic Factors (Diseases & Pests)
+
+These are often the most challenging to manage and require specific interventions.
+
+1.  **Fungal Wilts (Fusarium Wilt, Verticillium Wilt):**
+    *   **Symptoms:** Yellowing and wilting of leaves, often starting from the lower leaves and progressing upwards. Wilting may be one-sided on a branch or plant. Vascular tissue inside the stem (when cut) shows brown discoloration. Eventually, the entire plant dries up.
+    *   **Management:**
+        *   Use resistant or tolerant varieties.
+        *   Practice crop rotation with non-solanaceous crops for at least 3-5 years.
+        *   Soil solarization during summer can reduce pathogen inoculum.
+        *   Seed treatment with fungicides:
+            *   **Carbendazim** 50% WP @ 2 g/kg seed.
+            *   **Thiophanate Methyl** 70% WP @ 2 g/kg seed.
+        *   Soil drenching at transplanting or early stages:
+            *   **Carbendazim** 50% WP @ 1-2 g/L water.
+            *   **Thiophanate Methyl** 70% WP @ 1-2 g/L water.
+            *   Biological control: **Trichoderma viride** @ 5 kg/acre mixed with 100 kg farmyard manure (FYM) and applied to the soil.
+
+2.  **Bacterial Wilt (Ralstonia solanacearum):**
+    *   **Symptoms:** Rapid, sudden wilting of the entire plant, often without significant yellowing. If the stem is cut and placed in water, a milky white bacterial ooze will emerge.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Strict crop rotation with non-solanaceous crops (e.g., cereals, legumes) for several years.
+        *   Avoid planting in infested fields.
+        *   Remove and destroy infected plants immediately.
+        *   Improve soil drainage.
+        *   No effective chemical cure once the plant is infected. For prevention and early stage management, a drench with:
+            *   **Streptomycin Sulphate 9% + Tetracycline Hydrochloride 1% SP** @ 0.5-1 g/L water.
+
+3.  **Early Blight (Alternaria solani):**
+    *   **Symptoms:** Dark brown to black spots with concentric rings (target-like spots) on older leaves, stems, and fruits. Severely infected leaves turn yellow, dry up, and drop prematurely. Stem lesions can girdle the stem, causing drying of parts above the lesion.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Remove and destroy infected plant debris.
+        *   Ensure proper plant spacing for good air circulation.
+        *   Fungicide sprays at 7-10 day intervals, especially during humid weather:
+            *   **Mancozeb** 75% WP @ 2-2.5 g/L water.
+            *   **Chlorothalonil** 75% WP @ 2 g/L water.
+            *   **Azoxystrobin** 23% SC @ 0.5-1 ml/L water.
+            *   **Difenoconazole** 25% EC @ 0.5 ml/L water.
+            *   **Propineb** 70% WP @ 2.5 g/L water.
+
+4.  **Late Blight (Phytophthora infestans):**
+    *   **Symptoms:** Large, irregular, water-soaked lesions on leaves, stems, and fruits, rapidly turning brown to black. In humid conditions, a white, downy fungal growth may be visible on the underside of leaves. Rapid blighting and drying of entire plants can occur.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Remove and destroy infected plant debris.
+        *   Avoid overhead irrigation, especially late in the day.
+        *   Fungicide sprays at 5-7 day intervals, particularly when conditions are cool and humid:
+            *   **Mancozeb** 75% WP @ 2-2.5 g/L water.
+            *   **Chlorothalonil** 75% WP @ 2 g/L water.
+            *   **Cymoxanil 8% + Mancozeb 64% WP** @ 2.5 g/L water.
+            *   **Fenamidone 10% + Mancozeb 50% WG** @ 3 g/L water.
+            *   **Propamocarb Hydrochloride** 72.2% SL @ 2.5 ml/L water.
+            *   **Fluopicolide 6.25% + Propamocarb Hydrochloride 62.5% SC** @ 2 ml/L water.
+
+5.  **Root-knot Nematodes (Meloidogyne spp.):**
+    *   **Symptoms:** Stunted growth, wilting during the day even with adequate moisture, yellowing of leaves, and reduced yield. Roots will show characteristic galls or swellings. Nematode damage can also predispose plants to fungal and bacterial wilts.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Practice crop rotation with non-host crops (e.g., marigold, cereals).
+        *   Soil solarization during summer.
+        *   Application of nematicides (pre-plant or at planting):
+            *   **Fluensulfone** 2% GR @ 20 kg/acre (broadcast and incorporate before planting).
+            *   Biological control: **Paecilomyces lilacinus** or **Bacillus firmus** @ 2-4 kg/acre mixed with FYM and applied to the soil.
+
+**General Recommendations:**
+
+*   **Sanitation:** Always remove and destroy infected plant parts or entire plants to prevent the spread of diseases.
+*   **Resistant Varieties:** Whenever possible, choose tomato varieties known to be resistant or tolerant to common diseases in your area.
+*   **Crop Rotation:** This is a fundamental practice to break disease cycles and reduce soil-borne pathogen buildup.
+*   **Integrated Pest and Disease Management (IPDM):** Combine cultural, biological, and chemical methods for sustainable and effective control.
+
+For precise diagnosis, it is advisable to bring a sample of the affected plant to the plant pathology lab at HAU, Hisar, or your nearest Krishi Vigyan Kendra (KVK).

@@ -1,0 +1,44 @@
+Yes, Wilt (including Parawilt, often associated with sudden wilting due to root rot or vascular issues) is a significant problem in Drum Stick (*Moringa oleifera*), primarily caused by *Fusarium oxysporum* f. sp. *moringae* and other soil-borne pathogens. Effective control requires an integrated approach.
+
+Here's how to control Wilt in Drum Stick:
+
+**I. Integrated Management Approach:**
+A combination of cultural, biological, and chemical methods is crucial for effective and sustainable management of wilt.
+
+**II. Cultural Practices (Preventive and Curative):**
+*   **Resistant Varieties:** Where available, choose varieties known to have some tolerance or resistance to wilt.
+*   **Crop Rotation:** Avoid planting Drum Stick in the same field continuously, especially if wilt has been observed. Rotate with non-host crops for at least 2-3 years.
+*   **Soil Solarization:** In summer months, cover the soil with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and kill soil-borne pathogens, including *Fusarium*.
+*   **Proper Drainage:** Ensure good soil drainage to prevent waterlogging, which stresses roots and favors pathogen development. Raised beds can be beneficial.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can make plants more susceptible. Potassium and phosphorus can enhance plant vigor and resistance.
+*   **Sanitation:**
+    *   Remove and destroy infected plants immediately to prevent the spread of inoculum.
+    *   Disinfect farm tools and equipment after working in infected areas.
+*   **Avoid Root Injury:** Minimize damage to roots during intercultural operations, as wounds can serve as entry points for pathogens.
+*   **Healthy Seedlings:** Use healthy, disease-free seeds or seedlings from reputable sources.
+
+**III. Biological Control:**
+*   **Seed Treatment:**
+    *   Treat seeds with **Trichoderma viride** or **Trichoderma harzianum** @ 5-10 g/kg seed before sowing.
+*   **Soil Application/Drenching:**
+    *   Apply **Trichoderma viride** or **Trichoderma harzianum** @ 2-4 kg/acre mixed with 50-100 kg of Farm Yard Manure (FYM) or compost, and apply near the root zone. This can be done at planting and repeated during the growing season.
+    *   Drench the soil around the base of affected plants with a suspension of **Trichoderma viride** or **Trichoderma harzianum** @ 5-10 g/L water.
+    *   **Pseudomonas fluorescens** can also be used as a seed treatment (@ 10 g/kg seed) or soil drench (@ 5-10 ml/L water) for its antagonistic properties against soil-borne pathogens.
+
+**IV. Chemical Control (CIBRC Approved):**
+
+*   **Seed Treatment:**
+    *   Treat seeds with **Carbendazim** @ 1-2 g/kg seed.
+    *   Alternatively, treat seeds with **Thiram** @ 2-3 g/kg seed.
+    *   A combination of **Carbendazim** + **Thiram** (1:1 ratio) @ 2-3 g/kg seed can provide broader spectrum protection.
+
+*   **Soil Drenching (for standing crops showing symptoms):**
+    *   Drench the soil around the base of the affected plants with **Carbendazim** @ 1-2 g/L water. Repeat after 15-20 days if symptoms persist.
+    *   Alternatively, drench with **Propiconazole** @ 1 ml/L water.
+    *   For severe cases or where root rot is suspected to be contributing to parawilt, drenching with **Validamycin** @ 2-3 ml/L water can be beneficial, especially against *Rhizoctonia* species.
+    *   A combination drench of **Carbendazim** @ 1 g/L water + **Mancozeb** @ 2 g/L water can provide systemic and contact action against a wider range of fungi.
+
+**Important Considerations:**
+*   Always follow the manufacturer's instructions and safety precautions when using any chemical.
+*   Ensure thorough coverage during drenching, targeting the root zone.
+*   Early detection and intervention are key to managing wilt effectively.

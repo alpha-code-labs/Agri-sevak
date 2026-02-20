@@ -1,0 +1,96 @@
+Drying up of branches, leaves, fruits, and flowers in Jasmine is a common symptom that can be attributed to a variety of factors, both abiotic (environmental/cultural) and biotic (diseases and pests). Accurate diagnosis is crucial for effective management. As a Senior Agronomist at HAU, Hisar, I recommend the following approach:
+
+**I. Abiotic Factors (Environmental and Cultural Causes):**
+
+These are often the primary culprits and should be ruled out first.
+
+1.  **Water Stress:**
+    *   **Insufficient Irrigation (Drought Stress):** Jasmine requires consistent moisture, especially during flowering and fruiting. Lack of water leads to wilting, leaf scorching, and eventual drying of plant parts.
+    *   **Excess Irrigation/Waterlogging:** Poor drainage or over-watering can lead to root asphyxiation and root rot, which impairs water uptake, causing symptoms similar to drought stress (wilting and drying).
+    *   **Management:**
+        *   Ensure consistent and adequate irrigation, especially during dry periods. Check soil moisture before watering.
+        *   Improve soil drainage by incorporating organic matter or creating raised beds in areas prone to waterlogging. Avoid standing water around the plant base.
+
+2.  **Nutrient Imbalance:**
+    *   Severe deficiencies (e.g., Potassium) or toxicities can cause marginal scorching, yellowing, and eventual drying of leaves.
+    *   **Management:**
+        *   Conduct a soil test to determine nutrient status and pH.
+        *   Apply balanced fertilizers based on soil test recommendations.
+
+3.  **Temperature Extremes:**
+    *   **Heat Stress:** Prolonged exposure to very high temperatures, especially with insufficient water, can cause scorching and drying of leaves and flowers.
+    *   **Cold Stress/Frost:** Jasmine is sensitive to frost. Sudden cold snaps or frost can damage plant tissues, leading to drying and dieback.
+    *   **Management:**
+        *   Provide partial shade during extreme summer heat if possible, especially for young plants.
+        *   Protect plants from frost during winter by covering them or using mulches.
+
+4.  **Soil Salinity/Alkalinity:**
+    *   High salt content or alkaline pH in the soil can impair the plant's ability to absorb water and nutrients, leading to wilting and drying symptoms.
+    *   **Management:**
+        *   Conduct soil testing to assess salinity and pH.
+        *   For alkaline soils, apply gypsum as per recommendations.
+        *   Leach salts by applying good quality water in conjunction with improved drainage. Incorporate organic matter to improve soil structure.
+
+**II. Biotic Factors (Diseases and Pests):**
+
+If abiotic factors are ruled out, consider biotic causes.
+
+1.  **Fungal Wilt Diseases (e.g., Fusarium Wilt, Verticillium Wilt):**
+    *   **Symptoms:** Yellowing, wilting, and drying of leaves and branches, often starting from one side of the plant or a single branch, progressing upwards. Cutting the stem may reveal discoloration in the vascular tissue.
+    *   **Management:**
+        *   Remove and destroy severely infected plants to prevent spread.
+        *   Improve soil drainage and avoid waterlogging.
+        *   Use healthy, disease-free planting material.
+        *   For early stages or as a preventive measure in affected areas, soil drenching can be done:
+            *   **Carbendazim** (50% WP) @ 1-2 g/L water (drench around the root zone).
+            *   **Propiconazole** (25% EC) @ 1 ml/L water (drench around the root zone).
+
+2.  **Root Rot (e.g., Phytophthora, Pythium, Rhizoctonia):**
+    *   **Symptoms:** General wilting, yellowing, stunted growth, and eventual drying of the entire plant. Roots appear dark, mushy, and decayed. Often associated with waterlogged conditions.
+    *   **Management:**
+        *   Improve soil drainage immediately. Avoid over-irrigation.
+        *   Remove and destroy severely infected plants.
+        *   Soil drench with fungicides:
+            *   **Propamocarb hydrochloride** (72.2% SL) @ 2-3 ml/L water.
+            *   **Metalaxyl-M + Mancozeb** (4% + 64% WP) @ 2.5 g/L water.
+
+3.  **Dieback:**
+    *   **Symptoms:** Drying of branches starting from the tip and progressing downwards. Often associated with fungal pathogens like *Colletotrichum* or *Botryodiplodia*.
+    *   **Management:**
+        *   Prune affected branches well below the dried portion into healthy wood. Ensure pruning tools are sterilized.
+        *   Destroy pruned material.
+        *   Apply a protective fungicide paste (e.g., **Copper oxychloride** mixed with water) to large cut ends.
+        *   Spray the plant with:
+            *   **Copper oxychloride** (50% WP) @ 2-3 g/L water.
+            *   **Carbendazim** (50% WP) @ 1 g/L water.
+
+4.  **Nematodes (Root-knot nematodes - *Meloidogyne* spp.):**
+    *   **Symptoms:** Stunted growth, yellowing, wilting, and reduced vigor, leading to drying, especially under stress. Examination of roots will reveal galls or swellings. Nematode damage impairs water and nutrient uptake.
+    *   **Management:**
+        *   Use healthy, nematode-free planting material.
+        *   Practice crop rotation with non-host plants if possible.
+        *   Soil solarization during hot summer months can reduce nematode populations.
+        *   For severe infestations, apply nematicides (granular or drench) to the soil:
+            *   **Carbofuran** (3% G) @ 10-15 kg/acre (incorporate into soil before planting or around existing plants).
+            *   **Phorate** (10% G) @ 10 kg/acre (incorporate into soil).
+
+5.  **Stem Borers:**
+    *   **Symptoms:** Wilting and drying of individual branches or entire shoots above the point of boring. Presence of boreholes and frass (excrement) on the stem.
+    *   **Management:**
+        *   Prune and destroy infested branches well below the point of damage.
+        *   For active borers, insert a thin wire into the bore hole to kill the larva.
+        *   Inject insecticides into boreholes using a syringe:
+            *   **Chlorpyrifos** (20% EC) @ 2 ml/L water.
+            *   **Imidacloprid** (17.8% SL) @ 0.5 ml/L water.
+
+**III. Diagnostic Steps:**
+
+To accurately identify the cause, observe the following:
+
+*   **Pattern of Drying:** Is it the whole plant, specific branches, new growth, or old growth?
+*   **Root Examination:** Carefully dig around the roots. Are they healthy, firm, and white, or dark, mushy, and decayed? Are there galls (swellings)?
+*   **Stem Examination:** Cut a wilting stem longitudinally. Is there any discoloration in the vascular tissue (brown or black streaks)? Are there boreholes or cankers?
+*   **Leaf/Flower Examination:** Look for specific lesions, spots, or the presence of pests.
+*   **Soil Conditions:** Assess soil moisture, drainage, and texture.
+
+By systematically evaluating these factors, you can pinpoint the cause of drying up in your Jasmine plants and implement the most appropriate and effective management strategies. Always prioritize cultural practices and sanitation, and use chemical interventions judiciously and as a last resort, following label instructions carefully.

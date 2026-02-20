@@ -1,0 +1,47 @@
+Wilt, including sudden wilting syndromes often referred to as 'Parawilt', is a significant challenge in Long Melon (Trichosanthes cucumerina) cultivation in Haryana. These conditions can be caused by various pathogens, primarily fungi (e.g., *Fusarium oxysporum* f. sp. *lagenariae*), bacteria (e.g., *Ralstonia solanacearum*), and sometimes exacerbated by nematodes. An integrated approach is crucial for effective management.
+
+**1. Cultural and Agronomic Practices:**
+
+*   **Resistant Varieties:** Where available, select varieties known for resistance or tolerance to wilt diseases. Consult HAU recommendations for specific varieties suitable for Haryana.
+*   **Crop Rotation:** Implement a 3-4 year crop rotation with non-cucurbit crops (e.g., cereals, pulses) to reduce pathogen build-up in the soil.
+*   **Soil Solarization:** During hot summer months, cover moist soil with transparent polyethylene sheets for 4-6 weeks to reduce soil-borne pathogen populations.
+*   **Field Sanitation:** Remove and destroy infected plant debris promptly to prevent disease spread.
+*   **Proper Drainage:** Ensure good soil drainage to prevent waterlogging, which favors root rot pathogens.
+*   **Balanced Nutrition:** Provide balanced fertilizers to promote vigorous plant growth and enhance natural resistance. Avoid excessive nitrogen.
+*   **Avoid Root Injury:** Minimize root damage during intercultural operations, as wounds can serve as entry points for pathogens.
+*   **Seed Treatment:** Use healthy, certified seeds.
+
+**2. Biological Control:**
+
+*   **Bio-fungicides:**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply as a seed treatment (4-6 g/kg seed) or soil application (2.5 kg/acre mixed with 50 kg farmyard manure) at the time of sowing/transplanting. These fungi act as antagonists against soil-borne pathogens.
+    *   **Pseudomonas fluorescens**: Apply as a seed treatment (10 g/kg seed) or soil drench (2.5 kg/acre mixed with 50 kg farmyard manure) to suppress bacterial and fungal pathogens.
+
+**3. Chemical Control (CIBRC Approved):**
+
+*   **For Fungal Wilts (e.g., Fusarium Wilt):**
+    *   **Seed Treatment:** Treat seeds before sowing with:
+        *   **Carbendazim** 50% WP @ 2 g/kg seed.
+        *   **Thiram** 75% WS @ 2.5 g/kg seed.
+    *   **Soil Drench/Drip Application:**
+        *   **Carbendazim** 50% WP @ 1-2 g/L of water, drench around the base of affected plants. Repeat if necessary.
+        *   **Propamocarb hydrochloride** 72.2% SL @ 2-3 ml/L of water, as a soil drench, especially effective against Oomycetes causing damping-off and root rot.
+
+*   **For Bacterial Wilts (e.g., *Ralstonia solanacearum*):**
+    *   **Seed Treatment:**
+        *   **Streptomycin sulphate 9% + Tetracycline hydrochloride 1% SP** @ 1 g/L of water for 30 minutes soaking, then dry.
+    *   **Soil Drench:**
+        *   **Copper oxychloride** 50% WP @ 2-3 g/L of water, as a soil drench around the base of plants. Copper-based compounds have bacteriostatic properties.
+
+*   **For Nematode Management (if nematodes are suspected to exacerbate wilting):**
+    *   **Soil Application (at sowing/transplanting):**
+        *   **Carbofuran** 3% G @ 10-15 kg/acre, applied in furrows or around plants.
+        *   **Phorate** 10% G @ 4 kg/acre, applied in furrows or around plants.
+        *   **Fluopyram** 34.48% SC @ 125-250 ml/acre, as a soil drench or drip application.
+        *   **Thionazin** 50% EC @ 2-4 L/acre, as a pre-plant soil application or drench.
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for all chemical products.
+*   Rotate fungicides with different modes of action to prevent resistance development.
+*   Consult with HAU extension specialists for specific recommendations tailored to your local conditions and the latest CIBRC approvals.

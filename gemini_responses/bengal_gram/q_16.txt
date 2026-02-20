@@ -1,0 +1,56 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Bengal Gram (Chickpea) in Haryana. Please note that these are general recommendations, and a soil test is always the most accurate basis for fertilizer application.
+
+**General NPK Recommendation for Bengal Gram (Chickpea) in Haryana:**
+Bengal Gram is a leguminous crop and fixes atmospheric nitrogen, thus requiring a lower external nitrogen input. Phosphorus is crucial for root development and nodulation, while Potassium and Sulphur are also important for overall plant health and yield.
+
+*   **Nitrogen (N):** 15-20 kg/acre
+*   **Phosphorus (P2O5):** 40-60 kg/acre
+*   **Potassium (K2O):** 20 kg/acre (if soil test indicates low to medium K)
+*   **Sulphur (S):** 10-20 kg/acre
+
+---
+
+### Recommended Fertilizer Doses:
+
+**A. Basal Application (at the time of sowing):**
+
+1.  **Di-ammonium Phosphate (DAP):**
+    *   To meet the phosphorus requirement (e.g., 60 kg P2O5/acre), apply approximately **130 kg Di-ammonium Phosphate**/acre.
+    *   This dose will simultaneously provide about 23.5 kg N/acre, which is generally sufficient for the crop's starter nitrogen requirement. Therefore, additional **Urea** for nitrogen might not be needed if **Di-ammonium Phosphate** is applied at this rate.
+
+2.  **Single Super Phosphate (SSP):**
+    *   As an alternative to **Di-ammonium Phosphate** for phosphorus and sulphur, apply approximately **250-375 kg Single Super Phosphate**/acre. This will provide 40-60 kg P2O5 and 27.5-41.25 kg Sulphur.
+    *   If **Single Super Phosphate** is used, nitrogen needs to be supplied separately.
+
+3.  **Urea:**
+    *   If **Single Super Phosphate** is used for phosphorus, or if the nitrogen supplied by **Di-ammonium Phosphate** is insufficient (e.g., if lower DAP rates are used), apply **35-45 kg Urea**/acre to provide 15-20 kg N/acre.
+
+4.  **Muriate of Potash (MOP):**
+    *   If your soil test indicates low to medium potassium levels, apply approximately **30-35 kg Muriate of Potash**/acre (to provide 18-21 kg K2O).
+
+5.  **Sulphur:**
+    *   If **Single Super Phosphate** is used, it provides sufficient Sulphur.
+    *   If **Di-ammonium Phosphate** and **Muriate of Potash** are used, Sulphur needs to be supplemented. Apply **10-20 kg Elemental Sulphur (90%)**/acre or **75-150 kg Gypsum**/acre.
+
+6.  **NPK Complex Fertilizer:**
+    *   If using a complex fertilizer like **NPK (12:32:16)**, apply approximately **125-185 kg NPK (12:32:16)**/acre. This will provide 40-60 kg P2O5, 15-22 kg N, and 20-30 kg K2O.
+    *   Ensure the NPK grade chosen also addresses Sulphur requirements, or supplement Sulphur separately if needed.
+
+**B. Foliar Application (Nano Fertilizers):**
+
+1.  **Nano-Urea:**
+    *   For supplementary nitrogen, apply **250-500 ml Nano-Urea** per acre, diluted in 100-200 litres of water.
+    *   Apply 1-2 sprays: The first spray at the branching stage (30-45 days after sowing) and the second spray at the pre-flowering/pod initiation stage.
+
+2.  **Nano-DAP:**
+    *   For supplementary phosphorus, apply **250-500 ml Nano-DAP** per acre, diluted in 100-200 litres of water.
+    *   Apply 1-2 sprays: The first spray at the pre-flowering stage and the second spray at the pod development stage.
+    *   *Note:* Nano-DAP is a newer product and is generally used as a supplement to basal **Di-ammonium Phosphate**, not as a complete replacement.
+
+---
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test before applying fertilizers. The recommendations above are general guidelines for soils with average fertility. Soil test results will help in precise nutrient management, preventing over- or under-application.
+*   **Method of Application:** All basal fertilizers (granular **Urea**, **Di-ammonium Phosphate**, **Single Super Phosphate**, **Muriate of Potash**, **Elemental Sulphur**) should be applied at the time of sowing, preferably drilled 5-7 cm below the seed to ensure efficient nutrient uptake.
+*   **Rhizobium Inoculation:** For effective nitrogen fixation, it is highly recommended to inoculate Bengal Gram seeds with appropriate *Rhizobium* culture before sowing. This significantly enhances the plant's ability to fix atmospheric nitrogen, reducing the need for external nitrogen fertilizers.

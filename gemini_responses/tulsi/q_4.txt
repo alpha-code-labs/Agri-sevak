@@ -1,0 +1,42 @@
+Yes, Wilt (primarily Fusarium wilt) and conditions leading to sudden wilting (often termed Parawilt, associated with severe root rot) are known to affect Tulsi (*Ocimum tenuiflorum* / *Ocimum sanctum*).
+
+**Causative Agents:**
+*   **Wilt:** Primarily caused by soil-borne fungi like *Fusarium oxysporum*. This pathogen invades the roots and blocks the vascular system, leading to yellowing, stunting, and eventual wilting of the plant.
+*   **Parawilt:** This term often refers to a sudden, rapid wilting. While not a specific disease, it can be caused by severe root rot pathogens such as *Pythium* spp. or *Phytophthora* spp., which destroy the root system, or an advanced stage of *Fusarium* wilt, especially under stress conditions.
+
+**Control Measures:**
+
+An integrated approach combining cultural, biological, and chemical methods is most effective for managing wilt in Tulsi.
+
+**1. Cultural Practices:**
+*   **Soil Solarization:** Before planting, cover the soil with transparent polyethylene sheets for 4-6 weeks during hot summer months (May-June) to raise soil temperature and kill soil-borne pathogens.
+*   **Crop Rotation:** Avoid planting Tulsi or other susceptible crops in the same field year after year. Rotate with non-host crops for at least 2-3 years.
+*   **Proper Drainage:** Ensure good soil drainage to prevent waterlogging, which favors root rot pathogens. Plant on raised beds if drainage is poor.
+*   **Sanitation:** Remove and destroy infected plants immediately to prevent the spread of pathogens. Clean tools and equipment after use in infected areas.
+*   **Sterilized Growing Media:** For nursery raising, use sterilized potting mix or soil.
+
+**2. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   *Trichoderma viride* or *Trichoderma harzianum*: 10 g/kg of seeds.
+    *   *Pseudomonas fluorescens*: 10 g/kg of seeds.
+*   **Soil Application/Drenching:**
+    *   *Trichoderma viride* or *Trichoderma harzianum*: Mix 2.5 kg of formulation with 50 kg of Farm Yard Manure (FYM) or compost and apply per acre, or drench with a solution of 5-10 g/L of water around the root zone.
+    *   *Pseudomonas fluorescens*: Mix 2.5 kg of formulation with 50 kg of FYM or compost and apply per acre, or drench with a solution of 5-10 g/L of water around the root zone.
+
+**3. Chemical Control (CIBRC Approved Technical Chemicals):**
+For severe cases or as a preventive measure in high-risk areas, chemical control can be integrated. Always follow label instructions for application rates and safety precautions.
+
+*   **Seed Treatment:**
+    *   **Carbendazim** 50% WP: 2 g/kg of seeds.
+    *   **Thiophanate Methyl** 70% WP: 2 g/kg of seeds.
+*   **Soil Drenching (at early signs of wilting or as a preventive measure):**
+    *   **Carbendazim** 50% WP: 1-2 g/L of water, drench around the base of the plant (approx. 100-200 ml per plant depending on size).
+    *   **Thiophanate Methyl** 70% WP: 1-1.5 g/L of water, drench around the base of the plant.
+    *   **Propamocarb Hydrochloride** 72.2% SL: 2-3 ml/L of water, drench around the base of the plant (effective against *Pythium* and *Phytophthora*).
+    *   **Metalaxyl** 8% + **Mancozeb** 64% WP: 2-2.5 g/L of water, drench around the base of the plant (effective against *Pythium* and *Phytophthora*).
+    *   **Copper Oxychloride** 50% WP: 2.5-3 g/L of water, drench around the base of the plant.
+
+**Important Considerations:**
+*   Early detection and intervention are crucial for effective management.
+*   Always ensure proper application techniques and safety measures, including wearing appropriate personal protective equipment.
+*   Consult with local agricultural extension services for specific recommendations tailored to your farm's conditions in Haryana.

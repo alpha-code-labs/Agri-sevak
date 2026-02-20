@@ -1,0 +1,37 @@
+Namaste! As a Senior Agronomist at HAU, Hisar, I understand your concern regarding Wilt and Parawilt in Turmeric, which can significantly impact yield. These conditions are primarily caused by soil-borne pathogens, including fungi (e.g., *Fusarium oxysporum*) and bacteria (e.g., *Ralstonia solanacearum*). Parawilt often refers to a sudden wilting, sometimes exacerbated by environmental stress like waterlogging, making plants more susceptible to these pathogens.
+
+Effective control requires an integrated approach combining cultural, biological, and chemical methods.
+
+Here's how you can manage Wilt (including Parawilt) in Turmeric:
+
+**I. Cultural Practices (Prevention is Key):**
+
+1.  **Use Healthy Planting Material:** Always select healthy, disease-free rhizomes from reliable sources. Inspect rhizomes carefully for any signs of rot or discoloration before planting.
+2.  **Crop Rotation:** Practice a strict crop rotation for at least 3-4 years, avoiding susceptible crops like ginger, banana, potato, tomato, and brinjal in the same field.
+3.  **Improve Drainage:** Ensure excellent field drainage to prevent waterlogging, which creates anaerobic conditions favorable for pathogen development and stress on plants. Raised beds can be beneficial.
+4.  **Soil Solarization:** During the hot summer months (May-June), plough the field, irrigate it, and then cover it tightly with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, killing many soil-borne pathogens.
+5.  **Avoid Mechanical Injury:** Minimize any injury to rhizomes during planting and subsequent intercultural operations, as wounds serve as entry points for pathogens.
+6.  **Maintain Optimal Soil pH:** *Ralstonia solanacearum* (bacterial wilt pathogen) thrives in acidic soils. If your soil is acidic, apply lime to raise the pH to around 6.0-7.0.
+
+**II. Biological Control:**
+
+1.  **Rhizome Treatment:**
+    *   Dip healthy rhizomes in a solution of **Trichoderma viride** (10 g/L water) or **Pseudomonas fluorescens** (10 g/L water) for 30 minutes before planting.
+2.  **Soil Application:**
+    *   Mix **Trichoderma viride** (2.5 kg/acre) or **Pseudomonas fluorescens** (2.5 kg/acre) with 50 kg of well-decomposed farmyard manure (FYM) or compost. Apply this mixture to the soil during the last ploughing or as a basal application before planting.
+    *   Alternatively, drench the soil around the base of plants with a solution of **Trichoderma viride** or **Pseudomonas fluorescens** (10 g/L water) at early stages of crop growth.
+
+**III. Chemical Control:**
+
+1.  **Rhizome Treatment (Pre-planting):**
+    *   For comprehensive protection against both fungal and bacterial wilt, treat rhizomes by dipping them for 30 minutes in a solution containing:
+        *   **Carbendazim** (1 g/L water) + **Mancozeb** (2.5 g/L water)
+    *   If bacterial wilt is a known severe problem in your area, an additional dip in an antibiotic solution can be beneficial:
+        *   **Streptomycin sulphate** (0.5 g/L water) + **Tetracycline hydrochloride** (0.5 g/L water) for 30 minutes. (Ensure to allow rhizomes to dry slightly or rinse if using both treatments sequentially).
+
+2.  **Soil Drenching (Post-planting, upon symptom appearance):**
+    *   Upon observing initial wilting symptoms, drench the soil around the base of affected plants with:
+        *   **Carbendazim** (1 g/L water) for fungal wilt.
+        *   **Copper oxychloride** (3 g/L water) for general soil health and some suppression of both fungal and bacterial pathogens. Repeat drenching after 15-20 days if symptoms persist.
+
+Remember, an integrated approach is most effective for managing soil-borne diseases like wilt. Regular monitoring of your crop is crucial for early detection and timely intervention.

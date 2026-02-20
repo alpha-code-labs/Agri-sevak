@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an Integrated Pest Management (IPM) approach for controlling Scale insects and Mealybugs in Grape vineyards in Haryana. This involves combining cultural, mechanical, and chemical methods for effective and sustainable pest management.
+
+Both Scale insects and Mealybugs are significant sucking pests of grapes, causing damage by feeding on sap, excreting honeydew (leading to sooty mold), and reducing plant vigour and fruit quality.
+
+### Control of Scale Insects in Grape
+
+Scale insects are typically more challenging to control due to their protective waxy or hard covering.
+
+1.  **Cultural and Mechanical Control:**
+    *   **Pruning:** During dormant pruning, carefully inspect canes and spurs. Remove and destroy heavily infested canes, bark, and plant debris where scales might overwinter.
+    *   **Scraping:** For localized infestations on older wood, gently scrape off scales using a blunt tool, taking care not to damage the bark.
+    *   **Sanitation:** Maintain vineyard hygiene by removing weeds and fallen leaves that can harbour pests.
+
+2.  **Chemical Control:**
+    *   **Dormant Spray:** This is crucial for managing overwintering scale populations.
+        *   Apply **Horticultural Mineral Oil** (e.g., 80% EC) at 20-30 ml per liter of water during the dormant period (after pruning and before bud break). Ensure thorough coverage of all woody parts.
+    *   **Active Stage (Crawler Emergence):** The crawler stage is the most vulnerable. Monitor for crawler emergence, typically in spring.
+        *   **Buprofezin 25% SC** at 2.5 ml per liter of water.
+        *   **Spirotetramat 150 OD** at 0.75 ml per liter of water.
+        *   **Imidacloprid 17.8% SL** at 0.5 ml per liter of water.
+
+### Control of Mealybugs in Grape
+
+Mealybugs are often found in protected areas like leaf axils, under bark, and within fruit clusters.
+
+1.  **Cultural and Mechanical Control:**
+    *   **Pruning:** Remove and destroy infested plant parts during pruning.
+    *   **Ant Management:** Ants often protect mealybugs from natural enemies to harvest their honeydew. Control ant populations by banding trunks with sticky barriers or using ant baits.
+    *   **Weed Control:** Keep the vineyard free of weeds, which can serve as alternate hosts for mealybugs.
+    *   **High-Pressure Water Spray:** For localized, light infestations, a strong jet of water can dislodge mealybugs.
+
+2.  **Biological Control:**
+    *   Encourage natural enemies such as parasitic wasps (e.g., *Anagyrus lopezi*) and predatory beetles (e.g., *Cryptolaemus montrouzieri*). Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+3.  **Chemical Control:**
+    *   **Buprofezin 25% SC** at 2.5 ml per liter of water.
+    *   **Spirotetramat 150 OD** at 0.75 ml per liter of water.
+    *   **Flupyradifurone 200 SL** at 0.4 ml per liter of water.
+    *   **Acetamiprid 20% SP** at 0.2 g per liter of water.
+    *   **Horticultural Mineral Oil** (e.g., 80% EC) at 5-10 ml per liter of water can be used as a foliar spray, especially effective against younger stages, ensuring thorough coverage.
+
+### General Recommendations for Both Pests:
+
+*   **Timing of Application:** Apply insecticides when pests are in their most vulnerable stages (e.g., scale crawlers, young mealybug nymphs).
+*   **Thorough Coverage:** Ensure complete spray coverage, especially targeting the undersides of leaves, bark crevices, and fruit clusters where these pests hide.
+*   **Rotation of Chemicals:** To prevent the development of pesticide resistance, rotate insecticides with different modes of action.
+*   **Pre-Harvest Interval (PHI):** Always observe the specified Pre-Harvest Interval (PHI) for each chemical to ensure fruit safety.
+*   **Safety Precautions:** Always wear appropriate personal protective equipment (PPE) and follow the instructions and safety guidelines provided on the pesticide label.
+*   **Monitoring:** Regularly monitor your vineyard for pest presence and population levels to determine the need and timing of interventions.
+
+For specific local recommendations and current CIBRC approved products, farmers are advised to consult with the Department of Horticulture, Haryana, or agricultural scientists at HAU, Hisar.

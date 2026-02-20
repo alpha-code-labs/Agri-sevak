@@ -1,0 +1,64 @@
+As a Senior Agronomist, I must clarify that many of the "rot" types you've listed are terms typically used for vascular plants and do not apply to mushrooms, which are fungi. Mushrooms do not have roots, stems (in the botanical sense), feet, collars, crowns, necks, seeds, or seedlings.
+
+Therefore:
+*   **Root Rot:** This is not known to affect Mushroom.
+*   **Stem Rot:** This is not known to affect Mushroom.
+*   **Foot Rot:** This is not known to affect Mushroom.
+*   **Collar Rot:** This is not known to affect Mushroom.
+*   **Crown Rot:** This is not known to affect Mushroom.
+*   **Neck Rot:** This is not known to affect Mushroom.
+*   **Seed Rot:** This is not known to affect Mushroom.
+*   **Seedling Rot:** This is not known to affect Mushroom.
+
+However, mushrooms (the fruiting bodies) can suffer from decay, which can be broadly termed "Fruit Rot" or, if discolored, "Black Rot." This decay is primarily caused by bacterial or fungal pathogens. The key to controlling these issues lies in stringent hygiene, environmental management, and preventative measures.
+
+Here are the common causes of mushroom decay/rot and their control measures:
+
+**Common Causes of Mushroom Decay/Rot (Fruit Rot / Black Rot):**
+
+1.  **Bacterial Blotch (e.g., *Pseudomonas tolaasii*):** Causes yellowish to brown spots on caps, which can enlarge, become slimy, and lead to significant decay.
+2.  **Green Mould (*Trichoderma harzianum*):** Can colonize the substrate and sometimes attack the fruiting bodies, causing decay and a characteristic green sporulation.
+3.  **Wet Bubble (*Mycogone perniciosa*):** Causes severe malformation and decay of mushrooms, often turning them into a soft, putrid mass.
+4.  **Dry Bubble (*Verticillium fungicola*):** Leads to malformed mushrooms, often with brown spots and a leathery texture, eventually decaying.
+5.  **Cobweb Disease (*Dactylium dendroides* / *Cladobotryum dendroides*):** A fast-growing, fluffy white mould that covers mushrooms, causing them to rot rapidly.
+
+**Control Measures for Mushroom Decay/Rot:**
+
+Effective control relies heavily on integrated pest and disease management, with a strong emphasis on hygiene and environmental control. Direct chemical application to mushroom fruiting bodies is generally avoided due to residue concerns and the nature of the crop.
+
+**I. Cultural and Hygienic Practices (Most Critical):**
+
+*   **Substrate Preparation:**
+    *   Ensure proper pasteurization or sterilization of the compost/substrate to eliminate pathogens and competing organisms.
+*   **Farm Sanitation:**
+    *   Maintain strict cleanliness in growing rooms, corridors, and packing areas.
+    *   Regularly clean and disinfect all equipment (trays, shelves, tools) before and after use.
+    *   Ensure personnel maintain high personal hygiene, including clean clothing and footwear.
+*   **Environmental Control:**
+    *   **Ventilation:** Provide adequate fresh air exchange to reduce humidity and prevent condensation on mushroom caps, which favors bacterial growth.
+    *   **Humidity:** Maintain optimal relative humidity (typically 85-90%) but avoid waterlogging on the mushroom surface.
+    *   **Temperature:** Keep growing room temperatures within the optimal range for the specific mushroom species to promote healthy growth and reduce stress.
+    *   **Watering:** Water carefully, avoiding direct overhead watering that leaves water droplets on caps for extended periods. Use fine mist sprays if necessary.
+*   **Disease Management:**
+    *   **Early Detection & Removal:** Regularly inspect mushrooms. Immediately remove and destroy any diseased or decaying mushrooms and the surrounding substrate. Place them in sealed bags and dispose of them away from the farm.
+    *   **Isolation:** Isolate affected growing rooms or areas to prevent the spread of spores or bacteria.
+    *   **Pest Control:** Control insect pests (e.g., sciarid flies, phorid flies) as they can act as vectors for disease spread.
+*   **Post-Harvest Handling:**
+    *   Harvest mushrooms at the correct stage.
+    *   Handle gently to avoid bruising, which can create entry points for pathogens.
+    *   Store harvested mushrooms immediately in cool conditions to slow down decay.
+
+**II. Chemical Control (Primarily for Disinfection, Not Direct Application to Fruiting Bodies):**
+
+Chemicals are primarily used for disinfection of growing areas, equipment, and sometimes for substrate treatment, rather than direct application to the mushroom fruiting bodies. Always ensure CIBRC approval for the specific use and follow manufacturer guidelines strictly.
+
+*   **For Disinfection of Growing Rooms and Equipment:**
+    *   **Formaldehyde** (as a fumigant or solution for surface disinfection, with strict safety protocols).
+    *   **Chlorine Dioxide** (as a disinfectant for surfaces and water treatment).
+    *   **Hydrogen Peroxide** (as a disinfectant for surfaces).
+    *   **Sodium Hypochlorite** (Bleach - for surface disinfection).
+
+*   **For Substrate Treatment (if applicable and approved):**
+    *   Some fungicides might be incorporated into casing soil or substrate in specific situations to control certain moulds, but this requires expert guidance and CIBRC approval for that specific application. For example, **Carbendazim** or **Mancozeb** might be used in casing soil for specific fungal issues, but their use is highly regulated and not for direct application to fruiting bodies.
+
+**Important Note:** Always consult with a local agricultural expert or the Haryana Agricultural University for the most current and specific recommendations tailored to your farm's conditions and the specific mushroom species you are cultivating. Adherence to CIBRC guidelines for chemical use is paramount for food safety and environmental protection.

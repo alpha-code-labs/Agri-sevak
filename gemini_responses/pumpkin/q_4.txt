@@ -1,0 +1,54 @@
+Wilt (including Parawilt) is a significant problem affecting Pumpkin in Haryana, causing substantial yield losses. This condition can be caused by various pathogens, including fungi (e.g., *Fusarium* species), bacteria (*Erwinia tracheiphila* causing bacterial wilt), and oomycetes (*Phytophthora capsici* often associated with parawilt). An integrated approach combining cultural, biological, and chemical methods is essential for effective control.
+
+Here's how to control Wilt (including Parawilt) in Pumpkin:
+
+**I. Cultural and Agronomic Practices (Foundation of Control):**
+
+1.  **Crop Rotation:** Implement a 3-4 year crop rotation with non-cucurbit crops (e.g., cereals, maize, pulses) to reduce pathogen inoculum in the soil.
+2.  **Resistant Varieties:** Where available and suitable for Haryana's agro-climatic conditions, choose pumpkin varieties known for resistance or tolerance to wilt diseases.
+3.  **Soil Solarization:** During hot summer months (May-June), cover moist soil with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, effectively killing many soil-borne pathogens, including wilt-causing fungi and oomycetes.
+4.  **Raised Beds and Improved Drainage:** Plant pumpkins on raised beds to prevent waterlogging, which is crucial for managing *Phytophthora* (parawilt) and other root rot pathogens. Ensure good field drainage.
+5.  **Irrigation Management:**
+    *   Avoid overhead irrigation, which can splash soil-borne pathogens onto plants and create humid conditions favorable for disease development.
+    *   Use drip irrigation to deliver water directly to the root zone, keeping foliage dry and minimizing soil splash.
+    *   Irrigate in the morning to allow foliage to dry quickly.
+    *   Avoid over-irrigation.
+6.  **Sanitation:**
+    *   Remove and destroy infected plant debris promptly to reduce inoculum sources.
+    *   Clean farm tools and equipment thoroughly after working in infected areas to prevent pathogen spread.
+7.  **Healthy Seedlings:** Use certified disease-free seeds or healthy seedlings from reputable nurseries.
+8.  **Nutrient Management:** Provide balanced nutrition to plants to enhance their vigor and natural resistance to diseases. Avoid excessive nitrogen, which can lead to lush, susceptible growth.
+9.  **Weed Control:** Keep fields free of weeds, as they can act as alternative hosts for pathogens and compete for nutrients.
+
+**II. Chemical Control (Use CIBRC approved technical chemicals only):**
+
+**A. Seed Treatment (for general wilt prevention):**
+To protect young seedlings from soil-borne pathogens, treat seeds before sowing.
+
+*   **Carbendazim** 50% WP: 1-2 g per kg of seed.
+*   **Thiram** 75% WS: 2-3 g per kg of seed.
+
+**B. For Phytophthora Blight/Parawilt (Soil Drench/Foliar Application):**
+These fungicides are effective against oomycete pathogens like *Phytophthora capsici*. Apply as a soil drench around the base of the plant or as a foliar spray, especially during periods favorable for disease development (high humidity, wet conditions).
+
+*   **Propamocarb Hydrochloride** 72.2% SL: 2-3 ml per litre of water (as drench or foliar spray).
+*   **Metalaxyl-M** 4% + **Mancozeb** 64% WP: 2.5 g per litre of water (as drench or foliar spray).
+*   **Fosetyl-Aluminium** 80% WP: 2.5-3 g per litre of water (as foliar spray).
+*   **Dimethomorph** 50% WP: 0.8-1 g per litre of water (as foliar spray).
+*   **Mancozeb** 75% WP: 2-2.5 g per litre of water (as a protective spray, often in rotation or combination).
+
+**C. For Bacterial Wilt (Vector Control):**
+Bacterial wilt is primarily spread by cucumber beetles. Controlling the insect vector is the most effective way to manage this disease.
+
+*   **Imidacloprid** 17.8% SL: 0.5-0.75 ml per litre of water (foliar spray for beetle control).
+*   **Thiamethoxam** 25% WG: 0.2-0.4 g per litre of water (foliar spray for beetle control).
+
+**III. Important Considerations:**
+
+*   **Diagnosis:** Accurate diagnosis of the specific wilt pathogen is crucial for selecting the most effective control measures. Consult with HAU experts or local agricultural extension services for proper identification.
+*   **Application Timing:** Apply fungicides preventively or at the very first sign of disease for best results.
+*   **Rotation of Chemicals:** To prevent the development of fungicide resistance, rotate fungicides with different modes of action.
+*   **Adherence to Label Instructions:** Always read and strictly follow the instructions on the pesticide label regarding dosage, application method, safety precautions, and pre-harvest interval (PHI).
+*   **Integrated Pest Management (IPM):** Combine all suitable methods for sustainable and effective disease management.
+
+By implementing these scientifically verified practices, pumpkin growers in Haryana can significantly reduce the incidence and severity of wilt diseases, including parawilt, and ensure healthy yields.

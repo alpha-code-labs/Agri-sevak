@@ -1,0 +1,40 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Wilt (including Parawilt) in Sorghum (Jowar) in Haryana. It is important to understand that Wilt and Parawilt are distinct conditions requiring different management approaches.
+
+---
+
+### **1. Wilt (Fusarium Wilt) in Sorghum (Jowar)**
+
+Wilt in sorghum is primarily caused by the fungus *Fusarium verticillioides* (formerly *F. moniliforme*). This is a soil-borne disease that can lead to significant yield losses.
+
+*   **Cultural and Agronomic Practices:**
+    *   **Resistant Varieties:** Select and plant sorghum varieties known to be resistant or tolerant to Fusarium wilt. Consult HAU recommendations for specific varieties suitable for Haryana.
+    *   **Crop Rotation:** Practice a 2-3 year crop rotation with non-host crops like legumes (e.g., cluster bean, moong bean) or wheat to reduce the pathogen inoculum in the soil.
+    *   **Field Sanitation:** Remove and destroy infected plant debris after harvest to prevent the build-up of fungal spores.
+    *   **Balanced Nutrition:** Apply balanced fertilizers based on soil test recommendations. Avoid excessive nitrogen, which can make plants more susceptible. Ensure adequate potassium levels.
+    *   **Deep Ploughing:** Deep summer ploughing can help expose fungal spores to sunlight and high temperatures, reducing their viability.
+
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-control agents before sowing:
+        *   *Trichoderma viride* at 4 g/kg of seed.
+        *   *Pseudomonas fluorescens* at 10 g/kg of seed.
+
+*   **Chemical Control (Seed Treatment):**
+    *   For effective management, seed treatment with CIBRC approved fungicides is crucial. Treat seeds with one of the following:
+        *   **Carbendazim** 50% WP at 2 g/kg of seed.
+        *   **Thiram** 75% WS at 2.5 g/kg of seed.
+        *   **Captan** 50% WP at 2.5 g/kg of seed.
+
+---
+
+### **2. Parawilt in Sorghum (Jowar)**
+
+Parawilt is a physiological disorder, not caused by a pathogen. It is often triggered by sudden environmental stresses, such as waterlogging followed by high temperatures, or sudden changes in humidity and soil moisture, leading to temporary wilting and sometimes plant death.
+
+*   **Cultural and Agronomic Practices:**
+    *   **Efficient Water Management:** Ensure proper drainage in the field to prevent waterlogging, especially during periods of heavy rainfall. Avoid prolonged periods of drought stress.
+    *   **Timely Irrigation:** Provide light and frequent irrigations during critical growth stages, particularly if dry spells are anticipated after heavy rains, to maintain consistent soil moisture.
+    *   **Soil Health:** Improve soil structure and organic matter content through practices like adding farmyard manure or compost. This enhances water infiltration, drainage, and water holding capacity.
+    *   **Nutrient Management:** Ensure a balanced nutrient supply, especially adequate potassium, which plays a vital role in plant water regulation and stress tolerance.
+    *   **Tolerant Varieties:** Choose sorghum varieties known to be tolerant to environmental stresses prevalent in your region.
+
+*   **No specific chemical control is available for Parawilt as it is a physiological disorder.** The primary focus should be on preventing the environmental stresses that trigger it and maintaining overall plant health. While foliar applications of micronutrients or potassium nitrate can sometimes aid in general stress recovery, they are not direct "cures" for parawilt itself.

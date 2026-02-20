@@ -1,0 +1,64 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling Wilt (including Parawilt) in Groundnut in Haryana. It is crucial to understand that "Wilt" can refer to different diseases with distinct causes and, therefore, different control strategies.
+
+We will address two main categories:
+1.  **Fungal Wilts:** Primarily caused by soil-borne fungi like *Sclerotium rolfsii* (Collar Rot/Stem Rot leading to wilt) and *Fusarium oxysporum* f. sp. *arachidis* (Fusarium Wilt).
+2.  **Parawilt (Peanut Stem Necrosis Disease - PSND):** A viral disease caused by *Tobacco streak virus* (TSV), transmitted by thrips.
+
+---
+
+### 1. Control of Fungal Wilts (*Sclerotium rolfsii* and *Fusarium oxysporum*)
+
+These wilts are primarily soil-borne and cause rotting at the collar region or vascular discoloration, leading to wilting and plant death.
+
+**A. Cultural Practices:**
+*   **Crop Rotation:** Practice a 2-3 year crop rotation with non-host crops like cereals (e.g., wheat, maize) to reduce inoculum in the soil.
+*   **Deep Ploughing:** Deep summer ploughing helps expose fungal sclerotia to solar radiation, reducing their viability.
+*   **Timely Sowing:** Sow groundnut at the recommended time to avoid periods conducive to disease development.
+*   **Drainage:** Ensure proper field drainage to prevent waterlogging, which can exacerbate fungal diseases.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization. Maintain balanced nutrient application based on soil test recommendations.
+*   **Sanitation:** Remove and destroy infected plant debris from the field.
+
+**B. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   *Trichoderma viride* or *Trichoderma harzianum* @ 4-5 g/kg seed.
+*   **Soil Application:**
+    *   Apply *Trichoderma viride* or *Trichoderma harzianum* @ 2.5 kg/acre mixed with 50 kg of well-decomposed farmyard manure (FYM) or compost, 7-10 days before sowing.
+
+**C. Chemical Control:**
+*   **Seed Treatment (Most Effective Preventive Measure):**
+    *   **Carbendazim** 50% WP @ 1-2 g/kg seed.
+    *   **Thiram** 75% WS @ 2-3 g/kg seed.
+    *   A combination of **Carbendazim** 1 g + **Thiram** 2 g per kg seed is highly effective.
+    *   **Tebuconazole** 2% DS @ 2.5 g/kg seed.
+*   **Soil Drenching (for early stage localized infection):**
+    *   In case of early disease appearance, drench the soil around the base of affected plants with **Carbendazim** 50% WP @ 1 g/L water.
+
+---
+
+### 2. Control of Parawilt (*Tobacco streak virus* - TSV)
+
+Parawilt is a viral disease transmitted by thrips (*Scirtothrips dorsalis*). Control measures focus on managing the vector (thrips) and cultural practices.
+
+**A. Cultural Practices:**
+*   **Roguing:** Promptly remove and destroy (bury or burn) any plants showing symptoms of Parawilt to prevent further spread of the virus.
+*   **Weed Management:** Control weeds in and around the groundnut field, as many weeds can serve as alternate hosts for both the virus and its thrips vector.
+*   **Timely Sowing:** Adjust sowing time to avoid peak thrips activity periods if possible, based on local agro-climatic conditions.
+*   **Border Cropping:** Planting non-host barrier crops (e.g., pearl millet, sorghum) around the groundnut field can sometimes reduce thrips movement into the main crop.
+
+**B. Chemical Control (Vector Management - Thrips):**
+Controlling the thrips vector is key to managing Parawilt.
+*   **Seed Treatment:**
+    *   **Imidacloprid** 70% WS @ 2-3 g/kg seed.
+    *   **Thiamethoxam** 70% WS @ 3 g/kg seed.
+    *   This provides early protection against thrips.
+*   **Foliar Spray (if thrips population is high or symptoms appear):**
+    *   **Imidacloprid** 17.8% SL @ 0.5 ml/L water (100-125 ml/acre).
+    *   **Thiamethoxam** 25% WG @ 0.2 g/L water (80 g/acre).
+    *   **Fipronil** 5% SC @ 2 ml/L water (400-600 ml/acre).
+    *   **Lambda-cyhalothrin** 5% EC @ 0.5 ml/L water (100-120 ml/acre).
+    *   Rotate insecticides with different modes of action to prevent the development of resistance in thrips. Apply sprays based on economic threshold levels or early symptom appearance.
+
+---
+
+**Integrated Pest Management (IPM) Approach:**
+For effective and sustainable control of both fungal wilts and Parawilt, an integrated approach combining cultural, biological, and judicious chemical methods is highly recommended. Always follow label instructions for chemical usage and safety precautions.

@@ -1,0 +1,55 @@
+Wilt and Parawilt in Gerbera are serious conditions primarily caused by soil-borne fungal pathogens, most commonly *Fusarium oxysporum f. sp. gerberae*, but also *Phytophthora* species, *Pythium* species, and *Rhizoctonia solani* which cause root and collar rot leading to wilting symptoms often referred to as Parawilt. Effective control requires an integrated approach combining cultural, biological, and chemical methods.
+
+Here's how to control Wilt (including Parawilt) in Gerbera:
+
+### I. Cultural Practices (Preventive and Management)
+
+1.  **Use Disease-Free Planting Material:** Always source healthy, certified tissue-cultured plantlets or cuttings from reputable nurseries.
+2.  **Sterilize Growing Media:** For protected cultivation (polyhouses/net houses), sterilize the growing media (cocopeat, vermiculite, soil mix) using steam sterilization or chemical fumigants (if permitted and handled by trained personnel).
+3.  **Ensure Excellent Drainage:** Gerbera plants are highly susceptible to root rot in waterlogged conditions. Use raised beds and well-draining media. Avoid overwatering.
+4.  **Maintain Optimal Soil pH:** Gerbera prefers a slightly acidic to neutral pH (6.0-7.0). Maintain this range as extreme pH can stress plants and make them more susceptible.
+5.  **Sanitation:**
+    *   Remove and destroy infected plants immediately to prevent the spread of inoculum. Do not compost infected plant material.
+    *   Disinfect tools, pots, and benches regularly with a suitable disinfectant (e.g., 1% sodium hypochlorite solution).
+6.  **Avoid Root Injury:** Minimize any damage to roots during transplanting or intercultural operations, as wounds provide entry points for pathogens.
+7.  **Soil Solarization:** In open field conditions or before planting in polyhouses, soil solarization during hot summer months (for 4-6 weeks) can significantly reduce soil-borne pathogen populations.
+
+### II. Biological Control
+
+1.  **Bio-fungicides:** Application of beneficial microbial antagonists can suppress pathogen growth.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply as a soil drench or mix with the growing media at the time of planting.
+        *   **Dosage:** Typically 2.5-5 kg/acre mixed with 50-100 kg farmyard manure (FYM) or 5-10 g/L of water for drenching. Repeat applications every 3-4 weeks, especially during susceptible stages.
+
+### III. Chemical Control (CIBRC Approved Technical Chemicals)
+
+Chemical control should be used judiciously and in rotation to prevent resistance development. Always follow product label instructions for specific dosages and safety precautions.
+
+**A. For Fusarium Wilt (*Fusarium oxysporum*)**
+
+*   **Carbendazim**:
+    *   **Dosage:** 1-2 g/L of water as a soil drench around the base of the plant. Repeat every 10-15 days if symptoms persist or as a preventive measure in high-risk areas.
+*   **Thiophanate-methyl**:
+    *   **Dosage:** 1-1.5 g/L of water as a soil drench.
+*   **Propiconazole**:
+    *   **Dosage:** 0.5-1 ml/L of water as a soil drench.
+
+**B. For Root/Collar Rot (*Phytophthora*, *Pythium*, *Rhizoctonia*) leading to Parawilt**
+
+*   **Propamocarb hydrochloride**: (Effective against Oomycetes like *Phytophthora* and *Pythium*)
+    *   **Dosage:** 2-3 ml/L of water as a soil drench.
+*   **Fosetyl-aluminium**: (Systemic, effective against Oomycetes)
+    *   **Dosage:** 2-3 g/L of water as a soil drench.
+*   **Metalaxyl**: (Often used in combination products, effective against Oomycetes)
+    *   **Dosage:** If available as a standalone product, typically 0.5-1 g/L of water as a soil drench. (Note: Often found in combination with Mancozeb).
+*   **Validamycin**: (Effective against *Rhizoctonia*)
+    *   **Dosage:** 2-3 ml/L of water as a soil drench.
+*   **Pencycuron**: (Specific for *Rhizoctonia*)
+    *   **Dosage:** 0.5-1 g/L of water as a soil drench.
+
+**Important Considerations for Chemical Application:**
+
+*   **Rotation:** Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   **Timing:** Apply fungicides preventively if the disease is endemic in your area or at the first sign of symptoms.
+*   **Drenching:** Ensure thorough drenching of the soil around the root zone for systemic absorption and direct contact with soil-borne pathogens.
+
+For specific recommendations tailored to your farm's conditions, please consult with the plant pathology department at HAU, Hisar, or your local agricultural extension officer.

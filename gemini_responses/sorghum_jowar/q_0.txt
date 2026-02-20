@@ -1,0 +1,81 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Sorghum (Jowar) in Haryana:
+
+It is crucial to adopt an Integrated Disease Management (IDM) approach, combining cultural practices with judicious use of fungicides. Always consult your local agricultural extension officer for specific recommendations tailored to your field conditions and the latest approved practices.
+
+---
+
+### Fungal Disease Control in Sorghum (Jowar)
+
+**1. Alternaria Leaf Spot (Caused by *Alternaria alternata*)**
+*   **Cultural Practices:**
+    *   Use resistant or tolerant varieties.
+    *   Practice crop rotation with non-host crops.
+    *   Remove and destroy infected plant debris after harvest.
+*   **Chemical Control (Foliar Spray):**
+    *   Spray at the appearance of initial symptoms.
+    *   **Mancozeb** @ 2.5 g/L of water.
+    *   **Propiconazole** @ 1 ml/L of water.
+    *   **Azoxystrobin** @ 0.5 ml/L of water.
+
+**2. Anthracnose (Caused by *Colletotrichum sublineolum*)**
+*   **Cultural Practices:**
+    *   Plant resistant varieties.
+    *   Practice crop rotation.
+    *   Ensure proper field sanitation by removing infected crop residues.
+    *   Maintain balanced nutrient application, avoiding excessive nitrogen.
+*   **Chemical Control (Foliar Spray):**
+    *   Initiate spraying upon disease appearance and repeat if necessary.
+    *   **Thiophanate Methyl** @ 1 g/L of water.
+    *   **Propiconazole** @ 1 ml/L of water.
+    *   **Azoxystrobin** @ 0.5 ml/L of water.
+    *   **Mancozeb** @ 2.5 g/L of water.
+
+**3. Blast (Caused by *Magnaporthe grisea* / *Pyricularia grisea*)**
+*   **Cultural Practices:**
+    *   Cultivate resistant varieties.
+    *   Maintain optimal plant spacing to ensure good air circulation.
+    *   Avoid excessive nitrogen fertilization, which can make plants more susceptible.
+*   **Chemical Control (Foliar Spray):**
+    *   Apply fungicides at the first sign of disease, especially during humid conditions.
+    *   **Tricyclazole** @ 0.6 g/L of water.
+    *   **Propiconazole** @ 1 ml/L of water.
+    *   **Azoxystrobin** @ 0.5 ml/L of water.
+    *   **Carbendazim** @ 0.5 g/L of water.
+
+**4. Leaf Blight (Caused by *Exserohilum turcicum*)**
+*   **Cultural Practices:**
+    *   Use resistant varieties.
+    *   Practice crop rotation with non-host crops.
+    *   Manage crop residues effectively, as the fungus can survive on them.
+*   **Chemical Control (Foliar Spray):**
+    *   Spray when symptoms are first observed.
+    *   **Mancozeb** @ 2.5 g/L of water.
+    *   **Propiconazole** @ 1 ml/L of water.
+    *   **Azoxystrobin** @ 0.5 ml/L of water.
+
+**5. Brown Spot (Caused by *Bipolaris maydis* / *Cochliobolus heterostrophus*)**
+*   **Cultural Practices:**
+    *   Plant resistant varieties.
+    *   Implement crop rotation to reduce inoculum in the soil.
+*   **Chemical Control (Foliar Spray):**
+    *   Apply fungicides upon disease onset.
+    *   **Mancozeb** @ 2.5 g/L of water.
+    *   **Propiconazole** @ 1 ml/L of water.
+
+**6. Downy Mildew (Caused by *Peronosclerospora sorghi*)**
+*   **Cultural Practices:**
+    *   Plant resistant varieties, which is the most effective control measure.
+    *   Practice crop rotation with non-host crops for at least 2-3 years.
+    *   Rogue out and destroy infected plants early in the season to prevent spore dispersal.
+*   **Chemical Control (Seed Treatment is Primary):**
+    *   **Seed Treatment:** This is the most critical chemical control measure. Treat seeds before sowing.
+        *   **Metalaxyl-M** @ 6 g/kg of seed.
+        *   **Metalaxyl** @ 6 g/kg of seed.
+    *   **Foliar Spray (if severe early infection occurs despite seed treatment):**
+        *   **Metalaxyl-M + Mancozeb** (pre-mix formulation) @ 2.5 g/L of water.
+
+**7. Powdery Mildew**
+*   This is not known to affect Sorghum (Jowar) as a significant disease.
+
+**8. Grey Mildew**
+*   This is not known to affect Sorghum (Jowar).

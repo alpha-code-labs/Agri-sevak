@@ -1,0 +1,57 @@
+Namaste Kisan Bhaiyon,
+
+As a Senior Agronomist at HAU, Hisar, I understand your concern regarding various rot types in Bhindi (Okra). Rots are primarily caused by fungal pathogens and can significantly impact yield and plant health. Effective management requires an integrated approach combining cultural practices, biological control, and judicious use of CIBRC-approved chemicals.
+
+Here's a comprehensive guide to control various rot types in Bhindi:
+
+**General Management Principles for All Rot Types (Root, Stem, Foot, Collar, Crown, Neck, Seed, Seedling, and Fruit Rot):**
+
+These rots are often caused by a complex of soil-borne fungi such as *Pythium*, *Phytophthora*, *Rhizoctonia*, *Fusarium*, and *Sclerotium*, as well as specific fungi for fruit rot (e.g., *Colletotrichum*, *Phytophthora*). "Black Rot" as a specific disease (like in crucifers) is not known to affect Bhindi; however, general dark discoloration and decay can be symptoms of the fungal rots mentioned above.
+
+1.  **Cultural and Preventive Measures:**
+    *   **Crop Rotation:** Avoid continuous cultivation of Bhindi or other susceptible crops in the same field. Rotate with non-host crops like cereals (wheat, maize) for at least 2-3 years.
+    *   **Field Sanitation:** Remove and destroy infected plant debris from the field to reduce inoculum sources.
+    *   **Soil Drainage:** Ensure excellent field drainage. Prepare raised beds if necessary, especially in areas prone to waterlogging, as excessive moisture favors rot development.
+    *   **Optimum Sowing Time:** Sow seeds at the recommended time for your region to avoid periods of high humidity and temperature that favor disease.
+    *   **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can lead to lush, succulent growth more susceptible to disease.
+    *   **Proper Spacing:** Maintain recommended plant spacing to ensure good air circulation, which helps reduce humidity around plants.
+    *   **Irrigation Management:** Avoid overhead irrigation where possible, or irrigate in the morning to allow foliage to dry quickly. Avoid over-irrigation.
+    *   **Resistant Varieties:** If available and suitable for your region, choose Bhindi varieties known for their resistance or tolerance to common rot diseases.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-fungicides before sowing.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: 4-6 g/kg seed.
+    *   **Soil Application:** Mix bio-fungicides with farmyard manure (FYM) or compost and apply to the soil before planting or at the time of sowing.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: 2.5 kg/acre mixed with 50-100 kg FYM.
+
+3.  **Chemical Control (CIBRC Approved):**
+
+    *   **For Seed Rot and Seedling Rot (Damping-off):**
+        *   **Seed Treatment:** This is crucial for protecting seeds and young seedlings.
+            *   **Carbendazim** 50% WP: 2 g/kg seed.
+            *   **Thiram** 75% WS: 2.5-3 g/kg seed.
+            *   **Metalaxyl-M** 35% WS: 3 g/kg seed (especially effective against *Pythium* and *Phytophthora*).
+            *   A combination product like **Carbendazim** 12% + **Mancozeb** 63% WP: 2.5-3 g/kg seed.
+
+    *   **For Root Rot, Stem Rot, Foot Rot, Collar Rot, and Crown Rot:**
+        *   **Soil Drenching:** Apply fungicide solution around the base of the infected plants.
+            *   **Carbendazim** 50% WP: 1-2 g/L of water. Drench 100-200 ml solution per plant, depending on plant size.
+            *   **Propamocarb hydrochloride** 72.2% SL: 2-3 ml/L of water. Drench around the root zone.
+            *   **Metalaxyl-M** 3.3% + **Mancozeb** 66.7% WP: 2.5 g/L of water. Drench around the base of the plants.
+            *   **Mancozeb** 75% WP: 2.5 g/L of water. Drench around the base of the plants.
+
+    *   **For Fruit Rot:**
+        *   **Foliar Spray:** Apply fungicides as a protective spray, especially during periods of high humidity and fruit development.
+            *   **Mancozeb** 75% WP: 2.5 g/L of water.
+            *   **Carbendazim** 50% WP: 1 g/L of water.
+            *   **Propineb** 70% WP: 2.5 g/L of water.
+            *   **Azoxystrobin** 23% SC: 0.5-1 ml/L of water.
+            *   **Pyraclostrobin** 20% WG: 0.5-0.75 g/L of water.
+            *   A combination product like **Azoxystrobin** 11% + **Tebuconazole** 18.3% SC: 1 ml/L of water.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the fungicide label for correct dosage, application method, and safety precautions.
+*   Rotate different classes of fungicides to prevent the development of resistance in pathogens.
+*   Apply fungicides preventively or at the very early stages of disease appearance for best results.
+
+By implementing these integrated management strategies, you can effectively control various rot diseases in your Bhindi crop and ensure a healthy and productive harvest. For specific local recommendations, please consult your nearest Krishi Vigyan Kendra (KVK) or agricultural extension officer.

@@ -1,0 +1,73 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I advise on the integrated management of various rot types in Rajma (Kidney Bean) based on scientific verification and CIBRC approved practices for Haryana.
+
+It is crucial to adopt an integrated pest management (IPM) approach, combining cultural, biological, and chemical methods for effective and sustainable control.
+
+Here's how to control the various rot types in Rajma:
+
+### General Integrated Management Principles for Rots in Rajma:
+
+1.  **Cultural Practices (Preventive):**
+    *   **Crop Rotation:** Practice a 2-3 year rotation with non-host crops (e.g., cereals like wheat, maize) to reduce soil-borne inoculum.
+    *   **Certified Seeds:** Always use healthy, certified, disease-free seeds from reputable sources.
+    *   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent pathogen carry-over.
+    *   **Drainage:** Ensure excellent field drainage to prevent waterlogging, which favors many rot pathogens.
+    *   **Soil Health:** Improve soil structure and organic matter content.
+    *   **Sowing Depth & Spacing:** Maintain optimal sowing depth and plant spacing to ensure good air circulation and reduce humidity around the plant base.
+    *   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can lead to lush growth susceptible to diseases.
+    *   **Deep Ploughing:** Plough deeply after harvest to bury crop residues and expose pathogens to sunlight.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-control agents.
+        *   **Trichoderma viride** @ 4 g/kg seed.
+        *   **Pseudomonas fluorescens** @ 10 g/kg seed.
+    *   **Soil Application:** Apply bio-control agents to the soil.
+        *   **Trichoderma viride** @ 2.5 kg/acre mixed with 50 kg of farmyard manure (FYM) or compost, applied before sowing.
+
+### Specific Rot Types and Control Measures:
+
+#### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, Seed Rot, and Seedling Rot
+
+These rot types often share common soil-borne fungal and oomycete pathogens such as *Rhizoctonia solani*, *Sclerotium rolfsii*, *Fusarium solani*, *Pythium spp.*, *Phytophthora spp.*, and *Macrophomina phaseolina* (causing charcoal rot, which can manifest as black stem/root rot). Neck rot is generally considered a form of collar or stem rot affecting the plant base.
+
+**Control Measures:**
+
+*   **Cultural & Biological Practices:** Implement all general integrated management principles mentioned above.
+*   **Chemical Seed Treatment (Crucial for prevention):**
+    *   For broad-spectrum control against fungi:
+        *   **Carbendazim** 12% + **Thiram** 63% WS @ 2.5 g/kg seed.
+    *   For oomycete pathogens (*Pythium*, *Phytophthora*):
+        *   **Metalaxyl-M** 31.8% ES @ 3.0 ml/kg seed.
+    *   For a combination of fungi and oomycetes:
+        *   **Fludioxonil** 2.5% + **Mefenoxam** 1% FS @ 2.5 ml/kg seed.
+
+*   **Chemical Soil Drench / Foliar Spray (for established plants showing symptoms):**
+    *   For general fungal rots (*Rhizoctonia*, *Fusarium*, *Sclerotium*):
+        *   **Carbendazim** 50% WP @ 0.5 g/L water (as a soil drench around the base of affected plants).
+        *   **Hexaconazole** 5% SC @ 1.0 ml/L water (as a foliar spray, especially for stem/collar rot symptoms).
+    *   For oomycete rots (*Pythium*, *Phytophthora*):
+        *   **Metalaxyl-M** 4% + **Mancozeb** 64% WP @ 2.5 g/L water (as a soil drench or foliar spray).
+    *   For Charcoal Rot (*Macrophomina phaseolina*), which causes blackening of roots and stems:
+        *   **Thiophanate Methyl** 70% WP @ 1.0 g/L water (as a soil drench).
+        *   **Propiconazole** 25% EC @ 1.0 ml/L water (as a foliar spray).
+
+#### 2. Black Rot
+
+*   **Black Rot** caused by *Xanthomonas campestris pv. campestris* (a bacterial disease primarily affecting cruciferous crops like cabbage, cauliflower) **is not known to affect Rajma.**
+*   However, symptoms of blackening in roots or stems of Rajma can be caused by other fungal diseases like **Black Root Rot** (*Thielaviopsis basicola*) or **Charcoal Rot** (*Macrophomina phaseolina*), which are covered under the general root and stem rot management above.
+
+#### 3. Fruit Rot (Pod Rot in Rajma)
+
+While less common as a primary issue compared to root/stem rots, pods can be affected by diseases like White Mold (*Sclerotinia sclerotiorum*) or Grey Mold (*Botrytis cinerea*) under high humidity and specific conditions.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Ensure adequate plant spacing for good air circulation.
+    *   Avoid overhead irrigation, especially during flowering and pod development.
+    *   Remove and destroy infected pods and plant parts.
+*   **Chemical Spray (if conditions favor disease development):**
+    *   **Carbendazim** 50% WP @ 0.5 g/L water.
+    *   **Thiophanate Methyl** 70% WP @ 1.0 g/L water.
+    *   **Boscalid** 25.2% + **Pyraclostrobin** 12.8% WG @ 1.5 g/L water (for specific control of *Sclerotinia* and *Botrytis*).
+
+Always consult with local agricultural extension services for the most current recommendations and specific product availability in your region of Haryana.

@@ -1,0 +1,28 @@
+The terms 'Fruit drop', 'Tinda dropping', and 'Boll dropping' are not applicable to Sorghum (Jowar) as it is a cereal crop and does not produce fruits, tinda, or bolls. Therefore, these specific conditions are not known to affect Sorghum (Jowar).
+
+Regarding 'Flower drop' in Sorghum, this is generally interpreted as poor grain setting or sterility within the panicle, rather than flowers physically detaching from the plant. This can be caused by various factors, including:
+
+*   **Environmental Stress:** High temperatures (especially during flowering), drought stress, or excessive rainfall can lead to poor pollen viability and fertilization, resulting in florets failing to develop into grains.
+*   **Nutrient Deficiencies:** Lack of essential micronutrients like Boron or Zinc can impair flower development and grain set.
+*   **Pest Damage:** Pests like Sorghum Midge (Contarinia sorghicola) can damage florets, preventing grain formation.
+*   **Disease:** Certain diseases can also impact panicle development and grain filling.
+
+There are no specific chemical treatments directly marketed to "control flower drop" in Sorghum. Instead, management focuses on addressing the underlying causes:
+
+*   **Agronomic Practices:**
+    *   Ensuring adequate and timely irrigation to avoid moisture stress, especially during flowering.
+    *   Maintaining optimal soil fertility through balanced nutrient application based on soil tests.
+    *   Selecting heat-tolerant and drought-tolerant varieties suitable for Haryana's climate.
+    *   Timely sowing to avoid peak heat stress during critical reproductive stages.
+
+*   **Pest Management (if Midge is the cause of poor grain set):**
+    *   If Sorghum Midge is identified as the cause of poor grain setting, timely application of insecticides may be considered.
+    *   **Lambda-cyhalothrin** 5% EC at 200 ml/acre
+    *   **Chlorpyrifos** 20% EC at 500 ml/acre
+
+*   **Nutrient Management (if deficiency is the cause):**
+    *   Foliar application of micronutrients like Boron or Zinc, if soil tests indicate a deficiency.
+    *   **Borax** (10.5% Boron) at 1.5 kg/acre or **Solubor** (20% Boron) at 750 g/acre, dissolved in 200 litres of water and sprayed at pre-flowering stage.
+    *   **Zinc Sulphate** (33% Zinc) at 5 kg/acre as soil application or 0.5% solution (500 g/100 litres water) as foliar spray.
+
+Always consult with local agricultural extension services or HAU experts for specific recommendations tailored to your field conditions and current pest/disease prevalence.

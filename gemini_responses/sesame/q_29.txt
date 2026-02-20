@@ -1,0 +1,38 @@
+Dropping of flowers, fruits (capsules/pods), and immature capsules in Sesame (often referred to as "boll dropping" in other crops, but for Sesame, it's capsule dropping) is a complex physiological issue rather than a single disease or pest. "Tinda" refers to Indian round gourd and is not related to Sesame. This dropping can be caused by a combination of factors, primarily physiological and environmental stresses.
+
+Here's how to manage and control dropping in Sesame:
+
+**I. Physiological and Environmental Management:**
+
+1.  **Nutrient Management:**
+    *   **Boron Deficiency:** Boron is crucial for pollen viability, fertilization, and fruit set. Its deficiency is a common cause of flower and capsule drop.
+        *   **Foliar Application:** Spray with a Boron source.
+            *   **Borax** (Sodium tetraborate decahydrate, 10.5% Boron): Apply 1-2 grams per liter of water.
+            *   Alternatively, use **Disodium octaborate tetrahydrate** (17-20% Boron) at 0.5-1 gram per liter of water.
+            *   **Timing:** Apply at the pre-flowering stage and again at early flowering.
+    *   **Potassium and Calcium:** Ensure adequate levels of Potassium and Calcium. Potassium helps in stress tolerance and fruit development, while Calcium is vital for cell wall integrity and fruit retention. Conduct soil tests to determine nutrient status and apply recommended fertilizers.
+    *   **Balanced Fertilization:** Avoid excessive nitrogen, which can lead to lush vegetative growth at the expense of reproductive development and increase susceptibility to dropping. Follow HAU recommendations for NPK application based on soil test results.
+
+2.  **Water Management:**
+    *   **Water Stress (Drought):** Both severe water deficit and sudden changes in soil moisture can trigger flower and capsule drop.
+        *   **Irrigation:** Provide light and timely irrigation, especially during critical stages like flowering and capsule development, if rainfall is insufficient.
+    *   **Waterlogging:** Excess water or waterlogging can also lead to root damage and subsequent dropping. Ensure good drainage in the field.
+
+3.  **Temperature Stress:**
+    *   **High Temperatures:** Prolonged high temperatures (above 40°C) during flowering can lead to pollen sterility, poor fertilization, and increased flower/capsule drop.
+    *   **Temperature Fluctuations:** Sudden drops or rises in temperature can also stress the plant.
+    *   **Mitigation:** Choose heat-tolerant varieties if planting in areas prone to high temperatures.
+
+4.  **Hormonal Imbalance:**
+    *   Plant growth regulators (PGRs) can help in reducing flower and capsule drop by balancing plant hormones.
+        *   **Naphthalene Acetic Acid (NAA):** A synthetic auxin that helps in preventing abscission (dropping).
+            *   **Application:** Spray **Naphthalene Acetic Acid** (4.5% SL formulation) at a concentration of 0.5 - 1.0 ml per liter of water.
+            *   **Timing:** First spray at the peak flowering stage, and a second spray 10-15 days later at the early capsule formation stage.
+
+**II. General Agronomic Practices:**
+
+1.  **Variety Selection:** Choose high-yielding, locally adapted, and stress-tolerant Sesame varieties recommended by HAU for Haryana conditions.
+2.  **Weed Control:** Keep the field free of weeds, as they compete for nutrients and water, adding to plant stress.
+3.  **Pest and Disease Management:** While not direct causes of dropping, severe infestations of sucking pests (e.g., aphids, jassids, whiteflies) or diseases can weaken the plant, making it more susceptible to dropping. Monitor regularly and apply appropriate CIBRC-approved pesticides/fungicides if necessary, following recommended dosages.
+
+By addressing these factors comprehensively, you can significantly reduce flower and capsule dropping in Sesame and improve overall yield.

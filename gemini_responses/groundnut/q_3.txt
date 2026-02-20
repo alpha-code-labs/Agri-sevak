@@ -1,0 +1,44 @@
+As a Senior Agronomist at HAU, Hisar, I understand your concern regarding the various rot types in Groundnut. These different terms (Root, Stem, Foot, Collar, Crown, Neck, Black, Fruit, Seed, and Seedling rot) often refer to symptoms caused by a few key soil-borne fungal pathogens, primarily *Aspergillus niger*, *Sclerotium rolfsii*, *Rhizoctonia solani*, *Fusarium spp.*, and *Pythium spp.* An integrated disease management approach is crucial for effective control.
+
+Here's a scientifically verified strategy for Haryana:
+
+**I. Integrated Disease Management (IDM) Approach**
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** Rotate groundnut with non-host crops like cereals (wheat, maize) for at least 2-3 years to reduce pathogen inoculum in the soil.
+    *   **Deep Ploughing:** Plough deeply during summer to expose sclerotia of *Sclerotium rolfsii* to solar radiation, reducing their viability.
+    *   **Timely Sowing:** Sow groundnut at the recommended time for your region in Haryana to ensure vigorous seedling growth and reduce susceptibility to early infections.
+    *   **Optimum Plant Spacing:** Maintain recommended plant spacing to ensure good air circulation and reduce humidity around the plant base.
+    *   **Balanced Fertilization:** Avoid excessive nitrogen application, which can lead to lush growth more susceptible to rot. Use recommended doses of phosphorus and potassium.
+    *   **Good Drainage:** Ensure proper field drainage to prevent waterlogging, which favors many rot pathogens, especially *Pythium spp.*
+    *   **Field Sanitation:** Remove and destroy infected plant debris from the field to reduce inoculum sources.
+    *   **Avoid Mechanical Injury:** Minimize damage to plants during intercultural operations, as wounds can serve as entry points for pathogens.
+    *   **Irrigation Management:** Apply irrigation judiciously, preferably at the base of the plants, and avoid overhead irrigation, especially during flowering and pod development stages.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-control agents.
+        *   **Trichoderma viride 1% WP:** 4 g/kg seed.
+    *   **Soil Application:**
+        *   **Trichoderma viride 1% WP:** 2.5 kg/acre mixed with 50 kg of farmyard manure (FYM) or compost, applied at the time of sowing or transplanting.
+
+**II. Chemical Control**
+
+Chemical control is an important component, especially through seed treatment, to protect against early-season rots.
+
+1.  **Seed Treatment (Essential for Seed, Seedling, Collar, and early Stem Rots):**
+    Treat seeds before sowing with a suitable fungicide to protect against *Aspergillus niger*, *Rhizoctonia solani*, *Fusarium spp.*, *Pythium spp.*, and *Sclerotium rolfsii*.
+
+    *   **Carboxin 37.5% + Thiram 37.5% WS:** 3 g/kg seed. (Effective against a broad spectrum of soil-borne fungi including *Rhizoctonia*, *Sclerotium*, *Aspergillus*, *Fusarium*).
+    *   **Tebuconazole 2% DS:** 1-1.5 g/kg seed. (Provides systemic protection against various fungi).
+    *   **Thiram 75% WS:** 2.5-3 g/kg seed. (Contact fungicide, effective against *Aspergillus*, *Rhizoctonia*, *Pythium*, *Fusarium*).
+    *   **Captan 75% WS:** 2.5-3 g/kg seed. (Contact fungicide, effective against *Pythium*, *Rhizoctonia*, *Fusarium*, *Aspergillus*).
+    *   **Carbendazim 50% WP:** 2 g/kg seed. (Systemic fungicide, effective against *Aspergillus*, *Rhizoctonia*, *Fusarium*).
+
+2.  **Soil Drenching / Application (For Stem, Root, Foot, Crown, Fruit Rots):**
+    For managing rots that appear later in the season or in fields with a history of severe rot problems, soil drenching can be effective.
+
+    *   **Validamycin 3% L:** 2-2.5 L/acre in 200-400 L water as a drench around the plant base, particularly effective against *Rhizoctonia solani* and *Sclerotium rolfsii*.
+    *   **Pencycuron 25% WP:** 500 g/acre in 200-400 L water as a drench, specifically for *Rhizoctonia solani*.
+    *   **Tebuconazole 25.9% EC:** 600 ml/acre in 200-400 L water as a drench or spray, effective against *Sclerotium rolfsii* and other soil-borne pathogens.
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying any chemical. For specific recommendations tailored to your farm's conditions, it is advisable to consult with local agricultural extension specialists.

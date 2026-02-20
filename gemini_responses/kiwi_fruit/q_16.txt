@@ -1,0 +1,89 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified fertilizer doses for Kiwi Fruit cultivation in Haryana. It is crucial to understand that these are general recommendations, and a **soil test report** is the most accurate basis for determining precise fertilizer requirements for your specific orchard.
+
+**General Principles of Fertilization for Kiwi Fruit:**
+1.  **Soil Testing:** Always conduct a soil test before planting and every 2-3 years thereafter to determine nutrient status and pH.
+2.  **Split Application:** Fertilizers, especially Nitrogen and Potassium, should be applied in split doses to ensure continuous nutrient availability and minimize losses.
+3.  **Timing:** Apply fertilizers when the plant is actively growing and requires nutrients the most.
+4.  **Method:** Fertilizers should be broadcast evenly around the base of the plant within the drip line and lightly incorporated into the soil, followed by irrigation. Foliar applications are supplementary.
+
+---
+
+**1. Fertilizer Recommendations for Non-Bearing Kiwi Plants (1-2 years old):**
+The aim during this stage is to promote vigorous vegetative growth and establish a strong root system.
+
+*   **Year 1 (per plant):**
+    *   Nitrogen (N): 50-75 g
+    *   Phosphorus (P2O5): 25-30 g
+    *   Potassium (K2O): 30-40 g
+    *   Sulphur (S): 5-10 g
+    *   **Application:** Apply N and K in 3-4 split doses from March to August. Apply P and S as a single basal dose in March.
+
+*   **Year 2 (per plant):**
+    *   Nitrogen (N): 75-100 g
+    *   Phosphorus (P2O5): 30-40 g
+    *   Potassium (K2O): 40-50 g
+    *   Sulphur (S): 10-15 g
+    *   **Application:** Apply N and K in 3-4 split doses from March to August. Apply P and S as a single basal dose in March.
+
+---
+
+**2. Fertilizer Recommendations for Bearing Kiwi Plants (3 years and older):**
+The nutrient requirements increase significantly for fruit production. Doses are typically given per acre.
+
+*   **Nutrient Targets (per acre):**
+    *   Nitrogen (N): 100-150 kg
+    *   Phosphorus (P2O5): 50-75 kg
+    *   Potassium (K2O): 120-180 kg
+    *   Sulphur (S): 20-30 kg
+    *   **Application:**
+        *   **Nitrogen:** Apply 50% at bud break (March), 25% after fruit set (May-June), and 25% after harvest (October-November).
+        *   **Phosphorus & Sulphur:** Apply 100% as a basal dose in March.
+        *   **Potassium:** Apply 50% at bud break (March) and 50% during fruit development (June-July).
+
+---
+
+**Recommended Doses of Specific Fertilizers:**
+
+Based on the nutrient targets for **Bearing Plants (per acre)**, here are the approximate doses of commonly available fertilizers:
+
+*   **Urea** (46% N):
+    *   To meet the N requirement (after accounting for N from DAP): 200-300 kg/acre.
+    *   *Example:* If 150 kg N is required and 25 kg N comes from DAP, then 125 kg N needs to be supplied by Urea. (125 kg N / 0.46) = 272 kg **Urea**/acre.
+
+*   **DAP** (Di-Ammonium Phosphate, 18% N, 46% P2O5):
+    *   To meet the P2O5 requirement: 110-165 kg/acre.
+    *   *Note:* This will also supply 20-30 kg N/acre. Adjust **Urea** dose accordingly.
+
+*   **SSP** (Single Super Phosphate, 16% P2O5, 11% S):
+    *   If using SSP instead of DAP for Phosphorus: 310-470 kg/acre.
+    *   *Note:* This will also supply 34-52 kg S/acre, significantly contributing to the Sulphur requirement.
+
+*   **Muriate of Potash (Potash)** (60% K2O):
+    *   To meet the K2O requirement: 200-300 kg/acre.
+
+*   **Sulphur** (Elemental Sulphur, 90% S):
+    *   If not adequately supplied by SSP: 22-33 kg/acre.
+    *   *Note:* If using SSP, the additional **Sulphur** requirement will be minimal or none.
+
+*   **NPK** (Complex Fertilizers, e.g., 10:26:26, 12:32:16, 15:15:15):
+    *   While specific NPK ratios can be used, it is often challenging to precisely meet the high K and N requirements of Kiwi fruit with a single NPK blend.
+    *   If using a balanced **NPK** fertilizer (e.g., 15:15:15), it can be applied as a basal dose at 300-500 kg/acre, and then supplemented with additional **Urea** and **Muriate of Potash** to meet the remaining N and K requirements.
+
+*   **Nano-Urea** (Liquid, 4% N):
+    *   **Application:** Foliar spray at 2-4 ml/L of water.
+    *   **Timing:** 2-3 sprays during active vegetative growth and fruit development stages (e.g., 30-45 days after bud break, and again during fruit enlargement).
+    *   *Note:* **Nano-Urea** is a supplementary source of Nitrogen and does not replace basal soil application of conventional Urea.
+
+*   **Nano-DAP** (Liquid, 8% N, 16% P2O5):
+    *   **Application:** Foliar spray at 2-4 ml/L of water.
+    *   **Timing:** 2 sprays, one at pre-flowering stage and another at fruit set stage.
+    *   *Note:* **Nano-DAP** is a supplementary source of N and P and does not replace basal soil application of conventional DAP or SSP.
+
+---
+
+**Important Considerations:**
+*   **Micronutrients:** Kiwi fruit also requires micronutrients like Boron, Zinc, Manganese, and Iron. If soil tests indicate deficiencies, apply appropriate micronutrient formulations as per recommendations.
+*   **Organic Matter:** Incorporating farmyard manure (FYM) or compost (20-30 tonnes/acre annually for bearing plants) significantly improves soil health, nutrient retention, and microbial activity, enhancing fertilizer efficiency.
+*   **Irrigation:** Ensure adequate and timely irrigation, especially after fertilizer application, to facilitate nutrient uptake.
+
+Always consult with HAU experts or your local agricultural extension officer for tailored advice based on your specific farm conditions and soil test results.

@@ -1,0 +1,36 @@
+As a Senior Agronomist at HAU, Hisar, I can provide the following scientifically verified advice for controlling viral diseases in FingerMillet (Ragi) in Haryana:
+
+Firstly, regarding Tristeza virus:
+*   This is not known to affect FingerMillet (Ragi). Tristeza virus primarily affects citrus crops.
+
+For other viral diseases such as Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus, it is important to understand that there is no direct chemical cure for viral infections once a plant is infected. Control strategies focus on preventing infection by managing the vectors (insects that transmit the viruses) and implementing robust cultural practices.
+
+Here are the recommended control measures:
+
+**1. Vector Management (Insect Control):**
+Most of these viral diseases are transmitted by insect vectors like aphids, leafhoppers, whiteflies, and thrips. Controlling these vectors is crucial.
+
+*   **Seed Treatment:**
+    *   Treat seeds with systemic insecticides to protect seedlings during early stages.
+        *   **Imidacloprid** 70 WS @ 5-7 g/kg seed
+        *   **Thiamethoxam** 30 FS @ 4-5 ml/kg seed
+
+*   **Foliar Application (if vector population is high):**
+    *   Monitor fields regularly for vector presence. If populations exceed economic threshold levels, apply appropriate insecticides.
+        *   For Aphids, Leafhoppers, Whiteflies:
+            *   **Imidacloprid** 17.8 SL @ 125 ml/acre (diluted in 200-400 L water)
+            *   **Thiamethoxam** 25 WG @ 50 g/acre (diluted in 200-400 L water)
+            *   **Acetamiprid** 20 SP @ 80-100 g/acre (diluted in 200-400 L water)
+        *   For Thrips:
+            *   **Fipronil** 5 SC @ 400-600 ml/acre (diluted in 200-400 L water)
+
+**2. Cultural Practices:**
+*   **Resistant Varieties:** Whenever possible, choose FingerMillet varieties known to be resistant or tolerant to common viral diseases in your region. Consult with HAU for recommended varieties for Haryana.
+*   **Healthy Seeds:** Use certified, disease-free seeds from reliable sources.
+*   **Rogueing:** Regularly inspect fields and promptly remove and destroy (bury or burn) any plants showing symptoms of viral infection to prevent further spread.
+*   **Weed Management:** Control weeds in and around the FingerMillet fields, as many weeds can act as alternate hosts for viruses and their insect vectors.
+*   **Crop Rotation:** Practice crop rotation with non-host crops to break the disease cycle.
+*   **Optimum Plant Spacing and Nutrition:** Ensure proper plant spacing for good air circulation and provide balanced nutrition to enhance plant vigor and natural resistance.
+*   **Sanitation:** Remove and destroy crop residues after harvest to eliminate potential sources of inoculum and overwintering vectors.
+
+By integrating these vector management and cultural practices, you can effectively minimize the incidence and spread of viral diseases in your FingerMillet crop.

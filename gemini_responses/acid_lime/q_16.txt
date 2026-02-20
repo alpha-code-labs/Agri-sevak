@@ -1,0 +1,57 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I emphasize that precise fertilizer recommendations for Acid Lime (Citrus aurantifolia) are best determined through a comprehensive soil test. The following are general scientifically verified guidelines for Haryana, which should be adjusted based on your specific soil analysis results and the age and bearing status of your trees.
+
+**General Nutrient Requirements for Acid Lime (per tree per year):**
+
+| Tree Age (Years) | Nitrogen (N) (g) | Phosphorus (P2O5) (g) | Potassium (K2O) (g) | Sulphur (S) (g) |
+| :--------------- | :--------------- | :-------------------- | :------------------ | :-------------- |
+| 1-3 (Non-bearing) | 100-200 | 50-100 | 50-100 | 20-40 |
+| 4-6 (Young bearing) | 300-400 | 150-200 | 150-200 | 50-80 |
+| 7+ (Mature bearing) | 600-800 | 300-400 | 300-500 | 100-200 |
+
+**Specific Fertilizer Recommendations for Mature Bearing Acid Lime Trees (7+ years old, per tree per year):**
+
+These recommendations assume a balanced approach using straight fertilizers.
+
+*   **Urea** (46% N):
+    *   **Dose:** 1.3 - 1.7 kg per tree per year.
+    *   **Application:** Split into 2-3 applications (e.g., February-March, June-July, September-October). Adjust the quantity if DAP is also used, as DAP contributes Nitrogen.
+
+*   **DAP** (Di-ammonium Phosphate, 18% N, 46% P2O5):
+    *   **Dose:** 0.65 - 0.87 kg per tree per year.
+    *   **Application:** Apply as a basal dose once a year (e.g., February-March). This will provide a portion of the Nitrogen and all of the Phosphorus. Reduce Urea application accordingly.
+
+*   **Single Super Phosphate (SSP)** (16% P2O5, 11% S):
+    *   **Dose:** 1.87 - 2.5 kg per tree per year.
+    *   **Application:** Apply as a basal dose once a year (e.g., February-March). If using SSP for Phosphorus, it will also provide a significant amount of Sulphur, potentially reducing or eliminating the need for additional Sulphur.
+
+*   **Potash (Muriate of Potash - MOP)** (60% K2O):
+    *   **Dose:** 0.5 - 0.83 kg per tree per year.
+    *   **Application:** Split into 2-3 applications (e.g., February-March, June-July, September-October).
+
+*   **Sulphur (Elemental Sulphur)** (90% S):
+    *   **Dose:** 0.11 - 0.22 kg per tree per year.
+    *   **Application:** Apply once a year (e.g., February-March). This may not be required if SSP or Sulphate of Potash (SOP) is used as a primary source for P or K, respectively, as they also contain Sulphur.
+
+*   **Nano-Urea (Liquid)** (4% N):
+    *   **Dose:** 2-4 ml per litre of water for foliar spray.
+    *   **Application:** Apply 2-3 times during critical growth stages (e.g., pre-flowering, fruit set, fruit development). Nano-Urea is a supplement to soil-applied Nitrogen, not a complete replacement.
+
+*   **Nano-DAP (Liquid)**:
+    *   **Dose:** 2-4 ml per litre of water for foliar spray.
+    *   **Application:** Apply 2-3 times during critical growth stages. Nano-DAP is a supplement to soil-applied Phosphorus, not a complete replacement.
+
+*   **NPK (Compound Fertilizers):**
+    *   While specific NPK compound fertilizers are not typically recommended as the sole source for soil application in Acid Lime due to varying nutrient requirements at different growth stages, they can be effectively used as foliar sprays to supplement nutrient uptake.
+    *   **Foliar Dose (e.g., NPK 19:19:19):** 5-10 g per litre of water.
+    *   **Application:** Apply 2-3 times during active growth and fruit development stages.
+
+**Application Timing and Method:**
+
+*   **Soil Application:** Fertilizers should be broadcast evenly in the tree basin, extending from about 30 cm away from the trunk to the drip line. Lightly incorporate the fertilizer into the soil and follow with irrigation.
+*   **Split Applications:** Nitrogen and Potassium are generally applied in 2-3 splits to match the tree's demand and minimize nutrient losses. Phosphorus and Sulphur are typically applied once a year as a basal dose.
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test every 2-3 years to get precise recommendations tailored to your orchard's specific needs.
+*   **Micronutrients:** Acid Lime often requires micronutrients like Zinc, Iron, Manganese, Copper, and Boron. These are usually applied as foliar sprays using commercial micronutrient mixtures or specific salts (e.g., Zinc Sulphate @ 5 g/L, Ferrous Sulphate @ 5 g/L, Borax @ 1 g/L).
+*   **Organic Manures:** Supplementing with 20-30 kg of well-decomposed Farm Yard Manure (FYM) or compost per tree per year is highly beneficial for soil health and nutrient availability.

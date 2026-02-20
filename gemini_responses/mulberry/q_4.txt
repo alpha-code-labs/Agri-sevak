@@ -1,0 +1,35 @@
+Wilt and Parawilt are serious conditions affecting mulberry cultivation in Haryana, leading to significant yield losses. An integrated disease management approach, combining cultural, biological, and chemical methods, is essential for effective control.
+
+**Understanding the Conditions:**
+*   **Wilt:** Often caused by soil-borne fungal pathogens like *Fusarium oxysporum f. sp. mori* or *Verticillium dahliae*. Symptoms include yellowing, wilting of leaves, defoliation, and characteristic vascular discoloration in stems and roots.
+*   **Parawilt:** This is often a physiological disorder, not directly caused by a pathogen, but can be exacerbated by environmental stresses such as sudden changes in soil moisture (waterlogging followed by drought, or vice-versa), root injury, nutrient imbalances, or high temperatures. While not primarily pathogenic, affected plants can become susceptible to secondary infections.
+
+**Integrated Management Strategies:**
+
+1.  **Cultural and Agronomic Practices (Crucial for both Wilt and Parawilt):**
+    *   **Site Selection and Soil Preparation:** Choose well-drained fields. In areas prone to waterlogging, plant mulberry on raised beds to improve drainage and aeration around the root zone.
+    *   **Resistant Varieties:** Where available and suitable for Haryana's agro-climatic conditions, select mulberry varieties known for their tolerance or resistance to wilt diseases. Consult HAU for recommended varieties.
+    *   **Water Management:**
+        *   Avoid both excessive irrigation leading to waterlogging and severe drought stress. Maintain optimal soil moisture.
+        *   Ensure proper drainage channels are in place, especially during monsoon.
+        *   Irrigate deeply but infrequently, allowing the topsoil to dry slightly between irrigations.
+    *   **Nutrient Management:** Provide balanced nutrition based on soil test reports. Deficiencies or excesses of certain nutrients can predispose plants to stress and disease.
+    *   **Pruning and Sanitation:**
+        *   Remove and destroy all infected plant parts (leaves, branches, entire plants) immediately to prevent the spread of pathogens.
+        *   Sterilize pruning tools with a 1% sodium hypochlorite solution or 70% alcohol before and after pruning each plant.
+    *   **Avoiding Root Injury:** Exercise caution during intercultural operations (weeding, hoeing) to prevent damage to the root system, which can create entry points for pathogens and induce parawilt.
+    *   **Soil Solarization:** For new plantations or severely infested areas, soil solarization during hot summer months (May-June) for 4-6 weeks can significantly reduce soil-borne pathogen inoculum.
+
+2.  **Biological Control (Primarily for Wilt):**
+    *   Application of beneficial microbial antagonists can suppress soil-borne pathogens.
+    *   **Trichoderma viride** or **Trichoderma harzianum**:
+        *   **Soil Application:** Mix 2.5-5 kg of **Trichoderma viride** or **Trichoderma harzianum** formulation with 50-100 kg of well-decomposed farmyard manure (FYM) or compost. Apply this mixture uniformly around the root zone of established plants (500 g to 1 kg per plant) and incorporate it into the soil. Repeat application annually or biannually.
+        *   **Drenching:** Prepare a suspension by mixing 5-10 g of **Trichoderma viride** or **Trichoderma harzianum** per litre of water. Drench the soil around the base of the affected plants with 2-5 litres of this solution per plant, depending on plant size.
+
+3.  **Chemical Control (For Wilt, and secondary for Parawilt if pathogen suspected):**
+    *   Fungicides can be used as a curative measure or for prophylactic treatment in highly susceptible areas.
+    *   **Soil Drenching:**
+        *   **Carbendazim**: Drench the soil around the base of affected plants with a solution of **Carbendazim** at 1-2 g/L of water. Apply 2-5 litres of this solution per plant, depending on its size and severity of infection. Repeat after 15-20 days if symptoms persist.
+        *   **Thiophanate-methyl**: Alternatively, drench the soil with a solution of **Thiophanate-methyl** at 1-2 g/L of water. Apply 2-5 litres of solution per plant. Repeat after 15-20 days if necessary.
+
+It is crucial to implement these measures proactively and consistently for effective management of Wilt and Parawilt in mulberry. Regular monitoring of the orchard for early symptoms is also vital for timely intervention.

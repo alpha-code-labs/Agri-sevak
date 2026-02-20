@@ -1,0 +1,72 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling various rot types in Tobacco (Nicotiana tabacum) in Haryana.
+
+Rot diseases in tobacco can be caused by a complex of fungal and oomycete pathogens, often exacerbated by poor drainage, high humidity, and improper cultural practices. An integrated approach combining cultural practices and judicious use of CIBRC-approved chemicals is crucial for effective management.
+
+---
+
+**I. General Cultural Practices (Applicable to most rot types):**
+
+*   **Crop Rotation:** Rotate tobacco with non-solanaceous crops (e.g., cereals, pulses) for at least 2-3 years to reduce pathogen inoculum in the soil.
+*   **Resistant Varieties:** Where available, select tobacco varieties known to be resistant or tolerant to specific rot pathogens (e.g., Black Shank resistant varieties).
+*   **Soil Health & Drainage:** Ensure well-drained soils. Avoid waterlogging, which favors many rot pathogens. Improve soil structure by incorporating organic matter.
+*   **Nursery Management:**
+    *   Use sterilized soil or soilless media for nurseries.
+    *   Practice soil solarization in nursery beds during hot months (May-June) for 4-6 weeks.
+    *   Avoid overcrowding of seedlings.
+    *   Provide adequate ventilation.
+*   **Sanitation:** Remove and destroy infected plant debris from fields and nurseries promptly.
+*   **Water Management:** Irrigate judiciously, preferably in the morning, to allow foliage to dry before evening. Avoid overhead irrigation if possible, especially in mature plants.
+*   **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can make plants more susceptible to some diseases.
+*   **Deep Ploughing:** Plough deeply after harvest to bury plant debris and pathogen sclerotia.
+*   **Avoid Injury:** Minimize mechanical injury to plants during field operations, as wounds can serve as entry points for pathogens.
+
+---
+
+**II. Specific Rot Types and Chemical Control:**
+
+**1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Black Rot (Caused by pathogens like *Phytophthora nicotianae* (Black Shank), *Rhizoctonia solani* (Sore Shin), *Sclerotium rolfsii* (Southern Blight), *Fusarium oxysporum*, *Thielaviopsis basicola* (Black Root Rot)):**
+
+These rot types often manifest in similar areas (soil line, roots, lower stem) and can be caused by overlapping pathogens.
+
+*   **Nursery Stage (for Damping-off and early infection):**
+    *   **Seed Treatment:**
+        *   **Thiram** @ 2-3 g/kg seed.
+        *   **Carbendazim** @ 1-2 g/kg seed.
+        *   **Metalaxyl-M** @ 1-2 g/kg seed (especially for *Pythium* and *Phytophthora*).
+    *   **Nursery Soil Drench (7-10 days before transplanting or at first sign of disease):**
+        *   **Metalaxyl-M** @ 1-2 ml/L water.
+        *   **Propamocarb hydrochloride** @ 2-3 ml/L water.
+        *   **Carbendazim** @ 1-2 g/L water.
+        *   **Validamycin** @ 2-3 ml/L water (effective against *Rhizoctonia* and *Sclerotium*).
+*   **Main Field (Post-transplanting):**
+    *   **Soil Drench/Spot Application (around the base of susceptible plants):**
+        *   **Metalaxyl-M** @ 1-2 ml/L water (for *Phytophthora* Black Shank). Apply 200-250 ml solution per plant.
+        *   **Propamocarb hydrochloride** @ 2-3 ml/L water (for *Phytophthora* Black Shank).
+        *   **Validamycin** @ 2-3 ml/L water (for *Rhizoctonia* and *Sclerotium*).
+        *   **Pencycuron** @ 1-1.5 ml/L water (for *Rhizoctonia*).
+        *   **Flutolanil** @ 1-1.5 ml/L water (for *Rhizoctonia*).
+        *   **Hexaconazole** @ 1-2 ml/L water or **Propiconazole** @ 1-2 ml/L water (for *Rhizoctonia*, *Fusarium*, *Sclerotium*).
+        *   **Thiophanate methyl** @ 1-2 g/L water (for *Fusarium*, *Rhizoctonia*, *Thielaviopsis*).
+
+**2. Neck Rot:**
+This is not a common specific disease term for tobacco. Rot can occur in the upper stem or leaf axils due to various pathogens or secondary infections, but it is not categorized as "Neck Rot" in tobacco pathology.
+
+**3. Fruit Rot:**
+This is not known to affect Tobacco in the conventional sense of fleshy fruit rot. Tobacco produces dry capsules (seed pods), which can be affected by various fungi, but "fruit rot" is not the standard terminology.
+
+**4. Seed Rot & Seedling Rot (Damping-off):**
+These are critical issues in tobacco nurseries.
+
+*   **Seed Treatment:**
+    *   **Thiram** @ 2-3 g/kg seed.
+    *   **Carbendazim** @ 1-2 g/kg seed.
+    *   **Metalaxyl-M** @ 1-2 g/kg seed.
+*   **Nursery Soil Drench:**
+    *   **Metalaxyl-M** @ 1-2 ml/L water (for *Pythium* and *Phytophthora*).
+    *   **Propamocarb hydrochloride** @ 2-3 ml/L water (for *Pythium* and *Phytophthora*).
+    *   **Carbendazim** @ 1-2 g/L water (for *Rhizoctonia* and *Fusarium*).
+    *   **Validamycin** @ 2-3 ml/L water (for *Rhizoctonia*).
+
+---
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying chemicals. Consult your local agricultural extension office for the most current recommendations and specific product availability in Haryana.

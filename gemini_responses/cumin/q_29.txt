@@ -1,0 +1,54 @@
+This is not known to affect Cumin. "Tinda" refers to a type of gourd, and "Boll" refers to the fruit capsule of cotton. Cumin produces flowers that develop into schizocarps (fruits), not tinda or bolls.
+
+However, flower drop and fruit drop can be significant issues in Cumin, leading to reduced yield. Here's how to control them:
+
+**Causes of Flower and Fruit Drop in Cumin:**
+
+Flower and fruit drop in Cumin are often physiological responses to stress or nutrient imbalances. Common causes include:
+*   **Environmental Stress:** High temperatures (especially during flowering and fruit set), sudden temperature fluctuations, water stress (both deficit and excess moisture), high humidity, or strong winds.
+*   **Nutritional Deficiencies:** Lack of essential micronutrients like Boron and Calcium, or macronutrients like Phosphorus and Potassium.
+*   **Poor Pollination:** Insufficient pollinator activity or adverse weather conditions during the pollination period.
+*   **Pest and Disease Infestations:** Severe infestations can weaken the plant, leading to stress and subsequent dropping.
+*   **Hormonal Imbalance:** An imbalance of plant hormones (e.g., high ethylene levels, low auxins) can trigger abscission.
+
+**Control Measures for Flower and Fruit Drop in Cumin:**
+
+Effective management involves a combination of good agronomic practices and targeted chemical interventions.
+
+**A. General Agronomic Practices:**
+
+1.  **Optimal Irrigation:**
+    *   Maintain consistent soil moisture, especially during the critical stages of flowering and fruit development.
+    *   Avoid both waterlogging (which can lead to root rot and stress) and severe drought stress.
+    *   Irrigate judiciously based on soil type, weather conditions, and crop stage.
+2.  **Balanced Nutrition:**
+    *   Conduct soil testing to identify any nutrient deficiencies before sowing.
+    *   Apply recommended doses of macro (Nitrogen, Phosphorus, Potassium) and micronutrients.
+    *   Pay particular attention to micronutrients like Boron and Calcium, which are crucial for flower and fruit retention.
+3.  **Weed Management:**
+    *   Keep the field free of weeds throughout the crop cycle to reduce competition for water, nutrients, and light.
+4.  **Proper Plant Spacing:**
+    *   Ensure adequate plant spacing as per recommended practices to allow for good air circulation and light penetration, reducing plant stress.
+5.  **Pest and Disease Management:**
+    *   Timely identification and control of pests (e.g., aphids, thrips) and diseases (e.g., blight, powdery mildew) that can weaken the plant and indirectly cause flower/fruit drop.
+
+**B. Chemical Interventions (CIBRC Approved, Technical Names, Metric Units):**
+
+1.  **Plant Growth Regulators (PGRs):**
+    *   To prevent flower and fruit drop, a foliar spray of **Naphthalene Acetic Acid (NAA)** can be highly effective.
+        *   **Dosage:** 5-10 mg/L of water (or 5-10 ppm).
+        *   **Timing:** Apply at the pre-flowering stage and/or early fruit set stage. Repeat if necessary, strictly following product label instructions.
+2.  **Micronutrient Sprays:**
+    *   **Boron:** If Boron deficiency is suspected or confirmed by soil/plant analysis, a foliar spray can be beneficial.
+        *   **Chemical:** **Disodium Octaborate Tetrahydrate** (containing 20% Boron) or **Boric Acid** (containing 17% Boron).
+        *   **Dosage:** 1-1.5 g/L of water.
+        *   **Timing:** Apply at pre-flowering or early flowering stage.
+    *   **Calcium:** For Calcium deficiency, a foliar spray can help.
+        *   **Chemical:** **Calcium Nitrate**.
+        *   **Dosage:** 2-3 g/L of water.
+        *   **Timing:** Apply during flowering and fruit development stages.
+
+**Important Considerations:**
+*   Always read and strictly follow the instructions on the product label for safe and effective use of any chemical.
+*   Ensure proper spray coverage for optimal results.
+*   Consult with local agricultural extension specialists at HAU, Hisar, for specific recommendations tailored to your field conditions and soil test reports.

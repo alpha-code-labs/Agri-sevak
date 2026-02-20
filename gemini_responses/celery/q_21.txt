@@ -1,0 +1,37 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide guidance on managing potential nutrient toxicities in Celery, based on scientific principles and CIBRC approved practices relevant to Haryana.
+
+First and foremost, it is crucial to confirm any suspected toxicity through comprehensive soil testing and plant tissue analysis. Visual symptoms alone can be misleading.
+
+Here's how to manage excessive levels of the mentioned nutrients in Celery:
+
+### 1. Zinc (Zn) Toxicity
+
+Excessive zinc levels can occur, particularly in acidic soils or due to over-application of zinc-containing fertilizers. Celery is moderately sensitive to high zinc.
+
+*   **Soil pH Adjustment:** The most effective long-term solution is to increase the soil pH to the optimal range for celery (6.0-7.0). This reduces zinc solubility and availability. Apply liming materials such as:
+    *   **Calcium carbonate** (agricultural lime) at recommended rates based on soil test results to raise pH.
+*   **Improved Drainage:** Ensure good soil drainage to prevent anaerobic conditions that can sometimes exacerbate micronutrient availability.
+*   **Avoid Over-application:** Cease any further application of zinc fertilizers or zinc-containing micronutrient mixes.
+
+### 2. Iron (Fe) Toxicity
+
+Iron toxicity is less common in well-drained soils but can occur in waterlogged or highly acidic conditions.
+
+*   **Soil pH Adjustment:** Similar to zinc, increasing soil pH to the 6.0-7.0 range using liming materials like **calcium carbonate** will reduce iron solubility and uptake.
+*   **Improved Drainage:** Address any waterlogging issues by improving soil drainage. This is critical as anaerobic conditions increase iron availability.
+*   **Aeration:** For potted plants or small areas, ensure good soil aeration.
+
+### 3. Magnesium (Mg) Toxicity
+
+This is not known to be a common or significant issue affecting Celery in field conditions. Direct magnesium toxicity symptoms are rare. High magnesium levels in the soil are more likely to induce deficiencies of other cations like calcium (Ca) or potassium (K) due to competitive uptake, rather than causing direct magnesium toxicity symptoms. If soil tests indicate extremely high magnesium, and associated calcium or potassium deficiencies are observed:
+
+*   **Apply Calcium:** Incorporate calcium-rich amendments like **calcium carbonate** (agricultural lime) or **calcium sulfate** (gypsum) to increase calcium levels and help balance cation ratios. This can help mitigate competitive uptake issues.
+*   **Leaching:** In controlled environments or highly permeable soils, heavy irrigation with good drainage can help leach excess soluble magnesium.
+
+### 4. Manganese (Mn) Toxicity
+
+Celery is moderately sensitive to manganese toxicity, which is most prevalent in highly acidic soils or under waterlogged conditions.
+
+*   **Soil pH Adjustment:** Raising the soil pH to the optimal range of 6.0-7.0 using liming materials such as **calcium carbonate** is the primary method to reduce manganese availability and toxicity.
+*   **Improved Drainage:** Ensure excellent soil drainage to prevent waterlogging, which significantly increases manganese solubility and uptake.
+*   **Avoid Over-application:** Discontinue any application of manganese-containing fertilizers.

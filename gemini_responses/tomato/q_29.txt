@@ -1,0 +1,55 @@
+"Dropping (Flower drop, Fruit drop, and Tinda/Boll dropping)" in Tomato is a common physiological issue.
+
+Firstly, regarding "Tinda/Boll dropping," **this is not known to affect Tomato.** Tomatoes produce berries, not bolls (like cotton) or tinda (a type of gourd). The concern for tomatoes is primarily flower and fruit drop.
+
+Flower and fruit drop in tomato are generally not caused by a single disease or pest, but rather by various physiological stresses. Understanding and managing these factors is crucial for control.
+
+**Common Causes of Flower and Fruit Drop in Tomato:**
+
+*   **Environmental Stress:**
+    *   **Temperature Extremes:** Day temperatures above 35°C or below 10°C, and night temperatures above 25°C or below 15°C, can severely affect pollen viability and fertilization.
+    *   **Humidity:** Very low humidity can dry out pollen, while very high humidity can prevent pollen release.
+    *   **Water Stress:** Both drought conditions and waterlogging can lead to abscission.
+    *   **Light Intensity:** Insufficient light can reduce photosynthesis, impacting energy for fruit development.
+*   **Nutritional Imbalances:**
+    *   Deficiency of essential micronutrients like Boron, Molybdenum, or Zinc.
+    *   Excessive nitrogen fertilization, which promotes vegetative growth at the expense of reproductive growth.
+    *   Deficiency of Phosphorus or Potassium.
+*   **Pollination Issues:**
+    *   Poor pollen viability due to stress.
+    *   Lack of adequate pollination (though tomatoes are largely self-pollinating, wind or gentle vibration aids pollen dispersal).
+*   **Hormonal Imbalance:** Natural plant hormones regulate abscission. Stress can alter this balance.
+
+**Control Measures for Flower and Fruit Drop in Tomato:**
+
+Effective control involves a combination of good agricultural practices and, if necessary, targeted chemical interventions.
+
+**1. Agronomic and Cultural Practices:**
+
+*   **Maintain Optimal Temperature:**
+    *   In hot weather, consider using shade nets (25-30% shade) during peak afternoon hours.
+    *   Ensure good air circulation to prevent heat buildup.
+*   **Proper Irrigation:**
+    *   Provide consistent and adequate moisture. Avoid both water stress (wilting) and waterlogging.
+    *   Irrigate in the morning to allow foliage to dry before nightfall.
+*   **Balanced Nutrition:**
+    *   Conduct soil testing to determine nutrient status.
+    *   Apply fertilizers based on recommendations, avoiding excessive nitrogen, especially during flowering and fruiting stages. Ensure adequate Phosphorus, Potassium, and micronutrients.
+*   **Enhance Pollination:**
+    *   Gently tap or shake the plant stakes/trellis daily during mid-morning when flowers are dry, to aid pollen release.
+    *   Ensure good air movement in protected cultivation.
+*   **Pruning:**
+    *   Remove suckers and lower leaves to improve air circulation and direct energy towards fruit development.
+*   **Pest and Disease Management:**
+    *   Control any significant pest or disease infestations that might weaken the plant and indirectly contribute to drop.
+
+**2. Chemical Interventions (CIBRC Approved):**
+
+These should be used as supplementary measures after addressing the primary agronomic factors.
+
+*   **For Hormonal Balance and Fruit Set:**
+    *   **Naphthalene Acetic Acid (NAA) 4.5% SL:** Apply as a foliar spray at a concentration of 2-3 ml per 10 litres of water (or 20-30 ml per 100 litres of water). Apply at the early flowering stage and repeat at early fruit set, if needed. This helps in preventing flower and fruit drop and promoting fruit retention.
+*   **For Micronutrient Deficiency (especially Boron):**
+    *   **Borax (Sodium tetraborate decahydrate) 10.5% B:** Apply as a foliar spray at a concentration of 1-2 g per litre of water (or 100-200 g per 100 litres of water). Apply at the pre-flowering stage and repeat after fruit set, if deficiency is suspected or confirmed. Boron is crucial for pollen germination and tube growth, directly impacting fruit set.
+
+Always ensure thorough coverage during foliar sprays. It is advisable to consult with local agricultural extension officers or HAU experts for specific recommendations tailored to your field conditions and variety.

@@ -1,0 +1,81 @@
+Namaste Kisan Bhaiyon,
+
+The symptom of "Drying up" (drying branches, leaves, fruits, and flowers) in Toria is a general indication of plant stress and can be caused by a variety of factors, rather than a single disease. A precise diagnosis is crucial for effective management. Please observe your plants closely for other accompanying symptoms.
+
+Here are the common causes and their management strategies for Toria in Haryana:
+
+### 1. Environmental and Agronomic Factors
+
+*   **Water Stress (Drought):**
+    *   **Symptoms:** General wilting, leaves turning yellow/brown and becoming crisp, stunted growth, premature drying of flowers and pods.
+    *   **Management:**
+        *   Ensure timely and adequate irrigation, especially during critical growth stages like flowering and pod formation. Toria is sensitive to water stress during these periods.
+        *   Consider light irrigation if there is a prolonged dry spell.
+        *   Mulching can help conserve soil moisture.
+
+*   **Nutrient Deficiencies:**
+    *   **Boron Deficiency:**
+        *   **Symptoms:** Stunted growth, yellowing of younger leaves, hollow stems, poor flower and pod development, leading to drying of growing points and flowers.
+        *   **Management:**
+            *   Foliar spray of Boron.
+            *   **Chemical:** **Disodium octaborate tetrahydrate** (e.g., Solubor) or **Borax** (Sodium tetraborate decahydrate).
+            *   **Dosage:** Spray 1-2 g/L of water (0.1-0.2% solution) at the pre-flowering stage. Repeat if symptoms persist.
+            *   Alternatively, apply 10-15 kg/acre of **Borax** to the soil at the time of sowing, especially in boron-deficient soils.
+    *   **Potassium Deficiency:**
+        *   **Symptoms:** Yellowing and scorching/drying of leaf margins, particularly on older leaves.
+        *   **Management:**
+            *   Apply **Potassium chloride** (Muriate of Potash) as per soil test recommendations, typically 20-30 kg/acre at sowing.
+
+*   **Soil Health Issues:**
+    *   **Waterlogging:** Can lead to root damage and subsequent wilting/drying. Ensure proper drainage.
+    *   **Soil Compaction:** Restricts root growth and nutrient uptake. Deep ploughing and proper tillage can help.
+
+### 2. Fungal Diseases
+
+*   **Sclerotinia Stem Rot (White Rot):**
+    *   **Symptoms:** Water-soaked lesions appear on stems, branches, or pods, which turn whitish. The affected parts above the lesion wilt and dry up. White cottony fungal growth and black, hard sclerotia (resting bodies) may be visible inside the stem.
+    *   **Management:**
+        *   Crop rotation with non-host crops (e.g., cereals).
+        *   Deep ploughing to bury sclerotia.
+        *   Proper plant spacing to improve air circulation.
+        *   **Chemical:** Foliar spray at the flowering stage.
+            *   **Carbendazim** 50% WP: 500 g/acre dissolved in 200-400 L of water.
+            *   **Tebuconazole** 25.9% EC: 250-300 ml/acre dissolved in 200-400 L of water.
+            *   **Propiconazole** 25% EC: 200 ml/acre dissolved in 200-400 L of water.
+
+*   **Alternaria Blight (Leaf Spot):**
+    *   **Symptoms:** Dark brown to black concentric spots with a yellow halo appear on leaves, stems, and pods. Severe infection can lead to premature defoliation, drying of leaves, and shriveling of pods.
+    *   **Management:**
+        *   Use resistant varieties.
+        *   Crop rotation.
+        *   Seed treatment with fungicides.
+        *   **Chemical:** Foliar spray at the appearance of symptoms and repeat after 10-15 days if necessary.
+            *   **Mancozeb** 75% WP: 800 g/acre dissolved in 200-400 L of water.
+            *   **Propiconazole** 25% EC: 200 ml/acre dissolved in 200-400 L of water.
+            *   **Azoxystrobin** 23% SC: 200 ml/acre dissolved in 200-400 L of water.
+
+*   **Root Rot (e.g., Rhizoctonia, Fusarium):**
+    *   **Symptoms:** Sudden wilting and drying of entire plants, often in patches. The roots may appear discolored, soft, and rotted.
+    *   **Management:**
+        *   Improve soil drainage.
+        *   Crop rotation.
+        *   Seed treatment with fungicides.
+        *   **Chemical (Seed Treatment):**
+            *   **Carbendazim** 50% WP: 2 g/kg seed.
+            *   **Thiram** 75% WS: 2.5 g/kg seed.
+        *   **Chemical (Drenching, if feasible for localized patches):**
+            *   Drench the soil around the base of affected plants with a 0.1% solution of **Carbendazim** (1 g/L water) or **Propiconazole** (1 ml/L water).
+
+### 3. Pest Infestations
+
+*   **Severe Sucking Pest Infestations (Aphids, Painted Bug):**
+    *   **Symptoms:** Presence of insects on leaves, stems, and flowers. Leaves may curl, distort, turn yellow, and in severe cases, the plant can become stressed, leading to general drying up and stunted growth. Honeydew and sooty mold may also be present.
+    *   **Management:**
+        *   Regular monitoring for pest presence.
+        *   **Chemical:** Spray when pest population reaches economic threshold.
+            *   **Imidacloprid** 17.8% SL: 125 ml/acre dissolved in 200-400 L of water.
+            *   **Thiamethoxam** 25% WG: 50 g/acre dissolved in 200-400 L of water.
+            *   **Acetamiprid** 20% SP: 50-80 g/acre dissolved in 200-400 L of water.
+
+**Important Note:**
+Since "drying up" is a general symptom, it is highly recommended to carefully examine your plants for other specific signs (spots, lesions, insect presence, root condition) to accurately diagnose the underlying problem. If you are unsure, please contact your nearest Krishi Vigyan Kendra (KVK) or the Department of Plant Pathology/Entomology at HAU, Hisar, for expert advice and precise diagnosis.

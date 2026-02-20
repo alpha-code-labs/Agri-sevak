@@ -1,0 +1,25 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling viral diseases in Garlic in Haryana.
+
+Firstly, regarding Tristeza virus, this is primarily a disease of citrus and is **not known to affect Garlic.**
+
+For Leaf curl, Mosaic, Yellow vein clearing, Stripe, and Stunt virus, these are symptoms often associated with various viral infections in garlic, such as Onion Yellow Dwarf Virus (OYDV) and Leek Yellow Stripe Virus (LYSV). It is crucial to understand that there is no direct chemical cure for viral diseases once a plant is infected. Control strategies focus on prevention and managing the vectors that transmit these viruses.
+
+Here are the recommended control measures:
+
+*   **1. Use Virus-Free Planting Material:** This is the most critical step. Always source certified, healthy, virus-free garlic cloves for planting. Infected cloves are the primary source of viral spread.
+*   **2. Vector Management:** Viral diseases in garlic are primarily transmitted by insect vectors, mainly aphids and thrips. Controlling these vectors is essential to prevent the spread of viruses.
+    *   **Chemical Control:** Apply CIBRC approved insecticides at the early stages of crop growth or when vector populations begin to build up.
+        *   For Aphids and Thrips:
+            *   **Imidacloprid** 17.8% SL: Apply at 0.5 ml/L of water (or 125 ml per acre in 250 L of water).
+            *   **Fipronil** 5% SC: Apply at 1.5-2.0 ml/L of water (or 400-600 ml per acre).
+            *   **Thiamethoxam** 25% WG: Apply at 0.2 g/L of water (or 100 g per acre in 500 L of water).
+        *   Ensure thorough coverage of the foliage. Repeat applications may be necessary based on pest incidence and label recommendations.
+    *   **Non-chemical Vector Control:**
+        *   Install yellow sticky traps (15-20 traps per acre) to monitor and trap flying insect vectors like aphids and thrips.
+*   **3. Rogueing:** Regularly inspect your garlic field. Immediately remove and destroy (by burning or deep burying away from the field) any plants showing symptoms of viral infection (e.g., yellowing, stunting, mosaic patterns, leaf curling). This prevents the virus from spreading to healthy plants.
+*   **4. Field Sanitation:**
+    *   Remove all crop debris after harvest.
+    *   Control weeds in and around the garlic field, as many weeds can act as alternate hosts for viruses and their insect vectors.
+*   **5. Crop Rotation:** Practice crop rotation with non-allium crops for at least 2-3 years to break the disease cycle and reduce the inoculum in the soil.
+*   **6. Nutritional Management:** Ensure the crop receives balanced nutrition to promote vigorous growth, which can help plants tolerate stress better, although it won't prevent viral infection.
+*   **7. Resistant Varieties:** While specific virus-resistant garlic varieties are not widely available in India, choosing locally adapted, healthy varieties can contribute to overall plant health and resilience.

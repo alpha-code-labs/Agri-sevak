@@ -1,0 +1,78 @@
+"Drying up" in mustard, manifesting as drying branches, leaves, fruits, and flowers, is a general symptom that can be caused by a range of factors, both abiotic (environmental/nutritional) and biotic (diseases/pests). Accurate identification of the underlying cause is crucial for effective management.
+
+**Key Steps for Diagnosis:**
+*   Observe the pattern of drying (e.g., whole plant, specific branches, individual leaves/pods, top-down, bottom-up).
+*   Look for specific lesions, spots, pustules, insect colonies, or signs of nutrient deficiencies.
+*   Consider recent weather conditions (temperature fluctuations, rainfall, frost) and field history (previous crops, fertilization).
+
+Below are the common causes of drying up in mustard in Haryana and their recommended management strategies:
+
+---
+
+**A. Abiotic Factors:**
+
+1.  **Water Stress (Drought):**
+    *   **Symptoms:** General wilting and drying of leaves, especially older ones, leading to premature senescence and reduced pod filling. Plants may appear stunted.
+    *   **Management:**
+        *   Ensure timely and adequate irrigation, particularly during critical growth stages like flowering and pod development. Mustard typically requires 1-2 irrigations depending on soil type and rainfall patterns.
+
+2.  **Nutrient Deficiencies:**
+    *   **Symptoms:**
+        *   **Boron Deficiency:** Poor pollen viability, flower drop, poor pod formation, drying of growing points, and distorted pods.
+        *   **Potassium Deficiency:** Yellowing and scorching of leaf margins, leading to premature drying, especially of older leaves.
+    *   **Management:**
+        *   **Boron:**
+            *   Foliar spray: 0.2% solution of **Borax** (Sodium tetraborate decahydrate) or **Disodium octaborate tetrahydrate** (2 g/L of water) at flowering and pod development stages.
+            *   Soil application (if severe deficiency and confirmed by soil test): 10-15 kg/acre of **Borax** at sowing.
+        *   **Potassium:** Ensure balanced fertilization based on soil test reports. Apply **Muriate of Potash** (Potassium chloride) as per recommendations.
+
+---
+
+**B. Biotic Factors:**
+
+**I. Fungal Diseases:**
+
+1.  **Alternaria Blight (Alternaria brassicae, Alternaria brassicicola):**
+    *   **Symptoms:** Dark brown to black concentric spots on leaves, stems, and pods. Severe infection leads to premature defoliation, drying of affected parts, and shrivelled seeds.
+    *   **Management:**
+        *   Use resistant/tolerant varieties.
+        *   Practice crop rotation with non-host crops.
+        *   Foliar spray at disease appearance and repeat at 10-15 day intervals, if necessary:
+            *   **Mancozeb** 75% WP @ 600-800 g/acre (dissolved in 200-300 L water).
+            *   **Propiconazole** 25% EC @ 200 ml/acre (dissolved in 200-300 L water).
+            *   **Azoxystrobin** 23% SC @ 200 ml/acre (dissolved in 200-300 L water).
+            *   **Tebuconazole** 25% WG @ 200 g/acre (dissolved in 200-300 L water).
+
+2.  **White Rust (Albugo candida) and Downy Mildew (Peronospora parasitica) Complex:**
+    *   **Symptoms:** White, raised pustules on the underside of leaves, stems, and inflorescence (white rust). Purplish-brown patches on the upper surface of leaves (downy mildew). Severe infection leads to malformation of floral parts (staghead), drying, and reduced seed set.
+    *   **Management:**
+        *   Use resistant/tolerant varieties.
+        *   Practice crop rotation.
+        *   Foliar spray at disease appearance and repeat at 10-15 day intervals, if necessary:
+            *   **Metalaxyl 8% + Mancozeb 64% WP** @ 500 g/acre (dissolved in 200-300 L water).
+            *   **Azoxystrobin** 23% SC @ 200 ml/acre (dissolved in 200-300 L water).
+
+3.  **Sclerotinia Stem Rot (Sclerotinia sclerotiorum):**
+    *   **Symptoms:** Water-soaked lesions on stems near the ground level or at branching points, leading to wilting and drying of the plant parts above the infection. White cottony fungal growth and black, irregular sclerotia (rat droppings-like structures) are visible inside and outside the stem.
+    *   **Management:**
+        *   Deep ploughing to bury sclerotia.
+        *   Crop rotation with non-host crops (e.g., cereals).
+        *   Avoid excessive nitrogen fertilization and dense planting.
+        *   Foliar spray at early flowering stage if disease incidence is observed:
+            *   **Carbendazim** 50% WP @ 200 g/acre (dissolved in 200-300 L water).
+            *   **Tebuconazole** 25% WG @ 200 g/acre (dissolved in 200-300 L water).
+
+**II. Insect Pests:**
+
+1.  **Aphids (Lipaphis erysimi):**
+    *   **Symptoms:** Colonies of small, soft-bodied insects on tender shoots, leaves, flowers, and pods. Severe sap sucking causes curling, yellowing, wilting, and drying of affected plant parts, leading to significant yield loss. Presence of honeydew and subsequent sooty mould.
+    *   **Management:**
+        *   Monitor fields regularly, especially from flowering to pod development.
+        *   Encourage natural enemies (ladybird beetles, hoverflies).
+        *   If infestation is severe (more than 10-15 aphids/plant or 50% plants infested):
+            *   **Imidacloprid** 17.8% SL @ 50-70 ml/acre (dissolved in 200-300 L water).
+            *   **Thiamethoxam** 25% WG @ 50 g/acre (dissolved in 200-300 L water).
+            *   **Acetamiprid** 20% SP @ 50-80 g/acre (dissolved in 200-300 L water).
+            *   **Flonicamid** 50% WG @ 60 g/acre (dissolved in 200-300 L water).
+
+Always follow label instructions for chemical application rates, safety precautions, and pre-harvest intervals. Integrated Pest Management (IPM) approaches, combining cultural, biological, and chemical methods, are recommended for sustainable crop protection.

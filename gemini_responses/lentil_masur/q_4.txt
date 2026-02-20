@@ -1,0 +1,36 @@
+Wilt (including Parawilt) is a significant challenge in Lentil (Masur) cultivation in Haryana. Effective management requires an integrated approach combining cultural practices, resistant varieties, and appropriate seed treatments.
+
+**Understanding the Conditions:**
+
+1.  **Wilt (Fusarium Wilt):**
+    *   **Causal Agent:** *Fusarium oxysporum f. sp. lentis* (a soil-borne fungus).
+    *   **Symptoms:** Plants show yellowing of lower leaves, drooping, and sudden wilting, often in patches within the field. If the stem is split open, a characteristic brown discoloration of the vascular tissue can be observed. This typically occurs at flowering or pod-filling stages.
+
+2.  **Parawilt:**
+    *   **Causal Agent:** Often associated with sudden environmental stresses such as abrupt temperature fluctuations (e.g., sudden rise in temperature after a cold spell), water stress (either drought or waterlogging), or nutrient imbalances. While not primarily a pathogenic disease, it can sometimes be exacerbated by minor root damage or secondary infections.
+    *   **Symptoms:** Plants suddenly wilt without prior yellowing or vascular discoloration. Affected plants may sometimes recover if the stress factor is alleviated promptly.
+
+**Control Measures for Wilt and Parawilt in Lentil (Masur):**
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** Implement a long crop rotation (at least 3-4 years) with non-host crops like cereals (wheat, barley) to reduce the build-up of soil-borne inoculum.
+    *   **Deep Summer Ploughing:** Plough fields deeply during the summer months to expose soil-borne pathogens to high temperatures and sunlight, which helps in their reduction.
+    *   **Timely Sowing:** Sow lentil at the optimum time (mid-October to mid-November in Haryana) to avoid early season heat stress and high temperatures that can favor wilt development.
+    *   **Balanced Nutrition:** Ensure adequate and balanced fertilization, particularly potassium, which enhances plant vigor and tolerance to stress. Avoid excessive nitrogen, which can make plants more susceptible.
+    *   **Irrigation Management:** Avoid both waterlogging and severe drought stress. Provide light and timely irrigation, especially during critical growth stages, to mitigate parawilt and reduce stress on plants.
+    *   **Field Sanitation:** Remove and destroy infected plant debris from the field to prevent the carry-over of pathogens.
+    *   **Soil Solarization:** In small, highly infested areas, soil solarization during the hot summer months can be effective in reducing pathogen load.
+
+2.  **Resistant Varieties:**
+    *   Cultivate wilt-resistant or tolerant lentil varieties recommended by Haryana Agricultural University (HAU) for your specific region. This is the most effective and economical long-term strategy.
+
+3.  **Seed Treatment:**
+    *   Treat seeds with fungicides before sowing to protect seedlings from early infection and reduce primary inoculum.
+        *   **Carbendazim** (50% WP) @ 2 g/kg seed.
+        *   **Thiram** (75% WS) @ 2.5 g/kg seed.
+        *   Combination product of **Carboxin** (37.5% FS) + **Thiram** (37.5% FS) @ 2.5 g/kg seed.
+    *   **Biological Seed Treatment:** For an eco-friendly approach or in conjunction with chemical treatment (apply bio-agent after chemical treatment), treat seeds with bio-control agents:
+        *   *Trichoderma viride* or *Trichoderma harzianum* @ 4-5 g/kg seed.
+
+4.  **Soil Application (for severe cases or as a preventive measure):**
+    *   **Biological Control:** Apply *Trichoderma viride* or *Trichoderma harzianum* enriched Farm Yard Manure (FYM) @ 2.5 kg of bio-agent mixed with 50-100 kg of well-decomposed FYM per acre. This should be applied 15-20 days before sowing and incorporated into the soil.

@@ -1,0 +1,48 @@
+Wilt, primarily caused by the fungus *Fusarium oxysporum f. sp. gladioli*, is a significant disease affecting Gladiolus in Haryana. Parawilt can sometimes be a physiological response to stress, but often, *Fusarium* infection is the underlying cause or a contributing factor. Effective control requires an integrated approach.
+
+Here's how to control Wilt (including Parawilt) in Gladiolus:
+
+**I. Cultural Practices (Prevention is Key):**
+
+1.  **Corm Selection:** Always use healthy, disease-free corms from a reputable source. Inspect corms carefully before planting for any discoloration, lesions, or soft spots.
+2.  **Crop Rotation:** Avoid planting Gladiolus in the same field for at least 3-5 years. Rotate with non-host crops like cereals (wheat, maize) or legumes. This helps reduce the pathogen load in the soil.
+3.  **Soil Management:**
+    *   **Drainage:** Ensure good soil drainage, as waterlogged conditions favor fungal growth.
+    *   **Soil pH:** Maintain a slightly acidic to neutral soil pH (6.0-7.0), which is generally less favorable for *Fusarium*.
+    *   **Solarization:** In summer, solarize the soil by covering it with transparent polyethylene sheets for 4-6 weeks. This can significantly reduce soil-borne pathogen populations.
+4.  **Sanitation:**
+    *   Remove and destroy infected plants and corms immediately to prevent further spread. Do not compost diseased plant material.
+    *   Clean and sterilize all tools and equipment (e.g., with a 10% bleach solution) after working in infected areas.
+5.  **Water Management:** Avoid overhead irrigation, which can splash spores. Drip irrigation or furrow irrigation is preferable. Water early in the day to allow foliage to dry.
+6.  **Nutrient Management:** Provide balanced nutrition. Avoid excessive nitrogen, which can make plants more susceptible to diseases.
+
+**II. Biological Control:**
+
+1.  **Bio-fungicides:**
+    *   **Corm Treatment:** Treat corms before planting by dipping them in a solution of *Trichoderma viride* (a beneficial fungus) or *Pseudomonas fluorescens* (a beneficial bacterium).
+        *   **Trichoderma viride**: 10 grams per kg of corms, mixed with water to form a slurry for dipping.
+    *   **Soil Application:** Apply *Trichoderma viride* to the soil during land preparation.
+        *   **Trichoderma viride**: 2.5 kg per acre, mixed with 50-100 kg of Farm Yard Manure (FYM) or compost, and broadcast evenly before planting.
+
+**III. Chemical Control:**
+
+Chemical control should be used as a supplementary measure, especially for corm treatment, and as a drench if symptoms appear.
+
+1.  **Corm Treatment (Pre-planting):**
+    *   Dip corms for 30 minutes in a fungicide solution before planting. This provides initial protection against soil-borne pathogens.
+        *   **Carbendazim**: 1-2 grams per litre of water.
+        *   **Thiophanate Methyl**: 1-2 grams per litre of water.
+        *   **Captan**: 2-3 grams per litre of water.
+        *   **Thiram**: 2-3 grams per litre of water.
+    *   Allow corms to air dry in shade before planting.
+
+2.  **Soil Drench (Post-planting, if symptoms appear):**
+    *   If wilt symptoms are observed in the field, drench the soil around the affected plants with a systemic fungicide.
+        *   **Carbendazim**: 1-2 grams per litre of water. Apply 200-500 ml of solution per plant, depending on plant size, ensuring it reaches the root zone.
+        *   **Thiophanate Methyl**: 1-2 grams per litre of water. Apply 200-500 ml of solution per plant.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the fungicide label for correct dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in the pathogen.
+*   Consult with local agricultural extension services or HAU experts for specific recommendations tailored to your farm's conditions.

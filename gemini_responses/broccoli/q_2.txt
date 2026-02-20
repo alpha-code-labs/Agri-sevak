@@ -1,0 +1,31 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can confirm the following regarding rust diseases in Broccoli:
+
+Black rust, Brown rust, Yellow rust, and Red rust are primarily diseases of cereal crops (like wheat, barley) or other specific plant families, and **are not known to affect Broccoli.**
+
+However, **White rust** (caused by *Albugo candida*) is a common and significant disease of Brassica crops, including Broccoli, in Haryana. Here's how to control it:
+
+**Control Measures for White Rust (*Albugo candida*) in Broccoli:**
+
+**I. Cultural and Preventive Practices:**
+
+*   **Crop Rotation:** Avoid planting Broccoli or other Brassica crops in the same field for at least 2-3 years.
+*   **Sanitation:** Remove and destroy infected plant debris from the field after harvest to reduce inoculum.
+*   **Resistant Varieties:** Where available and suitable for local conditions, choose resistant or tolerant Broccoli varieties.
+*   **Proper Spacing:** Ensure adequate plant spacing to improve air circulation within the canopy, which helps reduce humidity and fungal growth.
+*   **Weed Control:** Manage weeds, especially those belonging to the Brassica family, as they can act as alternate hosts for the pathogen.
+*   **Irrigation Management:** Avoid overhead irrigation late in the day, as prolonged leaf wetness can promote disease development. Drip irrigation is preferable.
+
+**II. Chemical Control (Fungicides):**
+
+Fungicides should be applied preventively or at the very early stages of disease development. Always follow the manufacturer's instructions and safety precautions.
+
+*   **Mancozeb 75% WP:**
+    *   Apply 2.0-2.5 kg per acre (or 2.5 g/L of water) as a foliar spray. It acts as a protective fungicide.
+*   **Metalaxyl-M 4% + Mancozeb 64% WP:**
+    *   Apply 2.0-2.5 kg per acre (or 2.5 g/L of water) as a foliar spray. This combination provides both systemic (Metalaxyl-M) and contact (Mancozeb) action, effective against Oomycetes like *Albugo*.
+*   **Azoxystrobin 23% SC:**
+    *   Apply 200 ml per acre (or 0.5-1.0 ml/L of water) as a foliar spray. This broad-spectrum systemic fungicide can be effective.
+*   **Propineb 70% WP:**
+    *   Apply 2.0-2.5 kg per acre (or 2.5 g/L of water) as a foliar spray. It is a protective fungicide.
+
+**Note:** It is crucial to rotate fungicides with different modes of action to prevent the development of resistance in the pathogen. Consult your local agricultural extension office for the most current recommendations and specific product availability in your area of Haryana.

@@ -1,0 +1,79 @@
+"Drying up" in Sapota (Manilkara zapota), manifesting as drying branches, leaves, fruits, and flowers, is a general symptom that can indicate various underlying issues, both abiotic (environmental/nutritional) and biotic (diseases/pests). A thorough diagnosis is crucial before implementing any management strategy.
+
+Here's a comprehensive approach to address this issue:
+
+**I. Abiotic Causes (Environmental and Nutritional Stress):**
+
+These are often the primary culprits for widespread drying symptoms.
+
+1.  **Water Stress:**
+    *   **Under-watering/Drought:** Prolonged lack of water leads to wilting and drying of plant parts.
+        *   **Management:** Ensure consistent and adequate irrigation, especially during dry spells and fruit development. Apply 50-70 litres of water per tree, 2-3 times a week during peak summer, adjusting based on soil type and tree age. Use drip irrigation for efficient water use.
+    *   **Over-watering/Waterlogging:** Poor drainage leads to root suffocation and root rot, impairing water uptake, causing symptoms similar to drought.
+        *   **Management:** Improve soil drainage by adding organic matter (farmyard manure, compost) and ensuring proper land levelling. Avoid planting in low-lying areas prone to water accumulation.
+
+2.  **Nutrient Deficiencies/Imbalances:**
+    *   **Boron Deficiency:** Can cause dieback of young shoots and branches, leading to drying.
+        *   **Management:** Apply **Borax** (Sodium tetraborate decahydrate) at 10-15 kg/acre as a soil application or foliar spray of **Disodium Octaborate Tetrahydrate** at 1-1.5 g/L of water.
+    *   **Potassium Deficiency:** Can lead to marginal leaf scorch, overall weakening, and reduced drought tolerance.
+        *   **Management:** Apply **Muriate of Potash (MOP)** (Potassium chloride) or **Sulphate of Potash (SOP)** (Potassium sulphate) as per soil test recommendations, typically 1-2 kg per mature tree annually.
+    *   **Soil Salinity/Alkalinity:** High salt content or pH can hinder water and nutrient uptake, leading to stress and drying.
+        *   **Management:** Apply **Gypsum** (Calcium sulphate dihydrate) as per soil test recommendations to reclaim sodic soils. Incorporate large quantities of organic matter (20-30 kg/tree/year) to improve soil structure and buffering capacity. Use good quality irrigation water.
+
+3.  **Soil Compaction:** Restricts root growth and water penetration, leading to stress.
+    *   **Management:** Incorporate organic matter. Light cultivation around the tree basin (avoiding root damage) can help.
+
+4.  **Temperature Extremes:**
+    *   **Frost Damage:** Young trees are susceptible to frost, causing drying of tender shoots and leaves.
+        *   **Management:** Protect young trees with straw mulch, cover with hessian cloth, or irrigate during cold nights.
+    *   **Heat Stress/Sunburn:** Severe heat can scorch leaves and fruits, leading to drying.
+        *   **Management:** Maintain adequate soil moisture. White-washing the trunk can protect against sunburn.
+
+**II. Biotic Causes (Diseases and Pests):**
+
+These require specific identification and targeted treatments.
+
+1.  **Fungal Diseases:**
+    *   **Dieback/Canker (e.g., *Lasiodiplodia theobromae*, *Phomopsis* spp.):**
+        *   **Symptoms:** Twigs and branches start drying from the tip downwards, cankers (sunken lesions) may appear on branches, sometimes with gum exudation.
+        *   **Management:**
+            *   Prune affected branches well below the visible symptoms into healthy wood. Disinfect pruning tools with alcohol or bleach solution after each cut to prevent spread.
+            *   Apply a protective fungicidal paste on cut surfaces.
+            *   Foliar spray or drench with systemic fungicides:
+                *   **Carbendazim** at 1-1.5 g/L of water.
+                *   **Propiconazole** at 0.5-1 ml/L of water.
+                *   **Copper Oxychloride** at 2.5-3 g/L of water (as a protective spray).
+    *   **Root Rot (e.g., *Phytophthora* spp., *Fusarium* spp.):**
+        *   **Symptoms:** General wilting, yellowing, and drying of leaves and branches, often starting from one side of the tree. Roots appear discoloured and decayed.
+        *   **Management:**
+            *   Improve drainage to prevent waterlogging.
+            *   Drench the soil around the tree base with fungicides:
+                *   **Metalaxyl + Mancozeb** (combination product) at 2-2.5 g/L of water.
+                *   **Propamocarb Hydrochloride** at 2-3 ml/L of water.
+                *   **Carbendazim** at 2-3 g/L of water (for *Fusarium*).
+
+2.  **Insect Pests:**
+    *   **Stem/Twig Borers (e.g., *Indarbela quadrinotata* - Bark Eating Caterpillar):**
+        *   **Symptoms:** Presence of silken webs with frass (excreta) on the bark, holes in branches/trunk, and drying of branches above the point of damage due to girdling.
+        *   **Management:**
+            *   Clean the boreholes by removing frass and webs.
+            *   Inject a solution of insecticide into the boreholes using a syringe and seal the holes with mud or cotton.
+                *   **Chlorpyriphos** at 2-3 ml/L of water (or undiluted for direct injection).
+                *   **Imidacloprid** at 0.5-1 ml/L of water.
+    *   **Root-Knot Nematodes (*Meloidogyne* spp.):**
+        *   **Symptoms:** Stunted growth, general wilting, yellowing, and drying of leaves, especially under stress. Examination of roots reveals galls or swellings.
+        *   **Management:**
+            *   Improve soil health with organic matter (neem cake, farmyard manure) which can suppress nematode populations.
+            *   Solarization of soil before planting.
+            *   For established trees, chemical control is complex and requires specific diagnosis and application. Consult with a local HAU expert for precise recommendations if nematodes are confirmed.
+
+**General Recommendations for Prevention and Overall Tree Health:**
+
+*   **Orchard Sanitation:** Regularly remove and destroy fallen leaves, fruits, and diseased branches.
+*   **Balanced Nutrition:** Provide balanced fertilizers based on soil test reports to ensure vigorous growth and stress tolerance.
+*   **Proper Pruning:** Prune regularly to remove dead, diseased, or weak branches, improving air circulation and light penetration. Always disinfect tools.
+*   **Monitoring:** Regularly inspect trees for early signs of stress, disease, or pest infestation.
+*   **Mulching:** Apply organic mulch around the tree base to conserve soil moisture, regulate soil temperature, and suppress weeds.
+
+**Crucial Step:**
+It is highly recommended to consult with a local HAU extension specialist or an experienced agronomist for accurate diagnosis, especially if the symptoms are severe or widespread. They can help identify the specific cause and recommend the most effective and CIBRC-approved treatments for your specific situation in Haryana.

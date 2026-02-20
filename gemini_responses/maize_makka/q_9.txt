@@ -1,0 +1,39 @@
+Mites, including Red spider mite (e.g., *Tetranychus urticae*, *Oligonychus indicus*) and Rust mite (*Aceria maydis*), are indeed known to affect Maize (Makka) in Haryana, especially during dry and hot weather conditions. They can cause significant damage by sucking sap, leading to yellowing, bronzing, and drying of leaves, which impacts photosynthesis and yield.
+
+Here's a scientifically verified approach for their control:
+
+**Integrated Pest Management (IPM) Strategy:**
+
+1.  **Monitoring:** Regularly inspect the underside of leaves, especially during dry periods, for the presence of mites, their eggs, and webbing (in case of red spider mites). Early detection is crucial for effective control.
+2.  **Cultural Practices:**
+    *   **Proper Irrigation:** Ensure adequate irrigation, as water stress can exacerbate mite infestations.
+    *   **Weed Management:** Control weeds in and around the maize field, as many weeds can act as alternate hosts for mites.
+    *   **Crop Residue Management:** Remove and destroy crop residues after harvest to reduce overwintering mite populations.
+3.  **Biological Control:** Encourage natural enemies like predatory mites (*Amblyseius* spp.), ladybird beetles, and lacewings, which can help keep mite populations in check. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+**Chemical Control (Acaricides):**
+
+When mite populations reach economic threshold levels and cultural/biological methods are insufficient, chemical control may be necessary. Always ensure thorough coverage, especially on the underside of leaves where mites reside. Rotate acaricides with different modes of action to prevent resistance development.
+
+The following CIBRC approved technical chemicals are recommended for mite control in field crops and can be effectively used in Maize:
+
+*   **Propargite 57% EC:**
+    *   **Dosage:** 1.0 - 1.5 Litres per acre (mixed in 200-400 litres of water).
+    *   **Application:** Spray thoroughly, ensuring good coverage on both upper and lower leaf surfaces.
+*   **Abamectin 1.9% EC:**
+    *   **Dosage:** 150 - 200 ml per acre (mixed in 200-400 litres of water).
+    *   **Application:** Effective against various mite stages. Ensure good spray penetration.
+*   **Spiromesifen 22.9% SC:**
+    *   **Dosage:** 150 - 200 ml per acre (mixed in 200-400 litres of water).
+    *   **Application:** This is a modern acaricide with ovicidal and nymphicidal activity.
+
+**Important Considerations:**
+
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) like gloves, masks, and protective clothing while handling and spraying chemicals.
+*   **Calibration:** Calibrate your sprayer to ensure accurate dosage and uniform coverage.
+*   **Timing:** Apply acaricides when mites are actively feeding and before populations become too high, typically during the early stages of infestation.
+*   **Resistance Management:** Do not use the same chemical repeatedly. Rotate between different classes of acaricides to prevent mites from developing resistance.
+*   **Water Volume:** Use sufficient water volume (200-400 litres per acre) to ensure proper coverage, especially on the undersides of leaves.
+*   **Adjuvants:** Consider adding a non-ionic spreader/sticker to the spray solution to improve coverage and efficacy, especially on waxy leaf surfaces.
+
+For specific recommendations tailored to your local conditions and the severity of infestation, it is always advisable to consult with the agricultural extension specialists at HAU or your nearest Krishi Vigyan Kendra (KVK).

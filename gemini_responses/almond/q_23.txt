@@ -1,0 +1,50 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified recommendations for almond cultivation in Haryana. It is important to note that almonds are temperate crops requiring specific chilling hours, and their commercial cultivation in Haryana's climate may present challenges.
+
+---
+
+### Seed Treatment for Almond
+
+Almonds are typically propagated vegetatively through grafting onto suitable rootstocks or by planting bare-root saplings, rather than direct sowing of seeds for commercial orchards. Therefore, a conventional 'seed treatment' process as applied to annual field crops is generally not applicable for almond cultivation.
+
+### Soil Treatment for Almond
+
+Effective soil treatment is crucial for establishing a healthy almond orchard. This involves pre-plant preparation and addressing potential soil-borne issues.
+
+#### 1. Pre-Plant Soil Preparation
+
+*   **Soil Testing:** Conduct a comprehensive soil test to determine pH, nutrient status, and presence of any soil-borne pathogens or nematodes. This is the foundational step for any targeted treatment.
+*   **Organic Matter Incorporation:** Incorporate well-decomposed farmyard manure (FYM) or compost at a rate of 10-15 kg per pit or 20-30 tonnes per acre during land preparation. This improves soil structure, water retention, and nutrient availability.
+*   **pH Adjustment:** Almonds prefer well-drained soils with a pH range of 6.0 to 7.0.
+    *   If soil pH is acidic (below 6.0), apply agricultural lime (calcium carbonate) as per soil test recommendations (e.g., 1-2 tonnes/acre, incorporated).
+    *   If soil pH is alkaline (above 7.0), apply gypsum or elemental sulphur as per soil test recommendations (e.g., 0.5-1 tonne/acre of gypsum, incorporated).
+
+#### 2. Addressing Soil-Borne Diseases
+
+Based on soil test results or historical issues in the area, specific treatments may be required.
+
+*   **Phytophthora Root Rot:** This disease thrives in waterlogged conditions.
+    *   **Cultural:** Ensure excellent drainage. Plant on raised beds if necessary.
+    *   **Chemical (Pre-plant/Post-plant drench):**
+        *   Apply **Metalaxyl** at 2 g/L of water as a soil drench around the root zone of young plants.
+        *   Alternatively, apply **Fosetyl-aluminium** at 2.5 g/L of water as a soil drench.
+*   **Verticillium Wilt:** This is a serious soil-borne disease.
+    *   **Cultural:** Use resistant rootstocks. Avoid planting in fields with a history of Verticillium wilt. Soil solarization during hot summer months (covering moist soil with clear plastic for 6-8 weeks) can reduce pathogen inoculum.
+    *   **Chemical (Pre-plant fumigation - requires expert application):**
+        *   For heavily infested soils, pre-plant soil fumigation can be considered using **Dazomet** at 300-400 kg/acre or **Metam sodium** at 200-300 L/acre. These are highly specialized applications requiring strict safety protocols and expert supervision.
+*   **Armillaria Root Rot:**
+    *   **Cultural:** No effective chemical treatment once established. Focus on removing infected trees and roots, and creating a barrier (e.g., trenching) to prevent spread.
+
+#### 3. Addressing Soil-Borne Pests (Nematodes)
+
+Nematodes, particularly root-knot nematodes, can severely damage almond roots.
+
+*   **Cultural:** Soil solarization (as mentioned above) can help reduce nematode populations. Use nematode-resistant rootstocks if available.
+*   **Chemical (Pre-plant incorporation):**
+    *   If nematode populations are high, incorporate **Fluensulfone** at 10-15 kg/acre into the soil before planting.
+    *   Alternatively, incorporate **Ethoprophos** at 10-20 kg/acre into the soil before planting.
+*   **Biological (Pre-plant/Post-plant):**
+    *   Apply bio-nematicides containing *Purpureocillium lilacinum* at 2.5 kg/acre, mixed with 50-100 kg of FYM or compost, and applied to the soil around the planting pit or tree basin.
+
+---
+
+**Important Note:** Always consult with local agricultural experts from HAU or the Department of Agriculture, Haryana, for specific recommendations tailored to your farm's conditions and to ensure compliance with the latest CIBRC guidelines and safe application practices.

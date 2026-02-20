@@ -1,0 +1,73 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice for controlling various rot types in Orange (Citrus) in Haryana. All the rot types you mentioned are known to affect Orange. Effective management requires an integrated approach combining cultural practices with judicious use of CIBRC approved fungicides.
+
+Here's how to control these rot types:
+
+### General Cultural Practices for Rot Prevention (Applicable to all Rot Types)
+
+1.  **Site Selection and Drainage:** Plant oranges in well-drained soils. Avoid waterlogging, which is a primary predisposing factor for most root and collar rots. Improve drainage by raising beds or installing drainage channels if necessary.
+2.  **Proper Irrigation:** Irrigate judiciously. Avoid overwatering, especially around the trunk base. Use drip irrigation to deliver water directly to the root zone, minimizing wetting of the trunk.
+3.  **Orchard Sanitation:** Regularly remove and destroy fallen diseased fruits, leaves, and plant debris. Prune out dead or diseased branches promptly.
+4.  **High Budding:** Graft citrus varieties onto rootstocks at a height of at least 30-45 cm above the soil line to keep the susceptible scion wood away from soil-borne pathogens.
+5.  **Avoid Injury:** Protect the trunk and roots from mechanical injuries during cultivation, weeding, or harvesting, as these wounds serve as entry points for pathogens.
+6.  **Nutrient Management:** Ensure balanced fertilization to maintain tree vigour and natural resistance. Avoid excessive nitrogen, which can lead to lush, susceptible growth.
+7.  **Weed Control:** Keep the area around the tree base free of weeds to improve air circulation and reduce humidity.
+
+### Specific Control Measures for Different Rot Types
+
+#### 1. Root, Stem, Foot, Collar, Crown, and Neck Rots (Primarily caused by *Phytophthora* species)
+
+These rots often manifest as gummosis (oozing of gum from the bark), bark discoloration, cracking, and eventual girdling of the trunk or roots, leading to decline and death of the tree.
+
+*   **Cultural Control:**
+    *   Scrape off the infected bark and discoloured wood until healthy tissue is exposed.
+    *   Paint the scraped area with a fungicidal paste.
+    *   Avoid piling soil around the trunk.
+    *   Ensure the bud union remains well above the soil line.
+*   **Chemical Control:**
+    *   **Foliar Spray/Soil Drench:** Apply systemic fungicides that move to the root zone.
+        *   **Fosetyl-aluminium** (80% WP): 2.5-3.0 g/L water as a foliar spray, or 5-10 g/L water as a soil drench around the trunk base (5-10 litres per tree depending on size).
+        *   **Metalaxyl-M 4% + Mancozeb 64% WP:** 2.0-2.5 g/L water as a soil drench around the trunk base (5-10 litres per tree).
+    *   **Trunk Paint/Paste:**
+        *   **Copper oxychloride** (50% WP): Prepare a thick paste by mixing 50-100 g of fungicide with a small amount of water and apply directly to the scraped infected areas of the trunk.
+
+#### 2. Black Rot and Fruit Rots (Caused by various fungi like *Alternaria*, *Diplodia*, *Colletotrichum*, *Phytophthora*, *Penicillium*)
+
+These rots affect fruits at various stages, from development on the tree to post-harvest. Black rot often refers to *Alternaria* stem-end rot.
+
+*   **Cultural Control:**
+    *   Harvest fruits carefully to avoid injury.
+    *   Remove and destroy all fallen and diseased fruits from the orchard.
+    *   Prune dead twigs and branches, as they can harbour pathogens.
+    *   Ensure proper ventilation within the tree canopy through judicious pruning.
+*   **Chemical Control (Pre-harvest sprays):**
+    *   For broad-spectrum protection against various fruit rot pathogens:
+        *   **Azoxystrobin** (23% SC): 0.5-1.0 ml/L water.
+        *   **Pyraclostrobin** (20% WG): 0.5-0.75 g/L water.
+        *   **Tebuconazole** (25.9% EC): 0.75-1.0 ml/L water.
+        *   **Difenoconazole** (25% EC): 0.5 ml/L water.
+    *   For *Phytophthora* fruit rot (brown rot):
+        *   **Copper oxychloride** (50% WP): 2.5-3.0 g/L water.
+    *   Apply these fungicides during critical fruit development stages, especially if conditions are wet and humid. Rotate fungicides to prevent resistance development.
+
+#### 3. Seed Rot and Seedling Rot (Damping-off - Caused by *Phytophthora* and *Pythium* species)
+
+These rots affect seeds before germination or young seedlings, causing them to collapse at the soil line.
+
+*   **Cultural Control:**
+    *   Use sterilized potting mix or soil for nurseries.
+    *   Ensure good drainage in seedling trays/beds.
+    *   Avoid overwatering seedlings.
+    *   Maintain proper spacing between seedlings to improve air circulation.
+*   **Chemical Control:**
+    *   **Seed Treatment:**
+        *   **Metalaxyl** (35% WS): 2-3 g/kg seed before sowing.
+    *   **Soil Drench for Seedlings:**
+        *   **Propamocarb hydrochloride** (72.2% SL): 2.0-3.0 ml/L water as a drench immediately after sowing or at the first sign of disease.
+        *   **Metalaxyl-M 4% + Mancozeb 64% WP:** 2.0-2.5 g/L water as a drench.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the fungicide label for dosage, application method, safety precautions, and pre-harvest intervals.
+*   Implement an Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods for sustainable disease control.
+*   Regularly monitor your orchard for early signs of disease to enable timely intervention.
+*   Consult with your local agricultural extension officer or HAU experts for specific recommendations tailored to your farm's conditions.

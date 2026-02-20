@@ -1,0 +1,51 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Beetles, Weevils, and Sawflies in Pear orchards in Haryana.
+
+It's important to identify the specific pest species causing damage, as control strategies can vary. However, here are general recommendations for common pests within these categories affecting pear:
+
+**I. Integrated Pest Management (IPM) Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Orchard Sanitation:** Regularly remove and destroy fallen leaves, fruits, and weeds, which can harbor pests or their pupae.
+    *   **Pruning:** Remove and destroy any infested branches or twigs.
+    *   **Soil Cultivation:** Deep ploughing around the base of trees during winter can expose soil-dwelling grubs (e.g., chafer beetle grubs) and pupae to predators and adverse weather conditions.
+    *   **Maintain Tree Vigor:** Ensure proper irrigation and nutrient management to help trees withstand pest attacks.
+
+2.  **Mechanical Control:**
+    *   **Hand Picking:** For visible pests like adult chafer beetles (active at night) or pear slug sawfly larvae, hand-picking and destroying them can be effective in small orchards.
+    *   **Light Traps:** Install light traps during peak activity periods of nocturnal beetles (e.g., chafer beetles) to attract and kill them.
+    *   **Shaking Branches:** In the early morning, shake branches over a sheet to dislodge pests and destroy them.
+
+3.  **Biological Control:**
+    *   Conserve natural enemies such as predatory birds, spiders, and parasitic wasps that prey on these pests. Avoid broad-spectrum insecticides when natural enemy populations are high.
+    *   Consider using entomopathogenic fungi like *Beauveria bassiana* for soil-dwelling stages of beetles and weevils, or for direct spray on adults.
+
+**II. Chemical Control (Use only CIBRC approved technical chemical names):**
+
+Chemical intervention should be considered when pest populations exceed economic thresholds and other methods are insufficient. Always follow label instructions for dosage and safety.
+
+**A. For Beetles (e.g., Chafer Beetles, Leaf Beetles):**
+*   **For adult defoliating beetles:**
+    *   Spray with **Lambda-cyhalothrin** 5% EC at 0.5 ml/L of water.
+    *   Alternatively, spray with **Quinalphos** 25% EC at 2 ml/L of water.
+*   **For soil-dwelling grubs (e.g., white grubs of chafer beetles):**
+    *   Apply **Chlorpyrifos** 20% EC as a soil drench around the tree base at 4 ml/L of water (approximately 5-10 L solution per tree depending on age and canopy size).
+
+**B. For Weevils:**
+*   **For general weevil control (e.g., stem weevils, fruit weevils):**
+    *   Spray with **Lambda-cyhalothrin** 5% EC at 0.5 ml/L of water.
+    *   Alternatively, spray with **Chlorpyrifos** 20% EC at 2 ml/L of water.
+    *   Timing is crucial, often targeting adults before egg-laying or early larval stages.
+
+**C. For Sawflies (e.g., Pear Slug Sawfly - *Caliroa cerasi*):**
+*   **For larvae (slug-like caterpillars) skeletonizing leaves:**
+    *   Spray with **Lambda-cyhalothrin** 5% EC at 0.5 ml/L of water.
+    *   Alternatively, spray with **Chlorantraniliprole** 18.5% SC at 0.3 ml/L of water.
+    *   Another option is **Thiamethoxam + Lambda-cyhalothrin** 12.6% ZC at 0.25 ml/L of water.
+
+**Important Considerations:**
+*   **Timing:** Apply insecticides when pests are most vulnerable (e.g., young larvae, active adults).
+*   **Pre-Harvest Interval (PHI):** Always observe the specified pre-harvest interval for any chemical applied to ensure fruit safety.
+*   **Resistance Management:** Rotate insecticides with different modes of action to prevent the development of resistance.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) during mixing and application.
+
+Please consult with your local agricultural extension officer for specific pest identification and tailored recommendations for your orchard.

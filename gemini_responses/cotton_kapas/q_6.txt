@@ -1,0 +1,43 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice regarding viral diseases in Cotton (Kapas) for Haryana:
+
+Firstly, let's clarify which of the mentioned conditions are relevant to Cotton (Kapas):
+
+*   **Yellow vein clearing:** This is not known to affect Cotton (Kapas). It is primarily associated with Okra Yellow Vein Mosaic Virus (OYVMV) in okra.
+*   **Stripe:** This is not known to affect Cotton (Kapas). Stripe viruses typically affect cereal crops.
+*   **Tristeza:** This is not known to affect Cotton (Kapas). Citrus Tristeza Virus (CTV) affects citrus crops.
+
+The viral diseases that are significant for Cotton (Kapas) in Haryana are **Cotton Leaf Curl Virus (CLCuV)**, which can manifest as leaf curl, mosaic-like symptoms, and stunted growth.
+
+**Control of Viral Diseases in Cotton (Kapas):**
+
+It is important to understand that there is no direct chemical cure for viral diseases once a plant is infected. Management strategies focus on preventing infection by controlling the insect vectors (primarily whiteflies, *Bemisia tabaci*) and adopting integrated pest management (IPM) practices.
+
+**1. Vector Control (Whitefly Management):**
+Controlling the whitefly population is crucial to prevent the spread of Cotton Leaf Curl Virus. Apply insecticides in rotation to prevent resistance development.
+
+*   **Seed Treatment (for early protection against whiteflies):**
+    *   **Imidacloprid** 600 FS: 5-7 ml per kg of seed
+    *   **Thiamethoxam** 70 WS: 3-5 g per kg of seed
+
+*   **Foliar Sprays (when whitefly population reaches economic threshold level):**
+    *   **Imidacloprid** 17.8% SL: 125 ml per acre
+    *   **Thiamethoxam** 25% WG: 40-50 g per acre
+    *   **Acetamiprid** 20% SP: 80-100 g per acre
+    *   **Dinotefuran** 20% SG: 60-80 g per acre
+    *   **Buprofezin** 25% SC: 500-600 ml per acre
+    *   **Spiromesifen** 22.9% SC: 200 ml per acre
+    *   **Diafenthiuron** 50% WP: 250 g per acre
+    *   **Flonicamid** 50% WG: 60 g per acre
+    *   **Pyriproxyfen** 10% EC: 500 ml per acre
+    *   **Fenpropathrin** 30% EC: 250 ml per acre (Use in rotation with other groups to manage resistance)
+
+**2. Cultural Practices:**
+*   **Resistant Varieties:** Plant varieties recommended by HAU that are resistant or tolerant to Cotton Leaf Curl Virus.
+*   **Timely Sowing:** Sow cotton at the recommended time to avoid peak whitefly populations.
+*   **Weed Management:** Remove weeds from and around the cotton fields, as many weeds can act as alternate hosts for whiteflies and the virus.
+*   **Roguing:** Regularly inspect fields and remove (rogue out) and destroy any plants showing symptoms of viral infection to prevent further spread.
+*   **Balanced Nutrition:** Ensure balanced fertilizer application, as excessive nitrogen can make plants more susceptible to whitefly infestation.
+*   **Crop Rotation:** Practice crop rotation with non-host crops.
+*   **Field Sanitation:** Remove cotton stubble and plant debris after harvest to break the pest cycle.
+
+By implementing these integrated management strategies, the incidence and spread of viral diseases like Cotton Leaf Curl Virus can be effectively controlled in Cotton (Kapas).

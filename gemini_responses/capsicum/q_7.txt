@@ -1,0 +1,48 @@
+Namaste, Kisan Bhaiyon,
+
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide you with scientifically verified advice for controlling the conditions you've mentioned in Capsicum.
+
+---
+
+### Control of Dieback in Capsicum
+
+Dieback in Capsicum is a common disease often caused by fungal pathogens such as *Colletotrichum capsici* (which also causes anthracnose) or *Phytophthora capsici* (Phytophthora blight). It leads to the drying back of shoots from the tip, often associated with lesions on stems, branches, or fruit pedicels.
+
+**1. Cultural Practices:**
+*   **Disease-Free Material:** Always use certified disease-free seeds or healthy seedlings from a reputable source.
+*   **Field Sanitation:** Regularly remove and destroy all infected plant parts (leaves, stems, fruits) from the field to reduce inoculum.
+*   **Crop Rotation:** Practice crop rotation with non-solanaceous crops for at least 2-3 years to break the disease cycle.
+*   **Proper Spacing:** Maintain optimal plant spacing to ensure good air circulation, which helps in reducing humidity around the plants.
+*   **Water Management:** Avoid overhead irrigation, especially late in the day, as prolonged leaf wetness promotes fungal growth. Drip irrigation is preferred.
+*   **Nutrient Management:** Ensure balanced fertilization to promote strong, healthy plant growth, making them more resistant to diseases.
+
+**2. Chemical Control (Fungicides):**
+For effective control, it is recommended to alternate fungicides with different modes of action to prevent the development of resistance. Apply fungicides as a foliar spray, ensuring thorough coverage.
+
+*   **For Dieback primarily caused by *Colletotrichum* species:**
+    *   **Carbendazim:** 0.5 g/L of water
+    *   **Mancozeb:** 2.5 g/L of water
+    *   **Azoxystrobin:** 0.5 ml/L of water
+    *   **Propiconazole:** 0.5 ml/L of water
+
+*   **For Dieback primarily caused by *Phytophthora* species (often associated with rapid blight and fruit rot):**
+    *   **Propamocarb hydrochloride:** 2.5 ml/L of water
+    *   **Dimethomorph:** 1 g/L of water
+    *   **Fenamidone:** 0.5 ml/L of water
+    *   **Cymoxanil + Mancozeb** (combination product): 2.5 g/L of water
+
+---
+
+### Twig Blight in Capsicum
+
+"Twig blight" is not a commonly recognized distinct disease of Capsicum. Symptoms resembling blight on twigs or small branches are typically part of the broader "Dieback" complex or other stem blights caused by pathogens like *Colletotrichum* or *Phytophthora*, which have already been addressed under the Dieback section above. Therefore, the control measures for Dieback will also be effective against any such symptoms.
+
+---
+
+### Tikka Disease in Capsicum
+
+This is not known to affect Capsicum. Tikka disease is a common leaf spot disease primarily affecting groundnut (peanut) crops, caused by *Cercospora arachidicola* and *Cercosporidium personatum*.
+
+---
+
+Always consult your local agricultural extension officer for precise diagnosis and specific recommendations tailored to your field conditions.

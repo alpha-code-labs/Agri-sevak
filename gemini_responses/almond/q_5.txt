@@ -1,0 +1,65 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Almond cultivation in Haryana.
+
+---
+
+### Control Measures for Almond Diseases and Conditions:
+
+**1. Scab (Almond Scab - *Venturia carpophila*)**
+
+Almond scab is a significant fungal disease affecting leaves, twigs, and fruits.
+
+*   **Cultural Practices:**
+    *   Prune out and destroy infected twigs and mummified fruits during dormancy to reduce inoculum.
+    *   Ensure proper tree spacing and pruning for good air circulation within the canopy.
+    *   Maintain tree vigor through balanced nutrition and irrigation.
+*   **Chemical Control (Preventive and Curative):**
+    *   Apply fungicides at bud break and repeat at 10-14 day intervals, especially during wet periods.
+    *   **Difenoconazole** 125 g/L EC: 0.5 ml per litre of water.
+    *   **Myclobutanil** 10% WP: 0.4 g per litre of water.
+    *   **Mancozeb** 75% WP: 2.5 g per litre of water.
+    *   **Chlorothalonil** 75% WP: 2 g per litre of water.
+
+**2. Canker (Various types, e.g., *Botryosphaeria* canker, Bacterial canker)**
+
+Cankers are localized dead areas on branches or trunks, often caused by fungi or bacteria, leading to dieback.
+
+*   **Cultural Practices:**
+    *   Prune out infected branches well below the visible canker, ensuring clean cuts.
+    *   Sterilize pruning tools with a 10% bleach solution or methylated spirit between cuts to prevent disease spread.
+    *   Avoid mechanical injuries to the trunk and branches.
+    *   Maintain tree health and vigor to enhance natural resistance.
+*   **Chemical Control:**
+    *   For fungal cankers, apply a protective fungicide after pruning or during dormancy.
+    *   **Copper oxychloride** 50% WP: 3 g per litre of water, applied as a spray or painted directly onto pruned wounds.
+    *   If *Phytophthora* related crown or root rot is suspected as the cause of canker at the base, a soil drench may be considered:
+        *   **Fosetyl-aluminium** 80% WP: 2.5 g per litre of water, applied as a drench around the trunk base.
+
+**3. Gummosis**
+
+Gummosis is the oozing of gum from the bark of almond trees. It is often a symptom of stress, injury, or underlying disease rather than a disease itself.
+
+*   **Cultural Practices:**
+    *   Identify and address the primary cause. This could be poor drainage, mechanical injury, insect borers, or fungal/bacterial infections.
+    *   Improve soil drainage to prevent waterlogging.
+    *   Protect trees from mechanical damage during cultivation.
+    *   If borers are present, implement appropriate insect control measures.
+    *   Maintain optimal tree health through balanced fertilization and irrigation.
+*   **Chemical Control (Addressing underlying causes):**
+    *   If gummosis is associated with *Phytophthora* root rot or crown rot:
+        *   **Fosetyl-aluminium** 80% WP: 2.5 g per litre of water, applied as a soil drench around the trunk base.
+    *   If gummosis is due to bacterial or fungal cankers:
+        *   **Copper oxychloride** 50% WP: 3 g per litre of water, applied as a trunk paint or spray to affected areas after scraping away loose bark.
+
+**4. Lichen**
+
+Lichens are symbiotic organisms (fungus and alga) that grow on the bark of trees.
+
+*   **This is not known to affect Almond in terms of causing disease or damage.** Lichens are epiphytes, meaning they grow on the surface of the tree without parasitizing it. They do not extract nutrients from the tree and are generally harmless. Their presence often indicates good air quality.
+*   **Cultural Practices:**
+    *   If their presence is aesthetically undesirable or perceived to harbor pests (which is rare), improving tree vigor and pruning for better air circulation and light penetration can naturally reduce their growth.
+*   **Chemical Control (If removal is strongly desired, typically during dormancy):**
+    *   A dormant season spray can help reduce lichen growth, but it is generally not recommended as they are harmless.
+    *   **Copper oxychloride** 50% WP: 3 g per litre of water, applied as a dormant spray.
+
+---
+*Always consult with local agricultural extension services for the most current and specific recommendations for your region and specific orchard conditions.*

@@ -1,0 +1,42 @@
+Wilt, including conditions that might be termed "Parawilt" (often a complex of fungal and/or bacterial pathogens, or abiotic factors mimicking wilt), can affect Sudan Grass. Various *Fusarium* species are common causes of fungal wilt, and certain bacterial pathogens can also induce wilt symptoms in Sudan Grass and related fodder crops.
+
+Control measures for Wilt in Sudan Grass should focus on an integrated approach:
+
+### I. Cultural and Agronomic Practices:
+
+1.  **Resistant Varieties:** Where available and suitable for Haryana's agro-climatic conditions, select and plant wilt-resistant or tolerant Sudan Grass varieties. Consult HAU's latest recommendations for specific varieties.
+2.  **Crop Rotation:** Implement a strict crop rotation schedule with non-host crops (e.g., legumes, wheat, mustard) for at least 2-3 years to reduce the build-up of soil-borne pathogens. Avoid continuous cultivation of Sudan Grass or other susceptible fodder crops.
+3.  **Field Sanitation:** Remove and destroy infected plant debris immediately after harvest. Deep ploughing can help bury crop residues and reduce pathogen inoculum.
+4.  **Soil Health Management:**
+    *   **Balanced Nutrition:** Ensure balanced fertilization. Avoid excessive nitrogen, which can make plants more susceptible. Adequate potassium can improve plant vigor and resistance.
+    *   **Drainage:** Improve soil drainage to prevent waterlogging, which stresses plants and favors certain wilt pathogens.
+    *   **Soil pH:** Maintain optimal soil pH for Sudan Grass growth, as extreme pH can stress plants.
+5.  **Irrigation Management:** Provide adequate and timely irrigation. Avoid both water stress (which can predispose plants to wilt) and over-irrigation (which can create anaerobic conditions and favor root rot/wilt pathogens).
+6.  **Timely Sowing:** Sow at the recommended time to ensure vigorous plant growth and reduce susceptibility to early-season infections.
+7.  **Weed Control:** Manage weeds effectively, as they can compete for nutrients and water, stressing the crop, and some may act as alternate hosts for pathogens.
+
+### II. Biological Control:
+
+1.  **Bio-fungicides:** Application of CIBRC approved bio-agents like *Trichoderma viride* or *Pseudomonas fluorescens* as seed treatment or soil application can help suppress soil-borne fungal pathogens causing wilt.
+    *   **Seed Treatment:** Mix 10 g of *Trichoderma viride* (or *Pseudomonas fluorescens*) formulation per kg of seed before sowing.
+    *   **Soil Application:** Mix 2.5 kg of *Trichoderma viride* (or *Pseudomonas fluorescens*) formulation with 50 kg of farmyard manure (FYM) and apply per acre before sowing or transplanting.
+
+### III. Chemical Control:
+
+Chemical control is primarily effective as a preventive measure, especially through seed treatment.
+
+1.  **Seed Treatment (for Fungal Wilts):**
+    *   Treat Sudan Grass seeds with a systemic fungicide before sowing to protect against soil-borne fungal pathogens.
+    *   **Carbendazim** 50% WP: 1-2 g per kg of seed.
+    *   **Thiram** 75% WS: 2-3 g per kg of seed.
+    *   **Captan** 50% WP: 2-3 g per kg of seed.
+
+2.  **Soil Drench (for Fungal Wilts in severe cases):**
+    *   In areas with a history of severe wilt, a soil drench might be considered, though it is less common for large-scale fodder crops.
+    *   **Carbendazim** 50% WP: 1 g per litre of water, applied around the base of affected plants.
+
+3.  **For Bacterial Wilts (if identified):**
+    *   If bacterial wilt is confirmed, seed treatment with an antibiotic mixture can be considered.
+    *   **Streptomycin sulphate** 9% + **Tetracycline hydrochloride** 1% SP: 100-200 mg per kg of seed for seed treatment, or 1 g per litre of water for foliar spray/drench in severe cases (consult local HAU experts for specific recommendations and CIBRC approval for this use in Sudan Grass).
+
+Always consult with your local HAU extension specialist for the most current and specific recommendations tailored to your farm's conditions and the prevailing disease situation in Haryana.

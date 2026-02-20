@@ -1,0 +1,64 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Sorghum (Jowar) in Haryana. These recommendations are general and should ideally be adjusted based on a recent soil test report for your specific field, as soil nutrient status can vary significantly.
+
+**General NPK Recommendation for Sorghum (Grain) in Haryana:**
+*   **Nitrogen (N):** 80 kg per hectare (approximately 32 kg per acre)
+*   **Phosphorus (P2O5):** 40 kg per hectare (approximately 16 kg per acre)
+*   **Potassium (K2O):** 20 kg per hectare (approximately 8 kg per acre)
+*   **Sulphur (S):** 20 kg per hectare (approximately 8 kg per acre)
+
+**Recommended Doses of Specific Fertilizers (per acre):**
+
+**1. Basal Application (at the time of sowing):**
+Apply all Phosphorus, Potassium, Sulphur, and one-third of the Nitrogen requirement as a basal dose.
+
+*   **For Phosphorus (P2O5):**
+    *   **Diammonium Phosphate (DAP):** 35 kg per acre.
+        *   *(This will provide approximately 16 kg P2O5 and 6.3 kg N)*
+    *   **OR**
+    *   **Single Super Phosphate (SSP):** 100 kg per acre.
+        *   *(This will provide approximately 16 kg P2O5 and 11 kg Sulphur, covering the Sulphur requirement)*
+
+*   **For Potassium (K2O):**
+    *   **Muriate of Potash (MOP):** 13-14 kg per acre.
+        *   *(This will provide approximately 8 kg K2O)*
+
+*   **For Sulphur (S) (if not using SSP):**
+    *   **Elemental Sulphur (90%):** 9 kg per acre.
+        *   *(This will provide approximately 8 kg S)*
+    *   **OR**
+    *   **Gypsum:** 50 kg per acre.
+        *   *(This will provide approximately 8-9 kg S)*
+
+*   **For Nitrogen (N) (part of basal):**
+    *   **Urea:** 18-19 kg per acre.
+        *   *(This is approximately one-third of the total Urea required after accounting for N from DAP)*
+
+**2. Top-Dressing (30-40 days after sowing):**
+Apply the remaining two-thirds of the Nitrogen requirement.
+
+*   **Urea:** 37 kg per acre.
+    *   *(Total Urea for the crop will be approximately 56 kg per acre, if DAP is used basally)*
+    *   *(If SSP is used basally, total Urea required would be higher, around 70 kg per acre, with 23 kg basal and 47 kg top-dressing)*
+
+---
+
+**Specific Guidelines for Other Fertilizers:**
+
+*   **Nano-Urea:**
+    *   **Application:** Foliar spray.
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Timing:** First spray at 30-40 days after sowing (DAS), second spray at the pre-flowering stage.
+    *   **Note:** Nano-Urea is a supplement and can help reduce the requirement of conventional **Urea** by 25-50%, but it is not a complete replacement for the basal granular application.
+
+*   **Nano-DAP:**
+    *   **Application:** Foliar spray.
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Timing:** First spray at 30-40 DAS, second spray at the pre-flowering stage.
+    *   **Note:** Nano-DAP is a supplement and can help reduce the requirement of conventional **Diammonium Phosphate (DAP)** by 25-50%, but it is not a complete replacement for the basal granular application.
+
+*   **NPK Complex Fertilizers (e.g., 12:32:16, 10:26:26, 19:19:19):**
+    *   The dose of NPK complex fertilizers will depend on the specific grade and the nutrient content (N, P2O5, K2O) it provides.
+    *   Calculate the amount of N, P2O5, and K2O supplied by the chosen NPK complex fertilizer to meet the recommended 32-16-8 kg N-P2O5-K2O per acre.
+    *   Adjust the doses of **Urea** and **Muriate of Potash** accordingly to fulfill any remaining nutrient requirements. For example, if using NPK 12:32:16, approximately 50 kg per acre would supply 6 kg N, 16 kg P2O5, and 8 kg K2O. You would then need to supplement with **Urea** to meet the remaining N requirement.
+
+Always ensure uniform application of fertilizers for best results.

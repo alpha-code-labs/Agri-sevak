@@ -1,0 +1,43 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Toria cultivation in Haryana, based on scientific research and local conditions. The general nutrient recommendation for irrigated Toria is 60 kg Nitrogen (N), 20 kg Phosphorus (P2O5), 20 kg Potassium (K2O), and 20 kg Sulphur (S) per acre.
+
+**1. Basal Application (at the time of sowing):**
+
+*   **Nitrogen (N):** Apply half of the recommended Nitrogen.
+    *   **Urea**: 57 kg/acre
+*   **Phosphorus (P2O5):** Apply the full recommended Phosphorus.
+    *   **Diammonium Phosphate (DAP)**: 44 kg/acre (This provides 20 kg P2O5 and approximately 7.8 kg N)
+    *   *Alternatively, if using **Single Super Phosphate (SSP)** for Phosphorus and Sulphur:*
+        *   **Single Super Phosphate (SSP)**: 125 kg/acre (This provides 20 kg P2O5 and approximately 13.75 kg S)
+*   **Potassium (K2O):** Apply the full recommended Potassium.
+    *   **Muriate of Potash**: 33 kg/acre
+*   **Sulphur (S):** Apply the full recommended Sulphur. Sulphur is crucial for oilseed crops like Toria to enhance oil content and yield.
+    *   **Elemental Sulphur (90%)**: 22 kg/acre
+    *   *If **Single Super Phosphate (SSP)** was used for Phosphorus, it provides 13.75 kg S. In this case, apply additional Sulphur:*
+        *   **Elemental Sulphur (90%)**: 7 kg/acre (to make up the remaining 6.25 kg S)
+        *   *Alternatively, **Gypsum** (13-18% S) can be used:* 40-50 kg/acre (if SSP was used, adjust accordingly for the remaining S requirement).
+
+**2. Top Dressing (at first irrigation, approximately 25-30 days after sowing):**
+
+*   **Nitrogen (N):** Apply the remaining half of the recommended Nitrogen.
+    *   **Urea**: 57 kg/acre (This completes the 60 kg N/acre recommendation, considering the N provided by DAP in the basal dose).
+
+**3. Foliar Application (as supplements):**
+
+*   **Nano-Urea:**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Timing:** 2-3 sprays are recommended. The first spray can be given at the branching stage, and the second at the flowering stage.
+    *   **Note:** Nano-Urea is a supplement and does not fully replace conventional **Urea** for basal application, especially for meeting the initial high nitrogen demand of the crop.
+*   **Nano-DAP:**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Timing:** 2-3 sprays are recommended. The first spray can be given at the branching stage, and the second at the flowering stage.
+    *   **Note:** Nano-DAP is a supplement and does not fully replace conventional **Diammonium Phosphate (DAP)** or **Single Super Phosphate (SSP)** for basal application.
+
+**4. NPK (Complex Fertilizers):**
+
+*   If using complex NPK fertilizers (e.g., 12:32:16, 10:26:26), the doses should be adjusted to meet the recommended NPK requirements (60:20:20 kg/acre). For example, if using 12:32:16, you would need approximately 62.5 kg/acre to meet the P2O5 requirement (20 kg P2O5 / 0.32 = 62.5 kg). This would provide 7.5 kg N and 10 kg K2O, requiring additional **Urea** and **Muriate of Potash** to fulfill the remaining N and K requirements. It is generally more precise to apply individual fertilizers to meet specific nutrient needs.
+
+**Important Considerations:**
+
+*   **Soil Testing:** These recommendations are general. For precise fertilizer application, it is highly recommended to get your soil tested. A soil test report will provide specific nutrient deficiencies and help in tailoring the fertilizer dose accurately.
+*   **Micronutrients:** Toria, being an oilseed crop, also benefits from micronutrients like Boron and Zinc. If soil tests indicate deficiency, apply Boron @ 1 kg/acre (as Borax) and Zinc @ 10 kg/acre (as Zinc Sulphate) at the time of sowing.
+*   **Application Method:** Ensure uniform broadcasting of fertilizers before sowing and proper mixing with the soil. For top dressing, apply **Urea** when the soil has adequate moisture or immediately before irrigation.

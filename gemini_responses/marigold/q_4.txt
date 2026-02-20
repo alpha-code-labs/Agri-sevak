@@ -1,0 +1,51 @@
+Wilt, including Parawilt, is a significant concern in Marigold cultivation in Haryana. Wilt can be caused by various soil-borne fungal pathogens (e.g., *Fusarium oxysporum*, *Sclerotium rolfsii*, *Rhizoctonia solani*) or bacterial pathogens (*Ralstonia solanacearum*). Parawilt often refers to temporary wilting due to physiological stress (e.g., high temperature, water stress, root damage) but can also be an early symptom of a disease. Effective control requires an integrated approach.
+
+Here's how to manage Wilt and Parawilt in Marigold:
+
+**I. Cultural and Agronomic Practices (Prevention and Management):**
+
+*   **Crop Rotation:** Avoid planting Marigold or other susceptible crops (like tomato, brinjal, chilli, potato) in the same field for at least 2-3 years. Rotate with non-host crops like cereals (wheat, maize) or legumes.
+*   **Resistant Varieties:** Where available, choose Marigold varieties known for resistance or tolerance to wilt diseases. Consult local nurseries or HAU experts for recommendations specific to Haryana.
+*   **Soil Solarization:** In hot summer months (May-June), cover the prepared field with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, effectively killing many soil-borne pathogens, including wilt-causing fungi and bacteria.
+*   **Proper Drainage:** Ensure good soil drainage to prevent waterlogging, which creates anaerobic conditions favorable for root rot and exacerbates wilt. Raised beds can be beneficial.
+*   **Sanitation:**
+    *   Remove and destroy infected plants immediately to prevent the spread of pathogens. Do not compost infected plant material.
+    *   Clean tools and equipment after working in infected areas.
+*   **Water Management:**
+    *   Provide adequate and consistent irrigation. Both overwatering and underwatering can stress plants and make them more susceptible to wilt.
+    *   Avoid overhead irrigation, which can spread pathogens. Drip irrigation is preferred.
+*   **Balanced Nutrition:** Apply balanced fertilizers based on soil test recommendations. Avoid excessive nitrogen, which can promote lush growth susceptible to disease. Potassium and phosphorus improve plant vigor and resistance.
+*   **Avoid Root Injury:** Be careful during intercultural operations (weeding, hoeing) to avoid damaging roots, as wounds serve as entry points for pathogens.
+*   **Use Healthy Planting Material:** Always use healthy, disease-free seeds or seedlings from reputable sources.
+
+**II. Biological Control:**
+
+*   **Seed Treatment:**
+    *   Treat Marigold seeds with **_Trichoderma viride_** or **_Trichoderma harzianum_** at 5-10 g/kg seed before sowing.
+    *   Alternatively, use **_Pseudomonas fluorescens_** at 10 g/kg seed.
+*   **Soil Application/Drenching:**
+    *   Mix **_Trichoderma viride_** or **_Trichoderma harzianum_** (2-5 kg/acre) with 50-100 kg of farmyard manure (FYM) or compost. Keep the mixture moist for 7-10 days in a shaded area, then broadcast evenly in the field before planting or apply as a drench around the root zone of established plants.
+    *   Similarly, **_Pseudomonas fluorescens_** (2-5 kg/acre) can be applied with FYM or as a drench.
+
+**III. Chemical Control (Use CIBRC approved technical names only):**
+
+*   **Seed Treatment (for fungal wilts):**
+    *   **Carbendazim** (50% WP) at 2-3 g/kg seed.
+    *   **Thiram** (75% WS) at 2-3 g/kg seed.
+*   **Soil Drenching (for fungal wilts):**
+    *   At the first sign of wilting, drench the soil around the base of the plants with:
+        *   **Carbendazim** (50% WP) at 1-2 g/L of water.
+        *   **Propamocarb hydrochloride** (72.2% SL) at 2-3 ml/L of water. This is particularly effective against Oomycete fungi (like *Pythium*, *Phytophthora*) and some *Fusarium* species.
+        *   **Mancozeb** (75% WP) at 2-2.5 g/L of water.
+        *   **Copper Oxychloride** (50% WP) at 2-3 g/L of water.
+*   **For Bacterial Wilt (*Ralstonia solanacearum*):**
+    *   Bacterial wilt is very difficult to control chemically once established. Focus heavily on cultural practices (crop rotation, resistant varieties, sanitation, soil solarization).
+    *   In early stages or as a preventative measure, a drench with a combination of bactericides might offer some suppression:
+        *   **Streptomycin sulfate** (9%) + **Tetracycline hydrochloride** (1%) SP at 0.5-1 g/L of water.
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for all pesticides and biological agents.
+*   Apply chemicals during cooler parts of the day.
+*   Rotate fungicides with different modes of action to prevent resistance development.
+*   Consult with local agricultural extension specialists at HAU, Hisar, for specific recommendations tailored to your farm's conditions and the prevalent wilt pathogens in your area.

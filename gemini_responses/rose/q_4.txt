@@ -1,0 +1,45 @@
+Wilt, including conditions sometimes referred to as Parawilt, can be a serious issue for roses in Haryana, leading to sudden wilting, yellowing, and eventual death of the plant. These conditions are primarily caused by soil-borne fungal pathogens such as *Verticillium dahliae* (Verticillium Wilt) and *Fusarium oxysporum* f. sp. *rosa* (Fusarium Wilt), which invade the plant's vascular system, blocking water and nutrient transport. "Parawilt" often describes a sudden, severe wilting that can be a manifestation of these fungal wilts, or a complex interaction of environmental stress, root damage, and pathogen activity.
+
+Effective management requires an integrated approach combining cultural practices with judicious use of CIBRC-approved chemicals.
+
+**Integrated Pest Management (IPM) / Cultural Practices:**
+
+1.  **Resistant Varieties:** Where possible, choose rose varieties or rootstocks known for their resistance to wilt diseases.
+2.  **Sanitation:**
+    *   Remove and destroy all infected plant material (leaves, stems, entire plants) immediately to prevent the spread of spores. Do not compost infected material.
+    *   Sterilize pruning tools with a 10% bleach solution or rubbing alcohol between cuts and between plants.
+3.  **Soil Health and Drainage:**
+    *   Ensure good soil drainage. Waterlogging can stress roots and create conditions favorable for fungal growth. Amend heavy soils with organic matter to improve structure.
+    *   Avoid planting roses in areas where susceptible crops (like cotton, brinjal, tomato) have recently suffered from wilt diseases.
+4.  **Water Management:** Provide consistent, adequate watering, especially during dry periods, but avoid overwatering. Water at the base of the plant to keep foliage dry.
+5.  **Balanced Nutrition:** Provide balanced fertilization to maintain plant vigor. Avoid excessive nitrogen, which can promote lush, susceptible growth.
+6.  **Rootstock Selection:** Grafting onto resistant rootstocks can offer protection against soil-borne pathogens.
+7.  **Nematode Management:** Root-knot nematodes can create wounds that allow wilt pathogens to enter the roots more easily. Soil testing for nematodes and appropriate management (e.g., use of bio-nematicides or resistant rootstocks) can reduce wilt incidence.
+
+**Chemical Control (Fungicides):**
+
+For established plants showing early symptoms of wilt, or as a preventive measure in high-risk areas, soil drenching with systemic fungicides can be effective.
+
+*   **Carbendazim 50% WP:**
+    *   **Dosage:** 1.0 - 2.0 g per litre of water.
+    *   **Application:** Drench the soil around the base of the affected plants thoroughly, ensuring the solution penetrates the root zone. Repeat application after 15-20 days if symptoms persist or new symptoms appear.
+*   **Thiophanate Methyl 70% WP:**
+    *   **Dosage:** 1.0 - 1.5 g per litre of water.
+    *   **Application:** Similar to Carbendazim, drench the soil around the base of the plants. Repeat application after 15-20 days as needed.
+
+**Biological Control:**
+
+Biological control agents can be highly effective in preventing wilt diseases by colonizing the root zone and competing with or antagonizing pathogenic fungi. They are best used preventively or at the early stages of disease.
+
+*   **Trichoderma viride (1% WP or 2% WP):**
+    *   **Dosage (Soil Application):** 2.5 kg per acre, mixed with 50-100 kg of well-decomposed farmyard manure (FYM) or compost, and applied to the soil before planting or around existing plants.
+    *   **Dosage (Soil Drench):** 5-10 g per litre of water. Drench the soil around the root zone.
+*   **Pseudomonas fluorescens (1% WP):**
+    *   **Dosage (Soil Application):** 2.5 kg per acre, mixed with 50-100 kg of FYM or compost, and applied to the soil.
+    *   **Dosage (Soil Drench):** 5-10 g per litre of water. Drench the soil around the root zone.
+
+**Important Considerations:**
+
+*   **Early Diagnosis:** Accurate diagnosis is crucial. If the wilting is due to non-pathogenic causes (e.g., severe water stress, root damage from digging, stem canker), fungicides will not be effective.
+*   **Rotation of Chemicals:** To prevent the development of fungicide resistance, it is advisable to rotate between different classes of fungicides or integrate biological controls.
+*   **Consult Experts:** For severe or persistent problems, it is always recommended to consult with HAU plant pathology experts for precise diagnosis and tailored recommendations.

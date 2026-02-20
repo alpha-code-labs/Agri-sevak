@@ -1,0 +1,41 @@
+Wilt in cowpea (including Parawilt) can be a complex issue, often caused by various pathogens (fungal like *Fusarium oxysporum*, *Sclerotium rolfsii*, or bacterial like *Ralstonia solanacearum*). Parawilt, on the other hand, is frequently a physiological condition triggered by high temperatures and water stress, which can predispose plants to true wilts. An integrated approach combining cultural, biological, and chemical methods is essential for effective management in Haryana.
+
+**1. Cultural and Agronomic Practices:**
+*   **Resistant Varieties:** Select and plant cowpea varieties known to be resistant or tolerant to wilt diseases prevalent in Haryana. Consult HAU recommendations for specific varieties suitable for your region.
+*   **Crop Rotation:** Implement a 3-4 year crop rotation with non-host crops (e.g., cereals like maize, sorghum, or pearl millet). Avoid continuous cultivation of cowpea or other susceptible legumes to reduce pathogen build-up in the soil.
+*   **Field Sanitation:** Regularly remove and destroy infected plant debris and weeds, as they can harbor wilt pathogens.
+*   **Soil Solarization:** During the hot summer months (May-June), prepare the field and cover it with transparent polyethylene sheets for 4-6 weeks. This process raises soil temperature, effectively killing many soil-borne pathogens, including wilt-causing fungi and bacteria.
+*   **Proper Irrigation:** Maintain optimal soil moisture. Avoid both waterlogging (which favors some fungal wilts) and severe water stress (which can trigger Parawilt and increase susceptibility to true wilts). Irrigate judiciously, especially during critical growth stages and hot periods.
+*   **Balanced Nutrition:** Ensure balanced fertilization. Excessive nitrogen can sometimes make plants more susceptible. Adequate potassium and micronutrients improve plant vigor and overall resistance.
+*   **Deep Summer Ploughing:** Plough the field deeply during summer to expose soil-borne pathogens to the scorching sun, thereby reducing their population.
+*   **Seed Selection:** Always use healthy, certified, disease-free seeds from reliable sources.
+
+**2. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Apply at 5-10 g/kg of seed.
+    *   **Pseudomonas fluorescens**: Apply at 10 g/kg of seed.
+*   **Soil Application:**
+    *   **Trichoderma viride** or **Trichoderma harzianum**: Mix 2.5 kg of the formulation with 50 kg of well-decomposed farmyard manure (FYM) or compost and apply uniformly per acre at the time of sowing or transplanting.
+    *   **Pseudomonas fluorescens**: Mix 2.5 kg of the formulation with 50 kg of FYM or compost and apply per acre.
+
+**3. Chemical Control:**
+
+*   **Seed Treatment (for Fungal Wilts):**
+    *   **Carbendazim**: 1-2 g/kg of seed.
+    *   **Thiram**: 2-3 g/kg of seed.
+    *   **Captan**: 2-3 g/kg of seed.
+    *   A combination of **Carbendazim** (1 g/kg) + **Thiram** (2 g/kg) can provide broader spectrum protection against various seed and soil-borne fungal pathogens.
+
+*   **Soil Drenching (for Fungal Wilts):**
+    *   For early symptoms or in identified hot spots, drench the soil around the base of affected plants with:
+        *   **Carbendazim**: 1 g/L of water. Apply 200-250 ml of the solution per plant.
+
+*   **For Bacterial Wilt (if identified):**
+    *   **Soil Drenching:**
+        *   **Copper Oxychloride**: 2.5 g/L of water. Drench the soil around the base of plants.
+        *   **Streptomycin Sulphate + Tetracycline Hydrochloride** (as a combination product): 0.5 g/L of water. Drench the soil around the base of plants.
+
+**Important Considerations:**
+*   **Accurate Diagnosis:** Correctly identifying the specific cause of wilt (fungal, bacterial, or physiological Parawilt) is crucial for selecting the most effective control measures. If unsure, collect samples and consult experts at Haryana Agricultural University (HAU) for diagnosis.
+*   **Integrated Approach:** Always combine cultural, biological, and chemical methods for sustainable and effective management of wilt diseases. Relying solely on one method is often insufficient.
+*   **Parawilt Management:** The primary focus for Parawilt is on maintaining optimal soil moisture, providing adequate nutrition, and selecting heat-tolerant varieties. Chemical treatments are generally not effective for physiological Parawilt.

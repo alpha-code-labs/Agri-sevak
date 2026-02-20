@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling pests in Celery in Haryana:
+
+It is crucial to implement an Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods for sustainable pest control. Always monitor your crop regularly for pest incidence.
+
+### Control Measures for Pests in Celery:
+
+#### 1. Borers (e.g., Celery Stalk Borer, other stem borers)
+Borers, typically lepidopteran larvae, tunnel into the stalks, causing wilting and damage.
+
+*   **Cultural Practices:**
+    *   Remove and destroy infested plants or plant parts to prevent further spread.
+    *   Maintain field sanitation and remove crop residues after harvest.
+*   **Chemical Control (Apply upon observing initial signs of infestation):**
+    *   **Chlorantraniliprole 18.5% SC** at 60 ml/acre.
+    *   **Emamectin benzoate 5% SG** at 88-100 g/acre.
+    *   **Flubendiamide 20% WG** at 50 g/acre.
+
+#### 2. Caterpillars (General feeders like armyworms, loopers, cutworms)
+Various caterpillar species can feed on celery leaves and stalks, causing defoliation and direct damage.
+
+*   **Cultural Practices:**
+    *   Regular scouting to detect young larvae.
+    *   Hand-picking of larger caterpillars in small plots.
+    *   Maintain weed-free fields as weeds can harbor pests.
+*   **Biological Control:**
+    *   Apply **Bacillus thuringiensis var. kurstaki (Bt)** formulations at 500-1000 g/acre, especially effective against young larvae.
+*   **Chemical Control (Rotate chemicals to prevent resistance development):**
+    *   **Spinosad 45% SC** at 60-75 ml/acre.
+    *   **Indoxacarb 14.5% SC** at 200 ml/acre.
+    *   **Emamectin benzoate 5% SG** at 88-100 g/acre.
+
+#### 3. Diamondback Moth (DBM)
+This is not known to affect Celery. Diamondback moth (*Plutella xylostella*) is a specific pest of cruciferous crops (Brassicaceae family), while Celery belongs to the Apiaceae family.
+
+#### 4. Leaf Folder
+Leaf folders, typically lepidopteran larvae, roll or fold leaves and feed from within, causing damage to the foliage.
+
+*   **Cultural Practices:**
+    *   Remove and destroy folded leaves containing larvae.
+    *   Avoid excessive nitrogen fertilization, which can lead to lush growth favored by leaf folders.
+*   **Chemical Control (Apply when initial leaf folding is observed):**
+    *   **Chlorantraniliprole 18.5% SC** at 60 ml/acre.
+    *   **Flubendiamide 20% WG** at 50 g/acre.
+    *   **Novaluron 10% EC** at 300 ml/acre (an insect growth regulator, effective against larvae).
+
+### General Recommendations for Pesticide Application:
+
+*   Always read and follow the label instructions for dosage, application method, and pre-harvest interval (PHI).
+*   Use appropriate personal protective equipment (PPE) during mixing and spraying.
+*   Ensure thorough spray coverage for effective control.
+*   Rotate insecticides with different modes of action to prevent the development of pesticide resistance.
+*   Consult with local agricultural extension specialists for the most current and specific recommendations for your region and crop stage.

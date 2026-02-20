@@ -1,0 +1,45 @@
+Wilt (including Parawilt) in Poplar is a complex issue often caused by various fungal pathogens (e.g., *Fusarium* spp., *Verticillium* spp.) or bacterial pathogens, sometimes exacerbated by environmental stresses. Effective control requires an integrated approach.
+
+Here's how to control Wilt in Poplar:
+
+**I. Cultural and Preventive Measures (Most Critical)**
+
+*   **Resistant Varieties:** Plant disease-resistant Poplar clones suitable for Haryana's agro-climatic conditions. Consult HAU for recommended varieties.
+*   **Healthy Planting Material:** Use only disease-free cuttings or saplings from certified nurseries. Inspect material thoroughly before planting.
+*   **Site Selection and Soil Health:**
+    *   Ensure well-drained soil to prevent waterlogging, which stresses roots and favors pathogen development.
+    *   Maintain optimal soil pH (typically slightly acidic to neutral for Poplar).
+    *   Improve soil organic matter content through farmyard manure (FYM) or compost to enhance soil health and microbial activity.
+*   **Proper Spacing:** Maintain adequate spacing between trees to ensure good air circulation and reduce humidity, which can discourage disease spread.
+*   **Balanced Nutrition:** Provide balanced fertilization based on soil test reports. Avoid excessive nitrogen, which can promote lush, susceptible growth. Potassium and phosphorus are important for plant vigor and disease resistance.
+*   **Water Management:**
+    *   Provide adequate irrigation, especially during dry periods, to prevent drought stress.
+    *   Avoid over-irrigation or standing water around the base of trees.
+*   **Sanitation:**
+    *   Promptly remove and destroy (burn or deep bury) all infected plant parts (leaves, branches, entire trees) to reduce inoculum sources.
+    *   Disinfect pruning tools with a 10% bleach solution or alcohol after each tree to prevent pathogen spread.
+*   **Weed Control:** Keep the area around Poplar trees free of weeds, which can compete for nutrients and water, and sometimes act as alternative hosts for pathogens.
+*   **Avoid Injury:** Minimize mechanical injuries to roots and stems during cultivation, as wounds serve as entry points for pathogens.
+
+**II. Biological Control**
+
+*   **Soil Application:**
+    *   Apply bio-control agents like **Trichoderma viride** or **Trichoderma harzianum** at the time of planting or as a soil drench around existing trees. Mix 2.5-5 kg of the formulation with 100 kg of well-decomposed FYM and apply per acre, or drench with a solution of 5-10 g/L water.
+    *   Apply **Pseudomonas fluorescens** as a soil drench or mix with FYM at similar rates (2.5-5 kg/acre or 5-10 g/L). These beneficial microbes compete with and suppress soil-borne fungal pathogens.
+
+**III. Chemical Control (Use as a last resort or in conjunction with other methods)**
+
+Chemical control for established wilt in mature trees is often challenging. Focus on preventive treatments, especially in nurseries or for young plants.
+
+*   **For Fungal Wilts (e.g., Fusarium, Verticillium):**
+    *   **Cutting Treatment (Pre-planting):** Dip Poplar cuttings in a solution of **Carbendazim** (1-2 g/L water) for 15-30 minutes before planting.
+    *   **Soil Drench:** For young plants showing early symptoms, drench the soil around the base of the tree with a solution of **Carbendazim** (0.5-1 g/L water) or **Thiophanate-methyl** (0.5-1 g/L water). Apply 2-5 liters of solution per tree depending on its size. Repeat if necessary, following label instructions.
+
+*   **For Bacterial Wilts (if identified):**
+    *   **Soil Drench/Spray:** In cases of confirmed bacterial wilt, a combination of antibiotics like **Streptomycin sulphate** (90%) + **Tetracycline hydrochloride** (10%) can be used. Prepare a solution of 0.1-0.2 g/L (100-200 ppm) and drench the soil around the affected plants or spray foliage. Use with caution and only if bacterial wilt is confirmed, as overuse can lead to resistance.
+
+**Important Considerations:**
+
+*   **Early Detection:** Monitor Poplar trees regularly for symptoms like yellowing, wilting, stunted growth, or dieback. Early detection is key for effective management.
+*   **Diagnosis:** If possible, get a proper diagnosis of the causal agent (fungal or bacterial) from a plant pathology lab at HAU to tailor the control strategy.
+*   **Parawilt:** This term often refers to a complex syndrome where trees exhibit wilt-like symptoms without a clear primary pathogen, often linked to environmental stress (e.g., heat stress, water stress, nutrient imbalance) or secondary infections. Addressing underlying stress factors is crucial for managing Parawilt.

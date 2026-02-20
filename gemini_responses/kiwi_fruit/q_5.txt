@@ -1,0 +1,58 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Kiwi Fruit, adhering to CIBRC guidelines and metric units.
+
+---
+
+### 1. Scab (Caused by *Elsinoë actinidiae*)
+
+Scab is a known fungal disease affecting Kiwi Fruit, causing characteristic lesions on leaves, stems, and fruit.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Prune plants to improve air circulation within the canopy.
+    *   Remove and destroy infected plant debris to reduce inoculum sources.
+*   **Chemical Control:**
+    *   Apply protective fungicides during critical growth stages, such as bud break, flowering, and fruit set, especially during periods conducive to disease development (warm and wet conditions).
+    *   **Mancozeb** at 2.5 g/L of water.
+    *   **Copper Oxychloride** at 3 g/L of water.
+    *   **Captan** at 2 g/L of water.
+    *   Rotate fungicides with different modes of action to prevent the development of resistance.
+
+### 2. Canker (Bacterial Canker caused by *Pseudomonas syringae pv. actinidiae* (Psa) and various fungal cankers)
+
+Canker diseases, particularly bacterial canker (Psa), are significant threats to Kiwi Fruit, leading to dieback, wilting, and plant death. Fungal cankers can also occur.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Use disease-free planting material from certified nurseries.
+    *   Prune infected branches during dry periods to minimize pathogen spread.
+    *   Sterilize pruning tools with a disinfectant (e.g., 10% bleach solution) between cuts and between plants.
+    *   Avoid mechanical injuries to the plants, as wounds serve as entry points for pathogens.
+*   **Chemical Control:**
+    *   For bacterial canker, copper-based sprays are primarily used as a preventative measure to reduce bacterial inoculum, especially during dormancy, leaf fall, and after pruning.
+    *   **Copper Oxychloride** at 3 g/L of water.
+    *   For fungal cankers, broad-spectrum fungicides may be considered, but copper also offers some protection.
+
+### 3. Gummosis
+
+Gummosis in Kiwi Fruit is the exudation of gummy sap from the bark, often a symptom of underlying issues such as fungal infections (e.g., *Phytophthora* species), bacterial infections, or physiological stress (e.g., waterlogging, nutrient deficiencies, mechanical injury).
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Ensure proper soil drainage to prevent waterlogging, which can predispose plants to root and crown diseases.
+    *   Avoid mechanical injuries to the trunk and branches.
+    *   Maintain balanced nutrition and appropriate irrigation.
+    *   If gummosis is observed, carefully scrape away the affected bark and wood until healthy tissue is exposed, then disinfect the wound.
+*   **Chemical Control (if pathogen-induced):**
+    *   For fungal gummosis (e.g., *Phytophthora*):
+        *   **Fosetyl-aluminium** at 2.5 g/L of water (as a foliar spray or soil drench).
+        *   **Propamocarb hydrochloride** at 2 ml/L of water (as a soil drench).
+        *   **Metalaxyl** at 1 g/L of water (as a soil drench).
+    *   For bacterial gummosis or as a general protective measure on wounds:
+        *   **Copper Oxychloride** at 3 g/L of water (as a spray or painted onto affected areas after scraping).
+
+### 4. Lichen
+
+This is not known to affect Kiwi Fruit in a detrimental way. Lichens are symbiotic organisms (a fungus and an alga) that grow on the bark of trees and are generally harmless epiphytes. They do not parasitize the plant, extract nutrients, or cause disease. Their presence often indicates good air quality. Therefore, control measures are typically not required.

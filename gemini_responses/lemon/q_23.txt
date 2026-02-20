@@ -1,0 +1,41 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified seed and soil treatment processes for Lemon cultivation in Haryana:
+
+Lemon (Citrus limon) is primarily propagated vegetatively (budding or grafting) onto rootstocks. Therefore, "seed treatment" primarily refers to the treatment of rootstock seeds used for raising seedlings.
+
+### Seed Treatment for Lemon (Rootstock Seeds)
+
+Seed treatment for citrus rootstock seeds is crucial to protect against seed-borne pathogens and early seedling diseases like damping-off caused by fungi such as *Pythium*, *Phytophthora*, *Rhizoctonia*, and *Fusarium*.
+
+*   **Fungicidal Seed Treatment:**
+    *   Mix 2-3 g of **Thiram** per kg of rootstock seeds.
+    *   Alternatively, use 1-2 g of **Carbendazim** per kg of rootstock seeds.
+    *   For specific protection against Oomycetes (e.g., *Pythium*, *Phytophthora*), a combination product containing **Metalaxyl** can be used at 1-2 g/kg seed.
+    *   Ensure thorough coating of the seeds with the fungicide.
+*   **Bio-fungicidal Seed Treatment:**
+    *   After chemical treatment (or as a standalone treatment if chemicals are avoided), treat seeds with 5-10 g of *Trichoderma viride* or *Pseudomonas fluorescens* per kg of seeds. Mix the bio-agent with a small amount of water to form a slurry, coat the seeds, and allow them to dry in shade before sowing.
+
+### Soil Treatment for Lemon
+
+Soil treatment can be categorized into pre-planting preparation for new orchards/nurseries and management of soil-borne issues in established orchards.
+
+#### 1. Pre-Planting Soil Treatment (for new orchards/nurseries)
+
+This aims to prepare the soil for healthy establishment of lemon saplings by managing soil-borne pathogens and nematodes.
+
+*   **For Soil-borne Fungi (e.g., *Phytophthora*, *Fusarium*, *Rhizoctonia*):**
+    *   **Bio-control Agents:** Incorporate well-decomposed farmyard manure (FYM) or compost enriched with bio-control agents like *Trichoderma viride* (2.5 kg/acre mixed with 50 kg FYM) or *Pseudomonas fluorescens* (2.5 kg/acre mixed with 50 kg FYM) into the soil at least 2-3 weeks before planting.
+    *   **Fungicidal Drench (for nursery beds):** Before sowing or planting seedlings, drench the nursery soil with a solution of **Propamocarb** (2-3 ml/L water) or **Metalaxyl** (1-2 g/L water).
+*   **For Nematodes (if soil test indicates high population):**
+    *   **Chemical Nematicide:** Apply **Carbofuran** 3G granules at 10-15 kg/acre (active ingredient 0.3-0.45 kg/acre) by broadcasting and incorporating into the soil before planting.
+    *   **Bio-nematicide:** Alternatively, incorporate bio-nematicides like *Paecilomyces lilacinus* (2.5 kg/acre mixed with 50 kg FYM) into the soil.
+
+#### 2. Soil Treatment for Established Lemon Orchards
+
+This focuses on managing common soil-borne diseases and pests that affect established lemon trees.
+
+*   **For Phytophthora Root Rot and Gummosis:**
+    *   **Soil Drenching:** Drench the soil around the base of affected trees with a solution of **Metalaxyl** (2-3 g/L water) or **Fosetyl-aluminium** (2.5-5 g/L water). Apply 5-10 L of solution per tree depending on tree size and age. Repeat as necessary based on disease severity and product label recommendations.
+    *   **Trunk Paint/Paste (for Gummosis):** For gummosis lesions on the trunk, carefully scrape off the infected bark until healthy tissue is exposed. Then, apply a paste made from **Metalaxyl** (e.g., 20 g in 100 ml water) or **Fosetyl-aluminium** (e.g., 20 g in 100 ml water) mixed with a suitable sticker.
+*   **For Nematodes:**
+    *   **Chemical Nematicide:** Apply **Carbofuran** 3G granules at 30-40 g per young tree or 100-150 g per mature tree in the root zone. Lightly incorporate the granules into the soil and follow with irrigation.
+    *   **Bio-nematicide:** Apply *Paecilomyces lilacinus* (50-100 g/tree mixed with FYM) in the root zone around the tree.

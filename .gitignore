@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files (contain secrets)
+.env
+.env.*
+
+# Azure deployment YAML (contains secrets in plaintext)
+kissan-fast-api.yaml
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test / build artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Local data (runtime data from Azure File Share, not for repo)
+# Note: data/banned_pesticides.json IS tracked — it's the safety blocklist
+data/crops.json
+data/Varieties and Sowing Time.json
+data/sessions/
+data/indexing_progress.json
+
+# Local ChromaDB
+chroma_db/
+*.sqlite3
+
+# Generated images
+generated_images/
+
+# Node / frontend
+node_modules/
+
+# PDF source (extracted into JSON already)
+*.pdf
+
+# Old freeze file
+old_freeze.txt

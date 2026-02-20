@@ -1,0 +1,39 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Strawberry cultivation in Haryana. For optimal results, a soil test is highly recommended to determine the precise nutrient requirements of your specific field. In the absence of a soil test, these general recommendations for an acre of land can be followed:
+
+**I. Basal Application (at the time of bed preparation/planting):**
+These fertilizers should be thoroughly mixed into the soil before planting.
+
+*   **DAP (Di-ammonium Phosphate)**: 100-120 kg/acre
+    *   *Provides approximately 18-22 kg Nitrogen (N) and 46-55 kg Phosphorus (P2O5).*
+*   **Muriate of Potash (MOP)**: 140-160 kg/acre
+    *   *Provides approximately 84-96 kg Potassium (K2O).*
+*   **Sulphur (Bentonite 90%)**: 15-20 kg/acre
+    *   *Provides approximately 13.5-18 kg elemental Sulphur (S).*
+
+**II. Top Dressing / Fertigation (after establishment and during growth stages):**
+The remaining Nitrogen and any supplementary Potassium should be applied in split doses.
+
+*   **Urea**: 140-160 kg/acre
+    *   *To be applied in 3-4 split doses starting 30-40 days after planting, and subsequently at flowering and fruit development stages. Each split dose would be approximately 35-50 kg **Urea**.*
+*   **NPK (Complex Fertilizers)**:
+    *   For balanced nutrition through fertigation or foliar spray, water-soluble NPK formulations (e.g., 19:19:19, 20:20:20) can be used.
+    *   Dose: 2-3 kg/acre per application, 3-4 applications during vegetative and early flowering stages.
+    *   For specific P or K boost during flowering and fruiting, water-soluble NPK like **0:52:34 (Mono Potassium Phosphate)** or **13:0:45 (Potassium Nitrate)** can be used at 2-3 kg/acre per application.
+
+**III. Foliar Application:**
+These are supplementary applications to boost nutrient uptake and address immediate deficiencies.
+
+*   **Nano-Urea**:
+    *   Dose: 2-4 ml/L of water.
+    *   Application: 2-3 sprays during vegetative growth and fruit development stages. Typically, 1-2 L **Nano-Urea** per acre per spray (assuming 500 L water/acre).
+*   **Nano-DAP**:
+    *   Dose: 2-4 ml/L of water.
+    *   Application: 1-2 sprays during flowering and early fruit set stages. Typically, 1-2 L **Nano-DAP** per acre per spray (assuming 500 L water/acre).
+
+**IV. Specific Notes on Other Fertilizers:**
+
+*   **SSP (Single Super Phosphate)**:
+    *   **SSP** (16% P2O5, 11% S) can be used as an alternative to **DAP** for Phosphorus and Sulphur. If using **SSP** as the primary P source, apply 300-350 kg/acre basally. In this case, the basal **Urea** quantity would need to be increased to compensate for the N not provided by **DAP**.
+*   **Potash**:
+    *   This generally refers to **Muriate of Potash (MOP)** (60% K2O), which is recommended in the basal application.
+    *   Alternatively, **Sulphate of Potash (SOP)** (50% K2O, 17.5% S) can be used, especially if the soil is saline or chloride-sensitive crops are grown, or if additional Sulphur is required. If using **SOP**, adjust the quantity to achieve the target K2O (e.g., 180-200 kg **SOP** per acre for 90-100 kg K2O).

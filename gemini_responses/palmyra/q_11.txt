@@ -1,0 +1,55 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Beetles, Weevils, and Sawflies in Palmyra (Borassus flabellifer) in Haryana.
+
+First, let's address each pest category:
+
+*   **Sawflies:** This is not known to affect Palmyra. Sawflies are typically pests of broadleaf trees and conifers, and are not reported as significant pests of palms like Palmyra.
+
+*   **Beetles and Weevils:** These are significant pests of palms, with the Red Palm Weevil (*Rhynchophorus ferrugineus*) being the most destructive. Other beetle borers can also cause damage. The control measures below primarily target the Red Palm Weevil and other internal stem borers.
+
+---
+
+**Control Measures for Beetles and Weevils in Palmyra**
+
+The management of beetles and weevils, particularly the Red Palm Weevil, requires an integrated approach combining cultural, mechanical, chemical, and biological methods.
+
+**I. Cultural and Preventive Measures:**
+
+*   **Avoid Injuries:** Prevent any mechanical injuries to the palm trunk during inter-cultivation, harvesting, or other operations, as these wounds serve as entry points for the weevils.
+*   **Proper Pruning:** Prune only dry and senescent leaves. Avoid cutting green leaves. If green leaves must be removed, apply a wound dressing (e.g., Bordeaux paste or coal tar) immediately to the cut surface.
+*   **Sanitation:** Remove and destroy severely infested or dead palms by burning or burying them to eliminate breeding sites and reduce pest population.
+
+**II. Monitoring and Mechanical Control:**
+
+*   **Regular Inspection:** Periodically inspect palms for early signs of infestation such as oozing of reddish-brown liquid, chewed plant material (frass), holes in the trunk, or wilting of central fronds.
+*   **Pheromone Traps:**
+    *   Use *Rhynchophorus ferrugineus* aggregation pheromone traps (e.g., Ferrolure+).
+    *   Place 1-2 traps per acre, especially in areas with known infestations or adjacent to susceptible palms.
+    *   Replace the pheromone lure every 45-60 days.
+    *   Add bait material like fermented date fruit pieces, sugarcane pieces, or toddy to enhance attraction.
+    *   Check traps weekly and destroy trapped weevils.
+*   **Physical Removal:** If infestation is detected early and is localized (e.g., a single borehole), larvae and pupae can sometimes be physically removed using a hooked wire, followed by sealing the wound.
+
+**III. Chemical Control (CIBRC Approved Technical Chemicals):**
+
+Chemical control is crucial for managing internal borers like the Red Palm Weevil. Always follow label instructions and safety precautions.
+
+*   **For Early to Moderate Infestation (Trunk Injection/Crown Drenching):**
+    *   **Trunk Injection:** Drill holes (10-15 cm deep, 2-3 cm diameter) at an upward angle, 1-1.5 meters from the ground. Inject 10-15 ml of the insecticide solution per hole and seal the hole with cement or mud immediately. Repeat every 3-4 months if necessary.
+        *   **Chlorpyrifos** 20% EC: 10-20 ml per litre of water.
+        *   **Imidacloprid** 17.8% SL: 1-2 ml per litre of water.
+        *   **Thiamethoxam** 25% WG: 0.5 g per litre of water.
+    *   **Crown Drenching:** For young palms or accessible crowns, drench the crown with 5-10 litres of the insecticide solution.
+        *   **Chlorpyrifos** 20% EC: 10 ml per litre of water.
+        *   **Imidacloprid** 17.8% SL: 1 ml per litre of water.
+
+*   **For Prophylactic Treatment (Preventive):**
+    *   **Soil Drenching (around the base of the palm):** For high-risk areas, a systemic insecticide can be drenched around the base of the palm to be absorbed by the roots.
+        *   **Imidacloprid** 17.8% SL: 2-3 ml per litre of water, apply 5-10 litres of solution per palm depending on size.
+
+**IV. Biological Control:**
+
+*   **Entomopathogenic Nematodes (EPN):**
+    *   Nematodes like *Steinernema carpocapsae* or *Heterorhabditis indica* can be highly effective when applied directly into the boreholes or infested areas.
+    *   Concentration: 1-2 million nematodes per litre of water. Apply 100-200 ml of this suspension into each borehole and seal the hole.
+
+It is important to implement these measures consistently and monitor the palms regularly for the best results. For specific recommendations tailored to your farm, please consult with the local agricultural extension officer or HAU experts.

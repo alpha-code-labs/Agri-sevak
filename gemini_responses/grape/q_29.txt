@@ -1,0 +1,47 @@
+The term 'Tinda/Boll dropping' is not applicable to Grape cultivation. Tinda is a cucurbit vegetable, and 'boll' refers to the fruit of cotton. This advice will focus on flower and fruit drop in Grapes.
+
+Flower and fruit drop in grapes is a complex physiological phenomenon, often influenced by a combination of environmental, nutritional, and cultural factors rather than a single disease or pest. It is a common concern that can significantly reduce yield. Effective management requires an integrated approach.
+
+### Key Management Strategies for Flower and Fruit Drop in Grapes:
+
+**A. Cultural Practices:**
+These practices aim to reduce vine stress and promote optimal conditions for fruit set and development.
+
+*   **Water Management:** Ensure consistent and adequate soil moisture, especially during flowering and fruit set. Both water stress (drought) and waterlogging can lead to drop. Implement efficient irrigation systems.
+*   **Nutrient Management:** Conduct regular soil and leaf analysis to identify any nutrient deficiencies or imbalances. A balanced nutrient supply is crucial for healthy vine growth and fruit development.
+*   **Pruning and Training:** Proper pruning (cane or spur) and training systems (e.g., Bower, Y-trellis) help manage vine vigour, ensure good light penetration, and air circulation, reducing competition for resources.
+*   **Canopy Management:** Timely shoot thinning, leaf removal, and topping can improve light penetration and air circulation within the canopy, reducing competition among vegetative and reproductive parts, and promoting better fruit set.
+*   **Pollination:** While grapes are largely self-pollinating, extreme temperatures or humidity during flowering can affect pollen viability and receptivity, leading to poor fruit set.
+*   **Temperature Management:** Protect vines from extreme temperatures during critical stages if possible. High temperatures during flowering can cause significant drop.
+
+**B. Nutritional Management (Micronutrients):**
+Deficiencies of certain micronutrients are strongly linked to poor fruit set and subsequent drop.
+
+*   **Boron:** Essential for pollen germination and pollen tube growth.
+    *   Apply foliar spray of **Disodium octaborate tetrahydrate** (e.g., Borax) at 1.5-2.0 g/L water before flowering and again at fruit set.
+*   **Zinc:** Important for auxin synthesis and overall plant growth, which influences fruit set.
+    *   Apply foliar spray of **Zinc sulphate** at 2.5-5.0 g/L water before flowering and again at fruit set.
+*   **Molybdenum:** Involved in nitrogen metabolism and can indirectly affect fruit set.
+    *   If deficiency is suspected, apply **Sodium molybdate** at 0.5 g/L water as a foliar spray.
+
+**C. Plant Growth Regulators (PGRs):**
+PGRs can be used judiciously to improve fruit set and retention, but timing and concentration are critical. Incorrect application can lead to adverse effects.
+
+*   **Naphthalene Acetic Acid (NAA):** At very low concentrations (e.g., 5-10 mg/L or ppm), NAA can help reduce flower and fruit drop.
+    *   Apply as a foliar spray at full bloom or immediately after fruit set.
+    *   **Caution:** *Consult with a local expert from HAU for precise timing and concentration based on grape variety and local conditions, as higher concentrations can cause fruit thinning.*
+
+**D. Pest and Disease Management:**
+While not the primary cause of "dropping" as a general term, severe infestations of certain pests or diseases can indirectly lead to flower and fruit drop by damaging reproductive structures or stressing the vine.
+
+*   **Pests:** Thrips, mites, and mealybugs can damage flowers and young berries, leading to their abscission.
+    *   For Thrips: Spray **Imidacloprid** 17.8% SL at 0.3-0.5 ml/L or **Thiamethoxam** 25% WG at 0.2 g/L.
+    *   For Mites: Spray **Spiromesifen** 22.9% SC at 0.5 ml/L or **Fenpyroximate** 5% SC at 1.0 ml/L.
+*   **Diseases:** Powdery mildew, downy mildew, and anthracnose can affect flowers and young fruits, causing them to drop.
+    *   For Powdery Mildew: Spray **Sulphur** 80% WP at 2.0-3.0 g/L or **Myclobutanil** 10% WP at 0.4 g/L.
+    *   For Downy Mildew: Spray **Mancozeb** 75% WP at 2.0 g/L or **Propineb** 70% WP at 2.0 g/L.
+
+**Important Considerations:**
+*   Always read and strictly follow the label instructions for all chemical products regarding dosage, timing, and safety precautions.
+*   The specific timing and dosage of PGRs and micronutrients can vary significantly with grape variety, vine age, and local environmental conditions. It is highly recommended to consult with HAU experts or local agricultural extension officers for tailored advice.
+*   An integrated approach combining good cultural practices, balanced nutrition, and timely pest/disease management is key to minimizing flower and fruit drop in grapes and achieving optimal yields.

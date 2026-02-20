@@ -1,0 +1,96 @@
+Namaste, Kisan bhaiyon! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I am here to provide you with scientifically verified advice for managing fungal diseases in Rocket salad (Arugula) in Haryana.
+
+Effective management of fungal diseases requires an integrated approach combining cultural practices and judicious use of CIBRC-approved fungicides.
+
+### General Cultural Practices for Fungal Disease Prevention:
+
+1.  **Crop Rotation:** Practice a minimum 2-3 year rotation, avoiding planting Rocket salad or other brassica crops (cabbage, cauliflower, mustard, radish) in the same field consecutively.
+2.  **Sanitation:** Remove and destroy infected plant debris immediately after harvest to reduce inoculum for the next crop.
+3.  **Seed Selection:** Use certified, disease-free seeds. Seed treatment can also be beneficial.
+4.  **Proper Spacing:** Ensure adequate plant spacing to improve air circulation within the canopy, which helps reduce humidity and fungal growth.
+5.  **Irrigation Management:** Avoid overhead irrigation, especially late in the day. If overhead irrigation is necessary, do it in the morning to allow foliage to dry quickly. Drip irrigation is preferred.
+6.  **Balanced Nutrition:** Provide balanced fertilization. Avoid excessive nitrogen, which can lead to lush, susceptible growth.
+
+### Specific Fungal Diseases and Their Control:
+
+Here's how to control the mentioned fungal diseases in Rocket salad:
+
+#### 1. Alternaria (Alternaria Leaf Spot)
+
+This disease, caused by *Alternaria brassicicola* and *A. raphani*, is a common problem in Rocket salad, causing dark, concentric spots on leaves.
+
+**Chemical Control:**
+Apply foliar sprays at the first sign of symptoms and repeat every 10-14 days, alternating fungicides to prevent resistance.
+
+*   **Mancozeb 75% WP:** 2.5 g/L of water (or 2.5 kg/acre)
+*   **Chlorothalonil 75% WP:** 2.0 g/L of water (or 2.0 kg/acre)
+*   **Azoxystrobin 23% SC:** 0.5-1.0 ml/L of water (or 200 ml/acre)
+*   **Tebuconazole 25.9% EC:** 0.5-1.0 ml/L of water (or 250-300 ml/acre)
+
+#### 2. Anthracnose
+
+Caused by *Colletotrichum* species, Anthracnose can lead to sunken lesions on leaves and stems, often with pinkish spore masses under humid conditions.
+
+**Chemical Control:**
+The fungicides recommended for Alternaria are also effective against Anthracnose. Apply at the first sign of symptoms.
+
+*   **Mancozeb 75% WP:** 2.5 g/L of water (or 2.5 kg/acre)
+*   **Chlorothalonil 75% WP:** 2.0 g/L of water (or 2.0 kg/acre)
+*   **Azoxystrobin 23% SC:** 0.5-1.0 ml/L of water (or 200 ml/acre)
+*   **Difenoconazole 25% EC:** 0.5 ml/L of water (or 100-150 ml/acre)
+
+#### 3. Blast
+
+This is not known to affect Rocket salad. Blast disease is primarily associated with cereal crops like rice.
+
+#### 4. Blight
+
+This is not known to affect Rocket salad. Specifically, Early Blight (*Alternaria solani*) and Late Blight (*Phytophthora infestans*) are diseases of solanaceous crops (e.g., potato, tomato) and do not affect Rocket salad.
+
+#### 5. Brown Spot
+
+"Brown spot" is a general symptom, often caused by fungi like *Alternaria* or *Cercospora*. In Rocket salad, *Alternaria* is a common cause of brown spots.
+
+**Chemical Control:**
+The fungicides recommended for Alternaria and Anthracnose will also manage general brown spot symptoms.
+
+*   **Mancozeb 75% WP:** 2.5 g/L of water (or 2.5 kg/acre)
+*   **Chlorothalonil 75% WP:** 2.0 g/L of water (or 2.0 kg/acre)
+*   **Tebuconazole 25.9% EC:** 0.5-1.0 ml/L of water (or 250-300 ml/acre)
+
+#### 6. Downy Mildew
+
+Caused by *Hyaloperonospora parasitica*, Downy Mildew is a significant disease in Rocket salad, appearing as yellowish spots on the upper leaf surface with a characteristic greyish-white fuzzy growth on the underside.
+
+**Chemical Control:**
+Apply fungicides preventively or at the very early stages of the disease.
+
+*   **Metalaxyl-M 4% + Mancozeb 64% WP:** 2.0 g/L of water (or 500 g/acre)
+*   **Cymoxanil 8% + Mancozeb 64% WP:** 2.0 g/L of water (or 600 g/acre)
+*   **Propineb 70% WP:** 2.5 g/L of water (or 2.5 kg/acre)
+*   **Azoxystrobin 23% SC:** 0.5-1.0 ml/L of water (or 200 ml/acre)
+
+#### 7. Powdery Mildew
+
+Caused by *Erysiphe cruciferarum*, Powdery Mildew appears as white, powdery patches on the upper and lower surfaces of leaves and stems.
+
+**Chemical Control:**
+Apply fungicides at the first sign of the disease.
+
+*   **Wettable Sulphur 80% WP:** 2.5-3.0 g/L of water (or 2.5 kg/acre)
+*   **Azoxystrobin 23% SC:** 0.5-1.0 ml/L of water (or 200 ml/acre)
+*   **Tebuconazole 25.9% EC:** 0.5-1.0 ml/L of water (or 250-300 ml/acre)
+*   **Difenoconazole 25% EC:** 0.5 ml/L of water (or 100-150 ml/acre)
+
+#### 8. Grey Mildew
+
+This is not known to affect Rocket salad. "Grey mildew" is not a recognized disease name for brassica crops.
+
+### Important Considerations:
+
+*   **Resistance Management:** Always alternate fungicides with different modes of action to prevent the development of fungicide resistance.
+*   **Pre-Harvest Interval (PHI):** Strictly observe the Pre-Harvest Interval (PHI) for each fungicide to ensure the produce is safe for consumption. This information is usually provided on the product label.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) while handling and spraying chemicals. Follow all instructions on the product label carefully.
+*   **Local Advice:** For specific recommendations tailored to your farm's conditions, it is always advisable to consult with your local agricultural extension officer or HAU experts.
+
+By following these guidelines, you can effectively manage fungal diseases and ensure a healthy Rocket salad crop.

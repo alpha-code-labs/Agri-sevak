@@ -1,0 +1,29 @@
+Dropping of flowers and pods (often referred to as fruit or boll dropping in a general sense, but in Toria, these are pods or siliquae) is a common physiological issue in Toria (mustard/rapeseed) that can significantly reduce yield. It is primarily a response to various stresses rather than a single disease or pest.
+
+Here's how to control dropping in Toria:
+
+**1. Address Abiotic Stresses (Primary Causes):**
+
+*   **Water Management:**
+    *   **Timely Irrigation:** Ensure adequate moisture, especially during critical stages like flowering and pod development. Water stress (both deficit and excess) can lead to flower and pod abortion.
+    *   Avoid waterlogging, which can also stress the plants and lead to dropping.
+*   **Temperature Management:**
+    *   **Optimal Sowing Time:** Adhere to recommended sowing dates for Haryana to ensure the crop avoids extreme temperatures (very high or very low) during sensitive reproductive stages. High temperatures during flowering can cause pollen sterility and flower drop.
+*   **Nutrient Management:**
+    *   **Boron Deficiency:** Toria is highly susceptible to Boron deficiency, which can cause poor pollen viability, flower abortion, and improper pod development.
+        *   Apply **Borax** (Sodium tetraborate decahydrate) as a foliar spray at 1-2 g/L of water at the pre-flowering stage and again at the pod initiation stage if deficiency symptoms persist or are anticipated.
+    *   **Balanced Nutrition:** Ensure balanced application of other essential nutrients (Nitrogen, Phosphorus, Potassium, Zinc) as per soil test recommendations. Overall plant health contributes to better stress tolerance.
+
+**2. Use of Plant Growth Regulators:**
+
+*   **Naphthalene Acetic Acid (NAA):** This plant growth regulator can help in reducing flower and pod drop by improving hormonal balance within the plant, especially under mild stress conditions.
+    *   Spray **Naphthalene Acetic Acid** (4.5% SL formulation) at a concentration of 0.2-0.4 ml/L of water (equivalent to 20-40 ml per 100 litres of water) at the peak flowering stage. A second spray can be given 10-15 days later if needed.
+
+**3. Pest and Disease Management (Secondary Causes):**
+
+*   **Pest Infestation:** Severe infestation by sap-sucking pests like aphids can weaken the plant, leading to stress and subsequent flower/pod drop. Pod borers can also directly damage developing pods.
+    *   Monitor for pests regularly. If pest populations are high and contributing to plant stress, apply appropriate CIBRC-approved insecticides. For example, for aphids, **Imidacloprid** or **Thiamethoxam** can be used as per recommended dosages.
+*   **Disease Management:** While diseases are less direct causes of dropping, severe infections can weaken the plant, making it more susceptible to stress-induced dropping.
+    *   Manage diseases like Alternaria blight or white rust through recommended fungicides and cultural practices to maintain overall plant vigour.
+
+By adopting these integrated management practices, you can significantly reduce flower and pod dropping in Toria and ensure better yield realization.

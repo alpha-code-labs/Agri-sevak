@@ -1,0 +1,64 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I advise on the control of various rot types in Chrysanthemum, based on scientifically verified practices suitable for Haryana's conditions.
+
+It is crucial to understand that many "rot" types are symptoms caused by a range of fungal or oomycete pathogens, often exacerbated by environmental factors. An Integrated Pest Management (IPM) approach, combining cultural practices with judicious chemical application, is most effective.
+
+---
+
+### Rots Affecting Chrysanthemum (Root, Stem, Foot, Collar, Crown, Neck, and Seedling Rot)
+
+These rot types are often caused by a complex of soil-borne pathogens, primarily *Pythium* spp., *Phytophthora* spp., *Rhizoctonia solani*, and *Fusarium* spp. They manifest as wilting, yellowing, stunted growth, and eventual collapse of the plant, with characteristic discoloration and softening of tissues at the affected parts. Seedling rot (damping-off) affects young plants before or after emergence.
+
+**A. Cultural and Preventive Measures (Foundation of Control):**
+
+1.  **Sanitation:**
+    *   Use sterilized growing media (soil, coco-peat, etc.) for propagation and potting.
+    *   Clean and disinfect all tools, pots, trays, and benches before use.
+    *   Remove and destroy infected plant material promptly to prevent pathogen spread.
+2.  **Water Management:**
+    *   Avoid overwatering, especially in heavy soils or during cool, cloudy weather.
+    *   Ensure excellent drainage in pots and beds to prevent waterlogging, which favors rot pathogens.
+    *   Water early in the day to allow foliage to dry before nightfall.
+3.  **Planting Material:**
+    *   Always use healthy, disease-free cuttings or seedlings from reputable sources.
+    *   Avoid planting too deep, as this can encourage stem/collar rot.
+4.  **Environmental Control:**
+    *   Ensure adequate air circulation around plants by proper spacing to reduce humidity.
+    *   Maintain optimal soil pH (typically 6.0-7.0) and balanced nutrition to promote plant vigor.
+5.  **Crop Rotation:**
+    *   If growing in beds, practice crop rotation with non-host plants to reduce pathogen build-up in the soil.
+
+**B. Chemical Control (CIBRC Approved Technical Chemicals):**
+
+Chemical control should be used as a supplement to good cultural practices, especially when disease pressure is high or for preventive treatment of susceptible stages (e.g., seedlings, cuttings). Always follow label instructions for dosage and safety.
+
+**For Root, Stem, Foot, Collar, Crown, Neck, and Seedling Rots (Damping-off):**
+
+*   **For Oomycete Pathogens (*Pythium*, *Phytophthora*):**
+    *   **Propamocarb hydrochloride** (e.g., 2-3 ml/L water as a drench at planting or as a curative treatment).
+    *   **Fosetyl-aluminium** (e.g., 2-3 g/L water as a foliar spray or drench).
+    *   **Metalaxyl-M** (e.g., 0.5-1 g/L water as a drench, often combined with a contact fungicide).
+
+*   **For Fungal Pathogens (*Rhizoctonia*, *Fusarium*):**
+    *   **Carbendazim** (e.g., 1-2 g/L water as a drench or for dipping cuttings).
+    *   **Thiophanate methyl** (e.g., 1-1.5 g/L water as a drench or for dipping cuttings).
+    *   **Azoxystrobin** (e.g., 0.5-1 ml/L water as a drench or foliar spray, broad-spectrum).
+
+*   **Broad-Spectrum/Combination Approaches:**
+    *   A combination of fungicides targeting different pathogen groups can be effective, e.g., **Metalaxyl-M** + **Mancozeb** (e.g., 0.5 g/L **Metalaxyl-M** + 2 g/L **Mancozeb** as a drench).
+    *   For cutting dips or seedling drench, a mixture of **Carbendazim** and **Mancozeb** (e.g., 1 g/L each) can provide broad-spectrum protection.
+
+---
+
+### Specific Rot Types Not Known to Affect Chrysanthemum:
+
+*   **Black Rot:** This is not known to affect Chrysanthemum as a specific disease entity. While various rots can cause blackening of tissues, "Black Rot" as a distinct disease (e.g., *Xanthomonas* in crucifers) does not occur in Chrysanthemum.
+*   **Fruit Rot:** This is not known to affect Chrysanthemum, as it is an ornamental plant not grown for its fruit.
+*   **Seed Rot:** This is not a primary concern for Chrysanthemum as it is predominantly propagated by cuttings. For seed-propagated plants, it is addressed under seedling rot/damping-off, where the same pathogens and control measures apply.
+
+---
+
+**Important Considerations:**
+
+*   Always rotate fungicides with different modes of action to prevent the development of resistance.
+*   Read and strictly follow the instructions on the fungicide label regarding dosage, application method, safety precautions, and pre-harvest intervals (though less critical for ornamentals, good practice).
+*   For severe or persistent problems, consider sending a sample to a plant diagnostic lab (like HAU's Plant Pathology Department) for accurate pathogen identification, which can guide more targeted control.

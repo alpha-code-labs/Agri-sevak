@@ -1,0 +1,81 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling various rot types in FingerMillet (Ragi) in Haryana.
+
+It is important to note that many rot types affecting the root and stem base share common pathogens and management strategies.
+
+### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, and Crown Rot
+
+These terms often describe similar disease manifestations at the base of the plant, affecting roots, the stem base, or the crown region. They are typically caused by soil-borne fungi such as *Macrophomina phaseolina*, *Rhizoctonia solani*, *Sclerotium rolfsii*, and *Fusarium* spp.
+
+**Symptoms:** Wilting, yellowing of leaves, stunted growth, rotting and discoloration of roots and stem base, shredding of root tissues, and eventual plant collapse.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Practice crop rotation with non-host crops to reduce pathogen inoculum in the soil.
+    *   Ensure good field sanitation by removing and destroying infected plant debris.
+    *   Improve soil drainage to prevent waterlogging, which favors fungal growth.
+    *   Maintain balanced fertilization; avoid excessive nitrogen application.
+    *   Use resistant or tolerant FingerMillet varieties if available for your region.
+    *   Timely sowing and optimum plant spacing can reduce stress and disease incidence.
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with *Trichoderma viride* or *Trichoderma harzianum* @ 4 g/kg seed.
+    *   **Soil Application:** Apply *Trichoderma viride* or *Trichoderma harzianum* @ 2.5 kg/acre mixed with 50 kg of Farm Yard Manure (FYM) or compost before sowing.
+*   **Chemical Control:**
+    *   **Seed Treatment (most effective for prevention):**
+        *   **Carbendazim** 50% WP @ 2 g/kg seed
+        *   **Thiram** 75% WS @ 2.5 g/kg seed
+        *   **Tebuconazole** 2% DS @ 2.5 g/kg seed
+    *   **Soil Drench (for existing infections, if severe):**
+        *   Drench the soil around the base of affected plants with a solution of **Carbendazim** 50% WP @ 0.5 g/L water.
+
+### 2. Neck Rot (in the context of FingerMillet Blast)
+
+While "Neck Rot" is not a primary disease name for FingerMillet, the Blast disease (*Magnaporthe oryzae* pv. *eleusinis*) can severely affect the neck of the panicle, leading to its breakage and significant yield loss.
+
+**Symptoms:** Dark lesions on the panicle neck, causing it to shrivel, break, and prevent grain filling.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Cultivate resistant or moderately resistant FingerMillet varieties.
+    *   Remove and destroy infected crop residues after harvest.
+    *   Avoid excessive nitrogen fertilization, which can make plants more susceptible.
+*   **Chemical Control (Foliar Spray):**
+    *   Apply fungicides at panicle emergence and repeat if disease pressure is high.
+        *   **Tricyclazole** 75% WP @ 0.6 g/L water
+        *   **Carbendazim** 50% WP @ 1 g/L water
+        *   **Azoxystrobin** 23% SC @ 0.5 ml/L water
+        *   **Propiconazole** 25% EC @ 1 ml/L water
+
+### 3. Black Rot
+
+This is not known to affect FingerMillet (Ragi).
+
+### 4. Fruit Rot
+
+This is not known to affect FingerMillet (Ragi), as FingerMillet produces grains, not fleshy fruits.
+
+### 5. Seed Rot and Seedling Rot (Damping-off)
+
+These are common issues affecting seed germination and the survival of young seedlings, often caused by soil-borne fungi like *Pythium* spp., *Rhizoctonia solani*, *Fusarium* spp., and *Aspergillus* spp.
+
+**Symptoms:** Poor seed germination, rotting of seeds before emergence, and collapse of young seedlings at the soil line (damping-off).
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Use healthy, certified seeds from reputable sources.
+    *   Prepare a well-drained seedbed to prevent waterlogging.
+    *   Avoid over-watering, especially during the early seedling stage.
+    *   Ensure proper seed depth and spacing.
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with *Trichoderma viride* @ 4 g/kg seed or *Pseudomonas fluorescens* @ 10 g/kg seed.
+*   **Chemical Control (Seed Treatment - highly recommended):**
+    *   **Carbendazim** 50% WP @ 2 g/kg seed
+    *   **Thiram** 75% WS @ 2.5 g/kg seed
+    *   **Captan** 50% WP @ 2.5 g/kg seed
+    *   **Metalaxyl-M** 35% WS @ 1 g/kg seed (especially effective against *Pythium*)
+    *   **Tebuconazole** 2% DS @ 2.5 g/kg seed
+    *   **Pyraclostrobin 2.5% + Fluxapyroxad 2.5% FS** @ 2 ml/kg seed (a combination product)
+
+Always follow the manufacturer's instructions for chemical application rates and safety precautions. For specific recommendations tailored to your local conditions, it is advisable to consult with agricultural extension specialists from HAU or the Department of Agriculture, Haryana.

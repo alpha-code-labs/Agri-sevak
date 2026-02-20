@@ -1,0 +1,40 @@
+Wilt and Parawilt are significant challenges in tobacco cultivation in Haryana. Effective management requires an integrated approach combining cultural practices, resistant varieties, and judicious use of chemicals where appropriate.
+
+**I. Management of Pathogen-Induced Wilts (e.g., Bacterial Wilt, Fusarium Wilt):**
+
+These wilts are caused by specific pathogens (bacteria or fungi) in the soil.
+
+*   **Cultural Practices:**
+    *   **Crop Rotation:** Practice long-term crop rotation (3-4 years) with non-solanaceous crops like cereals (wheat, maize), pulses (chickpea), or oilseeds (mustard) to reduce pathogen inoculum in the soil.
+    *   **Resistant Varieties:** Plant disease-resistant or tolerant tobacco varieties suitable for Haryana conditions. Consult HAU recommendations for specific varieties.
+    *   **Sanitation:** Remove and destroy infected plant debris and severely wilted plants immediately to prevent further spread.
+    *   **Soil Solarization:** During summer, cover the prepared field with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and reduce pathogen load.
+    *   **Healthy Seedlings:** Use only healthy, disease-free seedlings from a reputable source or raised in sterilized nursery beds.
+    *   **Avoid Root Injury:** Minimize root damage during transplanting and intercultural operations (weeding, earthing up) as wounds provide entry points for pathogens.
+    *   **Balanced Nutrition:** Apply balanced fertilizers. Avoid excessive nitrogen, which can make plants more susceptible.
+    *   **Field Hygiene:** Clean farm equipment thoroughly after working in infected fields.
+
+*   **Biological Control:**
+    *   **Soil Application:** Apply bio-control agents like **Trichoderma viride** or **Trichoderma harzianum** @ 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) at the time of field preparation or transplanting.
+    *   **Seedling Dip:** Dip seedling roots in a suspension of **Trichoderma viride** or **Trichoderma harzianum** (10 g/L water) for 30 minutes before transplanting.
+
+*   **Chemical Control:**
+    *   **For Fungal Wilts (e.g., Fusarium Wilt):**
+        *   **Seedling Dip/Drench:** Dip seedling roots in a solution of **Carbendazim** 50% WP @ 1 g/L water or **Thiophanate-methyl** 70% WP @ 1 g/L water for 30 minutes before transplanting. Alternatively, drench the soil around the base of affected plants with the same solution.
+    *   **For Bacterial Wilts (e.g., *Ralstonia solanacearum*):**
+        *   Chemical control is generally less effective against established bacterial wilt in the field. However, as a prophylactic measure or for early stages, a drench with a combination product of **Streptomycin sulphate** 9% + **Tetracycline hydrochloride** 1% SP @ 0.6 g/L water can be considered around the root zone. This is more effective in nursery stages.
+
+**II. Management of Parawilt (Physiological Wilt):**
+
+Parawilt is a physiological disorder, not caused by a pathogen, often triggered by sudden changes in environmental conditions, particularly soil moisture.
+
+*   **Cultural Practices:**
+    *   **Consistent Moisture:** Maintain consistent soil moisture levels. Avoid extremes of drought followed by sudden heavy irrigation, which can shock the plant.
+    *   **Timely Irrigation:** Provide timely and adequate irrigation, especially during hot periods and critical growth stages, to prevent water stress.
+    *   **Mulching:** Apply organic mulch (e.g., straw, dry leaves) around the base of plants to conserve soil moisture, regulate soil temperature, and reduce evaporation.
+    *   **Hardening of Seedlings:** Properly harden seedlings in the nursery before transplanting to improve their resilience to field conditions.
+    *   **Avoid Root Damage:** Be extremely careful during intercultural operations to prevent root injury, as damaged roots are more susceptible to parawilt.
+    *   **Shade (if feasible):** In small plots or for high-value crops, providing temporary shade during peak afternoon heat immediately after transplanting can help reduce transplant shock and parawilt.
+
+*   **Chemical Control:**
+    *   There is no specific chemical control for parawilt as it is a physiological disorder. Management focuses entirely on cultural practices to manage soil moisture and reduce plant stress.

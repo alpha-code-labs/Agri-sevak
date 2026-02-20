@@ -1,0 +1,54 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Mustard (Raya/Sarson) in Haryana. These recommendations are general and assume medium fertility soils; however, a soil test is always the most accurate way to determine specific nutrient requirements for your field.
+
+**Recommended Nutrient Doses for Mustard (Raya/Sarson) per acre:**
+
+*   **Nitrogen (N):** 60-80 kg
+*   **Phosphorus (P2O5):** 20-30 kg
+*   **Potassium (K2O):** 15-20 kg (Apply based on soil test; if not available, a minimum dose is recommended)
+*   **Sulphur (S):** 20 kg (Crucial for oilseed crops)
+
+**Fertilizer Application Schedule and Doses:**
+
+**1. Basal Application (at the time of sowing):**
+Apply the full dose of Phosphorus, Potassium, and Sulphur, along with half the recommended dose of Nitrogen.
+
+*   **Option A (Using DAP for Phosphorus):**
+    *   **DAP**: 43-65 kg per acre (Provides 20-30 kg P2O5 and 7.7-11.7 kg N)
+    *   **Muriate of Potash (MOP)**: 25-33 kg per acre (Provides 15-20 kg K2O)
+    *   **Urea**: 60-70 kg per acre (To provide approximately half of the remaining N after accounting for N from DAP)
+    *   **Bentonite Sulphur (90% S)** or **Elemental Sulphur (90% S)**: 22 kg per acre (If not using SSP, or if soil test indicates high S deficiency)
+    *   *Alternatively, for Sulphur:* **Gypsum**: 110-150 kg per acre (depending on its S content, typically 13-18% S)
+
+*   **Option B (Using SSP for Phosphorus and Sulphur):**
+    *   **SSP**: 125-188 kg per acre (Provides 20-30 kg P2O5 and 13.7-20.6 kg S)
+    *   **Muriate of Potash (MOP)**: 25-33 kg per acre (Provides 15-20 kg K2O)
+    *   **Urea**: 100-120 kg per acre (To provide half of the total N, as SSP contains no N)
+    *   *Note: If using SSP, the Sulphur requirement is largely met. Check if additional Sulphur is needed based on soil test.*
+
+**2. Top Dressing (at first irrigation, approximately 30-40 days after sowing):**
+Apply the remaining half dose of Nitrogen.
+
+*   **Urea**: 60-70 kg per acre (If DAP was used basally)
+*   **Urea**: 100-120 kg per acre (If SSP was used basally)
+
+**3. Nano Fertilizers (Foliar Application):**
+These are supplementary and should not replace the full basal application of conventional fertilizers.
+
+*   **Nano-Urea (4% N)**:
+    *   First spray: 500 ml per acre, mixed with 150-200 litres of water, at the vegetative stage (around 40-50 DAS).
+    *   Second spray: 500 ml per acre, mixed with 150-200 litres of water, at the pre-flowering stage (around 60-70 DAS), if needed.
+
+*   **Nano-DAP (8% N, 16% P2O5)**:
+    *   First spray: 500 ml per acre, mixed with 150-200 litres of water, at the pre-flowering/flowering stage (around 60-70 DAS), especially if phosphorus deficiency is observed or to boost flowering/pod formation.
+    *   *Note: Nano-DAP can also be used for seed treatment at 5 ml per kg seed before sowing.*
+
+**4. NPK Complex Fertilizers:**
+If using **NPK** complex fertilizers (e.g., 12:32:16, 10:26:26, 19:19:19), the dose will depend on the specific grade to meet the N, P, K requirements. For example, to provide 20 kg P2O5 using **NPK (12:32:16)**:
+*   **NPK (12:32:16)**: Approximately 60-65 kg per acre at sowing.
+This will provide some N and K, which then needs to be balanced with additional **Urea** and **Muriate of Potash (MOP)** to meet the full recommended doses. It is generally recommended to use straight fertilizers for precise nutrient management in Mustard, especially for Sulphur.
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always prioritize soil testing to determine the exact nutrient status of your field and tailor fertilizer recommendations accordingly. This helps optimize fertilizer use and prevent nutrient imbalances.
+*   **Organic Manures:** Supplementing chemical fertilizers with well-decomposed Farm Yard Manure (FYM) or compost (5-10 tonnes per acre) can significantly improve soil health and nutrient availability.
+*   **Micronutrients:** In some areas, deficiencies of Boron and Zinc can affect Mustard yield and oil content. Consider a foliar spray of Boron (0.2% Borax solution) at flowering and Zinc Sulphate (0.5% solution) if deficiencies are known or suspected.

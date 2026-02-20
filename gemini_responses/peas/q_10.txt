@@ -1,0 +1,58 @@
+Namaste Kisan bhaiyon,
+
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I am providing you with scientifically verified advice for managing pests in your pea crop. An Integrated Pest Management (IPM) approach is always recommended, combining cultural, biological, and chemical methods for sustainable control.
+
+Here's how to control the mentioned pests in peas:
+
+### General Integrated Pest Management (IPM) Principles for Peas:
+
+1.  **Field Sanitation:** Remove crop residues and weeds that can harbor pests.
+2.  **Timely Sowing:** Sow peas at the recommended time to avoid peak pest incidence.
+3.  **Crop Rotation:** Rotate peas with non-leguminous crops to break pest cycles.
+4.  **Regular Monitoring:** Regularly scout your fields to detect pest infestations early.
+5.  **Conservation of Natural Enemies:** Protect beneficial insects like parasitoids and predators that naturally control pests.
+
+### Specific Pest Control Measures:
+
+#### 1. Borers and Caterpillars (Primarily Pod Borers and Defoliating Caterpillars)
+
+Pod borers, such as the gram pod borer (*Helicoverpa armigera*), are major pests of peas, causing significant damage to pods and seeds. Other caterpillars may cause defoliation.
+
+*   **Cultural Control:**
+    *   Deep ploughing after harvest to expose pupae.
+    *   Installation of pheromone traps (4-5 traps per acre) to monitor adult moth activity and for mass trapping.
+    *   Collection and destruction of larvae by hand-picking in small areas.
+*   **Biological Control:**
+    *   Application of HaNPV (Helicoverpa armigera Nuclear Polyhedrosis Virus) at 250-500 LE (Larval Equivalent) per acre, especially during early larval stages.
+    *   Use of bio-pesticides like *Bacillus thuringiensis* (Bt) formulations (e.g., Bt var. kurstaki) at 1 kg/acre, particularly effective against young larvae.
+*   **Chemical Control (if infestation crosses Economic Threshold Level - ETL):**
+    *   **Chlorantraniliprole** 18.5% SC: 60 ml/acre
+    *   **Emamectin benzoate** 5% SG: 80-100 g/acre
+    *   **Indoxacarb** 14.5% SC: 200 ml/acre
+    *   **Flubendiamide** 20% WG: 50 g/acre
+    *   **Spinosad** 45% SC: 60-75 ml/acre
+
+#### 2. Diamondback Moth (*Plutella xylostella*)
+
+This is not known to affect Peas. Diamondback moth is primarily a pest of cruciferous crops like cabbage, cauliflower, and mustard.
+
+#### 3. Leaf Folder
+
+While not a primary pest, some generalist leaf folders or early instars of pod borers can cause leaf folding or webbing in peas.
+
+*   **Cultural Control:**
+    *   Remove and destroy folded leaves containing larvae.
+*   **Chemical Control (if infestation is significant):**
+    *   The same insecticides effective against borers and caterpillars are generally effective against leaf folders.
+    *   **Chlorantraniliprole** 18.5% SC: 60 ml/acre
+    *   **Emamectin benzoate** 5% SG: 80-100 g/acre
+    *   **Indoxacarb** 14.5% SC: 200 ml/acre
+
+### Important Considerations:
+
+*   **Spray Volume:** Ensure adequate spray volume (typically 200-250 litres of water per acre) for thorough coverage of the crop canopy.
+*   **Safety:** Always wear protective clothing (gloves, mask, goggles) while handling and spraying pesticides. Follow the instructions on the product label carefully.
+*   **Pre-Harvest Interval (PHI):** Observe the recommended pre-harvest interval for each chemical to ensure the safety of the produce.
+*   **Resistance Management:** Rotate insecticides with different modes of action to prevent the development of pesticide resistance in pests.
+
+For any further clarification or specific field issues, please consult your local agricultural extension officer or visit HAU, Hisar.

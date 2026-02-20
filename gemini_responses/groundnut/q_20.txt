@@ -1,0 +1,44 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I advise that addressing micronutrient deficiencies in Groundnut (Arachis hypogaea) is crucial for optimal yield and quality. Accurate diagnosis through soil testing and visual symptom identification is the first step.
+
+Here's how to address the specified micronutrient deficiencies in Groundnut:
+
+### General Recommendations:
+*   **Soil Testing:** Always conduct a comprehensive soil test before applying any micronutrients to determine specific deficiencies and avoid over-application.
+*   **Foliar Application:** For quick correction of deficiencies, foliar sprays are generally more effective for micronutrients. Apply sprays in the morning or late afternoon.
+*   **Water Volume:** Ensure adequate water volume for thorough coverage during foliar sprays (e.g., 200-250 L/acre).
+
+### Specific Micronutrient Deficiencies and Management:
+
+#### 1. Zinc (Zn) Deficiency
+*   **Symptoms:** Stunted growth, interveinal chlorosis (yellowing between veins) on younger leaves, small leaves (little leaf).
+*   **Correction:**
+    *   **Soil Application (Preventive):** Apply 25 kg/acre of **Zinc sulphate heptahydrate** (21% Zn) at the time of sowing.
+    *   **Foliar Application (Curative):** Spray a 0.5% solution (5 g/L) of **Zinc sulphate heptahydrate** (21% Zn) at 30-45 days after sowing (DAS). Repeat after 15 days if symptoms persist.
+
+#### 2. Iron (Fe) / Ferrous Deficiency
+*   **Symptoms:** Severe interveinal chlorosis on young leaves, eventually turning almost white.
+*   **Correction:**
+    *   **Foliar Application:** Spray a 0.5-1.0% solution (5-10 g/L) of **Ferrous sulphate** (19% Fe) at 30-45 DAS. Repeat after 10-15 days if symptoms persist. For severe cases or high pH soils, a 0.1% solution (1 g/L) of **Fe-EDTA** (12% Fe) can be used.
+
+#### 3. Boron (B) Deficiency
+*   **Symptoms:** "Hollow heart" in kernels, poor pod development, stunted growth, thickened and brittle leaves, cracked stems.
+*   **Correction:**
+    *   **Soil Application (Preventive):** If soil test indicates low Boron, apply 2-4 kg/acre of **Borax** (10.5-11.3% B) at sowing.
+    *   **Foliar Application (Curative):** Spray a 0.1-0.2% solution (1-2 g/L) of **Borax** (10.5-11.3% B) or **Disodium octaborate tetrahydrate** (20% B) at the flowering and early pod development stages.
+
+#### 4. Calcium (Ca) Deficiency
+*   **Symptoms:** "Pop" pods (empty pods), shriveled kernels, poor seed filling, dark plumule, stunted root growth. Calcium is critical for pod development and kernel filling, absorbed directly by the developing pods.
+*   **Correction:**
+    *   **Soil Application (Critical for Pod Filling):** Apply 200-250 kg/acre of **Gypsum** (Calcium sulphate dihydrate, 23% Ca, 18% S) at the pegging stage (around 45-60 DAS). Apply it directly in the pegging zone. This is the most effective method for addressing pod-filling issues.
+    *   **Foliar Application (General Plant Health):** While less effective for pod filling, if general Ca deficiency symptoms are observed on leaves, a 0.5% solution (5 g/L) of **Calcium nitrate** (18.8% Ca) can be applied.
+
+#### 5. Magnesium (Mg) Deficiency
+*   **Symptoms:** Interveinal chlorosis on older leaves, starting from the leaf margins and progressing inwards, leaves may become brittle and reddish-purple.
+*   **Correction:**
+    *   **Soil Application (Preventive):** If soil test indicates low Magnesium, apply 10-20 kg/acre of **Magnesium sulphate** (9.6% Mg) at sowing.
+    *   **Foliar Application (Curative):** Spray a 1-2% solution (10-20 g/L) of **Magnesium sulphate** (9.6% Mg) at 30-45 DAS. Repeat after 15 days if symptoms persist.
+
+#### 6. Manganese (Mn) Deficiency
+*   **Symptoms:** Interveinal chlorosis on younger leaves, similar to iron but often with a finer network of green veins, sometimes with necrotic spots.
+*   **Correction:**
+    *   **Foliar Application:** Spray a 0.5% solution (5 g/L) of **Manganese sulphate** (30.5% Mn) at 30-45 DAS. Repeat after 10-15 days if symptoms persist.

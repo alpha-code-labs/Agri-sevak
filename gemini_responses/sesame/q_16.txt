@@ -1,0 +1,72 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Sesame (Til) cultivation in Haryana. These recommendations are general and should ideally be fine-tuned based on a recent soil test report for your specific field.
+
+**General Nutrient Requirement for Sesame (Til) in Haryana:**
+
+*   **Nitrogen (N):** 30-40 kg/acre
+*   **Phosphorus (P2O5):** 15-20 kg/acre
+*   **Potassium (K2O):** 10-15 kg/acre (Apply only if soil test indicates deficiency or on light-textured soils)
+*   **Sulphur (S):** 10-20 kg/acre (Crucial for oilseed crops to enhance oil content and yield)
+
+**Application Timing:**
+
+*   **Basal Dose (at sowing):** All Phosphorus, Potassium, and Sulphur. Half of Nitrogen.
+*   **Top Dressing (30-40 days after sowing):** Remaining half of Nitrogen.
+
+---
+
+**Recommended Doses of Specific Fertilizers:**
+
+**1. Urea (46% N):**
+*   **If no DAP or NPK is used for Phosphorus:** Apply **65-85 kg Urea/acre**.
+    *   Apply half (32-42 kg) as basal at sowing.
+    *   Apply remaining half (33-43 kg) as top dressing 30-40 days after sowing.
+*   **If DAP is used for Phosphorus:** Adjust Urea dose accordingly (see DAP section below).
+
+**2. Nano-Urea (4% N):**
+*   Can supplement or partially replace conventional Urea, especially for top dressing.
+*   **Foliar spray:** **2-4 ml/L water**.
+*   Recommended 2-3 sprays:
+    *   First spray: At branching stage (30-45 days after sowing).
+    *   Second spray: At pre-flowering stage.
+    *   Third spray (if needed): At capsule formation stage.
+*   Each spray typically uses **250-500 ml Nano-Urea/acre** mixed in 100-200 L water.
+
+**3. DAP (Diammonium Phosphate, 18% N, 46% P2O5):**
+*   Apply **35-45 kg DAP/acre** as basal at sowing.
+*   *Note:* This will provide 6.3-8.1 kg N and 16.1-20.7 kg P2O5. Account for this N contribution when calculating the remaining Urea requirement. For example, if 40 kg DAP is used, it provides ~7.2 kg N, so the remaining N (22.8-32.8 kg N) should come from Urea (approx. 50-70 kg Urea/acre, split into basal and top dressing).
+
+**4. Nano-DAP (8% N, 16% P2O5):**
+*   Can supplement or partially replace conventional DAP.
+*   **Foliar spray:** **2-4 ml/L water**.
+*   Recommended 1-2 sprays:
+    *   First spray: At pre-flowering stage.
+    *   Second spray: At capsule formation stage.
+*   Each spray typically uses **250-500 ml Nano-DAP/acre** mixed in 100-200 L water.
+
+**5. NPK (Complex Fertilizers):**
+*   If using a complex NPK fertilizer (e.g., 12:32:16, 19:19:19) as a basal dose:
+    *   Apply **50-60 kg NPK (12:32:16) /acre** as basal. This will provide approximately 6-7 kg N, 16-19 kg P2O5, and 8-9 kg K2O.
+    *   Then, supplement with **Urea** to meet the remaining Nitrogen requirement (e.g., 25-35 kg N from Urea, split into basal and top dressing).
+    *   Supplement with **Potash** if the K2O provided by NPK is insufficient or if soil test indicates higher K requirement.
+    *   Supplement with **Sulphur** (e.g., 10-15 kg Elemental Sulphur/acre) as NPK complexes generally do not provide sufficient Sulphur for oilseeds.
+
+**6. SSP (Single Super Phosphate, 16% P2O5, 11% S):**
+*   Apply **95-125 kg SSP/acre** as basal at sowing.
+*   *Note:* This will provide 15.2-20 kg P2O5 and 10.45-13.75 kg Sulphur, significantly meeting the Sulphur requirement. If using SSP, additional Sulphur might not be needed unless soil test indicates a higher deficiency.
+
+**7. Potash (Muriate of Potash - MOP, 60% K2O):**
+*   Apply **15-25 kg MOP/acre** as basal at sowing.
+*   *Note:* Apply only if soil test indicates deficiency or on light-textured soils prone to K leaching.
+
+**8. Sulphur (Elemental Sulphur, 90% S):**
+*   Apply **10-20 kg Elemental Sulphur/acre** as basal at sowing.
+*   *Note:* If SSP is used at 95-125 kg/acre, it provides 10-14 kg S, largely fulfilling the requirement. If DAP is used, additional Sulphur will be needed.
+*   Alternatively, **Gypsum** (contains 13-18% S) can be used: Apply **60-150 kg Gypsum/acre** as basal, depending on its S content and specific requirement.
+
+---
+
+**Important Considerations:**
+
+*   **Soil Testing:** The most accurate fertilizer recommendation comes from a recent soil test report. These recommendations are general guidelines for average soil conditions in Haryana.
+*   **Organic Manures:** Incorporating 4-6 tonnes of well-decomposed Farm Yard Manure (FYM) or compost per acre can significantly improve soil health and nutrient availability, reducing the reliance on chemical fertilizers.
+*   **Micronutrients:** Sesame can also benefit from micronutrients like Zinc (Zn) and Boron (B) if deficient. A soil test can confirm this. If deficient, apply 5-10 kg **Zinc Sulphate (21% Zn)** per acre as basal, and 1-2 kg **Borax (10.5% B)** per acre as basal.

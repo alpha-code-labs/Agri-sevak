@@ -1,0 +1,74 @@
+Namaste Kisan Bhaiyon,
+
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand the critical importance of balanced nutrition for healthy and productive pea cultivation. Macro-nutrient deficiencies (Nitrogen, Phosphorus, and Potassium) can significantly impact yield and quality.
+
+The first and most crucial step in addressing any nutrient deficiency is **soil testing**. A comprehensive soil test report will accurately identify the specific nutrient levels in your field and guide precise fertilizer application, preventing both under-application and over-application.
+
+Here's how to address deficiencies of Nitrogen, Phosphorus, and Potassium in Peas:
+
+### 1. Nitrogen (N) Deficiency
+
+Peas, being legumes, fix atmospheric nitrogen through symbiotic *Rhizobium* bacteria in their root nodules. Therefore, their external nitrogen requirement is generally lower than non-leguminous crops. However, a starter dose of nitrogen is often beneficial, especially in soils with low organic matter or when nodulation is not yet established.
+
+*   **Symptoms:**
+    *   General yellowing of older leaves (chlorosis).
+    *   Stunted growth and reduced plant vigor.
+    *   Poor pod development and reduced seed set.
+    *   Pale green foliage overall.
+
+*   **Corrective Measures:**
+    *   **Soil Application (Pre-sowing/At Sowing):**
+        *   Apply a starter dose of 15-20 kg Nitrogen per acre. This can be supplied through:
+            *   **Urea**: Approximately 33-44 kg **Urea** per acre.
+            *   **Diammonium Phosphate (DAP)**: If phosphorus is also deficient, **DAP** (which contains 18% N) can contribute to the nitrogen requirement.
+    *   **Foliar Application (For quick relief in standing crop):**
+        *   If severe deficiency symptoms appear after establishment, a foliar spray can provide quick relief without hindering nodulation significantly.
+        *   Spray 2% solution of **Urea** (20 g **Urea** per litre of water) at 10-15 day intervals, ensuring good coverage. Use 200-250 litres of water per acre.
+
+### 2. Phosphorus (P) Deficiency
+
+Phosphorus is vital for root development, energy transfer, flowering, and pod formation.
+
+*   **Symptoms:**
+    *   Stunted growth and poor root development.
+    *   Leaves may appear dark green or purplish, especially on older leaves.
+    *   Delayed maturity and flowering.
+    *   Reduced number of pods and seeds.
+
+*   **Corrective Measures:**
+    *   **Soil Application (Pre-sowing/At Sowing):**
+        *   Based on soil test, generally apply 40-60 kg P2O5 per acre. This can be supplied through:
+            *   **Single Super Phosphate (SSP)**: Approximately 250-375 kg **SSP** per acre (contains 16% P2O5).
+            *   **Diammonium Phosphate (DAP)**: Approximately 85-130 kg **DAP** per acre (contains 46% P2O5).
+            *   **Monoammonium Phosphate (MAP)**: Approximately 80-120 kg **MAP** per acre (contains 52% P2O5).
+        *   Phosphorus should be incorporated into the soil before or at the time of sowing, as it is relatively immobile in the soil.
+    *   **Foliar Application (For quick relief in standing crop):**
+        *   Spray 1-2% solution of **Monoammonium Phosphate (MAP)** (10-20 g **MAP** per litre of water) or **Potassium Dihydrogen Phosphate (MKP)** (10-20 g **MKP** per litre of water). Use 200-250 litres of water per acre.
+
+### 3. Potassium (K) Deficiency
+
+Potassium plays a crucial role in water regulation, nutrient transport, enzyme activation, and disease resistance.
+
+*   **Symptoms:**
+    *   Yellowing and browning (scorching) of leaf margins, starting from older leaves.
+    *   Weak stems, leading to lodging.
+    *   Reduced disease resistance.
+    *   Poor pod filling and shriveled seeds.
+
+*   **Corrective Measures:**
+    *   **Soil Application (Pre-sowing/At Sowing):**
+        *   Based on soil test, generally apply 20-30 kg K2O per acre. This can be supplied through:
+            *   **Muriate of Potash (MOP)** / **Potassium Chloride**: Approximately 33-50 kg **Muriate of Potash (MOP)** per acre (contains 60% K2O).
+            *   **Sulphate of Potash (SOP)** / **Potassium Sulphate**: Approximately 40-60 kg **Sulphate of Potash (SOP)** per acre (contains 50% K2O).
+        *   Potassium should be applied at the time of sowing or as a basal dose.
+    *   **Foliar Application (For quick relief in standing crop):**
+        *   Spray 1-2% solution of **Potassium Sulphate (SOP)** (10-20 g **SOP** per litre of water) or **Potassium Dihydrogen Phosphate (MKP)** (10-20 g **MKP** per litre of water). Use 200-250 litres of water per acre.
+
+### General Recommendations:
+
+*   **Integrated Nutrient Management:** Always combine chemical fertilizers with organic manures (Farm Yard Manure, compost) to improve soil health and nutrient availability.
+*   **Timing:** For soil applications, ensure fertilizers are applied at the correct time (pre-sowing or at sowing) and incorporated properly for maximum efficiency.
+*   **Watering:** Ensure adequate soil moisture after fertilizer application to facilitate nutrient uptake.
+*   **Consultation:** For specific recommendations tailored to your field, always consult with your local agricultural extension officer or HAU experts after obtaining a soil test report.
+
+By following these scientifically verified practices, you can effectively manage macro-nutrient deficiencies in your pea crop and achieve optimal yields.

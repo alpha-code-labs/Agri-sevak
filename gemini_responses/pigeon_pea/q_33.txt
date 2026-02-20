@@ -1,0 +1,54 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an Integrated Weed Management (IWM) approach for controlling weeds in Pigeon pea (Arhar/Tur). Pigeon pea is particularly susceptible to weed competition during its initial 30-60 days of growth.
+
+**Integrated Weed Management Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Timely Sowing:** Sowing at the optimal time helps the crop establish quickly and compete better with weeds.
+    *   **Clean Cultivation:** Ensure the field is free of weeds before sowing.
+    *   **Crop Rotation:** Rotate pigeon pea with crops that have different weed flora or control methods to break the weed cycle.
+    *   **Inter-cropping:** Inter-cropping with fast-growing, short-duration crops can help suppress weeds.
+
+2.  **Mechanical Control:**
+    *   **Inter-cultivation/Hoeing:** One or two inter-cultivations (e.g., using a cultivator or power weeder) at 20-25 and 40-45 days after sowing (DAS) are highly effective.
+    *   **Manual Weeding:** Two manual weedings at 20-25 DAS and 40-45 DAS are very effective, especially for removing weeds that escape chemical control or for specific problematic weeds.
+
+3.  **Chemical Control:**
+    *   Always ensure proper calibration of sprayers and uniform application. Use sufficient water volume (200-300 L/acre) for effective coverage.
+
+    **A. Pre-emergence Herbicides (Applied within 0-3 days after sowing):**
+    These herbicides form a chemical barrier on the soil surface and control germinating weeds.
+    *   For broadleaf and narrowleaf weeds:
+        *   **Pendimethalin** 30% EC: 3.3 L/acre
+        *   OR
+        *   **Pendimethalin** 38.7% CS: 2.6 L/acre
+        *   Apply uniformly on moist soil surface within 0-3 days after sowing.
+
+    **B. Post-emergence Herbicides (Applied when weeds are at 2-4 leaf stage, typically 15-30 DAS):**
+    These herbicides are applied after the crop and weeds have emerged.
+
+    *   **For Narrowleaf Weeds (Grasses):**
+        *   **Quizalofop-ethyl** 5% EC: 400-500 ml/acre
+        *   OR
+        *   **Fluazifop-P-butyl** 13.4% EC: 500-750 ml/acre
+        *   OR
+        *   **Fenoxaprop-P-ethyl** 9.3% EC: 250-300 ml/acre
+
+    *   **For Broadleaf Weeds (and some grasses):**
+        *   **Imazethapyr** 10% SL: 200-250 ml/acre
+        *   *Caution:* **Imazethapyr** may cause temporary yellowing or stunting of pigeon pea, especially if applied under stress conditions or at higher doses. Use only on tolerant varieties and as per label recommendations.
+
+**Specific Weed Management:**
+
+*   **Amarbail (*Cuscuta* spp.):**
+    *   **Prevention is key:** Use *Cuscuta*-free seeds. Remove *Cuscuta* from field boundaries and non-cropped areas to prevent its spread.
+    *   **Chemical Control:** Pre-emergence application of **Pendimethalin** (as mentioned above) can offer some suppression of germinating *Cuscuta* seeds.
+    *   **Manual Removal:** For existing patches, manual removal before *Cuscuta* sets seeds is crucial to prevent further spread.
+
+*   **Bathu (*Chenopodium album*) and Congress grass (*Parthenium hysterophorus*):**
+    *   These are common broadleaf weeds. They are effectively controlled by the general broadleaf weed management strategies mentioned above, including pre-emergence **Pendimethalin**, post-emergence **Imazethapyr**, and manual weeding.
+
+*   **Orobanche (*Orobanche* spp.):**
+    *   This is not known to be a major or commonly recognized problem affecting Pigeon pea in Haryana. Therefore, specific chemical control measures for *Orobanche* in Pigeon pea are not typically recommended.
+
+*   **Phalaris minor:**
+    *   This is primarily a weed of the Rabi season (e.g., wheat) and is not a common or significant weed problem in Kharif season Pigeon pea in Haryana.

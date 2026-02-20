@@ -1,0 +1,60 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Radish cultivation in Haryana. These recommendations are based on general soil fertility conditions; a soil test is always advised for precise nutrient management.
+
+**Recommended Nutrient Doses per Acre:**
+*   Nitrogen (N): 60 kg/acre
+*   Phosphorus (P2O5): 40 kg/acre
+*   Potassium (K2O): 40 kg/acre
+*   Sulphur (S): 10-15 kg/acre
+
+Here's how to achieve these nutrient levels using the specified fertilizers:
+
+**1. Nitrogen (N)**
+*   **Urea** (46% N): 130 kg/acre.
+    *   Apply half (65 kg) at the time of sowing as a basal dose.
+    *   Apply the remaining half (65 kg) as a top-dressing 20-25 days after sowing.
+*   **Nano-Urea** (Liquid): As a supplementary foliar spray.
+    *   Apply 2-4 ml/L of water, for 2 sprays.
+    *   First spray: 20-25 days after sowing.
+    *   Second spray: 35-40 days after sowing.
+    *   *Note: Nano-Urea can help improve nitrogen use efficiency and may allow for a slight reduction in conventional Urea, but for initial recommendations, the full conventional dose is provided.*
+
+**2. Phosphorus (P2O5)**
+*   **DAP** (18% N, 46% P2O5): 87 kg/acre.
+    *   Apply the entire quantity at the time of sowing as a basal dose.
+    *   *If using **DAP**, it will provide approximately 15.6 kg N. Adjust the **Urea** requirement accordingly: reduce basal **Urea** by 34 kg (from 65 kg to 31 kg) and top-dressing **Urea** by 14 kg (from 65 kg to 51 kg) to maintain the total N at 60 kg/acre.*
+*   **SSP** (16% P2O5, 11% S): 250 kg/acre.
+    *   Apply the entire quantity at the time of sowing as a basal dose.
+    *   *If using **SSP**, no separate Sulphur application is needed as it provides approximately 27.5 kg S, which is sufficient.*
+*   **Nano-DAP** (Liquid): As a supplementary foliar spray.
+    *   Apply 2-4 ml/L of water, for 1-2 sprays.
+    *   First spray: 15-20 days after sowing.
+    *   Second spray (if needed): 30-35 days after sowing.
+
+**3. Potassium (K2O)**
+*   **Muriate of Potash (MOP)** (60% K2O): 67 kg/acre.
+    *   Apply the entire quantity at the time of sowing as a basal dose.
+
+**4. Sulphur (S)**
+*   **Bentonite Sulphur** (90% S): 11-17 kg/acre.
+    *   Apply the entire quantity at the time of sowing as a basal dose.
+    *   *Note: If **SSP** is used for Phosphorus, separate Sulphur application may not be required as **SSP** provides sufficient Sulphur.*
+
+**5. NPK Complex Fertilizers**
+*   If using NPK complex fertilizers (e.g., 12:32:16, 10:26:26, 19:19:19), the dose will vary based on the specific grade. The remaining nutrient requirements (N, P2O5, K2O) will need to be supplemented with **Urea** and **Muriate of Potash**.
+*   For example, if using **NPK (12:32:16)**:
+    *   Apply 125 kg/acre as basal to meet the P2O5 requirement (40 kg P2O5).
+    *   This will provide 15 kg N and 20 kg K2O.
+    *   Supplement with **Urea** (approx. 98 kg/acre, split dose) and **Muriate of Potash** (approx. 33 kg/acre, basal) to meet the remaining N and K2O requirements.
+
+**Summary of a Common Application Strategy (using DAP, Urea, MOP, and Sulphur):**
+
+*   **Basal Application (at sowing):**
+    *   **DAP**: 87 kg/acre
+    *   **Urea**: 31 kg/acre
+    *   **Muriate of Potash**: 67 kg/acre
+    *   **Bentonite Sulphur**: 11-17 kg/acre
+*   **Top Dressing (20-25 days after sowing):**
+    *   **Urea**: 51 kg/acre
+*   **Foliar Sprays (Supplementary):**
+    *   **Nano-DAP**: 2-4 ml/L water (15-20 DAS)
+    *   **Nano-Urea**: 2-4 ml/L water (20-25 DAS and 35-40 DAS)

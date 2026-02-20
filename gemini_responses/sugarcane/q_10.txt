@@ -1,0 +1,57 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for managing pests in Sugarcane in Haryana:
+
+### Control of Borers in Sugarcane
+
+Sugarcane borers are a major pest complex in Haryana, including Top Borer (*Scirpophaga excerptalis*), Stalk Borer (*Chilo auricilius*), and Root Borer (*Emmalocera depressella*).
+
+**Integrated Pest Management (IPM) Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Timely planting:** Plant sugarcane at the recommended time to avoid peak pest incidence.
+    *   **Removal of dead hearts:** Regularly remove and destroy shoots affected by early shoot borer and top borer (dead hearts) to reduce pest population.
+    *   **Detrashing:** Remove dry and senescent leaves at 120 and 180 days after planting to expose borers and reduce their hiding places.
+    *   **Balanced fertilization:** Avoid excessive nitrogen application, which can make the crop more susceptible.
+    *   **Proper irrigation:** Maintain optimal soil moisture.
+    *   **Collection and destruction of egg masses:** Regularly scout for and destroy egg masses of borers.
+
+2.  **Biological Control:**
+    *   Release of parasitoids like *Trichogramma chilonis* or *T. japonicum* egg parasitoids (50,000 parasitoids/acre, 4-6 releases at 10-15 day intervals) can be effective against early shoot borer and top borer.
+    *   Application of entomopathogenic fungi like *Beauveria bassiana* can also be considered.
+
+3.  **Chemical Control (Apply only when pest incidence crosses Economic Threshold Level):**
+    *   **For Early Shoot Borer and Top Borer:**
+        *   Spray application:
+            *   **Chlorantraniliprole** 18.5% SC at 150 ml/acre.
+            *   **Flubendiamide** 20% WG at 125 g/acre.
+            *   **Emamectin benzoate** 5% SG at 80 g/acre.
+            *   **Lambda-cyhalothrin** 5% EC at 250 ml/acre.
+        *   Granular application (for soil application at planting or earthing up):
+            *   **Fipronil** 0.3% GR at 25-33 kg/acre.
+            *   **Cartap hydrochloride** 4% GR at 25 kg/acre.
+    *   **For Stalk Borer:**
+        *   Spray application:
+            *   **Chlorantraniliprole** 18.5% SC at 150 ml/acre.
+            *   **Flubendiamide** 20% WG at 125 g/acre.
+            *   **Emamectin benzoate** 5% SG at 80 g/acre.
+        *   Granular application (at earthing up):
+            *   **Cartap hydrochloride** 4% GR at 25 kg/acre.
+    *   **For Root Borer:**
+        *   Granular application (at planting or earthing up):
+            *   **Fipronil** 0.3% GR at 25-33 kg/acre.
+
+### Control of Caterpillars (General Defoliators like Armyworms) in Sugarcane
+
+While borers are the primary caterpillar pests, general defoliating caterpillars like armyworms (*Mythimna separata*) can occasionally cause damage, especially in young crops.
+
+**Chemical Control (if significant defoliation occurs):**
+*   **Chlorantraniliprole** 18.5% SC at 150 ml/acre.
+*   **Emamectin benzoate** 5% SG at 80 g/acre.
+*   **Lambda-cyhalothrin** 5% EC at 250 ml/acre.
+
+### Diamondback Moth
+
+This is not known to affect Sugarcane.
+
+### Leaf Folder
+
+This is not known to affect Sugarcane.

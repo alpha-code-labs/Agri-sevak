@@ -1,0 +1,69 @@
+As a Senior Agronomist at HAU, Hisar, I recommend an integrated approach combining cultural, biological, and chemical methods for effective management of rot diseases in onion.
+
+Here's how to control the various rot types in onion:
+
+### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Seed Rot, and Seedling Rot
+
+These are often caused by soil-borne pathogens such as *Fusarium oxysporum f.sp. cepae* (causing basal rot/fusarium wilt), *Pythium* spp., *Rhizoctonia solani*, and *Sclerotium rolfsii* (causing white rot or collar rot).
+
+**A. Cultural Practices:**
+*   **Crop Rotation:** Practice a 3-5 year crop rotation with non-host crops to reduce pathogen inoculum in the soil.
+*   **Healthy Seeds/Sets:** Use certified disease-free seeds or sets.
+*   **Soil Drainage:** Ensure good soil drainage and avoid waterlogging, as excessive moisture favors many rot pathogens.
+*   **Field Sanitation:** Remove and destroy infected plant debris.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can make plants more susceptible.
+*   **Soil Solarization:** In summer, cover the soil with transparent polyethylene sheets for 4-6 weeks to reduce soil-borne pathogen populations.
+
+**B. Biological Control:**
+*   **Seed Treatment:** Treat seeds with bio-agents.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: 4-5 g/kg seed.
+    *   **Pseudomonas fluorescens**: 10 g/kg seed.
+*   **Soil Application:** Mix bio-agents with farmyard manure (FYM) and apply to the soil before planting.
+    *   **Trichoderma viride** or **Trichoderma harzianum**: 2.5 kg/acre mixed with 50-100 kg FYM.
+
+**C. Chemical Control:**
+*   **Seed Treatment (for Seed Rot and Seedling Rot prevention):**
+    *   **Carbendazim** 12% + **Mancozeb** 63% WP: 2-3 g/kg seed.
+    *   **Thiram** 75% WS: 2-3 g/kg seed.
+    *   **Metalaxyl-M** 31.8% ES: 3.15 ml/kg seed (especially effective against *Pythium*).
+*   **Soil Drench/Application (for Root, Stem, Foot, Collar, Crown Rots):**
+    *   **Carbendazim** 50% WP: 1-2 g/L water, drench around the base of infected plants or apply as a soil drench at planting.
+    *   **Propiconazole** 25% EC: 1 ml/L water, drench around the base of plants.
+    *   **Hexaconazole** 5% SC: 2 ml/L water, drench around the base of plants.
+    *   **Validamycin** 3% L: 2-3 ml/L water, drench around the base of plants (effective against *Rhizoctonia* and *Sclerotium*).
+    *   **Pencycuron** 22.9% SC: 1.5-2 ml/L water, drench around the base of plants (effective against *Rhizoctonia*).
+
+### 2. Neck Rot (*Botrytis allii*)
+
+Neck rot is a significant post-harvest disease, but infection often starts in the field.
+
+**A. Cultural Practices:**
+*   **Resistant Varieties:** Plant varieties known to have some resistance.
+*   **Nitrogen Management:** Avoid excessive nitrogen fertilization, especially late in the growing season.
+*   **Proper Maturation:** Allow onion necks to mature and dry down naturally before harvest.
+*   **Careful Harvesting:** Avoid mechanical injury to bulbs during harvest.
+*   **Curing:** Cure bulbs properly in warm (25-30°C), dry, well-ventilated conditions for 7-14 days immediately after harvest. This helps dry the neck tissues.
+*   **Storage:** Store bulbs in cool (0-4°C), dry, well-ventilated conditions.
+
+**B. Chemical Control (Pre-harvest):**
+*   **Carbendazim** 50% WP: 1 g/L water, apply as a foliar spray 2-3 weeks before harvest if conditions are conducive to disease.
+*   **Thiophanate Methyl** 70% WP: 1 g/L water, apply as a foliar spray 2-3 weeks before harvest.
+
+### 3. Black Rot (*Aspergillus niger* - Black Mold)
+
+This is primarily a post-harvest storage disease, but infection can occur in the field.
+
+**A. Cultural Practices:**
+*   **Avoid Injury:** Prevent mechanical injury to bulbs during harvesting and handling.
+*   **Proper Curing:** Ensure thorough curing of bulbs as described for neck rot.
+*   **Storage Conditions:** Store bulbs in cool, dry, well-ventilated conditions.
+*   **Sanitation:** Clean storage facilities thoroughly before storing new crops.
+
+**B. Chemical Control:**
+*   Fungicides are generally less effective once the disease is established in storage. Cultural practices are paramount.
+*   **Carbendazim** 50% WP: 1 g/L water, can be applied as a pre-harvest spray if conditions are highly favorable for infection.
+*   **Thiophanate Methyl** 70% WP: 1 g/L water, can be applied as a pre-harvest spray.
+
+### 4. Fruit Rot
+
+This is not known to affect Onion. Onions are bulbs, not botanical fruits.

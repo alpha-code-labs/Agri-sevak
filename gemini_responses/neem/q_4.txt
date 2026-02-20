@@ -1,0 +1,55 @@
+Wilt, including *Fusarium* wilt, can affect Neem (Azadirachta indica), particularly in nurseries and young plantations, often exacerbated by stress conditions. Parawilt, while more commonly associated with other crops, refers to a sudden, non-pathogenic wilting often due to physiological stress.
+
+Effective management requires an integrated approach, starting with accurate diagnosis.
+
+**1. Diagnosis:**
+It is crucial to differentiate between pathogenic wilt (e.g., *Fusarium* wilt) and physiological wilting (parawilt-like symptoms).
+*   **Pathogenic Wilt:** Often characterized by vascular discoloration (browning in the stem/root cross-section), gradual yellowing, and wilting of leaves, progressing from lower to upper branches.
+*   **Physiological Wilting (Parawilt-like):** Sudden wilting, often without clear vascular discoloration, usually triggered by environmental stressors like waterlogging, drought, sudden temperature changes, nutrient imbalances, or root damage.
+
+**2. Cultural and Agronomic Practices (Prevention and Management):**
+These practices are fundamental for both preventing pathogenic wilt and mitigating physiological stress.
+
+*   **Healthy Planting Material:** Use disease-free seeds or seedlings from reputable sources.
+*   **Site Selection and Soil Preparation:**
+    *   Ensure well-drained soil to prevent waterlogging, which can predispose roots to fungal infections and cause physiological stress.
+    *   Avoid planting in areas with a history of wilt disease.
+    *   Improve soil structure with organic matter (Farm Yard Manure/Compost) to enhance drainage and aeration.
+*   **Water Management:**
+    *   Provide adequate and consistent irrigation, especially during dry periods, but avoid over-irrigation.
+    *   Waterlogging can lead to root rot and physiological wilting.
+*   **Nutrient Management:**
+    *   Maintain balanced soil fertility. Deficiencies or excesses of certain nutrients can stress plants.
+    *   Apply organic fertilizers to improve soil health and microbial activity.
+*   **Sanitation:**
+    *   Remove and destroy infected plant parts or severely diseased plants to reduce inoculum sources.
+    *   Clean tools and equipment to prevent disease spread.
+*   **Soil Solarization (for nurseries/small areas):** Covering moist soil with clear plastic sheets during hot months can reduce soil-borne pathogens.
+*   **Avoid Root Injury:** Be careful during inter-cultivation to prevent damage to roots, which can create entry points for pathogens.
+
+**3. Biological Control (for *Fusarium* Wilt):**
+
+*   **Trichoderma viride** or **Trichoderma harzianum**: These beneficial fungi act as bio-control agents against soil-borne pathogens like *Fusarium*.
+    *   **Soil Application:** Mix 2.5 kg of *Trichoderma* formulation (containing 2x10^8 CFU/g) with 50-100 kg of well-decomposed Farm Yard Manure (FYM) or compost. Apply this mixture uniformly in the soil around the base of the trees or incorporate it into the soil before planting.
+    *   **Seedling Drench/Root Dip:** For young plants, prepare a suspension of 5-10 g of *Trichoderma* formulation per litre of water and drench the soil around the root zone or dip seedling roots before planting.
+
+**4. Chemical Control (for *Fusarium* Wilt):**
+
+Chemical control is generally recommended for pathogenic wilt, especially in nurseries or young plants, and should be used judiciously as part of an integrated management plan. For large, established trees, drenching can be challenging.
+
+*   **Fungicides for Soil Drenching:**
+    *   **Carbendazim 50% WP**: Apply as a soil drench at a concentration of 1-2 grams per litre of water around the base of affected plants. Repeat if necessary, following label instructions.
+    *   **Thiophanate Methyl 70% WP**: Apply as a soil drench at a concentration of 1-1.5 grams per litre of water around the base of affected plants. Repeat if necessary, following label instructions.
+    *   **Propiconazole 25% EC**: Can be used as a soil drench at 1 ml per litre of water for systemic action against fungal pathogens.
+
+**5. Specific Management for Parawilt-like Symptoms (Physiological Wilting):**
+
+If the wilting is determined to be physiological (parawilt-like) rather than pathogenic, the focus should be entirely on alleviating stress:
+
+*   **Optimize Irrigation:** Ensure consistent and appropriate watering. Avoid both drought and waterlogging.
+*   **Nutrient Balance:** Conduct soil tests to identify any nutrient deficiencies or excesses and correct them.
+*   **Improve Soil Aeration:** For compacted soils, light cultivation or aeration techniques can help.
+*   **Shading:** For young plants, providing temporary shade during periods of intense heat can reduce stress.
+*   **Root Protection:** Prevent any physical damage to roots.
+
+Always consult with local agricultural experts or the HAU extension services for precise diagnosis and recommendations tailored to your specific field conditions.

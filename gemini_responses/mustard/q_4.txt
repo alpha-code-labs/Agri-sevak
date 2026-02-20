@@ -1,0 +1,32 @@
+Wilt, including symptoms often referred to as Parawilt, is a significant concern in Mustard (Rapeseed-Mustard) cultivation in Haryana, primarily caused by pathogens like *Fusarium oxysporum* (Fusarium Wilt) and *Sclerotinia sclerotiorum* (Sclerotinia Stem Rot/White Rot), which can lead to sudden wilting and plant death. An integrated approach is crucial for effective management.
+
+Here's how to control Wilt in Mustard:
+
+**I. Integrated Disease Management (IDM) Approach:**
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** Practice a 3-4 year crop rotation with non-host crops like wheat, barley, or pearl millet to reduce soil-borne inoculum. Avoid continuous cultivation of mustard or other susceptible crops (e.g., sunflower, chickpea, lentil).
+    *   **Resistant Varieties:** Select and sow varieties known to have tolerance or resistance to wilt and stem rot, if available and suitable for your region. Consult HAU recommendations for specific varieties.
+    *   **Field Sanitation:** Remove and destroy infected plant debris from the field after harvest to reduce the primary inoculum source. Deep ploughing can help bury sclerotia of *Sclerotinia*.
+    *   **Balanced Nutrition:** Ensure balanced fertilization. Avoid excessive nitrogen, which can make plants more succulent and susceptible. Adequate potassium can improve plant vigor and resistance.
+    *   **Proper Irrigation:** Avoid waterlogging, especially during critical growth stages, as it can stress plants and favor root rot pathogens. Irrigate judiciously based on soil moisture.
+    *   **Timely Sowing:** Sow mustard at the optimal time to ensure vigorous growth and reduce susceptibility to disease under adverse conditions.
+
+2.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-control agents to protect seedlings from soil-borne pathogens.
+        *   **Trichoderma viride** or **Trichoderma harzianum**: 4-5 g/kg seed.
+
+3.  **Chemical Control:**
+
+    *   **Seed Treatment (Crucial for soil-borne wilt pathogens):**
+        *   **Carbendazim** 50% WP: 2-3 g/kg seed.
+        *   **Thiram** 75% WS: 2.5-3 g/kg seed.
+        *   A combination of **Carbendazim** and **Thiram** can also be used as per product label recommendations.
+
+    *   **Foliar Spray (Primarily for Sclerotinia Stem Rot, which causes wilting):**
+        *   If symptoms of Sclerotinia stem rot (white cottony growth on stem, wilting) appear, or as a preventive measure during flowering/pod formation stage if disease pressure is high:
+            *   **Carbendazim** 50% WP: 500 g/acre in 200-300 L of water.
+            *   **Tebuconazole** 25.9% EC: 250-300 ml/acre in 200-300 L of water.
+            *   **Propiconazole** 25% EC: 200 ml/acre in 200-300 L of water.
+
+**Note:** Always read and follow the instructions on the product label for safe and effective use, including dosage, application method, and pre-harvest interval. Consult with your local agricultural extension officer for the most current and specific recommendations for your area in Haryana.

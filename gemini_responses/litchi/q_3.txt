@@ -1,0 +1,81 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Litchi (Litchi chinensis) under Haryana conditions.
+
+**General Principles for Rot Management in Litchi:**
+
+Effective management of rots in Litchi relies on an integrated approach combining cultural, biological, and chemical methods.
+
+*   **Good Drainage:** Litchi trees are highly susceptible to waterlogging, which creates anaerobic conditions and predisposes them to various soil-borne rots. Ensure well-drained soil and avoid over-irrigation.
+*   **Proper Planting:** Plant trees at the correct depth, ensuring the graft union (if applicable) is well above the soil line. Avoid burying the collar region.
+*   **Sanitation:** Regularly remove and destroy infected plant parts (fallen leaves, branches, fruits) to reduce the inoculum source in the orchard.
+*   **Balanced Nutrition:** Maintain optimal tree health through balanced fertilization. Avoid excessive nitrogen, which can promote lush, succulent growth more susceptible to disease.
+*   **Wound Protection:** Protect trees from mechanical injuries during cultivation, pruning, or harvesting, as wounds serve as easy entry points for pathogens.
+*   **Air Circulation:** Judicious pruning helps improve air circulation within the canopy, reducing humidity and fungal growth, especially for fruit rots.
+
+---
+
+**Specific Rot Types and Control Measures:**
+
+**1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot, and Seedling Rot:**
+
+These rots are often caused by a complex of soil-borne pathogens, primarily oomycetes like *Phytophthora* spp. and fungi such as *Fusarium* spp., *Rhizoctonia* spp., and *Pythium* spp. They manifest as rotting of roots, bark at the collar region (soil line), or lower stem, leading to wilting, yellowing, defoliation, and eventual death of the plant. Seedling rot affects young plants in the nursery.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Ensure excellent soil drainage. Avoid planting in low-lying areas prone to waterlogging.
+    *   Improve soil aeration by incorporating organic matter.
+    *   Avoid piling soil around the base of the trunk.
+    *   Use disease-free planting material (air layers or seedlings).
+*   **Biological Control:**
+    *   Apply *Trichoderma viride* or *Trichoderma harzianum* @ 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) or compost. Apply this mixture around the root zone of trees. Repeat application every 6-12 months, especially before monsoon.
+*   **Chemical Control (Preventive and Curative):**
+    *   **Soil Drenching (for established trees):**
+        *   For *Phytophthora* related rots: Drench the soil around the affected plants with a solution of **Metalaxyl 35% WS** @ 2 g/L of water, or **Fosetyl-aluminium 80% WP** @ 2.5 g/L of water. Apply 5-10 litres of solution per tree depending on its size and age.
+        *   For general fungal rots (*Fusarium*, *Rhizoctonia*): Drench with **Carbendazim 50% WP** @ 1 g/L of water, or **Thiophanate-methyl 70% WP** @ 1 g/L of water.
+    *   **Trunk Paste/Paint (for Collar/Foot Rot lesions):**
+        *   Carefully scrape off the infected bark, clean the wound, and apply a thick paste of **Copper oxychloride 50% WP** @ 50 g in 100 ml of water, or **Carbendazim 50% WP** @ 20 g in 100 ml of water.
+    *   **Foliar Spray (for systemic protection, especially against *Phytophthora*):**
+        *   Spray **Fosetyl-aluminium 80% WP** @ 2.5 g/L of water, ensuring thorough coverage of the foliage. This can provide some systemic protection against root and collar rots.
+
+**2. Black Rot:**
+
+This term can be broad. In Litchi, it often refers to fruit rot that causes blackening, or sometimes specific cankers on stems.
+
+**Control Measures:**
+*   If referring to fruit blackening and decay, please refer to the "Fruit Rot" section below.
+*   If it refers to specific stem or branch cankers with blackening, the measures for "Stem Rot" and "Collar Rot" (including pruning of affected branches) would apply.
+
+**3. Fruit Rot:**
+
+Litchi fruits are highly susceptible to various rots, especially during ripening and post-harvest. Common pathogens include *Colletotrichum gloeosporioides* (Anthracnose), *Alternaria alternata*, *Phytophthora* spp., and *Botryodiplodia theobromae*. Symptoms include brown to black lesions, softening, and decay of fruits, leading to significant yield losses.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Maintain good orchard hygiene. Promptly remove and destroy fallen infected fruits.
+    *   Ensure proper air circulation within the canopy through judicious pruning.
+    *   Harvest fruits carefully to avoid mechanical injuries, which serve as entry points for pathogens.
+*   **Pre-harvest Chemical Sprays:**
+    *   Apply sprays during fruit development, typically 2-3 weeks before anticipated harvest. Rotate fungicides to prevent resistance development.
+        *   **Mancozeb 75% WP** @ 2 g/L of water.
+        *   **Azoxystrobin 23% SC** @ 0.5 ml/L of water.
+        *   **Difenoconazole 25% EC** @ 0.5 ml/L of water.
+        *   **Carbendazim 50% WP** @ 1 g/L of water.
+*   **Post-harvest Treatment (for commercial scale, if approved and feasible):**
+    *   Hot water treatment (e.g., 52°C for 2-3 minutes) can significantly reduce post-harvest decay.
+    *   Fungicidal dips (e.g., **Carbendazim** or **Thiophanate-methyl**) are sometimes used, but their approval for post-harvest use on Litchi needs to be verified for specific markets and regulations.
+
+**4. Seed Rot:**
+
+This is primarily a concern when propagating Litchi from seeds. However, **this is not a primary concern for commercial Litchi cultivation in Haryana, as Litchi is predominantly propagated vegetatively through air layering.**
+
+If seeds are used for rootstock development or breeding purposes:
+
+**Control Measures:**
+
+*   **Seed Treatment:** Treat seeds with **Carbendazim 50% WP** @ 2 g/kg of seeds, or **Thiram 75% WS** @ 2.5 g/kg of seeds, or a combination product like **Carbendazim 12% + Mancozeb 63% WP** @ 2 g/kg of seeds.
+*   Ensure well-drained and sterilized potting mix for germination.
+
+---
+
+**Important Note:** Always follow the manufacturer's instructions, recommended dosages, and safety precautions when using any chemical. Adhere to pre-harvest intervals (PHI) to ensure food safety. For the most current and specific recommendations tailored to your local conditions, please consult with the agricultural extension services of HAU, Hisar.

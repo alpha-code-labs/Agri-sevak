@@ -1,0 +1,65 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I will provide scientifically verified advice for managing these pests in Pigeon pea (Arhar) in Haryana.
+
+Effective pest management in Pigeon pea requires an Integrated Pest Management (IPM) approach, combining cultural, biological, and judicious chemical control methods.
+
+### Control of Borers and Caterpillars (e.g., Gram Pod Borer - *Helicoverpa armigera*, Spotted Pod Borer - *Maruca vitrata*, Plume Moth - *Exelastis atomosa*, and other defoliating caterpillars)
+
+These are major lepidopteran pests of Pigeon pea, often causing significant yield losses.
+
+**1. Cultural Control Measures:**
+*   **Early Sowing:** Sowing early maturing varieties in the first fortnight of June can help escape peak pest incidence.
+*   **Resistant/Tolerant Varieties:** Utilize varieties recommended by HAU that show tolerance or resistance to pod borers.
+*   **Intercropping:** Intercropping with sorghum, maize, or pearl millet can act as a barrier or trap crop, reducing pest incidence.
+*   **Field Sanitation:** Remove crop residues and weeds that can harbor pests.
+*   **Deep Ploughing:** After harvest, deep ploughing helps expose pupae to predators and harsh weather conditions.
+*   **Bird Perches:** Install bird perches (T-shaped stakes) in the field to encourage predatory birds to feed on larvae.
+*   **Pheromone Traps:** Install pheromone traps at 5 traps/acre for monitoring adult moth activity. If catches are consistently high (more than 8-10 moths/trap/night for 2-3 consecutive nights), it indicates a need for intervention.
+
+**2. Biological Control Measures:**
+*   **Bio-pesticides:** Apply Neem Seed Kernel Extract (NSKE) 5% at the initial stage of pest incidence.
+*   **Bacillus thuringiensis (Bt):** Use Bt formulations (e.g., *Bacillus thuringiensis* var. *kurstaki*) at recommended dosages, especially against early instar larvae.
+*   **Parasitoids:** Release *Trichogramma chilonis* or *Trichogramma brasiliensis* egg parasitoids at 50,000-1,00,000 eggs/acre, 3-4 times at weekly intervals, starting from flowering.
+*   **Nuclear Polyhedrosis Virus (NPV):** Apply *Helicoverpa armigera* NPV (HaNPV) at 250-500 LE (Larval Equivalents)/acre, preferably in the evening, mixed with a sticker/spreader.
+
+**3. Chemical Control Measures:**
+When pest incidence crosses the Economic Threshold Level (ETL) (e.g., 1-2 larvae/plant or 10-15% pod damage), chemical intervention may be necessary. Always rotate insecticides with different modes of action to prevent resistance development.
+
+*   **Chlorantraniliprole 18.5% SC** at 200 ml/acre
+*   **Emamectin benzoate 5% SG** at 220 g/acre
+*   **Indoxacarb 14.5% SC** at 500 ml/acre
+*   **Flubendiamide 39.35% SC** at 100 ml/acre
+*   **Lambda-cyhalothrin 5% EC** at 200 ml/acre
+*   **Profenofos 50% EC** at 1.0 L/acre
+*   **Spinosad 45% SC** at 60-75 ml/acre
+
+Ensure thorough coverage of the crop, especially the flowering and podding parts, using appropriate spray volume (e.g., 200-250 litres of water per acre).
+
+### Diamondback Moth (*Plutella xylostella*)
+
+This is not known to affect Pigeon pea. Diamondback moth is a specific pest of cruciferous crops (e.g., cabbage, cauliflower, mustard).
+
+### Leaf Folder (*Grapholita critica* and other species)
+
+Leaf folders in Pigeon pea are also lepidopteran pests, and their management often overlaps with that of borers and other caterpillars.
+
+**1. Cultural Control Measures:**
+*   **Field Sanitation:** Remove and destroy infested leaves and plant debris.
+*   **Monitoring:** Regularly scout fields for folded leaves and larvae.
+
+**2. Chemical Control Measures:**
+The insecticides recommended for borers and caterpillars are generally effective against leaf folders as well, given they belong to the same insect order (Lepidoptera).
+
+*   **Chlorantraniliprole 18.5% SC** at 200 ml/acre
+*   **Emamectin benzoate 5% SG** at 220 g/acre
+*   **Indoxacarb 14.5% SC** at 500 ml/acre
+*   **Lambda-cyhalothrin 5% EC** at 200 ml/acre
+
+**Important Considerations for Chemical Application:**
+*   Always read and follow the instructions on the pesticide label carefully.
+*   Wear appropriate personal protective equipment (PPE) during mixing and spraying.
+*   Spray during cooler parts of the day (early morning or late evening) to minimize drift and maximize efficacy.
+*   Avoid spraying during peak bee activity to protect pollinators.
+*   Maintain a pre-harvest interval (PHI) as specified on the label before harvesting.
+*   Rotate insecticides with different modes of action to prevent the development of pesticide resistance.
+
+For specific recommendations tailored to your local conditions and current pest pressure, please consult with the agricultural extension scientists at HAU, Hisar, or your nearest Krishi Vigyan Kendra (KVK).

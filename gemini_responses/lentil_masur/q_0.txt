@@ -1,0 +1,88 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an integrated approach for managing fungal diseases in Lentil (Masur), combining cultural practices with judicious use of CIBRC-approved fungicides.
+
+Here's how to control the specified fungal diseases in Lentil:
+
+**General Integrated Disease Management Principles:**
+*   **Resistant Varieties:** Always choose disease-resistant or tolerant varieties recommended for Haryana.
+*   **Seed Treatment:** Treat seeds with recommended fungicides before sowing to protect against seed-borne and early-stage soil-borne pathogens.
+*   **Crop Rotation:** Practice 2-3 year crop rotation with non-host crops to reduce inoculum build-up in the soil.
+*   **Field Sanitation:** Remove and destroy infected plant debris after harvest.
+*   **Proper Spacing:** Maintain optimal plant spacing to ensure good air circulation and reduce humidity within the canopy.
+*   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can make plants more susceptible to certain diseases.
+*   **Timely Sowing:** Sow at the recommended time to avoid peak disease periods.
+
+---
+
+**Specific Disease Management:**
+
+1.  **Alternaria Blight (*Alternaria alternata*)**
+    This disease causes small, irregular, dark brown spots on leaves, stems, and pods, which can enlarge and coalesce, leading to defoliation and yield loss.
+    *   **Cultural Practices:**
+        *   Use disease-free seeds.
+        *   Practice crop rotation.
+        *   Remove infected plant debris.
+    *   **Chemical Control (Foliar Spray):**
+        *   Spray with **Mancozeb** 75% WP at 2.0 kg/acre in 200-400 litres of water.
+        *   Alternatively, spray with **Chlorothalonil** 75% WP at 1.0 kg/acre in 200-400 litres of water.
+        *   For systemic action, **Tebuconazole** 25.9% EC can be used at 250 ml/acre in 200-400 litres of water.
+
+2.  **Anthracnose (*Colletotrichum truncatum*)**
+    Anthracnose causes dark, sunken lesions on stems, leaves, and pods, often with a reddish-brown margin. Severe infection can lead to wilting and plant death.
+    *   **Cultural Practices:**
+        *   Use certified disease-free seeds.
+        *   Practice crop rotation.
+        *   Ensure good field sanitation.
+    *   **Chemical Control (Foliar Spray):**
+        *   Spray with **Carbendazim** 50% WP at 500 g/acre in 200-400 litres of water.
+        *   Alternatively, spray with **Mancozeb** 75% WP at 2.0 kg/acre in 200-400 litres of water.
+        *   **Tebuconazole** 25.9% EC at 250 ml/acre in 200-400 litres of water is also effective.
+        *   **Azoxystrobin** 23% SC at 200 ml/acre in 200-400 litres of water can be used for broad-spectrum control.
+
+3.  **Blast**
+    This is not known to affect Lentil (Masur).
+
+4.  **Blight (General, focusing on Ascochyta Blight and Botrytis Grey Mould)**
+    *   **Ascochyta Blight (*Ascochyta lentis*)**
+        This blight causes circular to irregular tan spots with dark margins on leaves, stems, and pods, often with tiny black fruiting bodies (pycnidia) in the centre.
+        *   **Cultural Practices:**
+            *   Use resistant varieties and disease-free seeds.
+            *   Practice crop rotation.
+            *   Avoid overhead irrigation late in the day.
+        *   **Chemical Control (Foliar Spray):**
+            *   Spray with **Chlorothalonil** 75% WP at 1.0 kg/acre in 200-400 litres of water.
+            *   Alternatively, **Mancozeb** 75% WP at 2.0 kg/acre in 200-400 litres of water.
+            *   **Carbendazim** 50% WP at 500 g/acre in 200-400 litres of water can also be used.
+
+5.  **Brown spot**
+    This is not known to affect Lentil (Masur).
+
+6.  **Downy/Powdery Mildew**
+    *   **Powdery Mildew (*Erysiphe pisi* or *Oidium lini*)**
+        This disease appears as white, powdery patches on the upper surface of leaves, stems, and pods, which can later turn greyish. Severe infection leads to premature defoliation and reduced yield.
+        *   **Cultural Practices:**
+            *   Use resistant varieties.
+            *   Ensure proper plant spacing for good air circulation.
+            *   Avoid excessive nitrogen application.
+        *   **Chemical Control (Foliar Spray):**
+            *   Spray with **Wettable Sulphur** 80% WP at 2.0 kg/acre in 200-400 litres of water.
+            *   Alternatively, spray with **Carbendazim** 50% WP at 500 g/acre in 200-400 litres of water.
+            *   **Tebuconazole** 25.9% EC at 250 ml/acre in 200-400 litres of water is also effective.
+            *   **Azoxystrobin** 23% SC at 200 ml/acre in 200-400 litres of water can provide control.
+
+7.  **Grey mildew (Botrytis Grey Mould - BGM, *Botrytis cinerea*)**
+    Often referred to as Botrytis Grey Mould, this disease causes water-soaked lesions on leaves, stems, and pods, which rapidly expand and become covered with a greyish, fuzzy fungal growth, especially under cool, humid conditions. It can lead to significant yield losses.
+    *   **Cultural Practices:**
+        *   Use resistant varieties.
+        *   Maintain wider row spacing and proper drainage to reduce humidity.
+        *   Avoid excessive irrigation, especially during flowering and pod development.
+        *   Remove and destroy infected plant debris.
+    *   **Chemical Control (Foliar Spray):**
+        *   Spray with **Carbendazim** 50% WP at 500 g/acre in 200-400 litres of water.
+        *   Alternatively, spray with **Chlorothalonil** 75% WP at 1.0 kg/acre in 200-400 litres of water.
+        *   **Thiophanate Methyl** 70% WP at 500 g/acre in 200-400 litres of water is also effective.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the fungicide label for safe and effective use.
+*   Ensure thorough spray coverage for optimal results.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your field conditions and current disease pressure.

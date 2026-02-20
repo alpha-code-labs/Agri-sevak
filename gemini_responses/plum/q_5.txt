@@ -1,0 +1,67 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Plum trees in Haryana:
+
+---
+
+### 1. Scab (Plum Scab - *Cladosporium carpophilum* or *Venturia carpophila*)
+
+This is a common fungal disease affecting plum fruits, leaves, and twigs. It causes dark, circular spots on the fruit, leading to cracking and reduced market value.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Prune trees to improve air circulation and sunlight penetration.
+    *   Remove and destroy infected plant debris from around the trees.
+*   **Chemical Control:** Apply fungicides starting from petal fall and continue at 10-14 day intervals, especially during wet weather, until fruit begins to ripen.
+    *   **Post-bloom to Fruit Development:**
+        *   **Captan 50% WP:** 2.5 g/L of water
+        *   **Mancozeb 75% WP:** 2.5 g/L of water
+        *   **Myclobutanil 10% WP:** 0.5-1 g/L of water
+        *   **Difenoconazole 25% EC:** 0.5 ml/L of water
+
+### 2. Canker (Bacterial Canker - *Pseudomonas syringae pv. syringae*)
+
+Bacterial canker is a serious disease of plum, causing sunken lesions on branches and trunks, often accompanied by gum exudation. It can lead to dieback of branches and, in severe cases, tree death.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Prune out infected branches during dry periods (preferably in summer) to minimize pathogen spread. Make clean cuts into healthy wood.
+    *   Avoid injuries to the bark, as these provide entry points for bacteria.
+    *   Ensure proper tree nutrition and avoid waterlogging.
+*   **Chemical Control:**
+    *   **Dormant Season (Autumn leaf fall and early spring before bud break):**
+        *   **Copper Oxychloride 50% WP:** 3-4 g/L of water (as a protective spray).
+        *   **Bordeaux Mixture (1%):** Prepare by mixing 1 kg Copper Sulphate, 1 kg hydrated lime in 100 L of water. (This is a traditional and effective bactericide/fungicide).
+    *   **Wound Protection:** After pruning, especially large cuts, apply a paste of **Copper Oxychloride 50% WP** (10-20 g/L of water) or a commercial wound sealant to protect the cut surface.
+
+### 3. Gummosis
+
+Gummosis is the oozing of amber-colored gum from the bark of plum trees. It is primarily a symptom, not a disease itself, indicating stress, injury, or the presence of an underlying problem such as canker, borers, root rot, or physiological stress (e.g., poor drainage, nutrient deficiencies).
+
+**Control Measures:**
+
+*   **Identify and Address the Underlying Cause:**
+    *   **If due to Canker:** Follow the control measures for Canker as described above.
+    *   **If due to Borers:** Inspect the trunk and branches for borer holes. If borers are present, consult with HAU for specific insecticide recommendations and application methods for borers in plum.
+    *   **If due to Root Rot/Poor Drainage:** Improve soil drainage. Avoid overwatering.
+    *   **If due to Mechanical Injury:** Protect trees from damage during cultivation.
+*   **General Tree Health and Wound Care:**
+    *   Maintain good tree vigor through proper irrigation, fertilization, and pruning.
+    *   For areas with gumming, carefully scrape away the gum and any discolored bark to expose healthy tissue. Disinfect the wound with a solution of **Copper Oxychloride 50% WP** (10-20 g/L of water) and then apply a wound sealant.
+
+### 4. Lichen
+
+Lichen is a symbiotic organism (a fungus and an alga) that grows on the bark of trees.
+
+This is not known to affect Plum as a disease or pest. Lichens are epiphytes, meaning they grow *on* the tree surface but do not parasitize or draw nutrients from the tree itself. They are generally harmless to the plum tree and do not cause disease or damage. Their presence often indicates good air quality and can sometimes be more prevalent on older, less vigorous trees or in humid, shaded conditions.
+
+**Control Measures (if removal is desired for aesthetic reasons):**
+
+While generally not necessary, if you wish to remove lichens:
+*   **Dormant Season (Winter):**
+    *   Apply a dormant oil spray (e.g., **Mineral Oil** at 20-30 ml/L of water) during the dormant period. This can help dislodge lichens and also control overwintering pests.
+    *   A spray of **Copper Oxychloride 50% WP** (3-4 g/L of water) during dormancy can also help in dislodging lichens.
+*   **Manual Removal:** Gently brush them off with a stiff brush, taking care not to damage the bark. This is best done when the lichens are dry and brittle.
+
+---
+Always ensure thorough coverage when spraying and follow all safety precautions and label instructions for chemical applications. For specific recommendations tailored to your farm's conditions, please consult with the HAU extension services.

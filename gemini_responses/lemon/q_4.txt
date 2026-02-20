@@ -1,0 +1,52 @@
+Wilt and Parawilt in Lemon (Citrus limon) are complex conditions that can be caused by a combination of factors, including fungal pathogens, bacterial diseases, nematodes, and physiological stresses. In Haryana, the primary causes often include *Phytophthora* root rot, *Fusarium* wilt, and sometimes *Verticillium* wilt, often exacerbated by poor drainage, water stress, or nematode infestations. Effective control requires an integrated approach.
+
+Here's a comprehensive strategy:
+
+**I. Integrated Management Strategies (Preventive and Cultural)**
+
+1.  **Site Selection and Soil Management:**
+    *   **Good Drainage:** Plant lemons in well-drained soils. Avoid waterlogging, which is a major predisposing factor for *Phytophthora* root rot. If drainage is poor, plant on raised beds.
+    *   **Soil Health:** Improve soil organic matter content through farmyard manure (FYM) or compost application (10-15 kg/tree annually). This enhances soil structure and microbial activity.
+    *   **pH Management:** Maintain soil pH between 6.0-7.0.
+2.  **Irrigation Management:**
+    *   **Judicious Irrigation:** Irrigate deeply but infrequently. Avoid over-irrigation, especially during cooler months.
+    *   **Drip Irrigation:** Consider drip irrigation to deliver water directly to the root zone, minimizing water wastage and reducing humidity around the trunk.
+3.  **Nutrient Management:**
+    *   **Balanced Fertilization:** Provide balanced nutrition based on soil test reports. Deficiencies or excesses can stress trees, making them more susceptible.
+    *   **Micronutrients:** Ensure adequate supply of micronutrients like Zinc, Manganese, Iron, and Boron, which are crucial for plant health.
+4.  **Rootstock Selection:**
+    *   **Resistant Rootstocks:** Use rootstocks known for resistance or tolerance to *Phytophthora* root rot and nematodes. Examples include Rangpur Lime, Rough Lemon (though susceptible to some *Phytophthora* strains), or specific trifoliate orange hybrids. Consult HAU for region-specific recommendations.
+5.  **Sanitation and Pruning:**
+    *   **Remove Infected Material:** Promptly remove and destroy severely wilted or dead branches and trees to reduce inoculum.
+    *   **Pruning:** Prune to improve air circulation within the canopy. Avoid pruning during wet weather. Disinfect pruning tools with a 1% sodium hypochlorite solution between trees.
+    *   **Graft Union:** Ensure the graft union is well above the soil line to prevent scion rooting and direct contact of susceptible scion wood with soil pathogens.
+6.  **Nematode Management:**
+    *   If nematodes are identified as a contributing factor (through soil testing), manage them as they damage roots and create entry points for fungal pathogens.
+    *   **Biological Nematicides:** Apply formulations of *Paecilomyces lilacinus* or *Purpureocillium lilacinum* as soil drench.
+    *   **Chemical Nematicides:** Use CIBRC-approved nematicides if nematode populations are high and causing significant damage.
+        *   **Fluensulfone** 200-300 kg/acre (as granular formulation, incorporated into soil).
+        *   **Fosthiazate** 100-150 kg/acre (as granular formulation, incorporated into soil).
+        *   *Note: Chemical nematicides should be used with caution and strictly as per label instructions.*
+
+**II. Chemical Management (Primarily for *Phytophthora* Root Rot, a common cause of wilting/parawilt)**
+
+For wilting symptoms primarily caused by *Phytophthora* root rot, the following CIBRC-approved fungicides can be used as soil drench or trunk paint/injection:
+
+*   **Fosetyl-aluminium** (80% WP):
+    *   **Soil Drench:** 2.5 - 3.0 grams per litre of water. Apply 5-10 litres of solution per tree, depending on tree size, around the root zone. Repeat every 3-4 weeks if symptoms persist.
+    *   **Foliar Spray:** 2.5 - 3.0 grams per litre of water. Can be used as a preventive measure or early symptom management.
+*   **Metalaxyl-M + Mancozeb** (35% WS/WP):
+    *   **Soil Drench:** 2.5 - 3.0 grams per litre of water. Apply 5-10 litres of solution per tree around the base.
+*   **Potassium Phosphonate** (40% SL or similar formulations):
+    *   **Soil Drench:** 3.0 - 5.0 ml per litre of water. Apply 5-10 litres of solution per tree.
+    *   **Foliar Spray:** 3.0 - 5.0 ml per litre of water.
+    *   **Trunk Paint/Injection:** As per product label for specific formulations, often used for severe cases.
+
+**Important Considerations:**
+
+*   **Diagnosis:** Accurate diagnosis of the specific cause of wilt is crucial for effective management. Consult with HAU experts for laboratory diagnosis if possible.
+*   **Timing:** Apply fungicides preventively or at the first sign of symptoms. Once vascular wilts are well-established, chemical control becomes less effective.
+*   **Rotation:** Rotate fungicides with different modes of action to prevent resistance development.
+*   **Safety:** Always read and follow the instructions on the product label for safe handling, application, and pre-harvest intervals.
+
+By implementing these integrated strategies, the incidence and severity of wilt and parawilt in lemon can be significantly reduced.

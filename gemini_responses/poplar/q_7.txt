@@ -1,0 +1,30 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling diseases in Poplar in Haryana.
+
+It is crucial to maintain good orchard hygiene and tree vigour to prevent disease outbreaks. Regular monitoring of your Poplar trees is essential for early detection and timely intervention.
+
+### Control of Dieback and Twig Blight in Poplar
+
+Dieback and Twig blight are common fungal diseases in Poplar, often caused by various pathogens such as *Botryodiplodia theobromae*, *Cytospora chrysosperma*, *Phomopsis* species, or *Marssonina brunnea*. Their management strategies often overlap.
+
+**1. Cultural Practices:**
+*   **Pruning:** Regularly inspect trees and prune out all affected branches and twigs showing symptoms of dieback or blight. Cut well into healthy wood, at least 15-20 cm below the visible symptoms.
+*   **Sanitation:** Collect and destroy (burn or bury deep) all pruned material to reduce the inoculum source.
+*   **Tree Vigor:** Ensure proper nutrition and irrigation to maintain tree health and vigour, as stressed trees are more susceptible to diseases. Avoid mechanical injuries to the bark.
+*   **Spacing:** Maintain adequate spacing between trees to ensure good air circulation, which helps reduce humidity and fungal growth.
+
+**2. Chemical Control (Fungicides):**
+For effective control, especially during periods conducive to disease development (e.g., high humidity, post-monsoon), fungicidal sprays can be applied. It is advisable to rotate fungicides with different modes of action to prevent resistance development.
+
+*   **Preventive/Early Stage:**
+    *   Spray with **Mancozeb** at 2.5 g/L of water.
+    *   Alternatively, spray with **Copper oxychloride** at 3 g/L of water.
+*   **Curative/Systemic Action:**
+    *   Spray with **Carbendazim** at 1 g/L of water.
+    *   Alternatively, spray with **Thiophanate-methyl** at 1 g/L of water.
+    *   For systemic action against a broader range of fungi, **Propiconazole** at 0.5 ml/L of water can also be used.
+
+Apply sprays thoroughly, ensuring complete coverage of the foliage and affected branches. Repeat applications at 10-15 day intervals if disease pressure is high, or as per product label recommendations.
+
+### Control of Tikka Disease in Poplar
+
+This is not known to affect Poplar. Tikka disease is primarily associated with groundnut (peanut) and is caused by *Cercospora arachidicola* and *Phaeoisariopsis personata*. Poplar trees are susceptible to various leaf spot diseases (e.g., *Marssonina leaf spot*, *Septoria leaf spot*), but these are distinct from "Tikka disease." If you are observing leaf spots on your Poplar, please refer to the general fungicidal recommendations provided above for Dieback and Twig Blight, as some of these fungicides are also effective against common Poplar leaf spot diseases.

@@ -1,0 +1,81 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Groundnut (Arachis hypogaea) in Haryana. Please note that these are general recommendations, and a soil test is always the most accurate way to determine specific nutrient requirements for your field.
+
+**General Nutrient Recommendations for Groundnut (per acre):**
+
+Based on HAU guidelines for average soil fertility, the recommended nutrient doses for Groundnut are:
+*   **Nitrogen (N):** 20 kg per acre
+*   **Phosphorus (P2O5):** 40-60 kg per acre (adjust based on soil test, 60 kg for low to medium P soils)
+*   **Potassium (K2O):** 40 kg per acre (adjust based on soil test, 40 kg for low to medium K soils)
+*   **Sulphur (S):** 20-40 kg per acre (crucial for oil synthesis and nodulation)
+
+Here's how to achieve these recommendations using the fertilizers you mentioned:
+
+### Recommended Fertilizer Doses:
+
+**1. Nitrogen (N):**
+
+*   **Urea:**
+    *   If you are not using DAP for Phosphorus, you will need to apply approximately **43.5 kg of Urea** per acre to supply 20 kg N (Urea contains 46% N).
+    *   **Application:** Apply as a basal dose at the time of sowing.
+*   **Nano-Urea:**
+    *   **Nano-Urea** is a foliar fertilizer and should be used as a supplementary source of nitrogen, not a replacement for basal N.
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Application:** 2-3 foliar sprays. The first spray can be given at 30-40 days after sowing (DAS) and subsequent sprays at 15-20 day intervals, depending on crop vigor and requirement.
+
+**2. Phosphorus (P2O5):**
+
+*   **DAP (Di-ammonium Phosphate):**
+    *   To supply 60 kg P2O5 per acre, you would need approximately **130.4 kg of DAP** (DAP contains 46% P2O5 and 18% N).
+    *   **Note:** This amount of DAP will also provide approximately 23.5 kg N, which covers the entire nitrogen requirement for groundnut. Therefore, if using DAP at this rate, no additional **Urea** is needed.
+    *   **Application:** Apply as a basal dose at the time of sowing.
+*   **SSP (Single Super Phosphate):**
+    *   To supply 60 kg P2O5 per acre, you would need approximately **375 kg of SSP** (SSP contains 16% P2O5 and 11% Sulphur).
+    *   **Note:** SSP is an excellent source of both Phosphorus and Sulphur, which are vital for groundnut. If using SSP, you will need to apply **Urea** separately for nitrogen.
+    *   **Application:** Apply as a basal dose at the time of sowing.
+*   **Nano-DAP:**
+    *   **Nano-DAP** is a foliar fertilizer and should be used as a supplementary source of phosphorus and nitrogen.
+    *   **Dose:** 2-4 ml per litre of water.
+    *   **Application:** 2-3 foliar sprays. The first spray can be given at 30-40 DAS and subsequent sprays at 15-20 day intervals, especially during flowering and pod development stages.
+
+**3. Potash (K2O):**
+
+*   **Muriate of Potash (MOP):**
+    *   To supply 40 kg K2O per acre, you would need approximately **66.7 kg of Muriate of Potash** (MOP contains 60% K2O).
+    *   **Application:** Apply as a basal dose at the time of sowing.
+
+**4. Sulphur (S):**
+
+*   Sulphur is critical for oil content and nodulation in groundnut.
+*   **SSP (Single Super Phosphate):**
+    *   If you are using **SSP** to meet your phosphorus requirement (375 kg SSP per acre), it will provide approximately 41.25 kg of Sulphur, which is sufficient.
+*   **Gypsum:**
+    *   If you are not using SSP, or if your soil test indicates a higher Sulphur requirement, **Gypsum** is an excellent source of both Sulphur (13-18%) and Calcium (18-23%), both essential for groundnut pod development.
+    *   **Dose:** Apply **150-200 kg of Gypsum** per acre.
+    *   **Application:** Apply as a basal dose at the time of sowing, or broadcast at flowering stage and lightly incorporate.
+*   **Elemental Sulphur:**
+    *   **Dose:** To supply 20 kg S per acre, you would need approximately **22.2 kg of Elemental Sulphur** (90% S).
+    *   **Application:** Apply as a basal dose at the time of sowing.
+
+**5. NPK (Complex Fertilizers):**
+
+*   Complex NPK fertilizers like 12:32:16 or 10:26:26 can be used, but often require supplementation.
+*   **Example (using NPK 12:32:16):**
+    *   To meet 60 kg P2O5, you would need approximately **187.5 kg of NPK 12:32:16** per acre.
+    *   This would provide:
+        *   Nitrogen: 187.5 kg * 0.12 = 22.5 kg N (sufficient)
+        *   Potassium: 187.5 kg * 0.16 = 30 kg K2O (short by 10 kg K2O)
+    *   You would then need to supplement with an additional **16.7 kg of Muriate of Potash** (to provide the remaining 10 kg K2O).
+    *   You would also need to add a separate Sulphur source (e.g., **Gypsum** or **Elemental Sulphur**) as complex NPK fertilizers typically do not contain sufficient Sulphur for groundnut.
+    *   **Application:** Apply as a basal dose at the time of sowing.
+
+**Important Micronutrients:**
+
+*   **Calcium (Ca):** Crucial for pod filling and kernel development. Often supplied by **Gypsum**. If not using Gypsum, consider foliar application of calcium nitrate (0.5% solution) during pod development.
+*   **Boron (B):** Essential for flower and pod development. If soil test indicates deficiency, apply **Borax** at 4-5 kg per acre as a basal dose, or foliar spray of Boron (e.g., Disodium Octaborate Tetrahydrate) at 1-1.5 g per litre of water during flowering.
+
+**Application Timing:**
+
+*   All basal fertilizers (Urea, DAP, SSP, Muriate of Potash, Gypsum, Elemental Sulphur, NPK complexes) should be applied and thoroughly mixed into the soil at the time of sowing.
+*   Nano-fertilizers are applied as foliar sprays at appropriate growth stages as mentioned above.
+
+Always prioritize soil testing for precise recommendations tailored to your specific field conditions.

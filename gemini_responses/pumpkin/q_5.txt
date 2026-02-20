@@ -1,0 +1,72 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling Scab, Canker, Gummosis, and Lichen in Pumpkin cultivation in Haryana.
+
+It is crucial to adopt an Integrated Pest Management (IPM) approach, combining cultural practices with judicious use of CIBRC-approved chemicals when necessary.
+
+### 1. Scab (Caused by *Cladosporium cucumerinum*)
+
+Scab is a common fungal disease affecting pumpkins and other cucurbits, particularly in cool, moist conditions.
+
+**Symptoms:**
+*   On fruits: Small, water-soaked spots that enlarge, become sunken, and develop an olive-green, velvety growth. These lesions can crack, making the fruit susceptible to secondary infections.
+*   On leaves: Angular, water-soaked spots that turn greyish-brown and may have a light halo.
+*   On stems and petioles: Elongated, sunken lesions.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Use disease-free seeds or treat seeds with a recommended fungicide.
+    *   Plant resistant or tolerant varieties if available.
+    *   Practice crop rotation with non-cucurbit crops for at least 2-3 years.
+    *   Ensure good field sanitation by removing and destroying infected plant debris.
+    *   Avoid overhead irrigation, especially late in the day, to reduce leaf wetness.
+    *   Provide adequate plant spacing for good air circulation.
+*   **Chemical Control (Fungicides):**
+    *   Apply fungicides preventively or at the first sign of symptoms, especially during periods favorable for disease development.
+    *   **Mancozeb** @ 2.5 kg/acre (or 2.5 g/L of water for foliar spray).
+    *   **Chlorothalonil** @ 2 kg/acre (or 2 g/L of water for foliar spray).
+    *   **Azoxystrobin** @ 200 ml/acre (or 0.5 ml/L of water for foliar spray).
+    *   **Difenoconazole** @ 100 ml/acre (or 0.25 ml/L of water for foliar spray).
+    *   Rotate fungicides with different modes of action to prevent resistance development. Follow label instructions for application intervals and pre-harvest intervals (PHI).
+
+### 2. Canker (Primarily Gummy Stem Blight, caused by *Didymella bryoniae*)
+
+In pumpkins, "canker" symptoms are most commonly associated with Gummy Stem Blight, a serious fungal disease.
+
+**Symptoms:**
+*   On stems: Water-soaked lesions that expand, often turning tan to brown. A characteristic gummy exudate may be observed on these lesions (linking to Gummosis). Stem cankers can girdle the stem, leading to wilting and collapse of the plant.
+*   On leaves: Circular to irregular water-soaked spots that turn brown or black, often starting from the leaf margins.
+*   On fruits: Water-soaked spots that develop into dark, firm rots, often with gummy exudate.
+
+**Control Measures:**
+
+*   **Cultural Practices:**
+    *   Use certified disease-free seeds or hot water treatment of seeds (50°C for 20-30 minutes, followed by immediate cooling and drying).
+    *   Implement a strict 2-3 year crop rotation with non-cucurbit crops.
+    *   Remove and destroy all infected plant debris immediately after harvest.
+    *   Ensure proper plant spacing and good air circulation.
+    *   Avoid injuries to plants during cultivation, as wounds can serve as entry points for the pathogen.
+*   **Chemical Control (Fungicides):**
+    *   Fungicide applications should begin preventively or at the very early stages of disease development, especially if conditions are humid and warm.
+    *   **Azoxystrobin** @ 200 ml/acre (or 0.5 ml/L of water for foliar spray).
+    *   **Difenoconazole** @ 100 ml/acre (or 0.25 ml/L of water for foliar spray).
+    *   **Mancozeb** @ 2.5 kg/acre (or 2.5 g/L of water for foliar spray).
+    *   **Chlorothalonil** @ 2 kg/acre (or 2 g/L of water for foliar spray).
+    *   **Tebuconazole** @ 250 ml/acre (or 0.6 ml/L of water for foliar spray).
+    *   Always rotate fungicides with different modes of action to manage resistance. Adhere strictly to label recommendations for dosage, application frequency, and PHI.
+
+### 3. Gummosis
+
+Gummosis is a symptom, not a disease itself. In pumpkins, the oozing of a gummy substance from stems or fruits is most commonly associated with the fungal disease Gummy Stem Blight (discussed under Canker). It can also occur due to mechanical injury, insect damage, or physiological stress.
+
+**Control Measures:**
+
+*   If gummosis is observed, first identify the underlying cause.
+*   **If due to Gummy Stem Blight:** Refer to the control measures for "Canker" above, as the same fungicides and cultural practices will help manage the disease causing the gummosis.
+*   **If due to mechanical injury or insect damage:**
+    *   Minimize physical damage to plants during field operations.
+    *   Implement appropriate pest control measures if insects are causing the injury.
+*   **If physiological:** Ensure optimal growing conditions, including proper irrigation, nutrition, and avoiding extreme temperatures.
+
+### 4. Lichen
+
+This is not known to affect Pumpkin. Lichens are symbiotic organisms (algae and fungi) that grow on the surface of plants, rocks, or soil. They are epiphytes and do not parasitize or cause any harm to the pumpkin plant itself. Therefore, no control measures are required for lichens on pumpkins.

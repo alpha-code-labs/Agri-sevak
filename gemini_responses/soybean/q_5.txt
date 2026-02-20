@@ -1,0 +1,30 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice regarding the control of Scab, Canker, Gummosis, and Lichen in Soybean for the Haryana region:
+
+1.  **Scab:**
+    This is not known to affect Soybean as a primary, named disease. While some *Fusarium* species can cause pod and seed blight symptoms that might appear scab-like, "Scab" itself is not a recognized major disease of soybean.
+
+2.  **Canker (Diaporthe Stem Canker):**
+    Diaporthe Stem Canker, caused by *Diaporthe phaseolorum* var. *caulivora* or *Diaporthe phaseolorum* var. *meridionalis*, is a significant disease of soybean. It causes sunken, dark brown lesions (cankers) on the stem, leading to wilting and premature plant death.
+
+    **Control Measures:**
+    *   **Cultural Practices (Primary Recommendations):**
+        *   **Resistant Varieties:** Plant soybean varieties known to be resistant or tolerant to Diaporthe Stem Canker. Consult HAU recommendations for suitable varieties in Haryana.
+        *   **Crop Rotation:** Implement a crop rotation program of at least 2-3 years with non-host crops such as maize, wheat, or sorghum to reduce the inoculum load in the soil.
+        *   **Residue Management:** Tillage practices that promote the decomposition of infected soybean residue can help reduce the survival of the pathogen.
+        *   **Balanced Nutrition:** Avoid excessive nitrogen fertilization, which can lead to lush growth that may be more susceptible to disease.
+        *   **Drainage:** Ensure good field drainage to prevent waterlogging, which can stress plants and favor disease development.
+    *   **Chemical Control (Fungicides):**
+        Fungicides are generally more effective as preventive measures or early applications. Their efficacy against established stem canker can be limited, and cultural practices are paramount. Always consult the product label for specific application rates and timings.
+        *   **For foliar application (if warranted and approved for soybean diseases in Haryana):**
+            *   **Azoxystrobin** (e.g., 500-625 ml of 23% SC formulation per acre)
+            *   **Pyraclostrobin** (e.g., 200-300 g of 20% WG formulation per acre)
+            *   **Tebuconazole** (e.g., 500-750 ml of 25% EC formulation per acre)
+            *   **Propiconazole** (e.g., 250-500 ml of 25% EC formulation per acre)
+            *   **Carbendazim** (e.g., 500-1000 g of 50% WP formulation per acre)
+            *   **Thiophanate methyl** (e.g., 500-750 g of 70% WP formulation per acre)
+
+3.  **Gummosis:**
+    This is not known to affect Soybean. Gummosis is a condition typically observed in woody plants (trees and shrubs) where gum exudes from the bark, often in response to stress, injury, or pathogen infection. Soybean is an herbaceous annual plant and does not exhibit gummosis.
+
+4.  **Lichen:**
+    This is not known to affect Soybean. Lichens are symbiotic organisms (fungus and alga) that grow on surfaces like tree bark, rocks, or soil. They are non-parasitic and do not grow on or cause any damage to living soybean plants.

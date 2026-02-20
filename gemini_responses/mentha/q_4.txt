@@ -1,0 +1,44 @@
+Wilt, including Parawilt, in Mentha is primarily caused by soil-borne fungal pathogens such as *Fusarium oxysporum* f. sp. *menthae* (Fusarium Wilt) and *Verticillium dahliae* (Verticillium Wilt). *Phytophthora* species can also cause root rot leading to wilting symptoms. Effective management requires an integrated approach combining cultural, biological, and chemical methods.
+
+Here's how to control Wilt in Mentha:
+
+**I. Cultural and Agronomic Practices (Most Crucial for Soil-borne Diseases):**
+
+1.  **Use Disease-Free Planting Material:** Always use healthy, certified, disease-free rhizomes or cuttings from a reputable source.
+2.  **Crop Rotation:** Avoid planting Mentha in the same field for at least 3-4 years. Rotate with non-host crops like cereals (wheat, maize), mustard, or legumes.
+3.  **Soil Solarization:** In summer, after deep ploughing, cover the soil with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, killing many soil-borne pathogens, including wilt fungi.
+4.  **Field Sanitation:**
+    *   Remove and destroy infected plants immediately to prevent disease spread.
+    *   Clean farm equipment thoroughly after working in infected fields.
+5.  **Improve Soil Drainage:** Ensure good drainage to prevent waterlogging, which can stress plants and favor root rot pathogens.
+6.  **Balanced Nutrition:** Provide balanced fertilizers. Avoid excessive nitrogen, which can make plants more susceptible. Potassium and phosphorus can enhance plant resistance.
+7.  **Resistant Varieties:** If available and suitable for Haryana's agro-climatic conditions, choose Mentha varieties known for their resistance or tolerance to wilt diseases.
+8.  **Avoid Mechanical Injury:** Minimize damage to roots during intercultural operations, as wounds can serve as entry points for pathogens.
+
+**II. Biological Control:**
+
+1.  **Trichoderma viride / Trichoderma harzianum:**
+    *   **Rhizome Treatment:** Mix **Trichoderma viride** (10-15 g/kg rhizomes) or **Trichoderma harzianum** (10-15 g/kg rhizomes) with water to form a slurry and dip rhizomes for 30 minutes before planting.
+    *   **Soil Application:** Mix **Trichoderma viride** (2.5 kg/acre) or **Trichoderma harzianum** (2.5 kg/acre) with 50-100 kg of farmyard manure (FYM) or compost, keep it moist for a week, and then broadcast evenly in the field before planting or at the time of planting.
+
+**III. Chemical Control (CIBRC Approved Technical Chemicals):**
+
+Chemical control is generally more effective as a preventive measure or at the early stages of the disease, especially for soil-borne wilts.
+
+1.  **For Fusarium Wilt and Verticillium Wilt (as a preventive measure or early stage):**
+    *   **Rhizome Treatment:**
+        *   Dip rhizomes in a solution of **Carbendazim** 50% WP (1-2 g/L of water) for 30 minutes before planting.
+        *   Alternatively, use **Thiophanate Methyl** 70% WP (1-1.5 g/L of water) for rhizome treatment.
+    *   **Soil Drenching:**
+        *   At the first sign of wilting, drench the soil around the base of the plants with **Carbendazim** 50% WP (1-2 g/L of water). Apply 200-250 ml solution per plant, depending on plant size.
+        *   Alternatively, drench with **Thiophanate Methyl** 70% WP (1-1.5 g/L of water).
+
+2.  **For Phytophthora Root Rot (if contributing to wilting/Parawilt symptoms):**
+    *   **Soil Drenching:**
+        *   Drench the soil around affected plants with a combination fungicide containing **Metalaxyl** 8% + **Mancozeb** 64% WP (2-2.5 g/L of water). Apply 200-250 ml solution per plant.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the product label for specific dosage, application methods, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your farm's conditions and the prevailing disease pressure in Haryana.

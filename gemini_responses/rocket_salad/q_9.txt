@@ -1,0 +1,44 @@
+Mites, including Red spider mite (Tetranychus urticae) and various Rust mites (Eriophyidae family), are indeed known to affect Rocket salad (Eruca sativa), causing significant damage if not managed properly. They thrive in hot, dry conditions and feed by sucking sap, leading to stippling, bronzing, leaf distortion, and reduced plant vigour.
+
+As a Senior Agronomist, I recommend an integrated approach for effective and sustainable mite control in Rocket salad:
+
+**I. Integrated Pest Management (IPM) Principles:**
+
+1.  **Regular Monitoring:** Inspect plants frequently, especially the undersides of leaves, for early signs of mites (fine webbing, tiny moving specks, stippling). Early detection is key to effective control.
+2.  **Cultural Practices:**
+    *   **Water Management:** Maintain adequate soil moisture and overhead irrigation can help dislodge mites and increase humidity, which is unfavourable for them.
+    *   **Weed Control:** Remove weeds around the crop, as they can act as alternate hosts for mites.
+    *   **Crop Rotation:** Practice crop rotation to break the pest cycle.
+    *   **Sanitation:** Remove and destroy severely infested plant parts or entire plants to reduce pest inoculum.
+3.  **Biological Control:** Encourage natural enemies like predatory mites (e.g., Amblyseius spp.), lacewings, and ladybird beetles. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+**II. Chemical Control (Acaricides):**
+
+When mite populations are high and cultural/biological methods are insufficient, judicious application of CIBRC-approved acaricides is necessary. Always ensure thorough coverage, especially on the undersides of leaves, where mites primarily reside. Rotate acaricides with different modes of action to prevent resistance development.
+
+Here are some CIBRC-approved technical chemical names for mite control, along with their typical dosages for foliar application:
+
+*   **Spiromesifen 22.9% SC:**
+    *   Dosage: 0.5 - 1.0 ml/L of water.
+    *   Mode of Action: Lipid biosynthesis inhibitor, effective against all life stages (eggs, nymphs, adults).
+*   **Fenpyroximate 5% SC:**
+    *   Dosage: 1.0 - 1.5 ml/L of water.
+    *   Mode of Action: Mitochondrial electron transport inhibitor, primarily a contact acaricide with quick knockdown.
+*   **Propargite 57% EC:**
+    *   Dosage: 1.5 - 2.0 ml/L of water.
+    *   Mode of Action: Non-systemic contact and stomach action acaricide, effective against motile stages.
+*   **Abamectin 1.9% EC:**
+    *   Dosage: 0.5 - 0.75 ml/L of water.
+    *   Mode of Action: Chloride channel activator, translaminar action, effective against mites and leaf miners.
+*   **Ethion 50% EC:**
+    *   Dosage: 1.5 - 2.0 ml/L of water.
+    *   Mode of Action: Acetylcholinesterase inhibitor (organophosphate), contact and stomach action.
+
+**Important Considerations:**
+
+*   **Pre-Harvest Interval (PHI):** Always strictly observe the Pre-Harvest Interval (PHI) mentioned on the product label. This is crucial for leafy vegetables like Rocket salad to ensure the produce is safe for consumption.
+*   **Resistance Management:** Never use the same acaricide repeatedly. Rotate between different chemical groups (different modes of action) to prevent mites from developing resistance.
+*   **Application Timing:** Apply acaricides early in the morning or late in the evening to minimize drift and maximize efficacy, especially when temperatures are cooler.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) during mixing and application. Follow all safety instructions on the product label.
+
+For precise recommendations tailored to your specific field conditions and the latest approved products, it is always advisable to consult with your local agricultural extension officer or the scientists at Haryana Agricultural University.

@@ -1,0 +1,46 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling soil pests like termites and nematodes (specifically root-knot) in Wheat in Haryana.
+
+### Control of Termites in Wheat
+
+Termites (e.g., *Odontotermes obesus*, *Microtermes obesi*) are a significant soil pest in wheat, especially in light soils and rainfed conditions, causing damage by feeding on roots and germinating seeds.
+
+**Integrated Pest Management (IPM) for Termites:**
+
+1.  **Cultural Practices:**
+    *   **Deep Summer Ploughing:** Exposes termite colonies to predators and sun, disrupting their nests.
+    *   **Removal of Stubble and Weeds:** Reduces food sources for termites.
+    *   **Proper Irrigation:** Termites prefer dry conditions; adequate moisture can deter them.
+    *   **Application of Well-Decomposed FYM:** Avoid using undecomposed organic matter, which can attract termites.
+
+2.  **Chemical Control (as per CIBRC approved recommendations):**
+    *   **Seed Treatment (Recommended for preventive control):**
+        *   Treat seeds before sowing with:
+            *   **Chlorpyrifos 20% EC** at 4 ml per kg of seed.
+            *   **Fipronil 5% SC** at 6 ml per kg of seed.
+    *   **Soil Application (Pre-sowing or at sowing, if infestation is high):**
+        *   **Chlorpyrifos 20% EC** at 2-2.5 Litres per acre. Mix with 50-100 kg of sand or dry soil and broadcast evenly before the last ploughing, or apply through irrigation water.
+        *   **Fipronil 0.3% GR** at 6-8 kg per acre. Apply uniformly in the soil at the time of sowing.
+
+### Control of Nematodes (Root-knot) in Wheat
+
+While cereal cyst nematode (*Heterodera avenae*) is a more common and significant nematode problem in wheat in Haryana, root-knot nematodes (*Meloidogyne* spp.) can also affect wheat, particularly in fields with a history of susceptible crops.
+
+**Integrated Pest Management (IPM) for Root-knot Nematodes (Primary Recommendation):**
+
+Chemical control for root-knot nematodes in wheat is generally not the primary recommendation due to economic viability and environmental concerns, especially in broad-acre cultivation. Emphasis is placed on cultural and biological methods.
+
+1.  **Cultural Practices:**
+    *   **Crop Rotation:** This is the most effective method. Rotate wheat with non-host crops such as mustard, sorghum, pearl millet, marigold, or fallow periods. Avoid continuous cultivation of susceptible crops.
+    *   **Deep Summer Ploughing:** Exposes nematode eggs and larvae to heat and desiccation, reducing their population.
+    *   **Application of Organic Amendments:** Incorporate 5-10 tonnes per acre of well-decomposed Farm Yard Manure (FYM) or compost. This improves soil health and promotes beneficial soil microorganisms that can suppress nematode populations.
+    *   **Use of Resistant/Tolerant Varieties:** While specific root-knot resistant wheat varieties are less common than for cereal cyst nematode, choosing varieties known to perform well in nematode-infested areas can help.
+    *   **Field Sanitation:** Remove and destroy infected plant debris.
+
+2.  **Biological Control:**
+    *   Seed treatment or soil application of bio-nematicides containing fungi like *Paecilomyces lilacinus* or *Purpureocillium lilacinum* can help suppress nematode populations.
+
+3.  **Chemical Control (Only if infestation is severe and cultural methods are insufficient, and as per specific local recommendations):**
+    *   If chemical intervention is deemed absolutely necessary and approved for the specific situation, a nematicide like:
+        *   **Carbofuran 3% G** at 33 kg per acre can be applied in furrows at the time of sowing. (Note: The use of such granular nematicides is often restricted or discouraged due to environmental and health concerns, and should only be considered after careful evaluation and consultation with agricultural experts).
+
+Always consult with your local agricultural extension officer or HAU experts for the most current and specific recommendations tailored to your field conditions.

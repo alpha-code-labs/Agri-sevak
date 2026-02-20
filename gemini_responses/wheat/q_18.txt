@@ -1,0 +1,30 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified doses for Growth Regulators/Hormones and the essential micronutrient Boron in Wheat cultivation in Haryana:
+
+### 1. Ethephon (Plant Growth Regulator)
+
+*   **Role**: Primarily used as a plant growth regulator to reduce plant height and prevent lodging (falling over) in high-yielding wheat varieties, especially under high fertility conditions.
+*   **Timing**: Apply at the tillering to flag leaf emergence stage (Zadoks scale 21-39), typically 45-60 days after sowing, when the crop is actively growing. Avoid application during stress conditions (drought, waterlogging, extreme temperatures).
+*   **Recommended Dose**:
+    *   **Ethephon** (39% SL formulation): 1.5 Litres per hectare (approximately **0.6 Litres per acre**) mixed in 500 Litres of water per hectare (approximately **200 Litres of water per acre**).
+    *   This translates to approximately **3 ml of Ethephon per Litre of water**.
+
+### 2. 2,4-D (Herbicide with Hormonal Action)
+
+*   **Role**: While 2,4-D is a synthetic auxin (a type of plant hormone), its primary and recommended use in wheat is as a selective post-emergence herbicide for the effective control of broadleaf weeds. It is not typically used as a growth promoter in wheat at recommended doses.
+*   **Timing**: Apply 30-35 days after sowing (DAS), when broadleaf weeds are at the 2-4 leaf stage. Ensure the wheat crop has developed 3-4 leaves.
+*   **Recommended Dose**:
+    *   **2,4-D sodium salt** (80% WP formulation): 625 grams to 1.25 kg per hectare (approximately **250 grams to 500 grams per acre**) mixed in 300-400 Litres of water per hectare (approximately **120-160 Litres of water per acre**).
+    *   This translates to approximately **2-3 grams of 2,4-D sodium salt per Litre of water**.
+    *   Alternatively, **2,4-D ethyl ester** (38% EC formulation): 1.3 to 2.6 Litres per hectare (approximately **0.5 to 1.0 Litres per acre**) mixed in 300-400 Litres of water per hectare.
+
+### 3. Boron (Essential Micronutrient)
+
+*   **Role**: Boron is an essential micronutrient crucial for cell wall formation, sugar transport, pollen viability, and seed set. Its deficiency can lead to poor grain filling and reduced yield. It is not a hormone but is vital for healthy plant growth and reproductive development.
+*   **Timing & Dose**:
+    *   **Foliar Application (for immediate correction or maintenance)**:
+        *   **Disodium octaborate tetrahydrate** (e.g., 20% Boron): Prepare a 0.1-0.2% solution.
+        *   Mix **1-2 grams of Disodium octaborate tetrahydrate per Litre of water**.
+        *   Spray twice: first at the tillering stage (around 40-50 DAS) and again at the boot stage (just before flowering).
+    *   **Soil Application (for deficient soils, based on soil test)**:
+        *   **Borax** (10.5-11.3% Boron): Apply **10 kg per hectare** (approximately **4 kg per acre**) at the time of field preparation or sowing.
+        *   *Note*: Soil testing is highly recommended to determine Boron deficiency before soil application. Over-application can be toxic.

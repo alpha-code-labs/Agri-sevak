@@ -1,0 +1,50 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling sucking pests in Tomato in Haryana.
+
+Firstly, regarding Psylla: This is not known to be a significant or economically damaging pest of Tomato in Haryana. While some psyllid species might occasionally feed on tomato, they are not typically considered a primary pest requiring specific control measures in this region.
+
+For the control of Aphids, Leafhoppers, Whiteflies, and Thrips in Tomato, an Integrated Pest Management (IPM) approach is highly recommended, combining cultural, biological, and chemical methods.
+
+**Integrated Pest Management (IPM) Strategies:**
+
+1.  **Cultural Practices:**
+    *   **Regular Monitoring:** Inspect plants frequently (especially the undersides of leaves and growing points) to detect pest infestations early.
+    *   **Weed Management:** Remove weeds in and around the field, as they can serve as alternate hosts for these pests.
+    *   **Yellow Sticky Traps:** Install yellow sticky traps (10-15 traps per acre) to monitor and mass-trap adult whiteflies, leafhoppers, and thrips.
+    *   **Reflective Mulch:** Use silver or white plastic mulch, especially in the early stages, to deter thrips and whiteflies.
+    *   **Pruning:** Remove lower, older leaves to improve air circulation and reduce pest harborage.
+
+2.  **Biological Control:**
+    *   **Conserve Natural Enemies:** Protect and encourage natural predators like ladybird beetles, lacewings, syrphid fly larvae, and parasitic wasps (e.g., *Encarsia formosa* for whiteflies), which feed on these sucking pests. Avoid broad-spectrum insecticides that harm beneficial insects.
+    *   **Biopesticides:** In cases of low to moderate infestation, consider using entomopathogenic fungi like *Beauveria bassiana* or *Lecanicillium lecanii* (formerly *Verticillium lecanii*) as per label recommendations.
+
+3.  **Chemical Control (When necessary, based on economic threshold levels):**
+    When pest populations exceed economic thresholds, chemical intervention may be required. Always rotate insecticides with different modes of action to prevent the development of resistance. Apply sprays thoroughly, ensuring coverage on the undersides of leaves where many of these pests reside.
+
+    Here are some CIBRC approved technical chemical options:
+
+    *   **For Aphids, Leafhoppers, Whiteflies, and Thrips:**
+        *   **Imidacloprid 17.8% SL:** 0.5 - 0.75 ml per litre of water.
+        *   **Thiamethoxam 25% WG:** 0.2 - 0.3 g per litre of water.
+        *   **Acetamiprid 20% SP:** 0.2 - 0.3 g per litre of water.
+
+    *   **Primarily for Whiteflies and Thrips:**
+        *   **Spiromesifen 22.9% SC:** 0.5 - 0.75 ml per litre of water.
+        *   **Diafenthiuron 50% WP:** 0.6 - 0.8 g per litre of water.
+
+    *   **Primarily for Whitefly Nymphs:**
+        *   **Buprofezin 25% SC:** 1.0 - 1.25 ml per litre of water.
+
+    *   **For Thrips and Leafhoppers:**
+        *   **Fipronil 5% SC:** 1.5 - 2.0 ml per litre of water.
+
+    *   **For early infestations and as part of organic/IPM strategy:**
+        *   **Azadirachtin (Neem based formulation, e.g., 1500 ppm):** 3 - 5 ml per litre of water.
+
+**Important Considerations:**
+
+*   **Rotation:** Always rotate insecticides with different modes of action (indicated by different IRAC codes) to prevent resistance development. For example, do not use Imidacloprid and Thiamethoxam consecutively as they belong to the same chemical group (neonicotinoids).
+*   **Timing:** Apply insecticides during cooler parts of the day (early morning or late evening) to maximize efficacy and minimize drift.
+*   **Safety:** Always read and follow the instructions on the product label, including dosage, pre-harvest interval (PHI), and safety precautions (wearing protective gear).
+*   **Water Quality:** Ensure good quality water for spraying.
+
+By implementing these strategies, you can effectively manage sucking pests in your tomato crop.

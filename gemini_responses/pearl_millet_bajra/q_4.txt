@@ -1,0 +1,41 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide the following scientifically verified advice for controlling wilt-like symptoms in Pearl Millet (Bajra) in Haryana:
+
+**Parawilt:**
+This is not known to affect Pearl Millet (Bajra). Parawilt is primarily a physiological disorder observed in crops like pigeonpea.
+
+**Wilt in Pearl Millet (Bajra):**
+Wilting in Pearl Millet (Bajra) is generally not caused by a specific vascular wilt pathogen like in some other crops. Instead, wilting symptoms can arise from various underlying issues, including:
+*   **Seedling Blight/Damping-off:** Caused by soil-borne fungi like *Fusarium* spp. and *Rhizoctonia* spp., leading to wilting and death of young seedlings.
+*   **Root Rot:** Infection of roots by various fungi, impairing water and nutrient uptake.
+*   **Stalk Rot (e.g., Charcoal Rot caused by *Macrophomina phaseolina* or *Fusarium* stalk rot):** Infection of the stalk, leading to premature drying and wilting of leaves and entire plants, especially during grain filling under stress.
+*   **Environmental Stresses:** Severe drought, waterlogging, or nutrient deficiencies can also cause wilting.
+
+Effective management involves a combination of cultural practices and, where appropriate, chemical interventions.
+
+**Control Measures for Wilt-like Symptoms:**
+
+**1. Cultural Practices:**
+*   **Resistant Varieties:** Select and sow varieties known to be tolerant or resistant to common root and stalk rots prevalent in your area. Consult HAU recommendations for specific varieties.
+*   **Crop Rotation:** Practice crop rotation with non-host crops to reduce the build-up of soil-borne pathogens. Avoid continuous cultivation of pearl millet in the same field.
+*   **Timely Sowing:** Sow pearl millet at the recommended time to avoid periods of high stress (e.g., extreme heat or drought) during critical growth stages.
+*   **Balanced Nutrition:** Ensure adequate and balanced application of fertilizers. Potassium deficiency can increase susceptibility to stalk rots.
+*   **Proper Drainage:** Ensure good field drainage to prevent waterlogging, which can stress plants and favor root rot pathogens.
+*   **Optimum Plant Density:** Maintain recommended plant spacing and density to reduce competition and stress.
+*   **Field Sanitation:** Remove and destroy infected plant debris after harvest to reduce inoculum for the next season.
+*   **Deep Ploughing:** Deep summer ploughing can help expose soil-borne pathogens to sunlight, reducing their viability.
+
+**2. Chemical Control:**
+Chemical control is primarily effective as a preventive measure, especially through seed treatment, to protect seedlings from blight and early root rot.
+
+*   **Seed Treatment:** To protect against seedling blight and early root rot:
+    *   Treat seeds with a systemic fungicide before sowing.
+    *   **Carbendazim** 12% + **Mancozeb** 63% WP at 2.5-3.0 g/kg seed.
+    *   **Thiram** 75% WS at 2.0-3.0 g/kg seed.
+    *   **Captan** 75% WS at 2.0-3.0 g/kg seed.
+    *   **Metalaxyl** 35% WS (often used for downy mildew, but also helps with damping-off caused by oomycetes) at 2.0 g/kg seed.
+
+*   **Soil Drench (for specific localized issues, less common for widespread wilt in pearl millet):**
+    *   In cases of severe localized seedling blight or root rot, a soil drench might be considered, but it is generally not practical for large-scale pearl millet cultivation.
+    *   **Carbendazim** 50% WP at 1.0-2.0 g/L of water, applied around the base of affected plants.
+
+Always follow the manufacturer's instructions and safety precautions when using any chemical. For specific recommendations tailored to your field conditions, it is advisable to consult with HAU experts or your local agricultural extension officer.

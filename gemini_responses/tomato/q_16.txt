@@ -1,0 +1,55 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Tomato cultivation in Haryana. Please note that these are general recommendations, and a soil test is highly recommended for precise nutrient management tailored to your specific field conditions.
+
+**General NPK Recommendation for Tomato (High Yielding Varieties):**
+*   **Nitrogen (N):** 120-150 kg per acre
+*   **Phosphorus (P2O5):** 60-80 kg per acre
+*   **Potassium (K2O):** 60-80 kg per acre
+*   **Sulphur (S):** 20-30 kg per acre
+
+The following breakdown provides the recommended doses for specific fertilizers to meet these nutrient requirements:
+
+*   **Urea (46% N)**
+    *   **Dose:** Approximately 260-325 kg per acre (to supply 120-150 kg N, after accounting for N supplied by DAP/NPK).
+    *   **Application:** Apply in split doses.
+        *   1/4th of the total N as basal at transplanting.
+        *   1/4th at 30-40 days after transplanting (DAT).
+        *   1/4th at 60-70 DAT.
+        *   Remaining 1/4th at fruit setting stage.
+
+*   **Nano-Urea (Liquid, 4% N)**
+    *   **Dose:** 2-4 ml per litre of water (typically 250-500 ml per acre per spray).
+    *   **Application:** Foliar spray. Apply 2-3 sprays during critical growth stages such as active vegetative growth, pre-flowering, and fruit development. Nano-Urea acts as a supplement and does not replace the full basal requirement of conventional Urea.
+
+*   **DAP (Di-ammonium Phosphate, 18% N, 46% P2O5)**
+    *   **Dose:** Approximately 130-174 kg per acre (to supply 60-80 kg P2O5). This will also provide 23-31 kg N, which should be adjusted in the Urea application.
+    *   **Application:** Entire quantity as a basal dose at the time of transplanting.
+
+*   **Nano-DAP (Liquid, 8% N, 16% P2O5)**
+    *   **Dose:** 2-4 ml per litre of water (typically 250-500 ml per acre per spray).
+    *   **Application:** Foliar spray. Apply 2-3 sprays during critical growth stages such as active vegetative growth, pre-flowering, and fruit development. Nano-DAP acts as a supplement and does not replace the full basal requirement of conventional DAP.
+
+*   **NPK (Complex Fertilizers)**
+    *   **Granular NPK (e.g., 12:32:16, 10:26:26):** If using complex NPK fertilizers, adjust the quantity to meet the P2O5 requirement primarily, then supplement N and K with other fertilizers. For example, to provide 60 kg P2O5 using **NPK 12:32:16**, you would need approximately 187.5 kg per acre as a basal dose.
+    *   **Water-soluble NPK (e.g., 19:19:19, 0:52:34, 13:0:45):** For foliar application, use at a concentration of 5-10 g per litre of water (0.5-1% solution) during specific growth stages to address nutrient deficiencies or boost growth.
+
+*   **SSP (Single Super Phosphate, 16% P2O5, 11% S)**
+    *   **Dose:** Approximately 375-500 kg per acre (to supply 60-80 kg P2O5). This will also provide 41-55 kg Sulphur.
+    *   **Application:** Entire quantity as a basal dose at the time of transplanting. If using SSP, the Sulphur requirement might be largely met.
+
+*   **Potash (Muriate of Potash - MOP, 60% K2O or Sulphate of Potash - SOP, 50% K2O)**
+    *   **Dose:**
+        *   Using **Muriate of Potash (MOP)**: Approximately 100-133 kg per acre (to supply 60-80 kg K2O).
+        *   Using **Sulphate of Potash (SOP)**: Approximately 120-160 kg per acre (to supply 60-80 kg K2O). SOP also provides Sulphur (20-27 kg S).
+    *   **Application:** Half as basal at transplanting, and the remaining half at 30-40 DAT.
+
+*   **Sulphur (Bentonite Sulphur 90%)**
+    *   **Dose:** Approximately 22-33 kg per acre (to supply 20-30 kg Sulphur).
+    *   **Application:** Entire quantity as a basal dose at the time of transplanting. This is recommended if Sulphur is not adequately supplied by SSP or SOP.
+
+**Important Considerations:**
+*   **Soil Testing:** Always conduct a soil test to determine the exact nutrient status of your field. This will help in fine-tuning the fertilizer recommendations and avoiding over or under-application.
+*   **Organic Matter:** Incorporating farmyard manure (FYM) or compost (20-25 tonnes per acre) significantly improves soil health and nutrient availability, reducing the need for chemical fertilizers.
+*   **Irrigation:** Ensure adequate and timely irrigation, especially after fertilizer application, for efficient nutrient uptake.
+*   **Micronutrients:** Tomato also requires micronutrients like Zinc, Boron, Iron, Manganese. If soil test indicates deficiency, apply appropriate micronutrient fertilizers as per recommendations. For example, Zinc Sulphate (21%) at 10-12 kg/acre or Borax (10.5%) at 4-6 kg/acre as basal.
+
+By following these guidelines, you can ensure optimal nutrient supply for healthy growth and high yields in your tomato crop.

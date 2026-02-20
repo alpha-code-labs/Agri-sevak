@@ -1,0 +1,49 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified strategies for controlling soil pests like Termites and Root-knot Nematodes in Chillies, keeping in mind the agro-climatic conditions of Haryana and CIBRC approved practices.
+
+It is crucial to adopt an Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods for sustainable and effective control.
+
+### Control of Termites (Odontotermes obesus, Microtermes obesi) in Chillies
+
+Termites attack the roots and stem base, leading to wilting and eventual death of the chilli plants.
+
+**1. Cultural Practices:**
+*   **Field Sanitation:** Remove all crop residues, stubble, and woody debris from the field before planting, as these can serve as food sources and breeding sites for termites.
+*   **Deep Ploughing:** Plough the field deeply during summer to expose termite colonies to sunlight and predators, disrupting their nests.
+*   **Avoid Organic Matter Accumulation:** Do not leave large quantities of undecomposed organic matter near the plant base.
+*   **Proper Irrigation:** Maintain adequate soil moisture, as termites prefer dry conditions.
+
+**2. Chemical Control (Soil Application/Drenching):**
+For severe infestations, chemical control can be integrated.
+*   **Pre-planting Soil Treatment:**
+    *   Apply **Chlorpyrifos 20% EC** at 2.5 Litres per acre mixed in 500-1000 Litres of water, and drench the soil thoroughly before transplanting.
+*   **Post-planting Drenching (for existing plants):**
+    *   Drench the soil around the base of affected plants with **Chlorpyrifos 20% EC** at 4 ml per Litre of water.
+
+### Control of Root-knot Nematodes (Meloidogyne spp.) in Chillies
+
+Root-knot nematodes cause galls on roots, leading to stunted growth, yellowing of leaves, reduced vigour, and significant yield loss.
+
+**1. Cultural Practices:**
+*   **Crop Rotation:** Rotate chillies with non-host crops like marigold (Tagetes spp.), mustard, or cereals (e.g., maize, sorghum) for at least 2-3 years. Marigold is particularly effective as a trap crop.
+*   **Solarization:** Cover the moist soil with transparent polyethylene sheets for 4-6 weeks during hot summer months (May-June) to raise soil temperature and kill nematodes.
+*   **Organic Amendments:** Incorporate well-decomposed farmyard manure (FYM) or compost, and especially **Neem cake** at 200-400 kg per acre into the soil 2-3 weeks before planting. Neem cake releases compounds that are toxic to nematodes and enhance beneficial microbial activity.
+*   **Resistant Varieties:** If available and suitable for Haryana, choose chilli varieties known to have resistance or tolerance to root-knot nematodes.
+*   **Healthy Seedlings:** Use nematode-free seedlings from a reputable nursery.
+
+**2. Biological Control:**
+*   **Bio-nematicides:** Apply beneficial fungi like **Purpureocillium lilacinum** (formerly *Paecilomyces lilacinus*) or **Trichoderma harzianum** to the soil at the time of planting or as a drench. These fungi parasitize nematode eggs and juveniles.
+    *   **Purpureocillium lilacinum** (liquid formulation): 2.5-5 Litres per acre mixed with FYM or water for soil application/drench.
+    *   **Trichoderma harzianum** (powder formulation): 2-4 kg per acre mixed with 100 kg FYM and applied to the soil.
+
+**3. Chemical Control (Soil Application):**
+For severe nematode infestations, chemical nematicides can be used as a targeted approach.
+*   **At Planting/Transplanting:**
+    *   Apply **Fluensulfone 2% GR** at 20-25 kg per acre by broadcasting and incorporating into the soil before transplanting.
+    *   Alternatively, apply **Carbofuran 3% CG** at 10-13 kg per acre by broadcasting and incorporating into the soil at the time of planting or 30-45 days after planting.
+    *   Another option is **Ethoprophos 10% GR** at 10 kg per acre, applied by broadcasting and incorporating into the soil before planting.
+
+**Important Considerations:**
+*   Always read and follow the label instructions for any chemical product regarding dosage, application method, and safety precautions.
+*   Wear appropriate personal protective equipment (PPE) during handling and application of chemicals.
+*   Consult with your local agricultural extension officer or HAU experts for specific recommendations tailored to your field conditions and the latest CIBRC guidelines.
+*   Regular soil testing can help determine the presence and population density of nematodes, guiding your management decisions.

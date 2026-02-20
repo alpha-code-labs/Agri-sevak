@@ -1,0 +1,40 @@
+Wilt (including Parawilt) is a significant concern in Moth Bean cultivation, often caused by soil-borne fungal pathogens such as *Fusarium oxysporum f. sp. vignae* and *Rhizoctonia solani*. Parawilt specifically can be a complex of these pathogens exacerbated by environmental stresses. An integrated approach is crucial for effective management.
+
+Here's how to control Wilt in Moth Bean:
+
+**I. Integrated Management Approach:**
+A combination of cultural, biological, and chemical methods provides the most sustainable and effective control.
+
+**II. Cultural Practices:**
+These practices help reduce the pathogen inoculum in the soil and enhance plant vigor.
+
+*   **Resistant/Tolerant Varieties:** Where available, select and cultivate Moth Bean varieties known to be resistant or tolerant to wilt diseases. Consult HAU for recommended varieties suitable for Haryana.
+*   **Crop Rotation:** Avoid continuous cultivation of Moth Bean or other susceptible legume crops in the same field. Rotate with non-host crops like cereals (e.g., Pearl Millet, Sorghum) for at least 2-3 years to reduce soil-borne inoculum.
+*   **Field Sanitation:** Remove and destroy infected plant debris from the field after harvest to prevent the carry-over of pathogens.
+*   **Soil Solarization:** In summer, after deep ploughing, cover the field with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, effectively killing many soil-borne pathogens, including wilt fungi.
+*   **Balanced Nutrition:** Ensure proper soil fertility and balanced nutrient application. Healthy plants are more resilient to disease. Avoid excessive nitrogen, which can make plants more susceptible.
+*   **Proper Water Management:** Avoid waterlogging, which can stress plants and favor certain fungal pathogens. Ensure good drainage. Similarly, avoid severe drought stress.
+
+**III. Biological Control:**
+Utilizing beneficial microorganisms can help suppress wilt pathogens.
+
+*   **Seed Treatment:** Treat seeds with bio-control agents before sowing.
+    *   **Trichoderma viride 1% WP:** Apply at 4 g per kg of seed.
+*   **Soil Application:**
+    *   **Trichoderma viride 1% WP:** Mix 2 kg of the formulation with 50 kg of farmyard manure (FYM) or compost, moisten, and keep it covered for 7-10 days. Broadcast this mixture uniformly in one acre of field before sowing or at the time of last ploughing.
+
+**IV. Chemical Control:**
+Chemical interventions, particularly seed treatment, are highly effective in protecting young seedlings from soil-borne pathogens.
+
+*   **Seed Treatment (Most Critical Step):**
+    *   **Carbendazim 50% WP:** Treat seeds at 1-2 g per kg of seed.
+    *   **Thiophanate-methyl 70% WP:** Treat seeds at 1-2 g per kg of seed.
+    *   **Carboxin 37.5% + Thiram 37.5% DS (75% DS):** This combination is particularly effective against *Rhizoctonia* and *Fusarium*. Treat seeds at 2-3 g per kg of seed.
+    *   **Thiram 75% WS:** Treat seeds at 2-3 g per kg of seed.
+
+*   **Soil Drenching (for localized patches):**
+    If wilt appears in localized patches after emergence, soil drenching can help contain the spread.
+    *   **Carbendazim 50% WP:** Mix 0.5-1 kg in 500-1000 litres of water and drench the affected plant basins or rows in one acre.
+    *   **Validamycin 3% L:** For *Rhizoctonia* induced parawilt, drench the soil around affected plants with a solution prepared by mixing 1-2 litres of **Validamycin 3% L** in 500-1000 litres of water per acre.
+
+Always follow the manufacturer's instructions and safety precautions when handling and applying chemicals. For specific recommendations tailored to your field conditions, please consult with the plant pathology experts at HAU, Hisar.

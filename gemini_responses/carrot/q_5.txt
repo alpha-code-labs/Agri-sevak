@@ -1,0 +1,55 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling the mentioned conditions in carrots, specifically for Haryana conditions:
+
+### Control of Scab in Carrot
+
+Scab in carrots is primarily caused by *Streptomyces scabies* and related species, leading to rough, corky lesions on the root surface.
+
+**Cultural and Management Practices:**
+
+*   **Crop Rotation:** Implement a 3-4 year crop rotation with non-host crops like cereals (wheat, maize) or legumes. Avoid planting carrots in fields where potatoes, radishes, or other susceptible root crops have been grown recently.
+*   **Soil pH Management:** *Streptomyces* scab thrives in alkaline soils (pH above 7.0). Carrots prefer slightly acidic to neutral soils (pH 6.0-7.0). Adjusting soil pH downwards (e.g., by incorporating organic matter or using acidifying fertilizers like ammonium sulfate) can help suppress the disease.
+*   **Organic Matter:** Incorporating well-decomposed organic matter into the soil can improve soil health and microbial diversity, which can help suppress scab pathogens.
+*   **Resistant Varieties:** Where available and suitable for Haryana's agro-climatic conditions, choose carrot varieties known for their resistance or tolerance to common scab.
+*   **Irrigation:** Maintain consistent soil moisture, especially during root development, as fluctuating moisture levels can exacerbate scab severity.
+
+**Chemical Control:**
+Direct chemical control for *Streptomyces* scab in the field is generally not effective or recommended once the disease is established. The primary focus should be on preventive cultural practices. No specific CIBRC-approved bactericides are widely recommended for direct soil application against *Streptomyces* scab in carrots.
+
+### Control of Canker in Carrot
+
+"Canker" in carrots can refer to various root and crown lesions caused by different fungal pathogens. The most common ones include *Alternaria dauci* (Alternaria leaf blight, which can extend to the crown), *Rhizoctonia solani* (Rhizoctonia root rot), and *Sclerotinia sclerotiorum* (White mold).
+
+**Cultural and Management Practices:**
+
+*   **Crop Rotation:** Rotate carrots with non-host crops for at least 2-3 years to reduce pathogen inoculum in the soil.
+*   **Sanitation:** Remove and destroy infected plant debris to prevent the build-up and spread of pathogens.
+*   **Seed Treatment:** Use certified disease-free seeds or treat seeds with appropriate fungicides.
+*   **Proper Spacing:** Ensure adequate plant spacing to improve air circulation and reduce humidity, which can favor fungal growth.
+*   **Soil Drainage:** Improve soil drainage to prevent waterlogging, which can stress plants and make them more susceptible to root rots.
+
+**Chemical Control (CIBRC Approved):**
+
+1.  **For Alternaria Leaf Blight (leading to crown canker):**
+    *   Foliar spray at the first sign of symptoms:
+        *   **Mancozeb** 75% WP: 2.5 kg/acre (in 500-1000 L of water) or 2.5 g/L.
+        *   **Chlorothalonil** 75% WP: 1.5-2.0 kg/acre (in 500-1000 L of water) or 1.5-2.0 g/L.
+        *   **Azoxystrobin** 23% SC: 200 ml/acre (in 200-400 L of water) or 0.5-1.0 ml/L.
+
+2.  **For Rhizoctonia Root Rot:**
+    *   **Seed Treatment:**
+        *   **Thiram** 75% WS: 2.5-3.0 g/kg of seed.
+    *   **Soil Drench (if severe and localized):**
+        *   **Carbendazim** 50% WP: 0.5-1.0 g/L of water, applied as a drench around the base of affected plants.
+
+3.  **For Sclerotinia Rot (White Mold):**
+    *   Foliar spray or soil drench targeting the crown area:
+        *   **Carbendazim** 50% WP: 0.5-1.0 kg/acre (in 500-1000 L of water) or 1.0-2.0 g/L.
+        *   **Thiophanate-methyl** 70% WP: 0.5-1.0 kg/acre (in 500-1000 L of water) or 1.0-2.0 g/L.
+
+### Gummosis in Carrot
+
+This is not known to affect Carrot. Gummosis is a condition typically observed in woody plants (trees and shrubs) where gum is exuded from the bark, often in response to stress, injury, or pathogen infection. Carrots, being root vegetables, do not exhibit gummosis.
+
+### Lichen in Carrot
+
+This is not known to affect Carrot. Lichens are symbiotic organisms (fungus and alga/cyanobacterium) that grow on surfaces like tree bark, rocks, or soil. They are non-parasitic and do not grow on or affect living carrot plants or their roots.

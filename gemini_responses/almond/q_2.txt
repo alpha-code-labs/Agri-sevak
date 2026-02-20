@@ -1,0 +1,28 @@
+Rust diseases, primarily caused by *Tranzschelia discolor* (Prune-almond rust), can affect almond trees in Haryana, leading to premature defoliation, reduced tree vigor, and impact on nut development. While the specific classifications like 'Black, Brown, Yellow, White, and Red rust' are more commonly associated with other crops, general rust symptoms (orange-brown pustules, often on the underside of leaves) are relevant for almond. Effective control involves an integrated approach combining cultural practices and timely fungicidal applications.
+
+**Cultural Practices:**
+
+*   **Sanitation:** Collect and destroy all fallen infected leaves during autumn and winter. This significantly reduces the amount of overwintering inoculum that can cause new infections in the spring.
+*   **Pruning:** Ensure proper pruning to maintain an open canopy. This improves air circulation and reduces humidity within the tree, creating less favorable conditions for rust development.
+*   **Weed Management:** Control weeds around the orchard as some can act as alternate hosts for rust fungi.
+*   **Irrigation:** Avoid overhead irrigation, especially late in the day, which can prolong leaf wetness and promote fungal growth. Drip irrigation is preferred.
+
+**Chemical Control (Fungicides):**
+
+Fungicide applications are crucial, especially during periods of warm, humid weather when rust is most active. Start applications preventively or at the first sign of disease.
+
+*   **Preventive/Early Season Application (at bud break or early leaf emergence if rust was severe previously):**
+    *   **Mancozeb** @ 2.5 g/L of water.
+*   **Systemic/Curative Options (when symptoms appear or for sustained control):**
+    *   **Difenoconazole** @ 0.5 ml/L of water.
+    *   **Propiconazole** @ 0.5 ml/L of water.
+    *   **Azoxystrobin** @ 1 ml/L of water.
+    *   **Tebuconazole** @ 0.75 ml/L of water.
+
+**Important Considerations for Application:**
+
+*   **Timing:** The first spray is critical, typically applied when leaves are half to fully expanded, or at the very first appearance of rust symptoms. Subsequent sprays may be required at 10-14 day intervals, particularly during periods of high humidity and rainfall.
+*   **Rotation:** To prevent the development of fungicide resistance, it is essential to rotate fungicides with different modes of action (e.g., alternate between triazoles, strobilurins, and dithiocarbamates).
+*   **Coverage:** Ensure thorough coverage of all leaf surfaces, especially the undersides where rust pustules are most prevalent.
+*   **Pre-Harvest Interval (PHI):** Always strictly observe the specified Pre-Harvest Interval for each fungicide before harvesting the nuts to ensure food safety.
+*   **Consultation:** For specific recommendations tailored to your farm's conditions, current disease pressure, and the latest CIBRC guidelines, always consult with HAU extension specialists or local agricultural officers.

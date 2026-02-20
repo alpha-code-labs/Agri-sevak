@@ -1,0 +1,69 @@
+Namaste, Kisan bhaiyon! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I am here to provide you with scientifically verified advice for managing common issues in your Pear orchards.
+
+Here's how you can control Scab, Canker, Gummosis, and Lichen in Pear:
+
+### 1. Pear Scab (Caused by *Venturia pirina*)
+
+Pear scab is a significant fungal disease affecting leaves, fruits, and twigs, leading to dark, velvety spots and fruit deformation.
+
+*   **Cultural Practices:**
+    *   Prune out and destroy infected twigs during the dormant season.
+    *   Collect and remove fallen leaves and mummified fruits from the orchard floor, as they harbor the fungus.
+    *   Ensure good air circulation within the canopy through proper pruning.
+
+*   **Chemical Control:**
+    *   **Dormant Spray (before bud break):**
+        *   Spray with **Copper Oxychloride** (50% WP) @ 3 grams per litre of water.
+    *   **During Growing Season (starting from green tip to fruit development, rotate fungicides):**
+        *   Spray with **Mancozeb** (75% WP) @ 2.5 grams per litre of water.
+        *   Alternatively, spray with **Captan** (50% WP) @ 2 grams per litre of water.
+        *   For systemic action, you can use **Difenoconazole** (25% EC) @ 0.5 ml per litre of water.
+        *   Another effective systemic option is **Myclobutanil** (10% WP) @ 0.5 grams per litre of water.
+    *   Apply sprays at 7-10 day intervals, especially during wet weather, and ensure thorough coverage. Rotate fungicides to prevent the development of resistance.
+
+### 2. Pear Canker (Caused by various fungi and bacteria)
+
+Cankers are sunken, discolored lesions on branches, trunks, or twigs, often leading to girdling and dieback.
+
+*   **Cultural Practices:**
+    *   Prune out all cankered branches and twigs during the dormant season or dry periods. Make cuts well below the visible canker into healthy wood.
+    *   Sterilize pruning tools with a 10% bleach solution or methylated spirit between cuts to prevent disease spread.
+    *   Avoid mechanical injuries to the bark, as these can serve as entry points for pathogens.
+
+*   **Chemical Control:**
+    *   **Wound Protection (after pruning):**
+        *   Apply a paste made of **Copper Oxychloride** (50% WP) @ 50 grams mixed in 100 ml of linseed oil or water to all large pruning cuts and scraped canker areas.
+    *   **Dormant Spray:**
+        *   Spray the entire tree with **Copper Oxychloride** (50% WP) @ 3 grams per litre of water to reduce inoculum.
+    *   **For active cankers:**
+        *   Carefully scrape away the diseased bark until healthy tissue is exposed, then apply a paste of **Bordeaux mixture** (1:1:100 ratio, i.e., 1 kg Copper Sulphate, 1 kg Lime in 100 litres water) or **Copper Oxychloride** paste.
+
+### 3. Gummosis (A symptom, often caused by *Phytophthora* species or stress)
+
+Gummosis is the oozing of amber-colored gum from the bark of the tree. It is a symptom, not a disease itself, and can be caused by fungal infections (like *Phytophthora*), bacterial infections, insect damage, or environmental stresses (e.g., waterlogging, nutrient deficiencies, mechanical injury).
+
+*   **Cultural Practices:**
+    *   **Identify the underlying cause:** This is crucial. Check for signs of insect borers, bark damage, or poor drainage.
+    *   Improve soil drainage to prevent waterlogging, which is a common cause of *Phytophthora* root and collar rot.
+    *   Avoid injuring the trunk and roots during cultivation.
+    *   Ensure balanced nutrition and proper irrigation.
+    *   Carefully scrape away the gum and discolored bark to expose healthy wood, then allow the area to dry.
+
+*   **Chemical Control (if fungal cause, especially *Phytophthora*, is suspected):**
+    *   **Collar Drench/Trunk Paint:**
+        *   Drench the soil around the base of the affected tree with **Fosetyl-aluminium** (80% WP) @ 2.5 grams per litre of water. This systemic fungicide is effective against *Phytophthora*.
+        *   Alternatively, after scraping the affected area, paint the trunk with a solution of **Copper Oxychloride** (50% WP) @ 3-4 grams per litre of water.
+
+### 4. Lichen
+
+This is not known to affect Pear in a detrimental, parasitic way. Lichens are symbiotic organisms (a combination of a fungus and an alga) that grow epiphytically on the bark of trees. They do not draw nutrients from the tree and are generally harmless. Their presence often indicates good air quality and can sometimes be more prevalent on slow-growing or less vigorous trees due to less bark shedding, but they do not cause disease or directly harm the tree.
+
+*   **Control (if removal is desired for aesthetic reasons or perceived issues, though generally unnecessary):**
+    *   **Cultural Practices:**
+        *   Improve air circulation within the tree canopy by judicious pruning of dense branches. This can make the environment less favorable for lichen growth.
+    *   **Chemical Control (use during dormant season):**
+        *   Spray with **Horticultural Mineral Oil** @ 20 ml per litre of water. This can help to dislodge lichens.
+        *   Alternatively, a dormant spray of **Copper Oxychloride** (50% WP) @ 3 grams per litre of water can also help reduce lichen growth.
+    *   *Note:* Chemical control is generally not recommended solely for lichen removal due to their harmless nature and the potential for unnecessary chemical application.
+
+Always follow the manufacturer's instructions for chemical application, including safety precautions and pre-harvest intervals. For specific recommendations tailored to your farm, please consult with your local agricultural extension officer.

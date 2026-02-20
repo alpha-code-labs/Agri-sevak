@@ -1,0 +1,36 @@
+Mites, including Red Spider Mite (*Tetranychus urticae*) and various Rust Mites (Eriophyidae family, e.g., *Aculops dauci*), are significant pests of carrots in Haryana, especially during dry and warm periods. They cause damage ranging from stippling, bronzing, and russeting to leaf distortion and reduced yield. An integrated pest management (IPM) approach is recommended for effective control.
+
+**I. Cultural and Mechanical Control:**
+
+*   **Weed Management:** Keep the field free of weeds, as many weeds act as alternate hosts for mites.
+*   **Proper Irrigation:** Maintain adequate soil moisture. Overhead irrigation can sometimes help dislodge mites from foliage, but ensure it doesn't promote fungal diseases.
+*   **Crop Rotation:** Practice crop rotation to break the pest cycle.
+*   **Avoid Excessive Nitrogen:** High nitrogen levels can lead to lush, succulent growth that is more attractive to mites.
+
+**II. Biological Control:**
+
+*   **Conserve Natural Enemies:** Encourage natural predators like predatory mites (*Phytoseiulus persimilis*, *Amblyseius* spp.) and ladybird beetles. Avoid broad-spectrum insecticides that harm these beneficial insects.
+
+**III. Chemical Control (Acaricides):**
+
+When mite populations reach damaging levels, chemical intervention may be necessary. Always rotate acaricides with different modes of action to prevent resistance development. Apply thoroughly, ensuring good coverage of both upper and lower leaf surfaces.
+
+**Recommended CIBRC-approved acaricides for carrots against mites:**
+
+*   **For Red Spider Mite and Rust Mite:**
+    *   **Spiromesifen** 22.9% SC: 125 ml per acre (diluted in 200-300 litres of water).
+    *   **Fenpyroximate** 5% SC: 250-300 ml per acre (diluted in 200-300 litres of water).
+    *   **Propargite** 57% EC: 1.0-1.25 litres per acre (diluted in 200-300 litres of water).
+    *   **Abamectin** 1.9% EC: 150-200 ml per acre (diluted in 200-300 litres of water).
+    *   **Sulphur** 80% WP: 1.5-2.0 kg per acre (diluted in 200-300 litres of water). *Note: Avoid application during very hot weather (above 30-32°C) as it can cause phytotoxicity.*
+
+*   **Specifically for eggs and immature stages (useful in rotation):**
+    *   **Hexythiazox** 5.45% EC: 250-300 ml per acre (diluted in 200-300 litres of water).
+    *   **Etoxazole** 10% SC: 100-125 ml per acre (diluted in 200-300 litres of water).
+
+**Important Considerations:**
+
+*   **Timing:** Apply acaricides at the first sign of mite infestation to prevent rapid population build-up.
+*   **Coverage:** Ensure thorough spray coverage, especially on the undersides of leaves where mites often reside.
+*   **Resistance Management:** Rotate acaricides with different modes of action to prevent the development of resistance. Do not use the same chemical repeatedly.
+*   **Safety:** Always read and follow the instructions on the product label, including dosage, pre-harvest interval (PHI), and safety precautions. Use appropriate personal protective equipment (PPE).

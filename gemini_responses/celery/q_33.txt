@@ -1,0 +1,52 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend an integrated approach for weed management in celery, combining cultural practices with judicious use of CIBRC-approved herbicides. Celery is a cool-season crop, and effective weed control is vital, especially during its early growth stages, as it is a poor competitor against weeds.
+
+All the weeds you mentioned (Broadleaf, Narrowleaf, Amarbail, Bathu, Congress grass, Orobanche, and Phalaris minor) are known to affect celery cultivation and can significantly reduce yield if not managed properly.
+
+**Integrated Weed Management Strategy:**
+
+1.  **Cultural Practices:**
+    *   **Field Preparation:** Thorough ploughing and harrowing before planting help in uprooting and burying weed seeds.
+    *   **Crop Rotation:** Rotate celery with crops that have different weed flora or allow for different weed control methods.
+    *   **Certified Seeds:** Use clean, certified celery seeds free from weed seeds.
+    *   **Timely Sowing:** Sowing at the optimal time allows celery to establish quickly and compete better with weeds.
+    *   **Inter-cultivation/Manual Weeding:** This is highly effective, especially in the early stages. Perform 2-3 manual weedings at 20-30 and 40-50 days after transplanting/sowing.
+    *   **Mulching:** Organic mulches (straw, dry leaves) can suppress weed growth, conserve moisture, and regulate soil temperature.
+    *   **Solarization:** For severe weed problems, especially parasitic weeds like Orobanche, soil solarization during the hot summer months before planting can be effective in reducing the weed seed bank.
+
+2.  **Chemical Control (Use CIBRC approved technical chemicals only):**
+
+    **A. Pre-emergence Herbicides (Apply within 3 days of transplanting or before celery emergence if direct-seeded):**
+    These herbicides form a chemical barrier in the soil, preventing weed seeds from germinating.
+    *   For general broadleaf and narrowleaf annual weeds:
+        *   **Pendimethalin** @ 1.0 kg/acre in 200-300 L of water.
+        *   **Oxyfluorfen** @ 0.2-0.3 kg/acre in 200-300 L of water.
+
+    **B. Post-emergence Herbicides (Apply when weeds are young and actively growing, typically 2-4 leaf stage):**
+    These are primarily for narrowleaf (grassy) weeds. Celery is a broadleaf crop, so grass-specific herbicides are generally safe.
+    *   For narrowleaf weeds like **Phalaris minor** and other annual grasses:
+        *   **Fluazifop-P-butyl** @ 0.25-0.5 L/acre in 200-300 L of water.
+        *   **Quizalofop-ethyl** @ 0.25-0.5 L/acre in 200-300 L of water.
+        *   **Sethoxydim** @ 0.5-1.0 L/acre in 200-300 L of water.
+
+    **C. Specific Considerations for Parasitic Weeds:**
+
+    *   **Amarbail (Cuscuta spp.):**
+        *   Prevention is key. Use clean seeds and avoid bringing contaminated soil/plant material into the field.
+        *   Pre-emergence application of **Pendimethalin** can offer some suppression.
+        *   Manual removal of *Amarbail* strands immediately upon appearance, before they attach to celery, is critical. Remove affected celery plants if infestation is severe to prevent spread.
+        *   Deep ploughing after harvest can bury *Cuscuta* seeds.
+
+    *   **Orobanche (Broomrape):**
+        *   This is a highly challenging parasitic weed.
+        *   **Prevention:** Avoid planting celery in fields with a history of *Orobanche* infestation.
+        *   **Manual Removal:** Carefully remove *Orobanche* spikes before they flower and set seeds. This is labor-intensive but crucial to reduce the seed bank.
+        *   **Crop Rotation:** Rotate with non-host crops (e.g., cereals like wheat, maize) for several years.
+        *   **Soil Solarization:** Effective in reducing *Orobanche* seed bank in the soil.
+
+**Important Precautions:**
+*   Always read and follow the label instructions for any herbicide.
+*   Use the correct dosage and spray volume.
+*   Ensure uniform spray coverage.
+*   Avoid spraying during windy conditions to prevent drift.
+*   Wear appropriate personal protective equipment (PPE).
+*   Consult with local agricultural extension specialists for specific recommendations tailored to your field conditions and current CIBRC guidelines.

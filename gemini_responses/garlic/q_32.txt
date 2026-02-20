@@ -1,0 +1,83 @@
+"Drying up" in garlic, manifesting as drying branches, leaves, fruits (bulbs in this context), and flowers, is a symptom rather than a single disease. It indicates severe stress or damage to the plant. As a Senior Agronomist at HAU, Hisar, I advise a thorough examination to identify the underlying cause, as management strategies vary significantly.
+
+Here are the common causes of drying up in garlic in Haryana and their recommended management:
+
+### 1. Fungal Diseases
+
+These are major causes of wilting and drying of garlic plants.
+
+*   **Fusarium Basal Rot (caused by *Fusarium oxysporum f. sp. cepae*) and White Rot (caused by *Sclerotium cepivorum*)**
+    *   **Symptoms:** Yellowing and dieback of leaves from the tip downwards, stunting, wilting, and eventually drying up of the entire plant. The basal plate of the bulb rots, and in white rot, white fluffy mycelial growth and small black sclerotia may be visible on the bulb and roots.
+    *   **Management:**
+        *   **Cultural:** Use disease-free planting material. Practice crop rotation with non-allium crops for at least 3-5 years. Improve soil drainage.
+        *   **Chemical (Seed/Bulb Treatment):** Treat garlic cloves before planting.
+            *   **Carbendazim** 12% + **Mancozeb** 63% WP at 2-3 g/kg of cloves.
+            *   **Thiram** 75% WS at 2-3 g/kg of cloves.
+        *   **Chemical (Soil Drench/Foliar):**
+            *   Drenching with **Carbendazim** 50% WP at 1-2 g/L of water around the base of affected plants.
+            *   Foliar spray of **Azoxystrobin** 23% SC at 0.5-1 ml/L of water, or **Propiconazole** 25% EC at 1 ml/L of water, especially if symptoms are progressing.
+
+*   **Purple Blotch (caused by *Alternaria porri*), Stemphylium Blight (caused by *Stemphylium vesicarium*), and Rust (caused by *Puccinia allii*)**
+    *   **Symptoms:** These diseases primarily affect leaves, causing lesions, blighting, and premature drying of foliage. Purple blotch causes purplish lesions with yellow halos. Stemphylium blight causes small, light yellow to brown lesions. Rust causes orange-yellow pustules on leaves. Severe infections lead to extensive drying of leaves.
+    *   **Management:**
+        *   **Cultural:** Maintain proper plant spacing for good air circulation. Remove and destroy infected plant debris.
+        *   **Chemical (Foliar Spray):**
+            *   **Mancozeb** 75% WP at 2-2.5 g/L of water.
+            *   **Chlorothalonil** 75% WP at 2 g/L of water.
+            *   **Propiconazole** 25% EC at 1 ml/L of water.
+            *   **Azoxystrobin** 23% SC at 0.5-1 ml/L of water.
+            *   **Tebuconazole** 25% EC at 0.75-1 ml/L of water.
+            *   Rotate fungicides with different modes of action to prevent resistance. Start spraying preventively or at the first sign of symptoms.
+
+### 2. Nematodes
+
+*   **Stem and Bulb Nematode (caused by *Ditylenchus dipsaci*)**
+    *   **Symptoms:** Stunting, swelling and distortion of leaves, yellowing, and premature drying of foliage. Bulbs become soft, spongy, and discolored internally.
+    *   **Management:**
+        *   **Cultural:** Use certified nematode-free planting material. Practice long crop rotations (3-4 years) with non-host crops. Solarization of soil during summer can reduce nematode populations.
+        *   **Chemical (Soil Application/Seed Treatment):**
+            *   **Fluopyram** 34.48% SC (as a seed treatment or soil drench, check specific label for garlic application rates).
+            *   **Cadusafos** 10% GR at 10 kg/acre as a pre-plant soil application.
+
+### 3. Insect Pests
+
+*   **Thrips (e.g., *Thrips tabaci*)**
+    *   **Symptoms:** Thrips suck sap from leaves, causing silvery streaks, white blotches, and distortion. Severe infestation leads to browning, curling, and drying of leaf tips and margins, significantly reducing photosynthetic area and overall plant vigor.
+    *   **Management:**
+        *   **Cultural:** Maintain field hygiene. Use yellow sticky traps for monitoring.
+        *   **Chemical (Foliar Spray):**
+            *   **Imidacloprid** 17.8% SL at 0.5 ml/L of water.
+            *   **Thiamethoxam** 25% WG at 0.2 g/L of water.
+            *   **Fipronil** 5% SC at 1.5-2 ml/L of water.
+            *   **Spinosad** 45% SC at 0.25-0.3 ml/L of water.
+            *   Ensure thorough coverage, especially on the undersides of leaves. Rotate insecticides to prevent resistance.
+
+### 4. Physiological and Environmental Stresses
+
+These factors can weaken plants, making them susceptible to diseases, or directly cause drying.
+
+*   **Water Stress (Drought or Waterlogging)**
+    *   **Symptoms:**
+        *   **Drought:** Leaves wilt, turn yellow, and dry from the tips downwards.
+        *   **Waterlogging:** Roots suffocate and rot, leading to yellowing, wilting, and drying of foliage, mimicking drought symptoms.
+    *   **Management:**
+        *   **Drought:** Provide adequate and timely irrigation, especially during critical growth stages (bulb formation). Use mulching to conserve soil moisture.
+        *   **Waterlogging:** Ensure good soil drainage. Avoid over-irrigation. Plant on raised beds in areas prone to waterlogging.
+
+*   **Nutrient Deficiencies**
+    *   **Symptoms:** Specific nutrient deficiencies can cause yellowing, necrosis, and drying of leaves. For example, potassium deficiency causes scorching of leaf margins, and nitrogen deficiency causes general yellowing and stunted growth.
+    *   **Management:** Conduct a soil test to determine nutrient status. Apply balanced fertilizers based on soil test recommendations. Foliar application of appropriate micronutrients can provide quick relief.
+
+*   **Heat Stress**
+    *   **Symptoms:** High temperatures, especially combined with low humidity, can cause scorching, wilting, and drying of leaf tips and margins.
+    *   **Management:** Ensure adequate irrigation during hot periods. Consider planting heat-tolerant varieties if available.
+
+### General Preventative Measures (Integrated Pest and Disease Management - IPM)
+
+*   **Use Healthy Planting Material:** Always use certified, disease-free garlic cloves.
+*   **Crop Rotation:** Rotate garlic with non-allium crops for at least 3-4 years to break disease and nematode cycles.
+*   **Field Sanitation:** Remove and destroy all crop residues after harvest. Control weeds, as they can harbor pests and diseases.
+*   **Optimal Agronomic Practices:** Maintain proper spacing, balanced nutrition, and appropriate irrigation to ensure vigorous plant growth, which enhances resistance to stress.
+*   **Soil Health:** Improve soil structure and organic matter content for better drainage and nutrient availability.
+
+By carefully observing the specific symptoms and considering the environmental conditions, you can accurately diagnose the cause of drying up in your garlic crop and implement the most effective management strategy.

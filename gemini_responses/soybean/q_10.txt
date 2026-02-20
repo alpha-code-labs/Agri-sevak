@@ -1,0 +1,45 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for the control of pests in Soybean in Haryana:
+
+### Control of Borers, Caterpillars, and Leaf folder in Soybean
+
+It is crucial to adopt an Integrated Pest Management (IPM) approach, combining cultural, biological, and chemical methods for sustainable pest control.
+
+#### Diamondback Moth (*Plutella xylostella*)
+
+This is not known to affect Soybean. Diamondback moth is primarily a pest of cruciferous crops like cabbage, cauliflower, and mustard.
+
+#### Borers (Stem Borer, Pod Borer), Caterpillars (e.g., Gram Pod Borer, Tobacco Caterpillar, Semiloopers, Bihar Hairy Caterpillar), and Leaf folder
+
+These pests are significant in Soybean and often require similar management strategies.
+
+**I. Integrated Pest Management (IPM) Strategies:**
+
+1.  **Regular Monitoring:** Regularly scout fields (at least twice a week) to detect pest incidence, identify the pest species, and assess population levels. Look for eggs, larvae, feeding damage, and folded leaves.
+2.  **Cultural Practices:**
+    *   **Timely Sowing:** Sow soybean varieties at the recommended time to avoid peak pest infestation periods.
+    *   **Field Sanitation:** Remove and destroy crop residues and weeds that can harbor pests.
+    *   **Crop Rotation:** Practice crop rotation with non-host crops to break the pest life cycle.
+    *   **Trap Cropping:** Planting castor or marigold as trap crops around soybean fields can attract *Spodoptera litura* and *Helicoverpa armigera*, respectively, away from the main crop.
+3.  **Biological Control:**
+    *   **Conservation of Natural Enemies:** Protect and encourage natural predators (e.g., spiders, ladybird beetles, lacewings) and parasitoids (e.g., *Trichogramma* spp.) that feed on pest eggs and larvae.
+    *   **Pheromone Traps:** Install pheromone traps for *Helicoverpa armigera* and *Spodoptera litura* at 5 traps per acre for monitoring and mass trapping to reduce male populations.
+    *   **Biopesticides:** Apply formulations of *Bacillus thuringiensis* (Bt) when larvae are young.
+
+**II. Chemical Control (When pest population crosses Economic Threshold Level - ETL):**
+
+When pest populations exceed the Economic Threshold Level (ETL), chemical intervention may be necessary. Always rotate insecticides with different modes of action to prevent resistance development.
+
+For Borers (Stem Borer, Pod Borer), Caterpillars, and Leaf folder, the following CIBRC approved technical chemicals can be used:
+
+*   **Chlorantraniliprole 18.5% SC:** Apply at 60 ml per acre. Effective against a wide range of lepidopteran pests including stem borers, pod borers, and leaf folders.
+*   **Emamectin Benzoate 5% SG:** Apply at 80-100 g per acre. Highly effective against various lepidopteran larvae like pod borers, semiloopers, and leaf folders.
+*   **Indoxacarb 14.5% SC:** Apply at 200 ml per acre. Effective against pod borers and semiloopers.
+*   **Lambda-cyhalothrin 5% EC:** Apply at 200 ml per acre. A broad-spectrum insecticide effective against defoliating caterpillars and pod borers.
+*   **Bacillus thuringiensis var. kurstaki (Bt) formulations:** Apply at 500-1000 g per acre (for WP/DF) or 1-2 L per acre (for liquid formulations). This biological insecticide is effective against young larvae of caterpillars and leaf folders.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the product label for correct dosage, application method, and safety precautions.
+*   Ensure thorough spray coverage for optimal efficacy.
+*   Apply insecticides preferably in the evening or early morning to minimize impact on beneficial insects and pollinators.
+*   Consult with local agricultural extension specialists for the most current recommendations and pest situation in your specific area of Haryana.

@@ -1,0 +1,62 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer doses for Pearl Millet (Bajra) in Haryana. Please note that these are general recommendations, and a soil test is highly recommended for precise nutrient management tailored to your specific field conditions.
+
+**Recommended Nutrient Doses for Pearl Millet (Bajra) in Haryana (per acre):**
+
+*   **Nitrogen (N):** 60 kg
+*   **Phosphorus (P2O5):** 30 kg
+*   **Potassium (K2O):** 20 kg
+*   **Sulphur (S):** 10-15 kg
+
+**Fertilizer Application Schedule:**
+
+To achieve the recommended nutrient doses using the fertilizers you mentioned, here are the application guidelines:
+
+**1. Basal Application (at the time of sowing):**
+
+Apply all of the Phosphorus, Potassium, Sulphur, and 1/3rd to 1/2 of the total Nitrogen requirement as basal.
+
+*   **Option A: Using Diammonium Phosphate (DAP) for Phosphorus:**
+    *   **Diammonium Phosphate**: 65 kg per acre (This provides 30 kg P2O5 and approximately 11.7 kg N).
+    *   **Muriate of Potash**: 33 kg per acre (This provides 20 kg K2O).
+    *   **Elemental Sulphur**: 11-17 kg per acre (To provide 10-15 kg S, as DAP does not contain Sulphur).
+    *   **Urea**: 17-39 kg per acre (To provide the remaining 1/3rd to 1/2 of the basal Nitrogen, after accounting for N from DAP).
+
+*   **Option B: Using Single Superphosphate (SSP) for Phosphorus:**
+    *   **Single Superphosphate**: 188 kg per acre (This provides 30 kg P2O5 and approximately 20.7 kg S, thus covering the Sulphur requirement).
+    *   **Muriate of Potash**: 33 kg per acre (This provides 20 kg K2O).
+    *   **Urea**: 43-65 kg per acre (To provide 1/3rd to 1/2 of the total Nitrogen requirement as basal).
+
+**2. Top-Dressing (25-30 days after sowing):**
+
+Apply the remaining 1/2 to 2/3rd of the total Nitrogen requirement.
+
+*   **Urea**: The quantity of **Urea** will depend on how much Nitrogen was applied as basal.
+    *   If you followed Option A (DAP + Urea basal), and applied 20 kg N as basal (11.7 kg from DAP + 8.3 kg from Urea), then apply approximately 87 kg **Urea** per acre as top-dressing (to complete the 60 kg N requirement).
+    *   If you followed Option B (SSP + Urea basal), and applied 30 kg N as basal (from Urea), then apply approximately 65 kg **Urea** per acre as top-dressing (to complete the 60 kg N requirement).
+
+**Summary of Total Fertilizer Doses (Example using DAP, MOP, Urea, Elemental Sulphur):**
+
+*   **Diammonium Phosphate**: 65 kg/acre (Basal)
+*   **Muriate of Potash**: 33 kg/acre (Basal)
+*   **Elemental Sulphur**: 11-17 kg/acre (Basal)
+*   **Urea**: Total 105 kg/acre (Split into basal and top-dressing, e.g., 35 kg basal + 70 kg top-dressing, after accounting for N from DAP).
+    *   *Alternatively, if using SSP for P and S:*
+        *   **Single Superphosphate**: 188 kg/acre (Basal)
+        *   **Muriate of Potash**: 33 kg/acre (Basal)
+        *   **Urea**: Total 130 kg/acre (Split into basal and top-dressing, e.g., 45 kg basal + 85 kg top-dressing).
+
+**Nano Fertilizers:**
+
+Nano fertilizers are designed for foliar application and act as supplements to conventional basal fertilizers.
+
+*   **Nano Urea Liquid**:
+    *   **Dose**: 2-4 ml per litre of water.
+    *   **Application**: 1-2 foliar sprays, typically at tillering and pre-flowering stages, to supplement Nitrogen nutrition.
+
+*   **Nano Diammonium Phosphate Liquid**:
+    *   **Dose**: 2-4 ml per litre of water.
+    *   **Application**: 1-2 foliar sprays, typically at tillering and grain filling stages, to supplement Phosphorus nutrition.
+
+**NPK Complex Fertilizers:**
+
+If you choose to use a complex NPK fertilizer (e.g., 12:32:16, 10:26:26), the dose would need to be adjusted to meet the 60 kg N, 30 kg P2O5, and 20 kg K2O requirements. You would then supplement with **Urea**, **Muriate of Potash**, and **Elemental Sulphur** as needed to balance the nutrient requirements. For example, if using 12:32:16, you would apply approximately 94 kg per acre as basal to meet the P2O5 requirement, and then add remaining N, K2O, and S from other sources.

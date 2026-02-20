@@ -1,0 +1,47 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling the mentioned conditions in Coconut, keeping in mind the context of Haryana.
+
+---
+
+Here's how to address Scab, Canker, Gummosis, and Lichen in Coconut:
+
+1.  **Scab:**
+    This is not known to affect Coconut.
+
+2.  **Canker and Gummosis:**
+    Canker-like lesions and gummosis (exudation of gum) in coconut are often symptoms of underlying fungal diseases, primarily Stem Bleeding Disease caused by *Thielaviopsis paradoxa* (also known as *Ceratocystis paradoxa*) or sometimes associated with *Phytophthora palmivora* which causes bud rot and stem rot.
+
+    **Symptoms:**
+    *   **Canker:** Dark, sunken lesions on the trunk or petioles, sometimes with cracking.
+    *   **Gummosis:** Oozing of reddish-brown gummy liquid from cracks or lesions on the trunk, especially at the base. The affected tissues beneath the bark turn discoloured and rotten.
+
+    **Control Measures:**
+
+    *   **Cultural Practices:**
+        *   **Sanitation:** Remove and destroy severely affected plant parts to prevent further spread.
+        *   **Avoid Injury:** Prevent mechanical injuries to the trunk and roots, as these can serve as entry points for pathogens.
+        *   **Drainage:** Ensure good drainage around the base of the palms, as waterlogging can predispose trees to root and stem diseases.
+        *   **Nutrition:** Maintain optimal plant health through balanced fertilization.
+
+    *   **Chemical Control:**
+        *   **For Stem Bleeding/Gummosis (caused by *Thielaviopsis paradoxa*):**
+            *   **Cleaning:** Carefully chisel out the affected, discoloured tissues until healthy wood is exposed. Collect and destroy the removed tissues.
+            *   **Fungicide Application:** Apply a fungicidal paste to the cleaned wound.
+                *   Prepare a paste using 20 g of **Carbendazim** in 100 ml of water.
+                *   Alternatively, use a paste of 20 g of **Propiconazole** in 100 ml of water.
+            *   **Soil Drenching:** Drench the soil around the base of the affected palm with a systemic fungicide.
+                *   Apply 2 g/L of **Carbendazim** solution (5-10 litres per tree depending on size).
+                *   Alternatively, apply 1 ml/L of **Propiconazole** solution (5-10 litres per tree).
+            *   Repeat application after 3-4 months if symptoms persist.
+
+        *   **For Canker-like lesions/Stem Rot (associated with *Phytophthora palmivora*):**
+            *   **Fungicide Drenching/Swabbing:**
+                *   Drench the crown and affected stem parts with 3 g/L of **Copper oxychloride** solution.
+                *   Alternatively, drench with 2.5 g/L of **Fosetyl-aluminium** solution.
+            *   For severe cases, consider injecting 2-3 ml of **Propiconazole** (25% EC) diluted in 2-3 ml of water into the trunk, 2-3 times a year. (Consult an expert for trunk injection techniques).
+
+3.  **Lichen:**
+    Lichens are symbiotic organisms (a fungus and an alga) that grow superficially on the bark of trees. They are epiphytes, meaning they use the tree for support but do not draw nutrients from it. Therefore, they are generally considered harmless and do not cause any direct damage to the coconut palm.
+
+    **Control Measures:**
+    *   **No Chemical Control Needed:** Chemical control for lichens is generally not recommended or necessary as they do not harm the tree.
+    *   **Physical Removal (if desired):** If the growth is aesthetically undesirable or exceptionally dense (which is rare for coconut and usually indicates very humid conditions), they can be gently scraped off the bark using a blunt tool or a stiff brush, especially during the dry season. Ensure not to damage the bark during removal.

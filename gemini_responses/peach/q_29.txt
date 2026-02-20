@@ -1,0 +1,54 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice regarding dropping issues in Peach.
+
+First, let's clarify the terminology:
+
+*   **Tinda/Boll dropping:** This is not known to affect Peach. "Tinda" refers to the Indian round gourd (*Praecitrullus fistulosus*), and "Boll" refers to the fruit capsule of plants like cotton. Peach (*Prunus persica*) produces a drupe fruit, not tinda or bolls.
+
+Now, regarding **Flower drop** and **Fruit drop** in Peach, these are common physiological issues that can be caused by a combination of factors. Effective control requires an integrated approach addressing these underlying causes.
+
+Here's how to manage flower and fruit drop in Peach:
+
+**I. Physiological and Cultural Management:**
+
+1.  **Ensure Adequate Pollination:**
+    *   Many peach varieties are self-fertile, but cross-pollination often improves fruit set.
+    *   Encourage pollinator activity by avoiding insecticide sprays during flowering and by planting pollinator-friendly plants nearby. Consider introducing bee colonies if natural populations are low.
+2.  **Optimal Water Management:**
+    *   Maintain consistent soil moisture, especially during critical stages like flowering, fruit set, and early fruit development.
+    *   Avoid both waterlogging (which can lead to root rot and stress) and severe drought stress. Irrigate deeply when the topsoil begins to dry out.
+3.  **Balanced Pruning:**
+    *   Practice proper pruning techniques to maintain tree vigor, ensure good light penetration, and balance the fruit load. Overbearing can lead to natural fruit drop due to resource competition.
+4.  **Fruit Thinning (if applicable):**
+    *   If initial fruit set is excessively high, judicious fruit thinning (manual or chemical) can reduce competition among fruits, leading to larger, higher-quality fruits and preventing later physiological drop due to resource limitations.
+5.  **Manage Environmental Stress:**
+    *   Protect trees from extreme temperatures. Frost during flowering can severely damage flowers and young fruits. High temperatures during fruit development can also cause stress and drop.
+
+**II. Nutritional Deficiencies:**
+
+Conducting a soil and leaf analysis is highly recommended to identify specific nutrient deficiencies. Based on common issues in Haryana, consider the following:
+
+1.  **Boron Deficiency:** Can lead to poor pollen viability, flower abortion, and poor fruit set.
+    *   **Foliar Spray:** Apply **Disodium octaborate tetrahydrate** at 1-1.5 g/L of water, once before flowering and again at fruit set.
+    *   **Soil Application:** Based on soil test, apply 10-15 kg/acre of **Borax** (sodium tetraborate decahydrate) or **Disodium octaborate tetrahydrate** once every 2-3 years.
+2.  **Zinc Deficiency:** Affects flower and fruit development, leading to small leaves and poor growth.
+    *   **Foliar Spray:** Apply **Zinc sulphate heptahydrate** at 2-3 g/L of water, once before flowering and again at fruit set.
+3.  **Calcium Deficiency:** Important for cell wall integrity and fruit development, preventing disorders like bitter pit (though less common in peach, it's crucial for fruit quality).
+    *   **Foliar Spray:** Apply **Calcium nitrate** at 5-10 g/L of water, starting from fruit set and repeating at 10-15 day intervals, especially during rapid fruit growth.
+
+**III. Pest and Disease Management:**
+
+Pests and diseases can directly damage flowers and young fruits, leading to their premature drop.
+
+1.  **Pest Control:**
+    *   **Sucking Pests (Aphids, Thrips):** These can damage flowers and young fruits, leading to malformation and drop.
+        *   Spray with **Imidacloprid** 17.8% SL at 0.3-0.5 ml/L of water.
+        *   Alternatively, use **Thiamethoxam** 25% WG at 0.2-0.3 g/L of water.
+    *   **Fruit Borers (if identified as a cause):** Larvae boring into young fruits can cause them to drop.
+        *   Spray with **Chlorantraniliprole** 18.5% SC at 0.15-0.2 ml/L of water.
+2.  **Disease Control:**
+    *   **Brown Rot (*Monilinia fructicola*):** This fungal disease can infect flowers, causing blight and subsequent drop, and also infect young fruits.
+        *   Spray with **Carbendazim** 50% WP at 1 g/L of water, at the pink bud stage and again at full bloom.
+        *   Alternatively, use **Mancozeb** 75% WP at 2-2.5 g/L of water, at the pink bud stage and full bloom.
+        *   Another option is **Propiconazole** 25% EC at 0.5 ml/L of water, at the pink bud stage and full bloom.
+
+Always ensure thorough coverage when spraying and follow the manufacturer's instructions and safety precautions. For specific recommendations tailored to your farm, please consult with your local agricultural extension officer or HAU experts after a detailed assessment.

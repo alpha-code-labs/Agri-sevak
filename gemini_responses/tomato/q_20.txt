@@ -1,0 +1,60 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand the critical role micronutrients play in achieving optimal tomato yield and quality. Deficiencies, even in small amounts, can severely impact plant health and fruit development.
+
+The most crucial first step is always a **soil test**. This provides a precise diagnosis of which micronutrients are deficient in your specific field, allowing for targeted and efficient application. Visual symptoms can be indicative but are not always conclusive.
+
+Here's how to address common micronutrient deficiencies in tomato, using CIBRC approved technical chemical names and metric units:
+
+### Addressing Specific Micronutrient Deficiencies in Tomato
+
+*   **Zinc (Zn)**
+    *   **Role:** Essential for enzyme activity, hormone production, and carbohydrate metabolism.
+    *   **Symptoms:** Stunted growth, small leaves (little leaf), interveinal chlorosis (yellowing between veins) on younger leaves, often with purplish discoloration on the underside of leaves.
+    *   **Correction:**
+        *   **Soil Application:** Apply **Zinc sulphate heptahydrate** at 10-25 kg/acre as a basal application, once every 2-3 years, depending on soil test results.
+        *   **Foliar Spray:** For quick correction, spray a 0.5% solution of **Zinc sulphate heptahydrate** (5 g/L of water) along with 0.25% lime (2.5 g/L) to neutralize acidity. Repeat 2-3 times at 10-15 day intervals, starting from 3-4 weeks after transplanting.
+
+*   **Iron (Fe)**
+    *   **Role:** Crucial for chlorophyll formation, photosynthesis, and respiration.
+    *   **Symptoms:** Pronounced interveinal chlorosis on young leaves, with veins remaining green. In severe cases, entire leaves turn yellow or even white. Common in alkaline soils of Haryana.
+    *   **Correction:**
+        *   **Foliar Spray (most effective for quick correction):** Spray a 0.2-0.5% solution of **Ferrous sulphate** (2-5 g/L of water) or a 0.1% solution of **Fe-EDTA** (1 g/L of water). Repeat 2-3 times at 7-10 day intervals until symptoms disappear.
+        *   **Soil Application (less effective in high pH soils):** Apply **Ferrous sulphate** at 20-40 kg/acre, but its availability can be limited in high pH soils. Chelated iron forms like **Fe-EDTA** or **Fe-DTPA** can be applied at lower rates (e.g., 5-10 kg/acre) if soil test indicates severe deficiency and high pH.
+
+*   **Boron (B)**
+    *   **Role:** Essential for cell wall formation, cell division, pollen germination, and fruit development.
+    *   **Symptoms:** Stunted growth, thickening and brittleness of young leaves, death of growing points, poor fruit set, cracking of fruits, and internal browning.
+    *   **Correction:**
+        *   **Soil Application:** Apply **Borax (Sodium tetraborate decahydrate)** at 4-8 kg/acre or **Disodium octaborate tetrahydrate** at 1-2 kg/acre as a basal application.
+        *   **Foliar Spray:** Spray a 0.1-0.2% solution of **Borax (Sodium tetraborate decahydrate)** (1-2 g/L of water) or **Disodium octaborate tetrahydrate** (0.5-1 g/L of water) at flowering and fruit set stages. Repeat if necessary.
+
+*   **Calcium (Ca)**
+    *   **Role:** Critical for cell wall structure, membrane integrity, and fruit quality. Prevents Blossom End Rot (BER).
+    *   **Symptoms:** Blossom End Rot (BER) is the most common symptom, appearing as a water-soaked spot on the blossom end of the fruit, which later turns dark brown/black and leathery. Young leaves may be distorted or stunted.
+    *   **Correction:**
+        *   **Soil Application/Fertigation:** Ensure adequate soil calcium levels through **Calcium nitrate** (15.5% N, 19% Ca) applied through fertigation or as a side dressing.
+        *   **Foliar Spray (for BER prevention):** Spray a 0.5-1% solution of **Calcium chloride** (5-10 g/L of water) or **Calcium nitrate** (5-10 g/L of water) starting from fruit set, every 7-10 days, for 3-4 applications. Ensure good coverage of fruits. *Note: Calcium is not very mobile in the plant, so consistent supply is key.*
+
+*   **Magnesium (Mg)**
+    *   **Role:** Central component of chlorophyll, essential for photosynthesis.
+    *   **Symptoms:** Interveinal chlorosis on older leaves, starting from the leaf margins and progressing inwards, while veins remain green. Leaves may become brittle and curl upwards.
+    *   **Correction:**
+        *   **Soil Application:** Apply **Magnesium sulphate** at 10-20 kg/acre as a basal application or side dressing.
+        *   **Foliar Spray:** Spray a 1-2% solution of **Magnesium sulphate** (10-20 g/L of water). Repeat 2-3 times at 10-15 day intervals.
+
+*   **Manganese (Mn)**
+    *   **Role:** Involved in photosynthesis, respiration, and nitrogen metabolism.
+    *   **Symptoms:** Interveinal chlorosis on younger leaves, similar to iron deficiency but often less severe and with a mottled appearance. In severe cases, necrotic spots may develop.
+    *   **Correction:**
+        *   **Soil Application:** Apply **Manganese sulphate** at 10-20 kg/acre as a basal application.
+        *   **Foliar Spray:** Spray a 0.2-0.5% solution of **Manganese sulphate** (2-5 g/L of water). Repeat 2-3 times at 10-15 day intervals.
+
+### Important Considerations for Haryana Farmers:
+
+1.  **Soil pH:** Many Haryana soils are alkaline. This reduces the availability of Zinc, Iron, and Manganese. Managing soil pH through organic matter addition and appropriate fertilizer choices can improve micronutrient availability.
+2.  **Organic Matter:** Regular addition of farmyard manure (FYM) or compost improves soil structure, water holding capacity, and micronutrient availability by chelation.
+3.  **Water Management:** Erratic watering can exacerbate calcium deficiency (Blossom End Rot). Maintain consistent soil moisture.
+4.  **Integrated Nutrient Management (INM):** Combine organic and inorganic sources of nutrients for sustainable soil health and crop productivity.
+5.  **Timing:** Foliar sprays are most effective when applied in the early morning or late afternoon to avoid scorching and maximize absorption.
+6.  **Compatibility:** When tank-mixing different chemicals for foliar application, always perform a small jar test to check for compatibility.
+
+Always consult with your local HAU Krishi Vigyan Kendra (KVK) or agricultural extension officer for specific recommendations tailored to your farm's soil type and crop history.

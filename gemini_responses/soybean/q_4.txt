@@ -1,0 +1,48 @@
+Wilt (including Parawilt) is a significant concern in Soybean cultivation in Haryana. Control measures involve an integrated approach combining cultural practices, biological methods, and chemical treatments.
+
+**Understanding Wilt and Parawilt:**
+*   **Wilt:** Can be caused by various fungal pathogens (e.g., *Fusarium oxysporum*, *Macrophomina phaseolina* causing charcoal rot, *Phytophthora sojae* causing Phytophthora stem and root rot, *Sclerotium rolfsii* causing stem rot) or even bacteria. These pathogens typically infect roots and lower stems, blocking water and nutrient transport.
+*   **Parawilt:** A physiological disorder, often triggered by high temperatures, sudden changes in soil moisture (e.g., heavy rain after a dry spell), and sometimes associated with certain *Fusarium* species. It causes sudden wilting without clear vascular discoloration in the early stages.
+
+Here's how to control them:
+
+**I. Cultural Practices (Essential for both Wilt and Parawilt):**
+*   **Crop Rotation:** Practice a 2-3 year rotation with non-host crops like maize, wheat, or pearl millet to reduce pathogen inoculum in the soil.
+*   **Resistant/Tolerant Varieties:** Select soybean varieties known to be tolerant or resistant to common wilt pathogens and high-temperature stress prevalent in Haryana. Consult HAU recommendations for suitable varieties.
+*   **Soil Health and Drainage:**
+    *   Improve soil structure and organic matter content through farmyard manure (FYM) or compost application (5-10 tonnes/acre).
+    *   Ensure proper field drainage to avoid waterlogging, which favors many root rot and wilt pathogens.
+*   **Timely Sowing:** Sow soybean at the recommended time (typically first fortnight of July in Haryana) to avoid peak stress periods (high temperatures, moisture extremes) during critical growth stages.
+*   **Balanced Nutrition:** Apply fertilizers based on soil test recommendations. Avoid excessive nitrogen, which can sometimes predispose plants to certain diseases.
+*   **Weed Management:** Keep fields free of weeds, as they can compete for resources and sometimes act as alternate hosts for pathogens.
+*   **Sanitation:** Remove and destroy infected plant debris after harvest to reduce pathogen carryover.
+
+**II. Biological Control:**
+*   **Seed Treatment:**
+    *   Treat seeds with bio-fungicides like **Trichoderma viride** or **Trichoderma harzianum** @ 5-10 g/kg seed. These beneficial fungi colonize the root zone and suppress various soil-borne pathogens.
+    *   Alternatively, use **Bacillus subtilis** based formulations @ 5-10 g/kg seed.
+
+**III. Chemical Control:**
+
+**A. Seed Treatment (Most Critical for Wilt Management):**
+Seed treatment is highly effective in protecting seedlings from soil-borne pathogens causing early wilt and root rot.
+*   For general fungal wilt protection:
+    *   **Carbendazim 50% WP** @ 2 g/kg seed.
+    *   OR **Thiophanate Methyl 70% WP** @ 2 g/kg seed.
+    *   OR a combination product like **Carbendazim 12% + Mancozeb 63% WP** @ 2.5 g/kg seed.
+*   For specific protection against Oomycete pathogens like *Phytophthora* (causing Phytophthora stem and root rot):
+    *   **Metalaxyl 35% WS** @ 2 g/kg seed.
+    *   OR **Metalaxyl-M 31.8% ES** @ 3 ml/kg seed.
+*   For broad-spectrum protection, a combination of a systemic fungicide and a contact fungicide is often recommended:
+    *   **Pyraclostrobin 2.5% + Thiophanate Methyl 22.5% FS** @ 3 ml/kg seed.
+    *   OR **Fludioxonil 2.5% + Metalaxyl-M 1.0% FS** @ 3 ml/kg seed.
+
+**B. Soil Drench/Foliar Spray (Less common for widespread wilt, but may be considered for specific situations):**
+*   For severe localized outbreaks of fungal wilt, a soil drench might be considered, but its efficacy for widespread field issues is limited.
+    *   **Carbendazim 50% WP** @ 1-2 g/L water, applied as a drench around the base of affected plants.
+*   For Parawilt, direct chemical control is generally not effective as it's primarily a physiological disorder. Focus on mitigating stress through cultural practices.
+
+**Important Considerations:**
+*   Always read and follow the instructions on the product label for dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Consult with HAU extension specialists for the latest recommendations specific to your region and current disease prevalence.

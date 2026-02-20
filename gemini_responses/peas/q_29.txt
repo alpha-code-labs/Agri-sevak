@@ -1,0 +1,52 @@
+Namaste Kisan Bhai,
+
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide you with scientifically verified advice regarding "dropping" in peas.
+
+Firstly, regarding "Tinda/Boll dropping," this is not known to affect Peas, as peas produce pods, not tinda (a type of gourd) or bolls (cotton).
+
+For flower drop and pod drop (which is the equivalent of fruit drop in peas), it is important to understand that this is primarily a physiological issue, not a disease or pest that can be controlled by a single chemical application. It is often a symptom of environmental stress or nutritional imbalances.
+
+**Common Causes of Flower and Pod Drop in Peas:**
+
+*   **Environmental Stress:**
+    *   **High Temperatures:** Temperatures above 25-30°C during flowering and pod development can significantly reduce pollen viability and pod set.
+    *   **Water Stress:** Both drought conditions (insufficient water) and waterlogging (excess water) can lead to flower and pod abortion.
+    *   **Humidity:** Very low or very high humidity can affect pollination and pod development.
+    *   **Strong Winds:** Can cause physical damage and desiccation.
+    *   **Lack of Sunlight:** Insufficient light reduces photosynthesis, impacting energy for pod development.
+*   **Nutritional Deficiencies:**
+    *   **Boron (B) deficiency:** Essential for pollen germination and tube growth.
+    *   **Molybdenum (Mo) deficiency:** Important for nitrogen metabolism and nodule function.
+    *   **Potassium (K) and Phosphorus (P) deficiency:** Crucial for overall plant vigor and reproductive development.
+*   **Physiological Factors:**
+    *   **Poor Pollination:** Although peas are largely self-pollinating, extreme conditions can affect it.
+    *   **Excessive Vegetative Growth:** If the plant puts too much energy into leaves and stems, it may shed flowers/pods.
+    *   **Heavy Pod Load:** The plant may naturally shed some pods to balance resource allocation.
+
+**Management Strategies to Control Flower and Pod Drop in Peas:**
+
+To minimize flower and pod drop, focus on providing optimal growing conditions and balanced nutrition:
+
+1.  **Optimal Sowing Time:**
+    *   Sow peas at the recommended time for Haryana (typically October-November) to ensure that the critical flowering and pod development stages occur during cooler periods, avoiding the stress of high temperatures.
+
+2.  **Irrigation Management:**
+    *   Maintain adequate soil moisture, especially during the flowering and pod development stages.
+    *   Avoid both water stress (drought) and waterlogging. Light and frequent irrigation is often more beneficial than heavy, infrequent irrigation.
+
+3.  **Nutrient Management:**
+    *   **Balanced Fertilization:** Ensure adequate supply of macro and micronutrients based on soil test reports.
+    *   **Boron:** If boron deficiency is suspected or known in your soil, apply **Borax** (Sodium tetraborate decahydrate) at 10-15 kg/acre as a basal application. Alternatively, a foliar spray of **Disodium octaborate tetrahydrate** (e.g., Solubor) at 1-1.5 g/L water can be applied at the pre-flowering and early pod development stages.
+    *   **Molybdenum:** In acidic soils, molybdenum deficiency can occur. Apply **Sodium molybdate** or **Ammonium molybdate** at 200-300 g/acre as a foliar spray.
+    *   **Potassium and Phosphorus:** Ensure these are applied as per soil test recommendations. Foliar sprays of **Mono Potassium Phosphate (0-52-34)** at 5 g/L can be beneficial during flowering and pod filling stages to boost plant vigor and pod development.
+
+4.  **Weed Control:**
+    *   Keep the field free of weeds to reduce competition for water, nutrients, and light, which can otherwise stress the pea plants.
+
+5.  **Pest and Disease Management:**
+    *   While not direct causes of dropping, severe infestations of sucking pests (like aphids, thrips) or root diseases can weaken the plant, indirectly contributing to flower/pod drop. Implement integrated pest and disease management practices as needed to keep plants healthy.
+
+6.  **Plant Growth Regulators (PGRs):**
+    *   While some PGRs like **Naphthalene Acetic Acid (NAA)** are used in other crops to reduce fruit drop, their routine recommendation for peas in Haryana specifically for flower/pod drop is not a primary strategy. However, if environmental conditions are particularly challenging and other measures are insufficient, a very low concentration of **Naphthalene Acetic Acid (NAA)** (e.g., 5-10 ppm, which is 5-10 mg/L) could be considered at the early flowering stage. **Caution:** Use only after consulting with local agricultural experts, as incorrect dosage can be detrimental.
+
+By implementing these comprehensive management strategies, you can significantly reduce flower and pod drop in your pea crop and ensure better yields.

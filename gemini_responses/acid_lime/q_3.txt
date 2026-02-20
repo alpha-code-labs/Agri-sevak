@@ -1,0 +1,70 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I advise on the integrated management of various rot types in Acid Lime (Citrus aurantifolia). Effective control requires a combination of cultural practices and judicious use of CIBRC-approved fungicides.
+
+All the mentioned rot types (Root, Stem, Foot, Collar, Crown, Neck, Black, Fruit, Seed, and Seedling rot) are known to affect Acid Lime, primarily caused by various fungal and oomycete pathogens such as *Phytophthora* spp., *Alternaria* spp., *Pythium* spp., *Rhizoctonia* spp., *Fusarium* spp., and *Penicillium* spp.
+
+**I. General Cultural and Preventative Measures (Crucial for all Rot Types):**
+
+1.  **Site Selection and Drainage:** Plant Acid Lime in well-drained soils. Avoid low-lying areas prone to waterlogging, as excess moisture is a primary trigger for most rot diseases.
+2.  **Planting Depth:** Ensure the bud union (graft union) is at least 15-20 cm above the soil line when planting. Never allow soil or mulch to accumulate around the trunk.
+3.  **Irrigation Management:**
+    *   Avoid over-irrigation.
+    *   Use drip irrigation to deliver water directly to the root zone, minimizing wetting of the trunk base.
+    *   Irrigate in the morning to allow the soil surface to dry during the day.
+4.  **Weed Control:** Keep the area around the tree base free of weeds to improve air circulation and reduce humidity.
+5.  **Nutrition:** Provide balanced nutrition to maintain tree vigor and enhance natural resistance. Avoid excessive nitrogen, which can promote lush, susceptible growth.
+6.  **Sanitation:**
+    *   Regularly remove and destroy fallen diseased fruits, leaves, and twigs.
+    *   Prune dead or diseased branches promptly, making clean cuts.
+7.  **Wound Avoidance:** Minimize mechanical injuries to the trunk, roots, and branches during cultivation, harvesting, and other orchard operations, as wounds serve as entry points for pathogens.
+8.  **Rootstock Selection:** While Acid Lime is often grown on its own roots or specific rootstocks, using tolerant or resistant rootstocks (if available and suitable for Haryana conditions) can significantly reduce the incidence of root and collar rot.
+
+**II. Specific Chemical Control Measures:**
+
+**A. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, Neck Rot (Primarily *Phytophthora* spp.):**
+
+These are often grouped under the "Gummosis" or "Foot Rot" complex.
+
+1.  **Trunk Scrapping and Paste Application:**
+    *   Scrape off the infected bark and discolored wood until healthy tissue is exposed.
+    *   Apply a fungicidal paste to the scraped area:
+        *   **Copper Oxychloride** 50% WP: Make a thick paste with water and apply.
+        *   **Bordeaux Paste:** Prepare by mixing 1 kg Copper Sulphate, 1 kg quicklime in 10 litres of water.
+2.  **Soil Drenching/Basal Application:**
+    *   **Fosetyl-aluminium** 80% WP: 2.5 g/L of water. Drench 5-10 litres of solution per tree, depending on age and canopy size, around the base of the trunk. Apply twice a year (e.g., pre-monsoon and post-monsoon).
+    *   **Metalaxyl-M** 3.3% + **Mancozeb** 66.7% WP: 2.5 g/L of water. Drench 5-10 litres of solution per tree.
+    *   **Potassium Phosphonate** (as Phosphorous Acid): 5-10 ml/L of water. Drench 5-10 litres of solution per tree.
+3.  **Foliar Spray (for systemic protection):**
+    *   **Fosetyl-aluminium** 80% WP: 2.5 g/L of water.
+    *   **Metalaxyl-M** 3.3% + **Mancozeb** 66.7% WP: 2.5 g/L of water.
+
+**B. Black Rot and Fruit Rot (Primarily *Alternaria* spp., *Phytophthora* spp., *Penicillium* spp., *Diplodia* spp.):**
+
+1.  **Pre-harvest Foliar Sprays:**
+    *   **Azoxystrobin** 23% SC: 0.5-1 ml/L of water.
+    *   **Difenoconazole** 25% EC: 0.5 ml/L of water.
+    *   **Mancozeb** 75% WP: 2.5 g/L of water.
+    *   **Copper Oxychloride** 50% WP: 2.5 g/L of water.
+    *   Apply these sprays during fruit development, especially if conditions are humid or rainy.
+2.  **Post-harvest Management:**
+    *   Handle fruits carefully to avoid injuries.
+    *   Rapid cooling and proper storage conditions are essential.
+
+**C. Seed Rot and Seedling Rot (Damping-off) (Primarily *Pythium* spp., *Phytophthora* spp., *Rhizoctonia* spp., *Fusarium* spp.):**
+
+1.  **Seed Treatment:**
+    *   **Thiram** 75% WS: 2.5-3 g/kg of seeds.
+    *   **Captan** 75% WS: 2.5-3 g/kg of seeds.
+    *   **Carbendazim** 50% WP: 1-2 g/kg of seeds (effective against *Fusarium* and *Rhizoctonia*).
+    *   **Metalaxyl-M** 31.8% ES: 3-4 ml/kg of seeds (effective against *Pythium* and *Phytophthora*).
+2.  **Nursery Soil Drench:**
+    *   Use sterilized potting mix or soil.
+    *   Drench the nursery beds or pots with a fungicide solution after sowing or at the first sign of disease:
+        *   **Propamocarb Hydrochloride** 72.2% SL: 2-3 ml/L of water.
+        *   **Metalaxyl-M** 3.3% + **Mancozeb** 66.7% WP: 2.5 g/L of water.
+        *   **Copper Oxychloride** 50% WP: 2.5 g/L of water.
+
+**Important Considerations:**
+
+*   Always read and follow the label instructions for any chemical product regarding dosage, application method, safety precautions, and pre-harvest intervals (PHI).
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Consult with local agricultural extension services or HAU experts for specific recommendations tailored to your farm's conditions and the prevailing disease pressure.

@@ -1,0 +1,58 @@
+As a Senior Agronomist at HAU, Hisar, I recommend the following fertilizer doses for Maize (Makka) in Haryana. Please note that these are general recommendations, and a **soil test is highly recommended** to determine the precise nutrient requirements for your specific field conditions.
+
+**General Fertilizer Recommendation for Maize (Makka) (without soil test):**
+
+*   **Nitrogen (N):** 120 kg/acre
+*   **Phosphorus (P2O5):** 60 kg/acre
+*   **Potassium (K2O):** 40 kg/acre (Apply if soil test indicates deficiency or for high-yielding varieties)
+*   **Sulphur (S):** 20 kg/acre
+
+---
+
+**Application Schedule and Recommended Doses:**
+
+**1. Basal Dose (at the time of sowing):**
+
+*   **Phosphorus (P) & Initial Nitrogen (N) & Sulphur (S):**
+    *   **Option A (Using DAP for P & N, and separate Sulphur):**
+        *   **Di-ammonium Phosphate (DAP)**: 130 kg/acre (This provides approximately 23 kg N and 60 kg P2O5).
+        *   **Bentonite Sulphur**: 20 kg/acre (To meet Sulphur requirement).
+    *   **Option B (Using SSP for P & S, and separate initial N):**
+        *   **Single Super Phosphate (SSP)**: 375 kg/acre (This provides approximately 60 kg P2O5 and 41 kg S).
+        *   **Urea**: 50 kg/acre (To provide initial Nitrogen, as SSP has negligible N).
+    *   **Option C (Using NPK Complex Fertilizers):**
+        *   If using a complex fertilizer like **NPK (12:32:16)** or **NPK (10:26:26)**, apply 180-200 kg/acre as a basal dose. Adjust the doses of other basal fertilizers (DAP/SSP/Urea/MOP) accordingly to meet the remaining NPK requirements.
+
+*   **Potassium (K):**
+    *   **Muriate of Potash (MOP)**: 67 kg/acre (Apply if soil test recommends or for high-yielding varieties).
+
+**2. Nitrogen Top-Dressing (using Urea):**
+
+The remaining Nitrogen (after the basal application) should be applied in 2-3 splits.
+
+*   **First Top-Dressing (25-30 days after sowing, at knee-high stage):**
+    *   **Urea**: 105 kg/acre (Adjust based on the N supplied in the basal dose. This dose assumes you used 130 kg DAP as basal).
+*   **Second Top-Dressing (45-50 days after sowing, at pre-tasseling/tasseling stage):**
+    *   **Urea**: 105 kg/acre (Adjust based on the N supplied in the basal dose. This dose assumes you used 130 kg DAP as basal).
+
+**3. Nano Fertilizers (Foliar Application - Supplementary):**
+
+Nano fertilizers are excellent for supplementary nutrition and improving nutrient use efficiency, especially during critical growth stages or stress conditions.
+
+*   **Nano-Urea:**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Application:** 2 sprays.
+        *   First spray: At active vegetative growth stage (around 30-40 days after sowing).
+        *   Second spray: At pre-tasseling/tasseling stage (around 50-60 days after sowing).
+*   **Nano-DAP:**
+    *   **Dose:** 2-4 ml/L of water.
+    *   **Application:** 2 sprays.
+        *   First spray: At active vegetative growth stage (around 30-40 days after sowing).
+        *   Second spray: At grain filling stage.
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always prioritize soil testing to get precise recommendations tailored to your field.
+*   **Micronutrients:** If your soil test indicates deficiencies in micronutrients like Zinc (Zn), Iron (Fe), Manganese (Mn), or Boron (B), apply them as per recommendations. For example, **Zinc Sulphate (21%)** at 10 kg/acre as basal or foliar sprays of **Zinc Sulphate (33%)** at 0.5% solution.
+*   **Irrigation:** Ensure adequate moisture in the soil at the time of fertilizer application, especially for top-dressing of Urea, to maximize nutrient uptake and prevent losses.
+*   **Integrated Nutrient Management:** Combine chemical fertilizers with organic manures (Farm Yard Manure, compost) for long-term soil health and fertility.

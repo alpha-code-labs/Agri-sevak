@@ -1,0 +1,49 @@
+Namaste! As a Senior Agronomist at Haryana Agricultural University (HAU), Hisar, I understand the significant challenges Wilt diseases pose to tomato cultivation in Haryana. Effective management requires an integrated approach, combining cultural, biological, and judicious chemical methods.
+
+Wilt in tomato can be caused by various pathogens, primarily fungi (*Fusarium oxysporum f. sp. lycopersici*, *Verticillium dahliae*) and bacteria (*Ralstonia solanacearum*). "Parawilt" often refers to a sudden wilting and collapse, which can be due to severe root rot caused by oomycetes like *Phytophthora nicotianae* or *Pythium* species, or sometimes extreme environmental stress.
+
+Here's a comprehensive strategy for controlling Wilt (including Parawilt) in Tomato:
+
+### Integrated Disease Management Strategy
+
+1.  **Resistant Varieties:**
+    *   The most effective long-term solution is to use tomato varieties resistant or tolerant to Fusarium Wilt (F1, F2), Verticillium Wilt (V), and Bacterial Wilt (B). Consult with HAU or local agricultural extension for recommended resistant varieties suitable for Haryana.
+
+2.  **Cultural Practices:**
+    *   **Crop Rotation:** Avoid planting tomatoes or other solanaceous crops (potato, brinjal, chilli) in the same field for at least 3-4 years. Rotate with non-host crops like maize, wheat, mustard, or legumes.
+    *   **Soil Solarization:** In summer, cover moist soil with transparent polyethylene sheets for 4-6 weeks. This raises soil temperature, effectively killing many soil-borne pathogens, including wilt-causing fungi and bacteria.
+    *   **Sanitation:** Remove and destroy infected plant debris and weeds, which can harbor pathogens. Disinfect tools and equipment.
+    *   **Nursery Management:** Use disease-free seeds and sterilized potting mix for raising seedlings. Avoid overwatering in the nursery.
+    *   **Water Management:** Ensure proper drainage to prevent waterlogging, which favors root rot pathogens like *Phytophthora* and *Pythium*. Use drip irrigation to minimize leaf wetness and soil splashing.
+    *   **Balanced Nutrition:** Provide balanced fertilizers. Excessive nitrogen can make plants more susceptible.
+    *   **Grafting:** Grafting susceptible tomato varieties onto resistant rootstocks (e.g., wild tomato species or specific commercial rootstocks) can provide excellent resistance, especially against Bacterial Wilt.
+
+3.  **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with bio-agents like *Trichoderma viride* or *Trichoderma harzianum* (4-6 g/kg seed) or *Pseudomonas fluorescens* (10 g/kg seed) to protect seedlings from soil-borne pathogens.
+    *   **Soil Application/Drench:** Apply *Trichoderma viride* or *Trichoderma harzianum* (2.5 kg/acre mixed with 50 kg farmyard manure) or *Pseudomonas fluorescens* (2.5 kg/acre mixed with 50 kg farmyard manure) at the time of transplanting or as a drench around the root zone. These bio-agents compete with pathogens and produce antagonistic compounds.
+
+4.  **Chemical Control:**
+    *   **For Fungal Wilts (Fusarium, Verticillium):**
+        *   **Seed Treatment:**
+            *   **Carbendazim** @ 1-2 g/kg seed.
+            *   **Thiram** @ 2-3 g/kg seed.
+        *   **Soil Drench (Preventive/Early Stage):**
+            *   **Carbendazim** @ 1-2 g/L water, drenching 200-250 ml solution per plant around the root zone.
+    *   **For Bacterial Wilt (*Ralstonia solanacearum*):**
+        *   Chemical control is generally less effective once symptoms appear. Focus on prevention, resistant varieties, and cultural practices.
+        *   **Soil Drench (Preventive):**
+            *   **Copper oxychloride** @ 2-3 g/L water, drenching 200-250 ml solution per plant can help reduce bacterial load in the soil.
+    *   **For Parawilt (Phytophthora/Pythium related wilting/root rot):**
+        *   **Soil Drench:**
+            *   **Metalaxyl + Mancozeb** (combination product) @ 2.5 g/L water, drenching 200-250 ml solution per plant.
+            *   **Propamocarb hydrochloride** @ 2-3 ml/L water, drenching 200-250 ml solution per plant.
+            *   **Fosetyl-aluminium** @ 2-3 g/L water, drenching 200-250 ml solution per plant.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the pesticide label carefully.
+*   Wear appropriate personal protective equipment (PPE) during application.
+*   Rotate fungicides with different modes of action to prevent the development of resistance.
+*   Consult with your local HAU extension specialist for the most current recommendations and specific product availability in your area.
+
+By implementing these integrated strategies, you can significantly reduce the incidence and severity of Wilt diseases in your tomato crop.

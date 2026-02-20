@@ -1,0 +1,67 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following scientifically verified seed and soil treatment processes for Groundnut cultivation in Haryana to ensure healthy crop establishment and mitigate common pest and disease issues.
+
+---
+
+### Recommended Seed Treatment for Groundnut
+
+Seed treatment is crucial for protecting germinating seeds and young seedlings from seed-borne and early soil-borne pathogens, as well as initial insect pest attacks.
+
+1.  **Fungicidal Treatment (for Seed Rot, Collar Rot, Seedling Blight):**
+    *   Apply one of the following fungicides to protect against diseases caused by *Aspergillus niger*, *Sclerotium rolfsii*, etc.
+        *   **Carbendazim** 50% WP: 1.0 - 1.5 g per kg of seed
+        *   **Thiram** 75% WS: 2.5 - 3.0 g per kg of seed
+        *   **Carboxin** 37.5% + **Thiram** 37.5% DS (combination product): 2.0 - 2.5 g per kg of seed
+        *   **Tebuconazole** 2% DS: 1.0 - 1.5 g per kg of seed
+        *   **Mancozeb** 75% WP: 2.5 - 3.0 g per kg of seed
+
+2.  **Insecticidal Treatment (for Early Sucking Pests like Thrips, Aphids, and Leaf Miner):**
+    *   After fungicidal treatment, apply an insecticide to protect against early insect pests.
+        *   **Imidacloprid** 600 FS: 5.0 - 7.0 ml per kg of seed
+        *   **Thiamethoxam** 70% WS: 3.0 - 4.0 g per kg of seed
+
+3.  **Bio-fungicidal Treatment (for enhanced disease protection):**
+    *   If using a bio-fungicide, apply it after the chemical fungicide.
+        *   **Trichoderma viride** (or *Trichoderma harzianum*) 1% WP: 4.0 - 5.0 g per kg of seed. (Ensure a gap of at least 24 hours if chemical fungicide is very strong, or apply *Trichoderma* as a standalone if disease pressure is low).
+
+4.  **Bio-fertilizer Treatment (for Nitrogen Fixation):**
+    *   This is the last step.
+        *   **Rhizobium** culture: 200 g per 10-15 kg of seed. Mix with jaggery solution (gur) to ensure proper sticking to seeds. Allow seeds to dry in shade before sowing.
+
+**Order of Application:** Fungicide -> Insecticide -> Bio-fungicide -> Bio-fertilizer.
+
+---
+
+### Recommended Soil Treatment for Groundnut
+
+Soil treatment focuses on managing soil-borne pests, diseases, and addressing critical nutrient deficiencies.
+
+1.  **For Soil-borne Pests (White Grub, Termites):**
+    *   Apply one of the following granular insecticides at the time of final land preparation or sowing.
+        *   **Fipronil** 0.3% GR: 20 - 25 kg per acre, broadcast and incorporated into the soil.
+        *   **Chlorpyrifos** 20% EC: 2.0 - 4.0 L per acre, mixed with 50-100 kg of sand or dry soil and broadcast evenly, then incorporated.
+        *   **Fluensulfone** 2% GR: 10 - 15 kg per acre, applied in furrows at sowing.
+
+2.  **For Soil-borne Diseases (Stem Rot, Collar Rot, Root Rot):**
+    *   In fields with a history of severe soil-borne diseases, consider soil application of fungicides or bio-agents.
+        *   **Trichoderma viride** (or *Trichoderma harzianum*) 1% WP: 2.0 - 4.0 kg per acre, mixed with 50-100 kg of well-decomposed Farm Yard Manure (FYM) or compost and broadcast evenly before sowing.
+        *   **Carbendazim** 50% WP: 500 g per acre, mixed with sand and broadcast, or applied as a drench around the base of plants if disease appears post-emergence.
+
+3.  **For Nematodes (if a known problem):**
+    *   If nematode infestation is confirmed, apply a nematicide at sowing.
+        *   **Carbofuran** 3% G: 10 - 15 kg per acre, applied in furrows at sowing.
+        *   **Phorate** 10% G: 4.0 - 6.0 kg per acre, applied in furrows at sowing.
+        *   **Fluensulfone** 2% GR: 10 - 15 kg per acre, applied in furrows at sowing.
+
+4.  **Nutrient Management (Soil Amendment for Calcium and Sulphur):**
+    *   Groundnut has a high requirement for Calcium and Sulphur, which are critical for pod development and kernel filling.
+        *   **Gypsum** (Calcium Sulphate): 200 - 250 kg per acre. Apply at the pegging stage (around 25-30 days after sowing) in the pegging zone (near the base of the plant) to ensure calcium availability for pod formation.
+        *   **Sulphur** (Bentonite Sulphur 90%): 10 - 15 kg per acre, applied at the time of sowing if not adequately supplied through gypsum or other fertilizers.
+
+---
+
+**Important Considerations:**
+
+*   Always ensure proper moisture levels in the soil for optimal efficacy of both seed and soil treatments.
+*   Follow the manufacturer's instructions and safety precautions for all chemical applications.
+*   Integrated Pest Management (IPM) approach is highly recommended, combining cultural practices, resistant varieties, biological control, and judicious use of chemicals.
+*   Consult your local agricultural extension officer for specific recommendations tailored to your field's history and current conditions.

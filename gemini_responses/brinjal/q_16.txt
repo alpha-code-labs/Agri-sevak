@@ -1,0 +1,79 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I recommend the following fertilizer schedule for Brinjal (Eggplant) cultivation in Haryana. Please note that these are general recommendations, and a soil test report is crucial for precise nutrient management tailored to your specific field conditions.
+
+**General NPK Recommendation for Brinjal in Haryana:**
+*   **Nitrogen (N):** 100-120 kg per acre
+*   **Phosphorus (P2O5):** 50-60 kg per acre
+*   **Potassium (K2O):** 50-60 kg per acre
+*   **Sulphur (S):** 20 kg per acre
+
+Based on these recommendations, here are the doses for specific fertilizers:
+
+---
+
+### Granular Fertilizers (Soil Application)
+
+**1. Basal Application (at the time of transplanting):**
+Apply the following fertilizers and mix them well into the soil before transplanting the Brinjal seedlings.
+
+*   **DAP (Di-Ammonium Phosphate):** 65-70 kg per acre
+    *   *Provides ~12 kg N and ~30 kg P2O5.*
+*   **SSP (Single Super Phosphate):** 180-185 kg per acre
+    *   *Provides ~29 kg P2O5 and ~20 kg Sulphur (S).*
+    *   *(If DAP is used, SSP is primarily for Sulphur and remaining P. If only SSP is used for P, the quantity would be higher, and DAP might be omitted.)*
+*   **Muriate of Potash (MOP) / Potash:** 100 kg per acre
+    *   *Provides ~60 kg K2O.*
+*   **Urea:** 75-80 kg per acre
+    *   *This is approximately 1/3rd of the total Nitrogen requirement.*
+
+**2. Top Dressing (Split Applications):**
+The remaining Nitrogen (Urea) should be applied in 2-3 split doses to maximize nutrient uptake and minimize losses.
+
+*   **First Top Dressing (30-45 days after transplanting):**
+    *   **Urea:** 75-80 kg per acre
+*   **Second Top Dressing (60-75 days after transplanting, at flowering/fruiting initiation):**
+    *   **Urea:** 75-80 kg per acre
+
+---
+
+### Nano-Fertilizers (Foliar Application)
+
+Nano-fertilizers are excellent supplements to granular fertilizers, especially during critical growth stages or when nutrient deficiencies are observed. They are not a complete replacement for basal granular applications.
+
+*   **Nano-Urea:**
+    *   **Dose:** 2-4 ml per liter of water.
+    *   **Application:** Spray 2-3 times during the vegetative growth and flowering stages, at 15-20 day intervals.
+*   **Nano-DAP:**
+    *   **Dose:** 2-4 ml per liter of water.
+    *   **Application:** Spray 2-3 times, particularly during flowering and fruit development stages, at 15-20 day intervals.
+
+---
+
+### NPK Complex Fertilizers
+
+If you prefer to use NPK complex fertilizers instead of individual straight fertilizers, you can adjust the doses accordingly. Common NPK grades include 12:32:16, 10:26:26, or 19:19:19.
+
+*   **NPK (e.g., 12:32:16 grade):**
+    *   If using a complex NPK fertilizer, calculate the amount needed to meet the P2O5 and K2O requirements, and then supplement the remaining N with **Urea**.
+    *   For example, to meet 60 kg P2O5, you would need approximately 187 kg of **12:32:16** (60 / 0.32 = 187.5 kg). This would also provide 22.5 kg N and 30 kg K2O. You would then adjust **Urea** and **Muriate of Potash** accordingly.
+    *   **Recommendation:** Consult your local agricultural extension officer or HAU expert for specific recommendations if using a particular NPK complex fertilizer, as the grade significantly impacts the dose.
+
+---
+
+### Sulphur
+
+Sulphur is crucial for oil synthesis, protein formation, and overall plant health.
+
+*   **Sulphur:**
+    *   The recommended 20 kg Sulphur per acre is adequately supplied by the **SSP** dose mentioned above.
+    *   If **SSP** is not used, or if a higher Sulphur dose is required based on soil test, you can apply **Elemental Sulphur** (90% WDG) at 20-25 kg per acre as a basal application.
+
+---
+
+**Important Considerations:**
+
+*   **Soil Testing:** Always conduct a soil test before planting to determine the exact nutrient status of your field. This will allow for precise fertilizer application, preventing over-application or deficiencies.
+*   **Organic Manures:** Supplementing chemical fertilizers with well-decomposed Farm Yard Manure (FYM) at 10-15 tonnes per acre or vermicompost at 2-3 tonnes per acre can significantly improve soil health, nutrient availability, and water retention.
+*   **Irrigation:** Ensure proper irrigation practices, as nutrient uptake is highly dependent on soil moisture.
+*   **Micronutrients:** Brinjal may also require micronutrients like Zinc, Boron, and Iron, especially in deficient soils. A soil test will indicate if these are needed. If so, apply **Zinc Sulphate** (21%) at 10-12 kg per acre or **Borax** at 4-5 kg per acre as basal.
+
+For any further specific queries or detailed guidance, please feel free to contact the Department of Vegetable Science or Soil Science at HAU, Hisar.

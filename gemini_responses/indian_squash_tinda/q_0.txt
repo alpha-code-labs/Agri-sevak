@@ -1,0 +1,71 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling fungal diseases in Indian Squash (Tinda) in Haryana:
+
+It is crucial to adopt an Integrated Disease Management (IDM) approach, combining cultural practices with judicious use of CIBRC-approved fungicides. Always monitor your fields regularly and apply fungicides preventively or at the first sign of disease. Ensure thorough spray coverage and rotate fungicides with different modes of action to prevent resistance development. Always read and follow the label instructions for dosage, safety, and pre-harvest interval (PHI).
+
+---
+
+### Fungal Diseases Affecting Indian Squash (Tinda)
+
+#### 1. Alternaria Leaf Spot/Blight (*Alternaria cucumerina*)
+This disease is common in Indian Squash (Tinda).
+*   **Symptoms:** Small, circular, water-soaked spots appear on older leaves, which enlarge, become angular, brown, and often develop concentric rings (target spot appearance). Severely infected leaves may turn yellow and die prematurely.
+*   **Cultural Practices:**
+    *   Practice crop rotation with non-cucurbit crops.
+    *   Remove and destroy infected plant debris after harvest.
+    *   Ensure proper plant spacing for good air circulation.
+*   **Chemical Control:**
+    *   **Mancozeb** (75% WP) at 2.5 kg/acre or 2.5 g/L of water.
+    *   **Chlorothalonil** (75% WP) at 1.5-2 kg/acre or 1.5-2 g/L of water.
+    *   **Azoxystrobin** (23% SC) at 200 ml/acre or 0.5 ml/L of water.
+    *   **Tebuconazole** (25.9% EC) at 300 ml/acre or 0.75 ml/L of water.
+
+#### 2. Anthracnose (*Colletotrichum orbiculare*)
+This disease is common in Indian Squash (Tinda).
+*   **Symptoms:** Circular, dark, sunken lesions appear on leaves, stems, and fruits. On leaves, spots are dark brown to black, often with a yellow halo. On fruits, deep, sunken cankers can develop.
+*   **Cultural Practices:**
+    *   Use disease-free seeds.
+    *   Practice crop rotation with non-cucurbit crops for at least 2-3 years.
+    *   Sanitation: Remove and destroy infected plant parts.
+    *   Avoid overhead irrigation, especially late in the day, to reduce leaf wetness.
+*   **Chemical Control:**
+    *   **Mancozeb** (75% WP) at 2.5 kg/acre or 2.5 g/L of water.
+    *   **Chlorothalonil** (75% WP) at 1.5-2 kg/acre or 1.5-2 g/L of water.
+    *   **Carbendazim** (50% WP) at 200 g/acre or 0.5 g/L of water.
+    *   **Thiophanate Methyl** (70% WP) at 200-400 g/acre or 0.5-1 g/L of water.
+    *   **Azoxystrobin** (23% SC) at 200 ml/acre or 0.5 ml/L of water.
+
+#### 3. Downy Mildew (*Pseudoperonospora cubensis*)
+This disease is a significant problem in Indian Squash (Tinda).
+*   **Symptoms:** Angular, yellow spots appear on the upper leaf surface, delimited by veins. On the underside of these spots, a purplish-grey, fuzzy growth (sporangiophores) can be observed, especially in humid conditions. Infected leaves turn brown and die.
+*   **Cultural Practices:**
+    *   Ensure good air circulation within the canopy by proper spacing and pruning.
+    *   Avoid overhead irrigation, or irrigate early in the day to allow foliage to dry quickly.
+*   **Chemical Control:**
+    *   **Mancozeb** (75% WP) at 2.5 kg/acre or 2.5 g/L of water (preventive).
+    *   **Propineb** (70% WP) at 2.5 kg/acre or 2.5 g/L of water (preventive).
+    *   **Dimethomorph + Mancozeb** (9% + 60% WP) at 1 kg/acre or 2.5 g/L of water.
+    *   **Cymoxanil + Mancozeb** (8% + 64% WP) at 1 kg/acre or 2.5 g/L of water.
+    *   **Fluopicolide + Propamocarb Hydrochloride** (6% + 60% SC) at 800 ml/acre or 2 ml/L of water.
+    *   **Amisulbrom** (20% SC) at 200 ml/acre or 0.5 ml/L of water.
+
+#### 4. Powdery Mildew (*Podosphaera xanthii* or *Erysiphe cichoracearum*)
+This disease is very common and can be severe in Indian Squash (Tinda).
+*   **Symptoms:** White, powdery patches appear on the upper and lower surfaces of leaves, stems, and petioles. These patches enlarge and coalesce, covering large areas. Infected leaves may turn yellow, brown, and die prematurely.
+*   **Cultural Practices:**
+    *   Ensure good air circulation within the canopy.
+    *   Remove severely infected leaves to reduce inoculum.
+*   **Chemical Control:**
+    *   **Sulphur** (80% WP) at 800-1200 g/acre or 2-3 g/L of water.
+    *   **Myclobutanil** (10% WP) at 160 g/acre or 0.4 g/L of water.
+    *   **Penconazole** (10% EC) at 200 ml/acre or 0.5 ml/L of water.
+    *   **Azoxystrobin** (23% SC) at 200 ml/acre or 0.5 ml/L of water.
+    *   **Tebuconazole** (25.9% EC) at 300 ml/acre or 0.75 ml/L of water.
+    *   **Hexaconazole** (5% SC) at 400 ml/acre or 1 ml/L of water.
+
+---
+
+### Diseases Not Known to Affect Indian Squash (Tinda)
+
+*   **Blast:** This is not known to affect Indian Squash (Tinda). Blast disease primarily affects cereal crops like rice and wheat.
+*   **Blight (general term) & Brown spot:** While these are general terms for symptoms, the specific fungal diseases causing blight-like or brown spot symptoms in Tinda are typically covered by Alternaria leaf spot/blight and Anthracnose, as detailed above.
+*   **Grey Mildew:** This is not known to affect Indian Squash (Tinda). Grey mildew is primarily a disease of cotton.

@@ -1,0 +1,49 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I can provide scientifically verified advice for controlling dropping in Apple.
+
+Regarding "Tinda/Boll dropping," **this is not known to affect Apple**, as apples are fruits and do not produce bolls or tindas.
+
+Flower drop and fruit drop are common physiological phenomena in Apple, often influenced by a combination of environmental, nutritional, and hormonal factors. Effective management requires an integrated approach.
+
+Here's how to control flower and fruit drop in Apple under Haryana conditions:
+
+**I. Integrated Management Approach (Cultural Practices):**
+
+1.  **Pollination Management:** Ensure adequate cross-pollination. Plant suitable pollinizer varieties within the orchard and maintain a healthy population of pollinators, especially honeybees, during the flowering period. Poor pollination is a primary cause of flower and early fruit drop.
+2.  **Water Management:** Provide consistent and adequate irrigation, particularly during critical stages such as flowering, fruit set, and fruit development. Both water stress (drought) and waterlogging can lead to premature dropping.
+3.  **Nutrient Management:** Conduct regular soil and leaf analysis to identify and correct any nutrient deficiencies. Ensure a balanced supply of macro and micronutrients.
+4.  **Pruning:** Practice proper pruning techniques to maintain tree vigor, improve light penetration, and enhance air circulation within the canopy, which contributes to better fruit set and retention.
+5.  **Pest and Disease Control:** Effectively manage pests and diseases, as stress from infestations can weaken the tree and lead to premature fruit drop.
+
+**II. Nutritional Management:**
+
+Specific nutrient deficiencies can significantly contribute to flower and fruit drop.
+
+*   **Boron:** Essential for pollen germination, pollen tube growth, and fruit set.
+    *   Foliar spray of **Borax** (10.5% Boron) at 1.0-1.5 g/L of water, applied at the pink bud stage and again at petal fall.
+*   **Calcium:** Improves cell wall integrity, fruit firmness, and reduces physiological disorders, including some forms of fruit drop.
+    *   Foliar spray of **Calcium Nitrate** (15.5% N, 19% Ca) at 5-7 g/L of water, starting 4-6 weeks after petal fall and repeating 2-3 times at 10-14 day intervals.
+
+**III. Plant Growth Regulators (PGRs) for Drop Control:**
+
+The application of PGRs requires precise timing and dosage for optimal results and to avoid adverse effects. Always follow manufacturer's instructions and local HAU recommendations.
+
+*   **For Flower and Early Fruit Drop (Chemical Thinning to reduce competition):**
+    *   Excessive fruit set can lead to natural drop of weaker fruits. Chemical thinning helps reduce competition, leading to better retention of desired fruits and improved fruit size and quality.
+    *   **Naphthalene Acetic Acid (NAA):**
+        *   Apply **Naphthalene Acetic Acid** at 5-10 mg/L (ppm) of water, 10-15 days after full bloom when fruitlets are 8-12 mm in diameter. *Caution: Higher concentrations or late application can lead to over-thinning.*
+    *   **6-Benzylaminopurine (6-BA):**
+        *   Apply **6-Benzylaminopurine** at 50-100 mg/L (ppm) of water, 10-20 days after full bloom when fruitlets are 8-15 mm in diameter. This can be used alone or in combination with NAA for enhanced thinning.
+
+*   **For Pre-harvest Fruit Drop:**
+    *   Pre-harvest fruit drop is often triggered by the natural production of ethylene in mature fruits.
+    *   **Naphthalene Acetic Acid (NAA):**
+        *   Apply **Naphthalene Acetic Acid** at 10-20 mg/L (ppm) of water, 7-14 days before the anticipated harvest date. The effect typically lasts for about 10-14 days. A second application may be considered if harvest is delayed, but adhere to label instructions regarding maximum applications and pre-harvest intervals.
+    *   **Aminoethoxyvinylglycine (AVG):** An ethylene biosynthesis inhibitor, highly effective for preventing pre-harvest fruit drop.
+        *   Apply **Aminoethoxyvinylglycine** at 125 mg/L (ppm) of water, 3-4 weeks before the anticipated harvest date. This provides a longer window of protection against drop compared to NAA.
+
+**Important Considerations:**
+
+*   **Timing is Critical:** The effectiveness of PGRs is highly dependent on precise application timing relative to the physiological stage of the apple tree and fruit development.
+*   **Weather Conditions:** Avoid spraying during extreme temperatures (above 30°C or below 10°C), high winds, or when rain is expected within 24 hours of application.
+*   **Variety Specificity:** Responses to PGRs can vary significantly among different apple varieties.
+*   **Consult Experts:** Always consult with HAU extension specialists or local agronomists for specific recommendations tailored to your orchard's variety, age, and local environmental conditions in Haryana.

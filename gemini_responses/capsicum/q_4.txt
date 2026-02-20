@@ -1,0 +1,59 @@
+Wilt, including Parawilt, in Capsicum (bell pepper/chilli) is a complex issue as it can be caused by various pathogens, primarily fungi, bacteria, and oomycetes, often exacerbated by environmental stress. Parawilt specifically refers to a sudden, rapid wilting and collapse of the plant, often associated with *Phytophthora capsici* or severe root damage. Effective control requires an integrated approach combining cultural, biological, and chemical methods.
+
+Here's how to control wilt in Capsicum:
+
+**I. General Cultural Practices (Applicable to all types of Wilt):**
+
+1.  **Crop Rotation:** Avoid planting Capsicum or other solanaceous crops (tomato, brinjal, potato) in the same field for at least 3-4 years. Rotate with non-host crops like maize, wheat, or legumes.
+2.  **Resistant Varieties:** Whenever possible, choose Capsicum varieties known to have resistance or tolerance to specific wilt pathogens prevalent in your area.
+3.  **Soil Health and Drainage:**
+    *   Ensure excellent soil drainage. Wilts, especially Phytophthora wilt (parawilt), are severe in waterlogged conditions.
+    *   Plant on raised beds to improve drainage and aeration around the root zone.
+    *   Avoid over-irrigation.
+4.  **Sanitation:**
+    *   Remove and destroy infected plants immediately to prevent the spread of pathogens.
+    *   Clean tools and equipment after working in infected areas.
+5.  **Nursery Management:** Use sterilized potting mix or soil for raising seedlings. Ensure healthy, disease-free seedlings are transplanted.
+6.  **Soil Solarization:** In hot summer months, cover the soil with transparent polyethylene sheets for 4-6 weeks to raise soil temperature and reduce pathogen load.
+7.  **Balanced Nutrition:** Provide balanced fertilizers to promote strong plant growth and enhance natural resistance. Avoid excessive nitrogen, which can make plants more susceptible.
+8.  **Avoid Mechanical Injury:** Minimize root damage during transplanting and intercultural operations, as wounds can serve as entry points for pathogens.
+
+**II. Specific Control Measures:**
+
+**A. Fungal Wilts (e.g., Fusarium Wilt caused by *Fusarium oxysporum f. sp. capsici*, Verticillium Wilt caused by *Verticillium dahliae*)**
+
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with *Trichoderma viride* or *Trichoderma harzianum* @ 5-10 g/kg seed.
+    *   **Soil Application/Drenching:** Apply *Trichoderma viride* or *Trichoderma harzianum* @ 2.5 kg/acre mixed with 50 kg farmyard manure (FYM) or sand, applied at planting or as a drench around the root zone.
+*   **Chemical Control:**
+    *   **Seed Treatment:**
+        *   **Carbendazim** (50% WP) @ 2 g/kg seed.
+        *   **Thiram** (75% WS) @ 2.5 g/kg seed.
+    *   **Soil Drenching (at transplanting or early symptom appearance):**
+        *   **Carbendazim** (50% WP) @ 1 g/L water, drenching 200-250 ml solution per plant.
+
+**B. Bacterial Wilt (caused by *Ralstonia solanacearum*)**
+
+*   **Cultural Practices:** Emphasize resistant varieties, strict crop rotation, and sanitation. Avoid planting in fields with a history of bacterial wilt.
+*   **Biological Control:**
+    *   **Seed Treatment:** Treat seeds with *Pseudomonas fluorescens* @ 10 g/kg seed.
+    *   **Soil Application/Drenching:** Apply *Pseudomonas fluorescens* @ 2.5 kg/acre mixed with 50 kg FYM or sand, applied at planting or as a drench around the root zone.
+*   **Chemical Control (Limited efficacy once established, primarily preventive):**
+    *   **Soil Drenching (at transplanting or early symptom appearance):**
+        *   **Copper Oxychloride** (50% WP) @ 2.5 g/L water, drenching around the root zone. This can help reduce bacterial load in the soil.
+
+**C. Phytophthora Blight/Wilt (Parawilt) (caused by *Phytophthora capsici*)**
+
+*   **Cultural Practices:** This is critical. Ensure excellent drainage, plant on raised beds, and avoid any waterlogging.
+*   **Biological Control:**
+    *   **Soil Application/Drenching:** *Trichoderma viride* or *Trichoderma harzianum* @ 2.5 kg/acre mixed with 50 kg FYM or sand, applied at planting or as a drench.
+*   **Chemical Control (Soil Drenching):**
+    *   **Propamocarb Hydrochloride** (72.2% SL) @ 2.5 ml/L water.
+    *   **Metalaxyl 8% + Mancozeb 64% WP** @ 2.5 g/L water.
+    *   **Fosetyl-Aluminium** (80% WP) @ 2.5 g/L water.
+
+**Important Considerations:**
+
+*   Always read and follow the instructions on the pesticide label for dosage, application method, and safety precautions.
+*   Rotate fungicides with different modes of action to prevent the development of resistance in pathogens.
+*   Early detection and intervention are crucial for effective management of wilt diseases.

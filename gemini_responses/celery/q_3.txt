@@ -1,0 +1,91 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I provide the following scientifically verified advice for controlling various rot types in Celery (Apium graveolens) in Haryana. Effective management relies on an Integrated Pest Management (IPM) approach, combining cultural practices with judicious chemical applications.
+
+**General Cultural and Preventive Measures for Rot Management:**
+
+These practices are fundamental to preventing and managing most rot diseases in celery:
+
+1.  **Crop Rotation:** Implement a 3-4 year rotation with non-host crops (e.g., cereals, maize) to reduce soil-borne pathogen inoculum. Avoid planting celery after other susceptible crops like carrots, parsley, or lettuce.
+2.  **Improved Drainage:** Ensure fields have excellent drainage to prevent waterlogging, which favors many rot-causing pathogens, especially oomycetes like *Pythium* and *Phytophthora*. Consider raised beds in areas prone to water accumulation.
+3.  **Soil Health:** Maintain good soil structure and organic matter content. Avoid excessive compaction.
+4.  **Use Healthy Planting Material:** Always use certified, disease-free seeds or seedlings from reputable sources.
+5.  **Proper Spacing:** Plant celery at recommended spacing to ensure good air circulation, which helps reduce humidity around the plants and inhibits fungal growth.
+6.  **Sanitation:** Promptly remove and destroy infected plant debris from the field to reduce inoculum sources. Deep ploughing after harvest can bury residues and aid decomposition.
+7.  **Balanced Fertilization:** Avoid excessive nitrogen fertilization, which can lead to lush, succulent growth that is more susceptible to rot diseases.
+8.  **Irrigation Management:** Water early in the day to allow foliage to dry before nightfall. Avoid overhead irrigation where possible, or use drip irrigation to minimize leaf wetness.
+9.  **Weed Control:** Manage weeds, as they can act as alternative hosts for pathogens and impede air circulation.
+10. **Biological Control:** Incorporate beneficial microorganisms like *Trichoderma viride* or *Pseudomonas fluorescens* as seed treatments or soil amendments to suppress soil-borne pathogens.
+
+---
+
+**Specific Control Measures for Rot Types in Celery:**
+
+### 1. Root Rot, Stem Rot, Foot Rot, Collar Rot, Crown Rot, and Neck Rot
+
+These rot types often share common soil-borne and plant-base pathogens such as *Pythium* spp., *Phytophthora* spp., *Rhizoctonia solani*, *Sclerotinia sclerotiorum* (causing Pink Rot or Watery Soft Rot), and *Fusarium* spp.
+
+**Cultural Practices (in addition to general measures):**
+*   Ensure proper soil preparation and drainage before planting.
+*   Avoid deep planting of seedlings.
+*   Practice hilling up carefully to avoid injuring stems, which can create entry points for pathogens.
+
+**Chemical Control (Soil Drench/Foliar Spray):**
+
+*   **For Oomycete Rots (*Pythium*, *Phytophthora*):**
+    *   **Propamocarb hydrochloride** 72.2% SL: Apply as a soil drench at 2.5-3.0 ml/L water at planting or early growth stages.
+    *   **Metalaxyl** 8% + **Mancozeb** 64% WP: Apply as a soil drench at 2.0-2.5 g/L water.
+    *   **Fosetyl-aluminium** 80% WP: Apply as a foliar spray or drench at 2.0-2.5 g/L water.
+*   **For *Rhizoctonia* and *Fusarium* Rots:**
+    *   **Flutolanil** 24% SC: Apply as a soil drench at 1.5-2.0 ml/L water.
+    *   **Pencycuron** 25% SC: Apply as a soil drench at 1.5-2.0 ml/L water.
+    *   **Carbendazim** 50% WP: Apply as a soil drench at 1.0 g/L water.
+    *   **Thiophanate-methyl** 70% WP: Apply as a soil drench at 1.0 g/L water.
+*   **For *Sclerotinia* (Pink Rot/Watery Soft Rot):**
+    *   **Boscalid** 25.2% + **Pyraclostrobin** 12.8% WG: Apply as a foliar spray at 0.75-1.0 g/L water, targeting the plant base.
+    *   **Fluazinam** 50% SC: Apply as a foliar spray at 1.0-1.5 ml/L water, targeting the plant base.
+    *   **Carbendazim** 50% WP: Apply as a foliar spray at 1.0 g/L water, targeting the plant base.
+
+### 2. Black Rot
+
+While "Black Rot" is a specific disease for some crops (e.g., crucifers, grapes), in celery, blackening and subsequent rot can be caused by diseases like Early Blight (*Alternaria dauci*) or Phoma Blight (*Phoma apiicola*). These diseases cause dark lesions that can lead to petiole and stalk rot.
+
+**Cultural Practices:**
+*   Use resistant varieties if available.
+*   Ensure good air circulation.
+*   Remove and destroy infected leaves and plant debris.
+
+**Chemical Control (Foliar Spray):**
+*   **Mancozeb** 75% WP: Apply as a foliar spray at 2.0-2.5 g/L water.
+*   **Chlorothalonil** 75% WP: Apply as a foliar spray at 2.0 g/L water.
+*   **Azoxystrobin** 23% SC: Apply as a foliar spray at 0.5-1.0 ml/L water.
+*   **Difenoconazole** 25% EC: Apply as a foliar spray at 0.5 ml/L water.
+*   **Tebuconazole** 25.9% EC: Apply as a foliar spray at 0.75-1.0 ml/L water.
+*   **Propineb** 70% WP: Apply as a foliar spray at 2.0-2.5 g/L water.
+
+### 3. Fruit Rot
+
+This is not known to affect Celery, as celery is cultivated for its petioles (stalks) and leaves, not for its botanical fruit in the agricultural sense.
+
+### 4. Seed Rot and Seedling Rot (Damping-off)
+
+These are common issues in celery nurseries, caused by soil-borne pathogens like *Pythium* spp., *Rhizoctonia solani*, and *Fusarium* spp.
+
+**Cultural Practices:**
+*   Use high-quality, certified seeds.
+*   Sterilize nursery soil or growing media before sowing.
+*   Ensure proper drainage in seedbeds.
+*   Avoid overwatering and overcrowding of seedlings.
+
+**Chemical Control (Seed Treatment / Soil Drench):**
+
+*   **Seed Treatment:**
+    *   **Thiram** 75% WS: Treat seeds at 2.0-3.0 g/kg seed.
+    *   **Carbendazim** 50% WP: Treat seeds at 1.0-2.0 g/kg seed.
+    *   **Metalaxyl** 35% WS: Treat seeds at 1.0-2.0 g/kg seed (especially effective against *Pythium*).
+    *   **Metalaxyl-M** 31.8% ES: Treat seeds at 3.0-4.0 ml/kg seed.
+*   **Soil Drench (for damping-off in nursery beds):**
+    *   **Propamocarb hydrochloride** 72.2% SL: Apply as a drench at 2.5-3.0 ml/L water immediately after sowing or at the first sign of disease.
+    *   **Metalaxyl** 8% + **Mancozeb** 64% WP: Apply as a drench at 2.0-2.5 g/L water.
+
+---
+
+**Important Note:** Always read and strictly follow the instructions on the product label for specific dosages, application methods, safety precautions, and pre-harvest intervals (PHI). Consult with local agricultural extension services for the most current recommendations and specific product availability in your region of Haryana.

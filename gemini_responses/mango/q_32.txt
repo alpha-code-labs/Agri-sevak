@@ -1,0 +1,76 @@
+As a Senior Agronomist at Haryana Agricultural University (HAU, Hisar), I understand your concern regarding "Drying up" in mango, which can manifest as drying branches, leaves, fruits, and flowers. This is a symptom, not a single disease, and can be caused by various factors, including fungal diseases, insect pests, and physiological stresses. Accurate diagnosis is crucial for effective management.
+
+Here are the common causes of drying up in mango and their recommended management strategies:
+
+### 1. Fungal Diseases
+
+These often lead to dieback, blight, or wilting, causing parts of the plant to dry.
+
+*   **Dieback (Caused by *Lasiodiplodia theobromae* and other fungi):**
+    *   **Symptoms:** Drying of branches from the tip downwards, often accompanied by gum exudation. Leaves turn brown and remain attached.
+    *   **Management:**
+        *   Prune affected branches 15-20 cm below the dried portion, ensuring clean cuts.
+        *   Apply a paste of **Copper Oxychloride** (50% WP) at 50 g/L of water to the cut ends.
+        *   Spray the tree with **Carbendazim** (50% WP) at 1 g/L of water or **Propiconazole** (25% EC) at 0.5 ml/L of water. Repeat after 15 days if necessary.
+
+*   **Anthracnose (Caused by *Colletotrichum gloeosporioides*):**
+    *   **Symptoms:** Black spots on leaves, twigs, flowers, and fruits. Severe infection can lead to flower blight, twig dieback, and drying of young fruits.
+    *   **Management:**
+        *   Regular pruning of dead or diseased twigs.
+        *   Spray with **Carbendazim** (50% WP) at 1 g/L of water or **Azoxystrobin** (23% SC) at 0.5 ml/L of water, especially during flowering and fruit development.
+
+*   **Powdery Mildew (Caused by *Oidium mangiferae*):**
+    *   **Symptoms:** White powdery growth on young leaves, flowers, and fruits, leading to distortion, drying, and shedding of affected parts.
+    *   **Management:**
+        *   Spray with **Sulphur (Wettable)** (80% WP) at 2-3 g/L of water or **Hexaconazole** (5% EC) at 0.5 ml/L of water at the appearance of symptoms, especially during flowering.
+
+### 2. Insect Pests
+
+Certain pests can damage the plant tissues, disrupting sap flow and leading to drying.
+
+*   **Mango Hopper (Species like *Amritodus atkinsoni*, *Idioscopus nitidulus*):**
+    *   **Symptoms:** Nymphs and adults suck sap from tender shoots, flowers, and young fruits, causing them to dry and shed. Honeydew secretion leads to sooty mould.
+    *   **Management:**
+        *   Spray with **Imidacloprid** (17.8% SL) at 0.3 ml/L of water or **Thiamethoxam** (25% WG) at 0.2 g/L of water, particularly before flowering and at pea-size fruit stage.
+        *   Alternatively, **Lambda-cyhalothrin** (5% EC) at 0.5 ml/L of water can be used.
+
+*   **Stem Borer (Species like *Batocera rufomaculata*):**
+    *   **Symptoms:** Larvae bore into the main stem or thick branches, disrupting nutrient and water transport, leading to wilting and drying of entire branches or even the tree. Presence of frass and sawdust near boreholes.
+    *   **Management:**
+        *   Locate the boreholes and inject a solution of **Chlorpyrifos** (20% EC) at 5 ml/L of water into the holes using a syringe, then plug the holes with mud.
+        *   For prevention, swabbing the main trunk and thick branches with **Chlorpyrifos** (20% EC) at 2.5 ml/L of water during monsoon can deter egg-laying.
+
+*   **Shoot Borer (Species like *Chlumetia transversa*):**
+    *   **Symptoms:** Larvae bore into young shoots, causing them to wither, dry, and break.
+    *   **Management:**
+        *   Prune and destroy affected shoots.
+        *   Spray with **Lambda-cyhalothrin** (5% EC) at 0.5 ml/L of water or **Chlorantraniliprole** (18.5% SC) at 0.3 ml/L of water on new flushes.
+
+### 3. Physiological and Environmental Factors
+
+These stresses can weaken the tree and cause drying symptoms without direct pathogen or pest involvement.
+
+*   **Water Stress (Drought or Waterlogging):**
+    *   **Symptoms:** Leaves wilt, turn yellow or brown, and may drop. Branches can die back.
+    *   **Management:** Ensure proper irrigation, especially during critical growth stages (flowering, fruit development) and dry spells. Avoid waterlogging by ensuring good drainage.
+
+*   **Nutrient Deficiencies:**
+    *   **Symptoms:** General poor growth, yellowing, and premature drying of leaves.
+    *   **Management:** Conduct soil and leaf analysis to identify specific deficiencies. Apply balanced fertilizers as per recommendations for mango in Haryana.
+
+*   **Heat Stress/Sunburn:**
+    *   **Symptoms:** Scorching and drying of leaves and fruits, especially on exposed sides.
+    *   **Management:** Maintain adequate soil moisture. Consider providing temporary shade for young trees during extreme heat.
+
+*   **Salinity:**
+    *   **Symptoms:** Leaf tip burn, marginal necrosis, and overall drying of foliage.
+    *   **Management:** Improve soil drainage, use good quality irrigation water, and consider soil amendments to reduce salinity.
+
+### General Recommendations:
+
+*   **Orchard Hygiene:** Regularly remove and destroy dried, diseased, or pest-infested plant parts.
+*   **Balanced Nutrition:** Ensure the trees receive adequate and balanced nutrients to maintain vigor and resistance.
+*   **Proper Pruning:** Prune regularly to remove dead/diseased wood and maintain an open canopy for good air circulation.
+*   **Monitoring:** Regularly inspect your mango trees for early signs of disease or pest infestation.
+
+**It is highly recommended to consult with local agricultural experts from HAU or the Department of Agriculture for a precise diagnosis, especially if the symptoms are widespread or severe, as they can provide tailored advice based on the specific conditions of your orchard.**

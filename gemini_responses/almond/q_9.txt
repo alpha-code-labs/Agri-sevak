@@ -1,0 +1,34 @@
+Mites, including Red spider mite (*Tetranychus urticae*) and Rust mite (*Aculus cornutus* or similar species), are known pests of Almond and can cause significant damage if not managed effectively.
+
+Here's a scientifically verified approach for their control:
+
+**I. Integrated Pest Management (IPM) Principles:**
+
+1.  **Monitoring:** Regularly inspect almond trees, especially the undersides of leaves, for the presence of mites and their eggs. Early detection is crucial.
+2.  **Cultural Practices:**
+    *   Ensure proper irrigation to avoid water stress, as stressed trees are more susceptible to mite infestations.
+    *   Maintain good orchard hygiene by removing weeds, which can host mites.
+    *   Pruning to improve air circulation within the canopy can help reduce mite populations.
+3.  **Biological Control:**
+    *   Conserve and encourage natural predators such as predatory mites (e.g., *Amblyseius* species), lacewings, and lady beetles. Avoid using broad-spectrum insecticides that can harm these beneficial insects.
+
+**II. Chemical Control (Acaricides):**
+
+When mite populations reach damaging levels, chemical intervention may be necessary. Always rotate acaricides with different modes of action to prevent the development of resistance. Ensure thorough coverage of the foliage, especially the undersides of leaves.
+
+**Recommended CIBRC Approved Acaricides for Mite Control in Almond:**
+
+*   **For Red Spider Mite and Rust Mite:**
+    *   **Spiromesifen 22.9% SC:** Apply at a rate of 0.5 - 0.75 ml per litre of water (or 200 - 300 ml per acre in 400-500 litres of water). This acaricide is effective against all developmental stages of mites and has translaminar action.
+    *   **Fenpyroximate 5% EC:** Apply at a rate of 0.5 ml per litre of water (or 250 - 300 ml per acre in 400-500 litres of water). It provides quick knockdown and is effective against various mite species.
+    *   **Propargite 57% EC:** Apply at a rate of 1.0 - 1.5 ml per litre of water (or 500 - 750 ml per acre in 400-500 litres of water). It is a contact acaricide with good residual activity.
+    *   **Abamectin 1.9% EC:** Apply at a rate of 0.3 - 0.5 ml per litre of water (or 150 - 250 ml per acre in 400-500 litres of water). It has translaminar activity and is effective against spider mites.
+    *   **Wettable Sulphur 80% WP:** Apply at a rate of 2.0 - 3.0 g per litre of water (or 1.0 - 1.5 kg per acre in 400-500 litres of water). Sulphur is particularly effective against rust mites and also provides fungicidal benefits. *Caution: Avoid applying sulphur when temperatures are above 30°C, as it can cause phytotoxicity.*
+
+**Important Considerations:**
+
+*   **Rotation:** Always rotate between different classes of acaricides to prevent resistance development. Do not use the same chemical repeatedly.
+*   **Timing:** Apply acaricides when mite populations are building up, before they cause severe damage. Follow label instructions regarding pre-harvest intervals (PHI).
+*   **Coverage:** Ensure complete and uniform spray coverage, especially on the undersides of leaves where mites typically reside.
+*   **Safety:** Always wear appropriate personal protective equipment (PPE) and follow all safety instructions and precautions mentioned on the product label.
+*   **Water Volume:** For effective coverage, use adequate water volume, typically 400-500 litres per acre, depending on tree size and canopy density.
