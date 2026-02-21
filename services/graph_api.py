@@ -3,6 +3,16 @@
 import httpx
 from services.config import Config
 
+# Shared httpx client with connection pooling (avoids TCP/TLS handshake per call)
+_http_client: httpx.AsyncClient | None = None
+
+
+def _get_http_client() -> httpx.AsyncClient:
+    global _http_client
+    if _http_client is None or _http_client.is_closed:
+        _http_client = httpx.AsyncClient(timeout=httpx.Timeout(30.0))
+    return _http_client
+
 
 class GraphApi:
     @staticmethod
@@ -23,8 +33,8 @@ class GraphApi:
         url = f"{Config.graph_api_url}/{sender_phone_number_id}/messages"
         headers = {"Authorization": f"Bearer {Config.access_token}"}
 
-        async with httpx.AsyncClient(timeout=httpx.Timeout(30.0)) as client:
-            response = await client.post(url, json=body, headers=headers)
+        client = _get_http_client()
+        response = await client.post(url, json=body, headers=headers)
 
         # --- DEBUG: print Meta error response on 4xx/5xx (without changing behavior) ---
         if not response.is_success:
@@ -261,16 +271,16 @@ class GraphApi:
     async def get_media_url(media_id):
         url = f"{Config.graph_api_url}/{media_id}"
         headers = {"Authorization": f"Bearer {Config.access_token}"}
-        async with httpx.AsyncClient(timeout=httpx.Timeout(30.0)) as client:
-            response = await client.get(url, headers=headers)
+        client = _get_http_client()
+        response = await client.get(url, headers=headers)
         response.raise_for_status()
         return response.json()
 
     @staticmethod
     async def download_media(url):
         headers = {"Authorization": f"Bearer {Config.access_token}"}
-        async with httpx.AsyncClient(timeout=httpx.Timeout(60.0)) as client:
-            response = await client.get(url, headers=headers)
+        client = _get_http_client()
+        response = await client.get(url, headers=headers, timeout=httpx.Timeout(60.0))
         response.raise_for_status()
         return response.content
 

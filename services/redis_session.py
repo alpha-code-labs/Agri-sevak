@@ -1,3 +1,4 @@
+import asyncio
 import json
 import os
 import uuid
@@ -162,9 +163,8 @@ async def delete_session(user_id):
 
 async def dump_session(user_id, failed=False):
     """
-    Keeps same behavior: writes JSON to Config.sessions_dir.
-    File I/O is still blocking; we keep it identical here.
-    We'll convert this to aiofiles later if you want, but it's not required for correctness.
+    Writes session JSON to Config.sessions_dir.
+    File I/O runs in a worker thread to avoid blocking the event loop.
     """
     session = await get_session(user_id)
     if not session:
@@ -173,13 +173,15 @@ async def dump_session(user_id, failed=False):
     session_id = session.get("sessionId") or "unknown"
 
     sessions_dir = Config.sessions_dir
-    os.makedirs(sessions_dir, exist_ok=True)
-
     suffix = "_failed" if failed else ""
     path = os.path.join(sessions_dir, f"{user_id}_{session_id}{suffix}.json")
 
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(session, f, ensure_ascii=True, indent=2)
+    def _write():
+        os.makedirs(sessions_dir, exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(session, f, ensure_ascii=True, indent=2)
+
+    await asyncio.to_thread(_write)
 
 
 async def append_advice_response(user_id, response_text):

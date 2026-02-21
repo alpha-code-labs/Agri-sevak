@@ -1538,11 +1538,20 @@ async def _ensure_session_id(user_id, session):
     return session_id
 
 
-def _load_varieties_records(crop):
-    path = os.path.join(Config.data_dir, "Varieties and Sowing Time.json")
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+# In-memory cache for Varieties and Sowing Time JSON (850KB, never changes at runtime)
+_varieties_cache = {"data": None}
 
+
+def _get_varieties_data():
+    if _varieties_cache["data"] is None:
+        path = os.path.join(Config.data_dir, "Varieties and Sowing Time.json")
+        with open(path, "r", encoding="utf-8") as f:
+            _varieties_cache["data"] = json.load(f)
+    return _varieties_cache["data"]
+
+
+def _load_varieties_records(crop):
+    data = _get_varieties_data()
     records = data.get("records", [])
     return [
         record for record in records

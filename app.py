@@ -49,8 +49,12 @@ async def lifespan(app: FastAPI):
     try:
         logger.info("Starting initialization...")
         Config.check_env_variables()
-        # If Config uses os.environ['KEY'] and it's missing on Azure,
-        # the app crashes here.
+        # Warm up RAG cache (ChromaDB connection + crop metadata) so first request is fast
+        try:
+            ok = await warm_rag_cache()
+            logger.info("RAG cache warmup: %s", "OK" if ok else "SKIPPED (collection not ready)")
+        except Exception as e:
+            logger.warning("RAG cache warmup failed (non-fatal): %s", e)
         yield
     except Exception as e:
         logger.error(f"CRITICAL CRASH DURING LIFESPAN: {str(e)}", exc_info=True)
